@@ -17,6 +17,7 @@ namespace Aksaty.Services.Api.Controllers
         private readonly UserManager<IdentityUser> _userManager;
         private readonly IUserService _userService;
         private readonly ITanentAppService _tanentService;
+        private readonly ITanentAppService _tanentService2;
 
         public AccountController2(
             SignInManager<IdentityUser> signInManager,
@@ -74,8 +75,123 @@ namespace Aksaty.Services.Api.Controllers
         }
 
         [HttpPost]
+        [Route("register")]
+        public async Task<ActionResult> Register3(UserRegisterViewModel viewModel)
+        {
+            if (!ModelState.IsValid) return CustomResponse(ModelState);
+
+            if (string.IsNullOrEmpty(viewModel.Email) && string.IsNullOrEmpty(viewModel.UserName)) return BadRequest("Email or mobile are required.");
+
+            var user = new IdentityUser();
+
+            if (string.IsNullOrEmpty(viewModel.UserName))
+            {
+                user.UserName = viewModel.Email.ToLower().Trim();
+                user.Email = viewModel.Email.ToLower().Trim();
+                user.EmailConfirmed = true;
+            }
+            else
+            {
+                user.UserName = viewModel.UserName.ToLower().Trim();
+            }
+
+
+            var result = await _userManager.CreateAsync(user, viewModel.Password);
+
+            if (result.Succeeded)
+            {
+                var tanentResult = await _tanentService.AddUpdate(new TanentViewModel(viewModel.CompanyName, user.Id));
+                if (tanentResult.IsValid)
+                {
+                    await _userManager.AddClaimAsync(user, new System.Security.Claims.Claim("TanentId", (await _tanentService.GetByUserId(user.Id)).Id.ToString()));
+                }
+                var token = await _userService.GetFullJwt(user);
+                return CustomResponse(new UserViewModel(user.Id, user.Email, user.UserName, token, viewModel.CompanyName));
+            }
+
+            foreach (var error in result.Errors)
+            {
+                AddError(error.Description);
+            }
+
+            return CustomResponse();
+        }
+
+        [HttpPost]
         [Route("login")]
         public async Task<IActionResult> Login(UserLogInViewModel loginUser)
+        {
+            if (!ModelState.IsValid) return CustomResponse(ModelState);
+
+            var result = await _signInManager.PasswordSignInAsync(loginUser.Email, loginUser.Password, false, true);
+
+            if (result.Succeeded)
+            {
+                var user = await _userService.GetUserByEmailOrUserName(loginUser.Email);
+                return CustomResponse(user);
+            }
+
+            if (result.IsLockedOut)
+            {
+                AddError("This user is temporarily blocked");
+                return CustomResponse();
+            }
+
+            AddError("Incorrect user or password");
+            return CustomResponse();
+        }
+
+        [HttpPost]
+        [Route("login")]
+        public async Task<IActionResult> Log5346346in(UserLogInViewModel loginUser)
+        {
+            if (!ModelState.IsValid) return CustomResponse(ModelState);
+
+            var result = await _signInManager.PasswordSignInAsync(loginUser.Email, loginUser.Password, false, true);
+
+            if (result.Succeeded)
+            {
+                var user = await _userService.GetUserByEmailOrUserName(loginUser.Email);
+                return CustomResponse(user);
+            }
+
+            if (result.IsLockedOut)
+            {
+                AddError("This user is temporarily blocked");
+                return CustomResponse();
+            }
+
+            AddError("Incorrect user or password");
+            return CustomResponse();
+        }
+
+        [HttpPost]
+        [Route("login")]
+        public async Task<IActionResult> L3123213ogin(UserLogInViewModel loginUser)
+        {
+            if (!ModelState.IsValid) return CustomResponse(ModelState);
+
+            var result = await _signInManager.PasswordSignInAsync(loginUser.Email, loginUser.Password, false, true);
+
+            if (result.Succeeded)
+            {
+                var user = await _userService.GetUserByEmailOrUserName(loginUser.Email);
+                return CustomResponse(user);
+            }
+
+            if (result.IsLockedOut)
+            {
+                AddError("This user is temporarily blocked");
+                return CustomResponse();
+            }
+
+            AddError("Incorrect user or password");
+            return CustomResponse();
+        }
+
+        [HttpPost]
+        [Route("login")]
+        public async Task<IActionResult> Logi43n(UserLogInViewModel loginUser)
         {
             if (!ModelState.IsValid) return CustomResponse(ModelState);
 
