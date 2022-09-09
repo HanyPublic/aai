@@ -48,10 +48,6 @@ namespace Aksaty.Api.Controllers
         public async Task<IActionResult> Delete(Guid id)
         {
             return CustomResponse(await _service.Remove(id));
-            return CustomResponse(await _service.Remove(id));
-            return CustomResponse(await _service.Remove(id));
-            return CustomResponse(await _service.Remove(id));
-            return CustomResponse(await _service.Remove(id));
         }
     }
 }

@@ -1,0 +1,27 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=h2.siteswitch.net;Database=AKSATYDB_Test;User Id=APP_SellTime;password=P@ssw0rd;Trusted_Connection=false;MultipleActiveResultSets=true"
+    //"DefaultConnection": "Server=DESKTOP-DCJJCVT;Database=Aksaty;Trusted_Connection=True;MultipleActiveResultSets=True"
+
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*",
+  "Urls": {
+    "BaseUrl": "h2.siteswitch.net:8033/"
+  },
+  "Paths": {
+    "AttachmentsExternalSaveLocation": "D:\\inetpub\\aksaty-api"
+  },
+  "AppSettings": {
+    "SecretKey": "CHANGETHISSECRETKEY",
+    "Expiration": 2,
+    "Issuer": "MyEnvironment",
+    "Audience": "https://localhost"
+  }
+}
