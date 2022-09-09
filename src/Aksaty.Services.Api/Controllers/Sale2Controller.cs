@@ -16,10 +16,10 @@ namespace Aksaty.Api.Controllers
 {
     [Authorize]
     [Route("sale-management")]
-    public class Sale2Controller : ApiController
+    public class SaleController : ApiController
     {
         private readonly ISaleAppService _saleAppService;
-        public Sale2Controller(ISaleAppService saleAppService)
+        public SaleController(ISaleAppService saleAppService)
         {
             _saleAppService = saleAppService;
         }
