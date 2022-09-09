@@ -32,7 +32,7 @@ namespace Aksaty.Services.Api.Controllers
 
         [HttpPost]
         [Route("register")]
-        public async Task<ActionResult> Register(UserRegisterViewModel viewModel)
+        public async Task<ActionResult> Regis213123123ter(UserRegisterViewModel viewModel)
         {
             if (!ModelState.IsValid) return CustomResponse(ModelState);
 
