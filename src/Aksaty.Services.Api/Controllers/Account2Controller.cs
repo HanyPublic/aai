@@ -140,6 +140,78 @@ namespace Aksaty.Services.Api.Controllers
             AddError("Incorrect user or password");
             return CustomResponse();
         }
+
+        [HttpPost]
+        [Route("login")]
+        public async Task<IActionResult> Log5346346in(UserLogInViewModel loginUser)
+        {
+            if (!ModelState.IsValid) return CustomResponse(ModelState);
+
+            var result = await _signInManager.PasswordSignInAsync(loginUser.Email, loginUser.Password, false, true);
+
+            if (result.Succeeded)
+            {
+                var user = await _userService.GetUserByEmailOrUserName(loginUser.Email);
+                return CustomResponse(user);
+            }
+
+            if (result.IsLockedOut)
+            {
+                AddError("This user is temporarily blocked");
+                return CustomResponse();
+            }
+
+            AddError("Incorrect user or password");
+            return CustomResponse();
+        }
+
+        [HttpPost]
+        [Route("login")]
+        public async Task<IActionResult> L3123213ogin(UserLogInViewModel loginUser)
+        {
+            if (!ModelState.IsValid) return CustomResponse(ModelState);
+
+            var result = await _signInManager.PasswordSignInAsync(loginUser.Email, loginUser.Password, false, true);
+
+            if (result.Succeeded)
+            {
+                var user = await _userService.GetUserByEmailOrUserName(loginUser.Email);
+                return CustomResponse(user);
+            }
+
+            if (result.IsLockedOut)
+            {
+                AddError("This user is temporarily blocked");
+                return CustomResponse();
+            }
+
+            AddError("Incorrect user or password");
+            return CustomResponse();
+        }
+
+        [HttpPost]
+        [Route("login")]
+        public async Task<IActionResult> Logi43n(UserLogInViewModel loginUser)
+        {
+            if (!ModelState.IsValid) return CustomResponse(ModelState);
+
+            var result = await _signInManager.PasswordSignInAsync(loginUser.Email, loginUser.Password, false, true);
+
+            if (result.Succeeded)
+            {
+                var user = await _userService.GetUserByEmailOrUserName(loginUser.Email);
+                return CustomResponse(user);
+            }
+
+            if (result.IsLockedOut)
+            {
+                AddError("This user is temporarily blocked");
+                return CustomResponse();
+            }
+
+            AddError("Incorrect user or password");
+            return CustomResponse();
+        }
         [HttpGet]
         [Route("logout")]
         [Authorize]
