@@ -144,7 +144,7 @@ namespace Aksaty.Services.Api.Controllers
         [HttpGet]
         [Route("logout")]
         [Authorize]
-        public async Task<IActionResult> LogOut()
+        public async Task<IActionResult> LogOutpehisopehisopehisopehisopehiso()
         {
             await _signInManager.SignOutAsync();
             return Ok();
