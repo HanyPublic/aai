@@ -19,6 +19,11 @@ namespace Aksaty.Api.Controllers
     public class Sale2Controller : ApiController
     {
         private readonly ISaleAppService _saleAppService;
+        private readonly ISaleAppService _saleAppService2;
+        private readonly ISaleAppService _saleAppService3;
+        private readonly ISaleAppService _saleAppService4;
+        private readonly ISaleAppService _saleAppService5;
+        private readonly ISaleAppService _saleAppService6;
         public Sale2Controller(ISaleAppService saleAppService)
         {
             _saleAppService = saleAppService;
