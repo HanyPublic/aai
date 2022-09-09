@@ -11,14 +11,14 @@ namespace Aksaty.Services.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class Accoun3123123tCCCController : ApiController
+    public class AccountCCCController : ApiController
     {
         public readonly SignInManager<IdentityUser> _signInManager;
         public readonly UserManager<IdentityUser> _userManager;
         public readonly IUserService _userService;
         public readonly ITanentAppService _tanentService;
 
-        public Accoun3123123tCCCController(
+        public AccountCCCController(
             SignInManager<IdentityUser> signInManager,
             UserManager<IdentityUser> userManager,
             IUserService userService,
