@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NetDevPack" Version="1.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aksaty.Domain.Sales\Aksaty.Domain.Sales.csproj" />
+    <ProjectReference Include="..\Aksaty.Infra.CrossCutting.Util\Aksaty.Infra.CrossCutting.Util.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Events\" />
+    <Folder Include="Handlers\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Models\" />
+    <Folder Include="Queries\" />
+  </ItemGroup>
+
+</Project>

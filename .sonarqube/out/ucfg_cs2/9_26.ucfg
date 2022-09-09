@@ -1,0 +1,32 @@
+
+IAksaty.Application.ViewModels.GetAllSalesViewModel.GetAllSalesViewModel()~
+tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetAllSalesViewModel.cs (%"0*ê
+
+0~
+tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetAllSalesViewModel.cs (≠
+™
+~
+tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetAllSalesViewModel.cs (C
+%0System.Nullable<T>"NAksaty.Application.ViewModels.GetAllSalesViewModel.IncludeSaleInstallments.set*64
+2Aksaty.Application.ViewModels.GetAllSalesViewModel*
+""•
+¢
+~
+tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetAllSalesViewModel.cs (;
+%1System.Nullable<T>"FAksaty.Application.ViewModels.GetAllSalesViewModel.IncludeProducts.set*64
+2Aksaty.Application.ViewModels.GetAllSalesViewModel*
+""¶
+£
+~
+tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetAllSalesViewModel.cs (<
+%2System.Nullable<T>"GAksaty.Application.ViewModels.GetAllSalesViewModel.IncludeCustomers.set*64
+2Aksaty.Application.ViewModels.GetAllSalesViewModel*
+""r
+p
+
+%3void"4Aksaty.Infra.CrossCutting.Util.BaseQuery.BaseQuery()*,*
+(Aksaty.Infra.CrossCutting.Util.BaseQuery"ï
+~
+tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetAllSalesViewModel.cs (
+implicit returnB64
+2Aksaty.Application.ViewModels.GetAllSalesViewModel

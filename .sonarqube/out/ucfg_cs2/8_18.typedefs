@@ -1,0 +1,14 @@
+‘
+
++Aksaty.Infra.Data.Repository.SaleRepositoryobject(Aksaty.Domain.Interfaces.ISaleRepositoryž
+7SaleRepository(Aksaty.Infra.Data.Context.AksatyContext)cAksaty.Infra.Data.Repository.SaleRepository.SaleRepository(Aksaty.Infra.Data.Context.AksatyContext)l
+Add(Aksaty.Domain.Models.Sale)JAksaty.Infra.Data.Repository.SaleRepository.Add(Aksaty.Domain.Models.Sale)r
+!Create(Aksaty.Domain.Models.Sale)MAksaty.Infra.Data.Repository.SaleRepository.Create(Aksaty.Domain.Models.Sale)Œ
+.GetAll(Aksaty.Domain.Queries.GetAllSalesQuery)ZAksaty.Infra.Data.Repository.SaleRepository.GetAll(Aksaty.Domain.Queries.GetAllSalesQuery)|
+&GetById(System.Guid, bool, bool, bool)RAksaty.Infra.Data.Repository.SaleRepository.GetById(System.Guid, bool, bool, bool)X
+GetById(System.Guid)@Aksaty.Infra.Data.Repository.SaleRepository.GetById(System.Guid)r
+!Remove(Aksaty.Domain.Models.Sale)MAksaty.Infra.Data.Repository.SaleRepository.Remove(Aksaty.Domain.Models.Sale)r
+!Update(Aksaty.Domain.Models.Sale)MAksaty.Infra.Data.Repository.SaleRepository.Update(Aksaty.Domain.Models.Sale)B
+	Dispose()5Aksaty.Infra.Data.Repository.SaleRepository.Dispose()L
+UnitOfWork.get:Aksaty.Infra.Data.Repository.SaleRepository.UnitOfWork.getL
+UnitOfWork.set:Aksaty.Infra.Data.Repository.SaleRepository.UnitOfWork.set

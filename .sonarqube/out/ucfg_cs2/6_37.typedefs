@@ -1,0 +1,7 @@
+Ä
+%Aksaty.Domain.Queries.GetProductQueryobjectMediatR.IRequest<TResponse>n
+"GetProductQuery(System.Guid, bool)HAksaty.Domain.Queries.GetProductQuery.GetProductQuery(System.Guid, bool)6
+Id.get,Aksaty.Domain.Queries.GetProductQuery.Id.get6
+Id.set,Aksaty.Domain.Queries.GetProductQuery.Id.setJ
+IncludeSales.get6Aksaty.Domain.Queries.GetProductQuery.IncludeSales.getJ
+IncludeSales.set6Aksaty.Domain.Queries.GetProductQuery.IncludeSales.set

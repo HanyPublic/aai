@@ -1,0 +1,497 @@
+
+oAksaty.Services.Api.Controllers.AccountController.Register(Aksaty.Application.ViewModels.UserRegisterViewModel)n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs#( #(0"17*¶
+0n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs% %(#ö
+ó
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs% %(@
+%0:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary"6Microsoft.AspNetCore.Mvc.ControllerBase.ModelState.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseã
+à
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs% %(#
+
+%1bool"FMicrosoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary.IsValid.get*B
+@
+%0:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary*
+1
+2*∆
+1n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs%, %(Eö
+ó
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs%; %(E@
+%2:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary"6Microsoft.AspNetCore.Mvc.ControllerBase.ModelState.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseë
+é
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs%, %(F+
+%3%Microsoft.AspNetCore.Mvc.ActionResult"xAksaty.Services.Api.Controllers.ApiController.CustomResponse(Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary)*1/
+-Aksaty.Services.Api.Controllers.ApiController*B
+@
+%2:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary"ü
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs%% %(G-
++
+%3%Microsoft.AspNetCore.Mvc.ActionResult*ª
+2n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs' '(4Ä
+˝
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs'% '(4
+%4string"9Aksaty.Application.ViewModels.UserBaseViewModel.Email.get*B
+@
+	viewModel3Aksaty.Application.ViewModels.UserRegisterViewModel∫
+∑
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs' '(5
+
+%5bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%4string*
+3
+4*æ
+3n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs'9 '(`É
+Ä
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs'N '(`
+%6string"<Aksaty.Application.ViewModels.UserBaseViewModel.UserName.get*B
+@
+	viewModel3Aksaty.Application.ViewModels.UserRegisterViewModel∫
+∑
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs'9 '(a
+
+%7bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%6string*
+5
+4*Ô
+5o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs'j '(îÀ»
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs'j '(ï5
+%8/Microsoft.AspNetCore.Mvc.BadRequestObjectResult":Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*!
+Email or mobile are required.2BadRequest(object)"™
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs'c '(ñ7
+5
+%8/Microsoft.AspNetCore.Mvc.BadRequestObjectResult*Î	
+4n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs) +(7—Œ
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs) )()0
+%9*Microsoft.AspNetCore.Identity.IdentityUser"*Microsoft.AspNetCore.Identity.IdentityUserÔ
+Ï
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs) )('
+%10void"9Microsoft.AspNetCore.Identity.IdentityUser.IdentityUser()*2
+0
+%9*Microsoft.AspNetCore.Identity.IdentityUser·
+ﬁ
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs) )()2
+user*Microsoft.AspNetCore.Identity.IdentityUser"__id*2
+0
+%9*Microsoft.AspNetCore.Identity.IdentityUserÑ
+Å
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs+% +(7
+%11string"<Aksaty.Application.ViewModels.UserBaseViewModel.UserName.get*B
+@
+	viewModel3Aksaty.Application.ViewModels.UserRegisterViewModelº
+π
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs+ +(8
+%12bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%11string*
+6
+7*‡
+6n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs- /(*Å
+˛
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs-  -(/
+%13string"9Aksaty.Application.ViewModels.UserBaseViewModel.Email.get*B
+@
+	viewModel3Aksaty.Application.ViewModels.UserRegisterViewModel•
+¢
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs-  -(9
+%14string"string.ToLower()*
+
+%13string¢
+ü
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs-  -(@
+%15string"string.Trim()*
+
+%14stringñì
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs- -(@
+%16string"=Microsoft.AspNetCore.Identity.IdentityUser<TKey>.UserName.set*4
+2
+user*Microsoft.AspNetCore.Identity.IdentityUser*
+
+%15string2UserName.setÅ
+˛
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs. .(,
+%17string"9Aksaty.Application.ViewModels.UserBaseViewModel.Email.get*B
+@
+	viewModel3Aksaty.Application.ViewModels.UserRegisterViewModel•
+¢
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs. .(6
+%18string"string.ToLower()*
+
+%17string¢
+ü
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs. .(=
+%19string"string.Trim()*
+
+%18stringêç
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs. .(=
+%20string":Microsoft.AspNetCore.Identity.IdentityUser<TKey>.Email.set*4
+2
+user*Microsoft.AspNetCore.Identity.IdentityUser*
+
+%19string2	Email.setóî
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs/ /(*
+%21bool"CMicrosoft.AspNetCore.Identity.IdentityUser<TKey>.EmailConfirmed.set*4
+2
+user*Microsoft.AspNetCore.Identity.IdentityUser*
+""2EmailConfirmed.set*
+8*Â
+7n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs3 3(CÑ
+Å
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs3  3(2
+%22string"<Aksaty.Application.ViewModels.UserBaseViewModel.UserName.get*B
+@
+	viewModel3Aksaty.Application.ViewModels.UserRegisterViewModel•
+¢
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs3  3(<
+%23string"string.ToLower()*
+
+%22string¢
+ü
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs3  3(C
+%24string"string.Trim()*
+
+%23stringñì
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs3 3(C
+%25string"=Microsoft.AspNetCore.Identity.IdentityUser<TKey>.UserName.set*4
+2
+user*Microsoft.AspNetCore.Identity.IdentityUser*
+
+%24string2UserName.set*
+8*˙
+8n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs7 9( ≠
+™
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs7 7(+7
+%260Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*y*w3
+1Aksaty.Services.Api.Controllers.AccountController"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>à
+Ö
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs7> 7(P
+%27string"@Aksaty.Application.ViewModels.UserRegisterViewModel.Password.get*B
+@
+	viewModel3Aksaty.Application.ViewModels.UserRegisterViewModelãà
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs7 7(Q+
+%28$System.Threading.Tasks.Task<TResult>"KMicrosoft.AspNetCore.Identity.UserManager<TUser>.CreateAsync(TUser, string)*9
+7
+%260Microsoft.AspNetCore.Identity.UserManager<TUser>*4
+2
+user*Microsoft.AspNetCore.Identity.IdentityUser*
+
+%27string2CreateAsync(TUser, string)π
+∂
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs7 7(Q6
+result,Microsoft.AspNetCore.Identity.IdentityResult"__id*
+""ˆ
+Û
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs9 9( 
+%29bool":Microsoft.AspNetCore.Identity.IdentityResult.Succeeded.get*8
+6
+result,Microsoft.AspNetCore.Identity.IdentityResult*
+9
+10*¿
+9n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs; <((≠
+™
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs;) ;(76
+%30/Aksaty.Application.Interfaces.ITanentAppService"__id*z*x3
+1Aksaty.Services.Api.Controllers.AccountController"A
+_tanentService/Aksaty.Application.Interfaces.ITanentAppServiceã
+à
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs;V ;(k
+%31string"CAksaty.Application.ViewModels.UserRegisterViewModel.CompanyName.get*B
+@
+	viewModel3Aksaty.Application.ViewModels.UserRegisterViewModel˘ˆ
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs;m ;(t
+%32string"7Microsoft.AspNetCore.Identity.IdentityUser<TKey>.Id.get*4
+2
+user*Microsoft.AspNetCore.Identity.IdentityUser2Id.getÿ’
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs;B ;(u4
+%33-Aksaty.Application.ViewModels.TanentViewModel"-Aksaty.Application.ViewModels.TanentViewModel©
+¶
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs;F ;(U
+%34void"MAksaty.Application.ViewModels.TanentViewModel.TanentViewModel(string, string)*6
+4
+%33-Aksaty.Application.ViewModels.TanentViewModel*
+
+%31string*
+
+%32stringºπ
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs;) ;(v+
+%35$System.Threading.Tasks.Task<TResult>"kAksaty.Application.Interfaces.ITanentAppService.AddUpdate(Aksaty.Application.ViewModels.AddTanentViewModel)*8
+6
+%30/Aksaty.Application.Interfaces.ITanentAppService*6
+4
+%33-Aksaty.Application.ViewModels.TanentViewModel2;AddUpdate(Aksaty.Application.ViewModels.AddTanentViewModel)º
+π
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs; ;(v9
+tanentResult)FluentValidation.Results.ValidationResult"__id*
+""Å˛
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs< <((
+%36bool"5FluentValidation.Results.ValidationResult.IsValid.get*;
+9
+tanentResult)FluentValidation.Results.ValidationResult2IsValid.get*
+11
+12*¿
+11o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs> >(ë≠
+™
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs> >(&7
+%370Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*y*w3
+1Aksaty.Services.Api.Controllers.AccountController"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>≠
+™
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs>o >(}6
+%38/Aksaty.Application.Interfaces.ITanentAppService"__id*z*x3
+1Aksaty.Services.Api.Controllers.AccountController"A
+_tanentService/Aksaty.Application.Interfaces.ITanentAppService˚¯
+p
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs>ä >(ë
+%39string"7Microsoft.AspNetCore.Identity.IdentityUser<TKey>.Id.get*4
+2
+user*Microsoft.AspNetCore.Identity.IdentityUser2Id.get∆√
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs>o >(í+
+%40$System.Threading.Tasks.Task<TResult>"CAksaty.Application.Interfaces.ITanentAppService.GetByUserId(string)*8
+6
+%38/Aksaty.Application.Interfaces.ITanentAppService*
+
+%39string2GetByUserId(string)Õ
+ 
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs>h >(ñ
+%41System.Nullable<T>"4Aksaty.Application.ViewModels.TanentViewModel.Id.get*
+""ø
+º
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs>h >(°
+%42string"System.Nullable<T>.ToString()*
+
+%41System.Nullable<T>∑¥
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs>; >(¢#
+%43System.Security.Claims.Claim"System.Security.Claims.Claim˙
+˜
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs>? >([
+%44void"2System.Security.Claims.Claim.Claim(string, string)*%
+#
+%43System.Security.Claims.Claim*
+
+TanentId*
+
+%42string“œ
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs> >(£+
+%45$System.Threading.Tasks.Task<TResult>"cMicrosoft.AspNetCore.Identity.UserManager<TUser>.AddClaimAsync(TUser, System.Security.Claims.Claim)*9
+7
+%370Microsoft.AspNetCore.Identity.UserManager<TUser>*4
+2
+user*Microsoft.AspNetCore.Identity.IdentityUser*%
+#
+%43System.Security.Claims.Claim22AddClaimAsync(TUser, System.Security.Claims.Claim)*
+12*™
+12n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs@ A(x°
+û
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs@" @(.1
+%46*Aksaty.Application.Interfaces.IUserService"__id*s*q3
+1Aksaty.Services.Api.Controllers.AccountController":
+_userService*Aksaty.Application.Interfaces.IUserService¶£
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs@" @(?+
+%47$System.Threading.Tasks.Task<TResult>"aAksaty.Application.Interfaces.IUserService.GetFullJwt(Microsoft.AspNetCore.Identity.IdentityUser)*3
+1
+%46*Aksaty.Application.Interfaces.IUserService*4
+2
+user*Microsoft.AspNetCore.Identity.IdentityUser26GetFullJwt(Microsoft.AspNetCore.Identity.IdentityUser)í
+è
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs@ @(?
+tokenstring"__id*
+""˘ˆ
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csA8 A(?
+%48string"7Microsoft.AspNetCore.Identity.IdentityUser<TKey>.Id.get*4
+2
+user*Microsoft.AspNetCore.Identity.IdentityUser2Id.getˇ¸
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csAA A(K
+%49string":Microsoft.AspNetCore.Identity.IdentityUser<TKey>.Email.get*4
+2
+user*Microsoft.AspNetCore.Identity.IdentityUser2	Email.getÖÇ
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csAM A(Z
+%50string"=Microsoft.AspNetCore.Identity.IdentityUser<TKey>.UserName.get*4
+2
+user*Microsoft.AspNetCore.Identity.IdentityUser2UserName.getã
+à
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csAc A(x
+%51string"CAksaty.Application.ViewModels.UserRegisterViewModel.CompanyName.get*B
+@
+	viewModel3Aksaty.Application.ViewModels.UserRegisterViewModel‘—
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csA& A(y2
+%52+Aksaty.Application.ViewModels.UserViewModel"+Aksaty.Application.ViewModels.UserViewModel
+Ì
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csA* A(7
+%53void"aAksaty.Application.ViewModels.UserViewModel.UserViewModel(string, string, string, string, string)*4
+2
+%52+Aksaty.Application.ViewModels.UserViewModel*
+
+%48string*
+
+%49string*
+
+%50string*
+
+tokenstring*
+
+%51string–
+Õ
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csA A(z,
+%54%Microsoft.AspNetCore.Mvc.ActionResult"DAksaty.Services.Api.Controllers.ApiController.CustomResponse(object)*1/
+-Aksaty.Services.Api.Controllers.ApiController*4
+2
+%52+Aksaty.Application.ViewModels.UserViewModel"†
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csA A({.
+,
+%54%Microsoft.AspNetCore.Mvc.ActionResult*ï
+10n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csD" D(/ò
+ï
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csD" D(/0
+%55)System.Collections.Generic.IEnumerable<T>"7Microsoft.AspNetCore.Identity.IdentityResult.Errors.get*8
+6
+result,Microsoft.AspNetCore.Identity.IdentityResult*
+13*~
+13n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csJ	 J(	*
+14
+15*˚
+14n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csF F(*˜
+Ù
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csF F(*
+%56string";Microsoft.AspNetCore.Identity.IdentityError.Description.get*6
+4
+error+Microsoft.AspNetCore.Identity.IdentityErrorÑ
+Å
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csF F(+
+%57void">Aksaty.Services.Api.Controllers.ApiController.AddError(string)*1/
+-Aksaty.Services.Api.Controllers.ApiController*
+
+%56string*
+13*º
+15n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csI I(#¢
+ü
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csI I(#,
+%58%Microsoft.AspNetCore.Mvc.ActionResult"DAksaty.Services.Api.Controllers.ApiController.CustomResponse(object)*1/
+-Aksaty.Services.Api.Controllers.ApiController*
+"""†
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csI I($.
+,
+%58%Microsoft.AspNetCore.Mvc.ActionResult*¸
+16n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csJ	 J(	"Ö
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.csJ J(	
+implicit return*¢
+17n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs#Q #(QŸ
+÷
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs#( #(0V
+@
+	viewModel3Aksaty.Application.ViewModels.UserRegisterViewModel"
+Passwordstring"__entrypoint‡
+›
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs#( #(0]
+@
+	viewModel3Aksaty.Application.ViewModels.UserRegisterViewModel"
+ConfirmPasswordstring"__entrypoint‹
+Ÿ
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs#( #(0Y
+@
+	viewModel3Aksaty.Application.ViewModels.UserRegisterViewModel"
+CompanyNamestring"__entrypointà
+Ö
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs#( #(0
+%59"__entrypoint*
+0:@
+	viewModel3Aksaty.Application.ViewModels.UserRegisterViewModelB53
+1Aksaty.Services.Api.Controllers.AccountController

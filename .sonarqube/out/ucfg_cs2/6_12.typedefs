@@ -1,0 +1,3 @@
+ú
+0Aksaty.Domain.Commands.AddSaleInstallmentCommand-Aksaty.Domain.Commands.SaleInstallmentCommand0Aksaty.Infra.CrossCutting.Util.BaseEntityCommandNetDevPack.Messaging.CommandNetDevPack.Messaging.Messageobject 
+uAddSaleInstallmentCommand(System.Guid, decimal, System.DateTime, string, string, string, System.DateTime, bool, bool)¦Aksaty.Domain.Commands.AddSaleInstallmentCommand.AddSaleInstallmentCommand(System.Guid, decimal, System.DateTime, string, string, string, System.DateTime, bool, bool)

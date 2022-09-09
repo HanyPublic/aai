@@ -1,0 +1,474 @@
+
+ÅAksaty.Domain.Handlers.SaleCommandHandler.Handle(Aksaty.Domain.Commands.CreateNewSaleCommand, System.Threading.CancellationToken)m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs+, +(2"0*˜
+0m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs- -("˙˜
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs- -("
+
+%0bool"5Aksaty.Domain.Commands.CreateNewSaleCommand.IsValid()*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommand2	IsValid()*
+1
+2*™
+1m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs-+ -(Cê
+ç
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs-+ -(C/
+%1)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommand"¢
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs-$ -(D1
+/
+%1)FluentValidation.Results.ValidationResult*‘,
+2m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs. 6((Í
+Á
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs/ /(
+%2System.Guid")Aksaty.Domain.Commands.SaleCommand.Id.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommand˘
+ˆ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs/, /(>
+%3System.Nullable<T>"1Aksaty.Domain.Commands.SaleCommand.CustomerId.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommandı
+Ú
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs/K /(\
+%4System.DateTime"0Aksaty.Domain.Commands.SaleCommand.StartDate.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommandÈ
+Ê
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs0 0(&
+%5string"-Aksaty.Domain.Commands.SaleCommand.Status.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommandÍ
+Á
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs00 0(>
+%6decimal"-Aksaty.Domain.Commands.SaleCommand.Amount.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommandÓ
+Î
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs0L 0(^
+%7decimal"1Aksaty.Domain.Commands.SaleCommand.PaidAmount.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommandÛ
+
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs1! 1(8
+%8decimal"6Aksaty.Domain.Commands.SaleCommand.RemainingAmount.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommandˆ
+Û
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs1R 1(p	
+%9int"=Aksaty.Domain.Commands.SaleCommand.InstallmentMonthNumber.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommandÛ
+
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs1Ñ 1(ú
+
+%10int"7Aksaty.Domain.Commands.SaleCommand.InstallmentValue.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommandÔ
+Ï
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs2 2(.
+%11decimal"1Aksaty.Domain.Commands.SaleCommand.Perecntage.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommandê
+ç
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs20 2(H)
+%12"System.Collections.Generic.List<T>"7Aksaty.Domain.Commands.SaleCommand.SaleInstallments.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommand˝
+˙
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs2J 2(]
+%13string"@Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.CreatedById.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommand˙
+˜
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs2_ 2(o
+%14string"=Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.TanentId.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommandÖ
+Ç
+n
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs2q 2(Ç
+%15System.DateTime">Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.CreatedAt.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommandˇ
+¸
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs2Ñ 2(ô
+%16bool"BAksaty.Infra.CrossCutting.Util.BaseEntityCommand.ShowOnWebsite.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommand˜
+Ù
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs3 3(
+%17bool"<Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.Deleted.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommandØ¨
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs. 4( 
+%18Aksaty.Domain.Models.Sale"Aksaty.Domain.Models.Sale€
+ÿ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs. .(
+%19void"ÙAksaty.Domain.Models.Sale.Sale(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, System.Collections.Generic.List<Aksaty.Domain.Models.SaleInstallment>, string, string, System.DateTime, bool, bool)*"
+ 
+%18Aksaty.Domain.Models.Sale*
+
+%2System.Guid*
+
+%3System.Nullable<T>*
+
+%4System.DateTime*
+
+%5string*
+
+%6decimal*
+
+%7decimal*
+
+%8decimal*
+	
+%9int*
+
+
+%10int*
+
+%11decimal*+
+)
+%12"System.Collections.Generic.List<T>*
+
+%13string*
+
+%14string*
+
+%15System.DateTime*
+
+%16bool*
+
+%17boolø
+º
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs. 4(!
+saleAksaty.Domain.Models.Sale"__id*"
+ 
+%18Aksaty.Domain.Models.Saleà
+Ö
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs6 6( )
+%20"System.Collections.Generic.List<T>"/Aksaty.Domain.Commands.SaleCommand.Products.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommand‰
+·
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs6 6((
+%21bool""object.operator !=(object, object)*
+"
+object*+
+)
+%20"System.Collections.Generic.List<T>*
+""*
+3
+4*·
+3m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs6, 6(Fà
+Ö
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs6, 6(<)
+%22"System.Collections.Generic.List<T>"/Aksaty.Domain.Commands.SaleCommand.Products.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommandŸ
+÷
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs6, 6(B
+
+%23int",System.Collections.Generic.List<T>.Count.get*+
+)
+%22"System.Collections.Generic.List<T>*
+5
+4*˝
+5m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs8 9(5¡æ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs8$ 8(=)
+%24"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>◊
+‘
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs8( 8(;
+%25void")System.Collections.Generic.List<T>.List()*+
+)
+%24"System.Collections.Generic.List<T>⁄
+◊
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs8 8(=3
+salesProducts"System.Collections.Generic.List<T>"__id*+
+)
+%24"System.Collections.Generic.List<T>à
+Ö
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs9% 9(5)
+%26"System.Collections.Generic.List<T>"/Aksaty.Domain.Commands.SaleCommand.Products.get*8
+6
+request+Aksaty.Domain.Commands.CreateNewSaleCommand*
+6*z
+6m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csI	 I(	*
+7
+8*˙
+7m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs; ;(\¡æ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs;& ;(^)
+%27"Aksaty.Domain.Models.SalesProducts""Aksaty.Domain.Models.SalesProducts‡
+›
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs;* ;(7
+%28void"2Aksaty.Domain.Models.SalesProducts.SalesProducts()*+
+)
+%27"Aksaty.Domain.Models.SalesProductsœ
+Ã
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs;H ;(O
+%29System.Guid"NetDevPack.Domain.Entity.Id.get*&
+$
+prodAksaty.Domain.Models.Product˚
+¯
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs;< ;(O
+%30System.Guid"0Aksaty.Domain.Models.SalesProducts.ProductId.set*+
+)
+%27"Aksaty.Domain.Models.SalesProducts*
+
+%29System.Guidì
+ê
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs;Q ;(\ 
+%31Aksaty.Domain.Models.Sale"+Aksaty.Domain.Models.SalesProducts.Sale.set*+
+)
+%27"Aksaty.Domain.Models.SalesProducts*#
+!
+saleAksaty.Domain.Models.SaleÛ
+
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs; ;(_
+%32void"
+__arrayAdd*5
+3
+salesProducts"System.Collections.Generic.List<T>*: *+
+)
+%27"Aksaty.Domain.Models.SalesProducts*
+6*†
+8m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs= =(2¶
+£
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs= =(2)
+%33"System.Collections.Generic.List<T>"+Aksaty.Domain.Models.Sale.SalesProducts.set*#
+!
+saleAksaty.Domain.Models.Sale*5
+3
+salesProducts"System.Collections.Generic.List<T>*
+4*Å0
+4m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs? H(:Ã
+…
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs@ @(
+%34System.Guid"NetDevPack.Domain.Entity.Id.get*#
+!
+saleAksaty.Domain.Models.Sale‹
+Ÿ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs@* @(9
+%35System.Nullable<T>"(Aksaty.Domain.Models.Sale.CustomerId.get*#
+!
+saleAksaty.Domain.Models.Saleÿ
+’
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs@F @(T
+%36System.DateTime"'Aksaty.Domain.Models.Sale.StartDate.get*#
+!
+saleAksaty.Domain.Models.SaleÃ
+…
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csA A(#
+%37string"$Aksaty.Domain.Models.Sale.Status.get*#
+!
+saleAksaty.Domain.Models.SaleÕ
+ 
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csA- A(8
+%38decimal"$Aksaty.Domain.Models.Sale.Amount.get*#
+!
+saleAksaty.Domain.Models.Sale—
+Œ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csAF A(U
+%39decimal"(Aksaty.Domain.Models.Sale.PaidAmount.get*#
+!
+saleAksaty.Domain.Models.Sale÷
+”
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csB! B(5
+%40decimal"-Aksaty.Domain.Models.Sale.RemainingAmount.get*#
+!
+saleAksaty.Domain.Models.SaleŸ
+÷
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csBO B(j
+
+%41int"4Aksaty.Domain.Models.Sale.InstallmentMonthNumber.get*#
+!
+saleAksaty.Domain.Models.Sale‘
+—
+n
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csB~ B(ì
+
+%42int".Aksaty.Domain.Models.Sale.InstallmentValue.get*#
+!
+saleAksaty.Domain.Models.Sale—
+Œ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csC C(+
+%43decimal"(Aksaty.Domain.Models.Sale.Percentage.get*#
+!
+saleAksaty.Domain.Models.Sale·
+ﬁ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csC- C(=
+%44string"9Aksaty.Infra.CrossCutting.Util.BaseEntity.CreatedById.get*#
+!
+saleAksaty.Domain.Models.Saleﬁ
+€
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csC? C(L
+%45string"6Aksaty.Infra.CrossCutting.Util.BaseEntity.TanentId.get*#
+!
+saleAksaty.Domain.Models.SaleË
+Â
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csCN C(\
+%46System.DateTime"7Aksaty.Infra.CrossCutting.Util.BaseEntity.CreatedAt.get*#
+!
+saleAksaty.Domain.Models.Sale·
+ﬁ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csC^ C(p
+%47bool";Aksaty.Infra.CrossCutting.Util.BaseEntity.ShowOnWebsite.get*#
+!
+saleAksaty.Domain.Models.Sale€
+ÿ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csD D(
+%48bool"5Aksaty.Infra.CrossCutting.Util.BaseEntity.Deleted.get*#
+!
+saleAksaty.Domain.Models.Sale«ƒ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs?  E(,
+%49%Aksaty.Domain.Events.SaleCreatedEvent"%Aksaty.Domain.Events.SaleCreatedEventì
+ê
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs?$ ?(4
+%50void"≈Aksaty.Domain.Events.SaleCreatedEvent.SaleCreatedEvent(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, string, string, System.DateTime, bool, bool)*.
+,
+%49%Aksaty.Domain.Events.SaleCreatedEvent*
+
+%34System.Guid*
+
+%35System.Nullable<T>*
+
+%36System.DateTime*
+
+%37string*
+
+%38decimal*
+
+%39decimal*
+
+%40decimal*
+
+
+%41int*
+
+
+%42int*
+
+%43decimal*
+
+%44string*
+
+%45string*
+
+%46System.DateTime*
+
+%47bool*
+
+%48boolô
+ñ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.cs? E(
+%51void"CNetDevPack.Domain.Entity.AddDomainEvent(NetDevPack.Messaging.Event)*#
+!
+saleAksaty.Domain.Models.Sale*.
+,
+%49%Aksaty.Domain.Events.SaleCreatedEventó
+î
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csG G(/
+%52(Aksaty.Domain.Interfaces.ISaleRepository"__id*l*j+
+)Aksaty.Domain.Handlers.SaleCommandHandler";
+_saleRepository(Aksaty.Domain.Interfaces.ISaleRepository¿Ω
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csG G(%
+%53void"GAksaty.Domain.Interfaces.ISaleRepository.Add(Aksaty.Domain.Models.Sale)*1
+/
+%52(Aksaty.Domain.Interfaces.ISaleRepository*#
+!
+saleAksaty.Domain.Models.Sale2Add(Aksaty.Domain.Models.Sale)ó
+î
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csH  H(//
+%54(Aksaty.Domain.Interfaces.ISaleRepository"__id*l*j+
+)Aksaty.Domain.Handlers.SaleCommandHandler";
+_saleRepository(Aksaty.Domain.Interfaces.ISaleRepositoryàÖ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csH  H(:"
+%55NetDevPack.Data.IUnitOfWork"-NetDevPack.Data.IRepository<T>.UnitOfWork.get*1
+/
+%54(Aksaty.Domain.Interfaces.ISaleRepository2UnitOfWork.get«
+ƒ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csH H(;+
+%56$System.Threading.Tasks.Task<TResult>"ONetDevPack.Messaging.CommandHandler.Commit(NetDevPack.Data.IUnitOfWork, string)*'%
+#NetDevPack.Messaging.CommandHandler*$
+"
+%55NetDevPack.Data.IUnitOfWork*
+"""w
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csH H(<
+""*˘
+9m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csI	 I(	"Ñ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleCommandHandler.csI I(	
+implicit return:6
+request+Aksaty.Domain.Commands.CreateNewSaleCommand:7
+cancellationToken"System.Threading.CancellationTokenB-+
+)Aksaty.Domain.Handlers.SaleCommandHandler

@@ -1,0 +1,39 @@
+
+’Aksaty.Application.Services.AttachmentAppService.AttachmentAppService(AutoMapper.IMapper, MediatR.IMediator, NetDevPack.Mediator.IMediatorHandler)m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs (#"1*w
+1m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs	 (	*
+0*þ
+0m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs (-í
+ê
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs (S2
+0Aksaty.Application.Services.AttachmentAppService"
+_mapperAutoMapper.IMapper"__id*
+
+mapperAutoMapper.IMapperï
+ì
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs ( T2
+0Aksaty.Application.Services.AttachmentAppService"
+	_mediatorMediatR.IMediator"__id*
+
+mediatorMediatR.IMediator¢
+Ÿ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs (-m2
+0Aksaty.Application.Services.AttachmentAppService"7
+_mediatorHelper$NetDevPack.Mediator.IMediatorHandler"__id*9
+7
+mediatorHandler$NetDevPack.Mediator.IMediatorHandler*
+2*ù
+2m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs	 (	"„
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs (	
+implicit return:
+mapperAutoMapper.IMapper:
+mediatorMediatR.IMediator:7
+mediatorHandler$NetDevPack.Mediator.IMediatorHandlerB42
+0Aksaty.Application.Services.AttachmentAppService

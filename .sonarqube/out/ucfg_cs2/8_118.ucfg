@@ -1,0 +1,91 @@
+
+oAksaty.Infra.Data.Repository.SaleInstallmentRepository.GetAll(Aksaty.Domain.Queries.GetAllSaleInstallmentQuery)s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs6 (<"0*è
+0s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs  (ô
+ñ
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs (0
+%0System.Linq.IQueryable<T>"ÑAksaty.Infra.Data.Repository.SaleInstallmentRepository.GetAllQuery(Aksaty.Domain.Queries.GetAllSaleInstallmentQuery, System.Linq.Expressions.Expression<System.Func<Aksaty.Domain.Models.SaleInstallment, bool>>)*:8
+6Aksaty.Infra.Data.Repository.SaleInstallmentRepository*A
+?
+queryParams0Aksaty.Domain.Queries.GetAllSaleInstallmentQuery*
+""Å
+Â
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs (0"
+querySystem.Linq.IQueryable<T>"__id*!
+
+%0System.Linq.IQueryable<T>‹
+ˆ
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs; (H	
+%1int"ESystem.Linq.Queryable.Count<TSource>(System.Linq.IQueryable<TSource>)*"
+System.Linq.Queryable*$
+"
+querySystem.Linq.IQueryable<T>Ž
+‹
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csJ (`
+%2System.Nullable<T>"7Aksaty.Infra.CrossCutting.Util.BaseQuery.PageNumber.get*A
+?
+queryParams0Aksaty.Domain.Queries.GetAllSaleInstallmentQuery½
+º
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csJ (f	
+%3int"System.Nullable<T>.Value.get*
+
+%2System.Nullable<T>Œ
+‰
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csh (|
+%4System.Nullable<T>"5Aksaty.Infra.CrossCutting.Util.BaseQuery.PageSize.get*A
+?
+queryParams0Aksaty.Domain.Queries.GetAllSaleInstallmentQuery¾
+»
+t
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csh (‚	
+%5int"System.Nullable<T>.Value.get*
+
+%4System.Nullable<T>ÙÖ
+t
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs (ƒ1
+%6+Aksaty.Infra.CrossCutting.Util.PagedList<T>"+Aksaty.Infra.CrossCutting.Util.PagedList<T>¦
+£
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs  (:
+
+%7void"DAksaty.Infra.CrossCutting.Util.PagedList<T>.PagedList(int, int, int)*3
+1
+%6+Aksaty.Infra.CrossCutting.Util.PagedList<T>*
+	
+%1int*
+	
+%3int*
+	
+%5intî
+ë
+t
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs (ƒ8
+	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>"__id*3
+1
+%6+Aksaty.Infra.CrossCutting.Util.PagedList<T>Õ
+Ò
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs (2!
+%8System.Threading.Tasks.Task"VAksaty.Infra.CrossCutting.Util.PagedList<T>.CreateListAsync(System.Linq.IQueryable<T>)*:
+8
+	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>*$
+"
+querySystem.Linq.IQueryable<T>"±
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs   (:
+8
+	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>*…
+1s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs!	 !(	"Š
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs! !(	
+implicit return:?
+queryParams0Aksaty.Domain.Queries.GetAllSaleInstallmentQueryB:8
+6Aksaty.Infra.Data.Repository.SaleInstallmentRepository

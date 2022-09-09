@@ -1,0 +1,43 @@
+
+DAksaty.Api.Controllers.SaleInstallmentController.Delete(System.Guid)v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs0) 0(/"2*
+
+0v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs2 2(:¿
+¼
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs2( 2(0>
+%08Aksaty.Application.Interfaces.ISaleInstallmentAppService"__id*|*z2
+0Aksaty.Api.Controllers.SaleInstallmentController"D
+_service8Aksaty.Application.Interfaces.ISaleInstallmentAppServiceÔÑ
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs2( 2(;*
+%1$System.Threading.Tasks.Task<TResult>"LAksaty.Application.Interfaces.ISaleInstallmentAppService.Remove(System.Guid)*@
+>
+%08Aksaty.Application.Interfaces.ISaleInstallmentAppService*
+""2Remove(System.Guid)Ì
+É
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs2 2(<+
+%2%Microsoft.AspNetCore.Mvc.ActionResult"gAksaty.Services.Api.Controllers.ApiController.CustomResponse(FluentValidation.Results.ValidationResult)*1/
+-Aksaty.Services.Api.Controllers.ApiController*
+"""§
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs2 2(=-
++
+%2%Microsoft.AspNetCore.Mvc.ActionResult*‹
+1v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs3	 3(	"
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs3 3(	
+implicit return*š
+2v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs08 0(8—
+”
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs0) 0(/
+%3"__entrypoint*
+""*
+0:
+idSystem.GuidB42
+0Aksaty.Api.Controllers.SaleInstallmentController

@@ -1,0 +1,27 @@
+
+FAksaty.Infra.Data.Repository.AttachmentRepository.GetById(System.Guid)n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csJ& J(-"0*Ø
+0n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csL L(,ž
+›
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csL L(2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*o*m3
+1Aksaty.Infra.Data.Repository.AttachmentRepository"6
+_DbSet,Microsoft.EntityFrameworkCore.DbSet<TEntity>ÇÄ
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csL L(-/
+%1)System.Threading.Tasks.ValueTask<TResult>"GMicrosoft.EntityFrameworkCore.DbSet<TEntity>.FindAsync(params object[])*4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""2FindAsync(params object[])"x
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csL L(.
+""*û
+1n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csM	 M(	"…
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csM M(	
+implicit return:
+IdSystem.GuidB53
+1Aksaty.Infra.Data.Repository.AttachmentRepository

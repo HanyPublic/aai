@@ -1,0 +1,14 @@
+˛
+/Aksaty.Infra.Data.Repository.CustomerRepositoryobject,Aksaty.Domain.Interfaces.ICustomerRepository™
+;CustomerRepository(Aksaty.Infra.Data.Context.AksatyContext)kAksaty.Infra.Data.Repository.CustomerRepository.CustomerRepository(Aksaty.Infra.Data.Context.AksatyContext)\
+GetById(System.Guid)DAksaty.Infra.Data.Repository.CustomerRepository.GetById(System.Guid)ò
+2GetAll(Aksaty.Domain.Queries.GetAllCustomersQuery)bAksaty.Infra.Data.Repository.CustomerRepository.GetAll(Aksaty.Domain.Queries.GetAllCustomersQuery)ñ
+1GetByEmail(Aksaty.Domain.Queries.GetByEmailQuery)aAksaty.Infra.Data.Repository.CustomerRepository.GetByEmail(Aksaty.Domain.Queries.GetByEmailQuery)x
+"Add(Aksaty.Domain.Models.Customer)RAksaty.Infra.Data.Repository.CustomerRepository.Add(Aksaty.Domain.Models.Customer)~
+%Update(Aksaty.Domain.Models.Customer)UAksaty.Infra.Data.Repository.CustomerRepository.Update(Aksaty.Domain.Models.Customer)˘
+bRemoveAttachments(System.Collections.Generic.IEnumerable<Aksaty.Domain.Models.CustomerAttachment>)íAksaty.Infra.Data.Repository.CustomerRepository.RemoveAttachments(System.Collections.Generic.IEnumerable<Aksaty.Domain.Models.CustomerAttachment>)Û
+_AddAttachments(System.Collections.Generic.IEnumerable<Aksaty.Domain.Models.CustomerAttachment>)èAksaty.Infra.Data.Repository.CustomerRepository.AddAttachments(System.Collections.Generic.IEnumerable<Aksaty.Domain.Models.CustomerAttachment>)~
+%Remove(Aksaty.Domain.Models.Customer)UAksaty.Infra.Data.Repository.CustomerRepository.Remove(Aksaty.Domain.Models.Customer)F
+	Dispose()9Aksaty.Infra.Data.Repository.CustomerRepository.Dispose()P
+UnitOfWork.get>Aksaty.Infra.Data.Repository.CustomerRepository.UnitOfWork.getP
+UnitOfWork.set>Aksaty.Infra.Data.Repository.CustomerRepository.UnitOfWork.set

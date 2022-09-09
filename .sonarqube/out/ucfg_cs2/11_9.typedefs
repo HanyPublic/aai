@@ -1,0 +1,11 @@
+¶
++Aksaty.Api.Controllers.AttachmentController-Aksaty.Services.Api.Controllers.ApiController'Microsoft.AspNetCore.Mvc.ControllerBaseobject§
+{AttachmentController(Aksaty.Application.Interfaces.IAttachmentAppService, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)§Aksaty.Api.Controllers.AttachmentController.AttachmentController(Aksaty.Application.Interfaces.IAttachmentAppService, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)Š
+-Upload(Microsoft.AspNetCore.Http.IFormFile[])YAksaty.Api.Controllers.AttachmentController.Upload(Microsoft.AspNetCore.Http.IFormFile[])À
+HGetAttachments(Aksaty.Application.ViewModels.GetAllAttachmentsViewModel)tAksaty.Api.Controllers.AttachmentController.GetAttachments(Aksaty.Application.ViewModels.GetAllAttachmentsViewModel)d
+GetAttachment(System.Guid)FAksaty.Api.Controllers.AttachmentController.GetAttachment(System.Guid)„
+*RemoveRestoreAttachment(System.Guid, bool)VAksaty.Api.Controllers.AttachmentController.RemoveRestoreAttachment(System.Guid, bool)›
+uRemoveRestoreListAttachment(System.Collections.Generic.List<Aksaty.Application.ViewModels.AttachmentViewModel>, bool)¡Aksaty.Api.Controllers.AttachmentController.RemoveRestoreListAttachment(System.Collections.Generic.List<Aksaty.Application.ViewModels.AttachmentViewModel>, bool)¸
+DGetResizePicture(Aksaty.Application.ViewModels.ImageResizeViewModel)pAksaty.Api.Controllers.AttachmentController.GetResizePicture(Aksaty.Application.ViewModels.ImageResizeViewModel)Z
+Download(System.Guid)AAksaty.Api.Controllers.AttachmentController.Download(System.Guid)Š
+-SaveFile(Microsoft.AspNetCore.Http.IFormFile)YAksaty.Api.Controllers.AttachmentController.SaveFile(Microsoft.AspNetCore.Http.IFormFile)

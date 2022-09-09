@@ -1,0 +1,46 @@
+ã
+Aksaty.Domain.Models.Customer)Aksaty.Infra.CrossCutting.Util.BaseEntityNetDevPack.Domain.Entityobject NetDevPack.Domain.IAggregateRootª
+ƒCustomer(System.Guid, System.Guid?, string, string, System.DateTime, string, string, string, string, string, string, string, System.DateTime, bool, bool, string, string, string, string, System.Collections.Generic.List<Aksaty.Domain.Models.CustomerAttachment>)¡Aksaty.Domain.Models.Customer.Customer(System.Guid, System.Guid?, string, string, System.DateTime, string, string, string, string, string, string, string, System.DateTime, bool, bool, string, string, string, string, System.Collections.Generic.List<Aksaty.Domain.Models.CustomerAttachment>)€
+/Customer(System.Guid, decimal, System.DateTime)MAksaty.Domain.Models.Customer.Customer(System.Guid, decimal, System.DateTime)6
+
+Customer()(Aksaty.Domain.Models.Customer.Customer()¶
+‰Update(System.Guid?, string, string, System.DateTime, string, string, string, string, string, string, string, string, string, bool, bool)§Aksaty.Domain.Models.Customer.Update(System.Guid?, string, string, System.DateTime, string, string, string, string, string, string, string, string, string, bool, bool)b
+ Update(decimal, System.DateTime)>Aksaty.Domain.Models.Customer.Update(decimal, System.DateTime)8
+ImageId.get)Aksaty.Domain.Models.Customer.ImageId.get8
+ImageId.set)Aksaty.Domain.Models.Customer.ImageId.set4
+	Image.get'Aksaty.Domain.Models.Customer.Image.get4
+	Image.set'Aksaty.Domain.Models.Customer.Image.set>
+NationalId.get,Aksaty.Domain.Models.Customer.NationalId.get>
+NationalId.set,Aksaty.Domain.Models.Customer.NationalId.set4
+	RefId.get'Aksaty.Domain.Models.Customer.RefId.get4
+	RefId.set'Aksaty.Domain.Models.Customer.RefId.set4
+	Notes.get'Aksaty.Domain.Models.Customer.Notes.get4
+	Notes.set'Aksaty.Domain.Models.Customer.Notes.set6
+
+Review.get(Aksaty.Domain.Models.Customer.Review.get6
+
+Review.set(Aksaty.Domain.Models.Customer.Review.set2
+Name.get&Aksaty.Domain.Models.Customer.Name.get2
+Name.set&Aksaty.Domain.Models.Customer.Name.set4
+	Email.get'Aksaty.Domain.Models.Customer.Email.get4
+	Email.set'Aksaty.Domain.Models.Customer.Email.set<
+BirthDate.get+Aksaty.Domain.Models.Customer.BirthDate.get<
+BirthDate.set+Aksaty.Domain.Models.Customer.BirthDate.set6
+
+Mobile.get(Aksaty.Domain.Models.Customer.Mobile.get6
+
+Mobile.set(Aksaty.Domain.Models.Customer.Mobile.set8
+Mobile2.get)Aksaty.Domain.Models.Customer.Mobile2.get8
+Mobile2.set)Aksaty.Domain.Models.Customer.Mobile2.set8
+Address.get)Aksaty.Domain.Models.Customer.Address.get8
+Address.set)Aksaty.Domain.Models.Customer.Address.set2
+Type.get&Aksaty.Domain.Models.Customer.Type.get2
+Type.set&Aksaty.Domain.Models.Customer.Type.setD
+AddRecription.get/Aksaty.Domain.Models.Customer.AddRecription.getD
+AddRecription.set/Aksaty.Domain.Models.Customer.AddRecription.set8
+Balance.get)Aksaty.Domain.Models.Customer.Balance.get8
+Balance.set)Aksaty.Domain.Models.Customer.Balance.setH
+NextInstallDate.get1Aksaty.Domain.Models.Customer.NextInstallDate.getH
+NextInstallDate.set1Aksaty.Domain.Models.Customer.NextInstallDate.set@
+Attachments.get-Aksaty.Domain.Models.Customer.Attachments.get@
+Attachments.set-Aksaty.Domain.Models.Customer.Attachments.set

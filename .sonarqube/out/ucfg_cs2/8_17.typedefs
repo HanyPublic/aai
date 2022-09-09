@@ -1,0 +1,12 @@
+Œ
+
+1Aksaty.Infra.Data.Repository.AttachmentRepositoryobject:Aksaty.Domain.Attachments.Interfaces.IAttachmentRepository°
+=AttachmentRepository(Aksaty.Infra.Data.Context.AksatyContext)oAksaty.Infra.Data.Repository.AttachmentRepository.AttachmentRepository(Aksaty.Infra.Data.Context.AksatyContext)–
+0Add(Aksaty.Domain.Attachments.Models.Attachment)bAksaty.Infra.Data.Repository.AttachmentRepository.Add(Aksaty.Domain.Attachments.Models.Attachment)œ
+3Update(Aksaty.Domain.Attachments.Models.Attachment)eAksaty.Infra.Data.Repository.AttachmentRepository.Update(Aksaty.Domain.Attachments.Models.Attachment)¶
+@GetAll(Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery)rAksaty.Infra.Data.Repository.AttachmentRepository.GetAll(Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery)^
+GetById(System.Guid)FAksaty.Infra.Data.Repository.AttachmentRepository.GetById(System.Guid)œ
+3Remove(Aksaty.Domain.Attachments.Models.Attachment)eAksaty.Infra.Data.Repository.AttachmentRepository.Remove(Aksaty.Domain.Attachments.Models.Attachment)H
+	Dispose();Aksaty.Infra.Data.Repository.AttachmentRepository.Dispose()R
+UnitOfWork.get@Aksaty.Infra.Data.Repository.AttachmentRepository.UnitOfWork.getR
+UnitOfWork.set@Aksaty.Infra.Data.Repository.AttachmentRepository.UnitOfWork.set

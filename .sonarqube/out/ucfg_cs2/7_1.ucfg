@@ -1,0 +1,31 @@
+
+ÆAksaty.Infra.CrossCutting.Identity.WebAppIdentityConfig.AddWebAppIdentityConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)t
+jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.CrossCutting.Identity\WebAppIdentityConfig.cs
+ 
+(9"0*¥
+0t
+jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.CrossCutting.Identity\WebAppIdentityConfig.cs (/Š
+‡
+t
+jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.CrossCutting.Identity\WebAppIdentityConfig.cs (UA
+%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÒNetDevPack.Identity.Abstractions.AddIdentityEntityFrameworkContextConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>)*$""
+ NetDevPack.Identity.Abstractions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""—
+”
+t
+jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.CrossCutting.Identity\WebAppIdentityConfig.cs (/3
+%1-Microsoft.AspNetCore.Identity.IdentityBuilder"vNetDevPack.Identity.Abstractions.AddIdentityConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection)*$""
+ NetDevPack.Identity.Abstractions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+1*‡
+1t
+jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.CrossCutting.Identity\WebAppIdentityConfig.cs	 (	"‹
+t
+jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.CrossCutting.Identity\WebAppIdentityConfig.cs (	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection:B
+configuration1Microsoft.Extensions.Configuration.IConfigurationB;"9
+7Aksaty.Infra.CrossCutting.Identity.WebAppIdentityConfig

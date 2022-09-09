@@ -1,0 +1,212 @@
+
+YAksaty.Application.Services.UserService.BuildToken(System.Security.Claims.ClaimsIdentity)d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csA A(!"0*å@
+0d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csC O(0áÞ
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csC C(<=
+%07System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler"7System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler‰
+†
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csC# C(:
+
+%1void"QSystem.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.JwtSecurityTokenHandler()*?
+=
+%07System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandlerù
+ö
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csC C(<G
+tokenHandler7System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler"__id*?
+=
+%07System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler¿
+¼
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csD D($
+%2System.Text.Encoding"System.Text.Encoding.ASCII.get*"
+System.Text.Encoding‡
+„
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csD. D(=,
+%3&NetDevPack.Identity.Jwt.AppJwtSettings"__id*h*f)
+'Aksaty.Application.Services.UserService"9
+_appJwtSettings&NetDevPack.Identity.Jwt.AppJwtSettingsÝ
+Ú
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csD. D(G
+%4string"4NetDevPack.Identity.Jwt.AppJwtSettings.SecretKey.get*.
+,
+%3&NetDevPack.Identity.Jwt.AppJwtSettingsÞÛ
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csD D(H
+%5byte[]"%System.Text.Encoding.GetBytes(string)*
+
+%2System.Text.Encoding*
+
+%4string2GetBytes(string)Ž
+‹
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csD D(H
+keybyte[]"__id*
+
+%5byte[]ßÜ
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csE1 M(<
+%66Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor"6Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor‡
+„
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csE5 E(L
+
+%7void"PMicrosoft.IdentityModel.Tokens.SecurityTokenDescriptor.SecurityTokenDescriptor()*>
+<
+%66Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor‡
+„
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csG G((,
+%8&NetDevPack.Identity.Jwt.AppJwtSettings"__id*h*f)
+'Aksaty.Application.Services.UserService"9
+_appJwtSettings&NetDevPack.Identity.Jwt.AppJwtSettingsÚ
+×
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csG G(/
+%9string"1NetDevPack.Identity.Jwt.AppJwtSettings.Issuer.get*.
+,
+%8&NetDevPack.Identity.Jwt.AppJwtSettings‹
+ˆ
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csG G(/
+%10string"AMicrosoft.IdentityModel.Tokens.SecurityTokenDescriptor.Issuer.set*>
+<
+%66Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor*
+
+%9stringˆ
+…
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csH H(*-
+%11&NetDevPack.Identity.Jwt.AppJwtSettings"__id*h*f)
+'Aksaty.Application.Services.UserService"9
+_appJwtSettings&NetDevPack.Identity.Jwt.AppJwtSettingsÞ
+Û
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csH H(3
+%12string"3NetDevPack.Identity.Jwt.AppJwtSettings.Audience.get*/
+-
+%11&NetDevPack.Identity.Jwt.AppJwtSettingsŽ
+‹
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csH H(3
+%13string"CMicrosoft.IdentityModel.Tokens.SecurityTokenDescriptor.Audience.set*>
+<
+%66Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor*
+
+%12stringÖ
+Ó
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csI I((,
+%14%System.Security.Claims.ClaimsIdentity"BMicrosoft.IdentityModel.Tokens.SecurityTokenDescriptor.Subject.set*>
+<
+%66Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor*9
+7
+identityClaims%System.Security.Claims.ClaimsIdentity²
+¯
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csJ J()
+%15System.DateTime"System.DateTime.UtcNow.get*"
+System.DateTimeˆ
+…
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csJ3 J(B-
+%16&NetDevPack.Identity.Jwt.AppJwtSettings"__id*h*f)
+'Aksaty.Application.Services.UserService"9
+_appJwtSettings&NetDevPack.Identity.Jwt.AppJwtSettingsÝ
+Ú
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csJ3 J(M
+
+%17int"5NetDevPack.Identity.Jwt.AppJwtSettings.Expiration.get*/
+-
+%16&NetDevPack.Identity.Jwt.AppJwtSettingsË
+È
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csJ J(N
+%18System.DateTime" System.DateTime.AddHours(double)*
+
+%15System.DateTime*
+
+
+%17int¢
+Ÿ
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csJ J(N
+%19System.Nullable<T>"BMicrosoft.IdentityModel.Tokens.SecurityTokenDescriptor.Expires.set*>
+<
+%66Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor*
+
+%18System.DateTimeÚ×
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csK< K(Y:
+%203Microsoft.IdentityModel.Tokens.SymmetricSecurityKey"3Microsoft.IdentityModel.Tokens.SymmetricSecurityKey—
+”
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csK@ K(T
+%21void"PMicrosoft.IdentityModel.Tokens.SymmetricSecurityKey.SymmetricSecurityKey(byte[])*<
+:
+%203Microsoft.IdentityModel.Tokens.SymmetricSecurityKey*
+
+keybyte[]}
+{
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csL L(:
+%22"__id*
+""ÖÓ
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csK% L(;8
+%231Microsoft.IdentityModel.Tokens.SigningCredentials"1Microsoft.IdentityModel.Tokens.SigningCredentialsó
+ð
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csK) K(;
+%24void"xMicrosoft.IdentityModel.Tokens.SigningCredentials.SigningCredentials(Microsoft.IdentityModel.Tokens.SecurityKey, string)*:
+8
+%231Microsoft.IdentityModel.Tokens.SigningCredentials*<
+:
+%203Microsoft.IdentityModel.Tokens.SymmetricSecurityKey*
+
+%22î
+ë
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csK L(;8
+%251Microsoft.IdentityModel.Tokens.SigningCredentials"MMicrosoft.IdentityModel.Tokens.SecurityTokenDescriptor.SigningCredentials.set*>
+<
+%66Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor*:
+8
+%231Microsoft.IdentityModel.Tokens.SigningCredentialsëè
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csE M(3
+%26,Microsoft.IdentityModel.Tokens.SecurityToken"{System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.CreateToken(Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor)*I
+G
+tokenHandler7System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler*>
+<
+%66Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor2CCreateToken(Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor)Ý
+Ú
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csE M(5
+token,Microsoft.IdentityModel.Tokens.SecurityToken"__id*5
+3
+%26,Microsoft.IdentityModel.Tokens.SecurityToken¨¥
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csO O(1
+%27string"pSystem.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.WriteToken(Microsoft.IdentityModel.Tokens.SecurityToken)*I
+G
+tokenHandler7System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler*7
+5
+token,Microsoft.IdentityModel.Tokens.SecurityToken28WriteToken(Microsoft.IdentityModel.Tokens.SecurityToken)"w
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csO O(2
+
+%27string*æ
+1d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csP	 P(	"{
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.csP P(	
+implicit return:7
+identityClaims%System.Security.Claims.ClaimsIdentityB+)
+'Aksaty.Application.Services.UserService

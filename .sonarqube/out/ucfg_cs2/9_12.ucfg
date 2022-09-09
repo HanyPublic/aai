@@ -1,0 +1,19 @@
+
+QAksaty.Application.ViewModels.GetAllCustomersViewModel.GetAllCustomersViewModel()†
+|D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\CustomerViewModels\GetAllCustomersViewModel.cs ()"0*Ý
+0†
+|D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\CustomerViewModels\GetAllCustomersViewModel.cs (¹
+¶
+†
+|D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\CustomerViewModels\GetAllCustomersViewModel.cs (<
+%0System.Nullable<T>"MAksaty.Application.ViewModels.GetAllCustomersViewModel.includeAttachments.set*:8
+6Aksaty.Application.ViewModels.GetAllCustomersViewModel*
+""r
+p
+
+%1void"4Aksaty.Infra.CrossCutting.Util.BaseQuery.BaseQuery()*,*
+(Aksaty.Infra.CrossCutting.Util.BaseQuery"ž
+†
+|D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\CustomerViewModels\GetAllCustomersViewModel.cs (
+implicit returnB:8
+6Aksaty.Application.ViewModels.GetAllCustomersViewModel

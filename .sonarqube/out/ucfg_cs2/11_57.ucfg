@@ -1,0 +1,42 @@
+
+9Aksaty.Api.Controllers.SaleController.Delete(System.Guid)k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.csF) F(/"2*¦	
+0k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.csH H(Aš
+—
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.csH( H(73
+%0-Aksaty.Application.Interfaces.ISaleAppService"__id*m*k'
+%Aksaty.Api.Controllers.SaleController"@
+_saleAppService-Aksaty.Application.Interfaces.ISaleAppService³°
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.csH( H(B*
+%1$System.Threading.Tasks.Task<TResult>"AAksaty.Application.Interfaces.ISaleAppService.Remove(System.Guid)*5
+3
+%0-Aksaty.Application.Interfaces.ISaleAppService*
+""2Remove(System.Guid)Á
+¾
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.csH H(C+
+%2%Microsoft.AspNetCore.Mvc.ActionResult"gAksaty.Services.Api.Controllers.ApiController.CustomResponse(FluentValidation.Results.ValidationResult)*1/
+-Aksaty.Services.Api.Controllers.ApiController*
+"""œ
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.csH H(D-
++
+%2%Microsoft.AspNetCore.Mvc.ActionResult*õ
+1k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.csI	 I(	"‚
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.csI I(	
+implicit return*„
+2k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.csF8 F(8Œ
+‰
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.csF) F(/
+%3"__entrypoint*
+""*
+0:
+idSystem.GuidB)'
+%Aksaty.Api.Controllers.SaleController

@@ -1,0 +1,120 @@
+
+qAksaty.Application.ViewModels.AttachmentViewModel.fromCustomerAttachment(Aksaty.Domain.Models.CustomerAttachment)É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs* (@"0*œ&
+0É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs (7ıÚ
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs (7
+%01Aksaty.Application.ViewModels.AttachmentViewModel"1Aksaty.Application.ViewModels.AttachmentViewModelô
+ñ
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs (*
+
+%1void"GAksaty.Application.ViewModels.AttachmentViewModel.AttachmentViewModel()*9
+7
+%01Aksaty.Application.ViewModels.AttachmentViewModel˛
+˚
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs (*
+%2System.Guid"NetDevPack.Domain.Entity.Id.get*?
+=
+customerAttachment'Aksaty.Domain.Models.CustomerAttachment¶
+£
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs (*
+%3System.Guid"8Aksaty.Application.ViewModels.AttachmentViewModel.Id.set*9
+7
+%01Aksaty.Application.ViewModels.AttachmentViewModel*
+
+%2System.Guidµ
+≤
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs (81
+%4+Aksaty.Domain.Attachments.Models.Attachment"6Aksaty.Domain.Models.CustomerAttachment.Attachment.get*?
+=
+customerAttachment'Aksaty.Domain.Models.CustomerAttachmentå
+â
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs (G
+%5string">Aksaty.Domain.Attachments.Models.Attachment.SystemFileName.get*3
+1
+%4+Aksaty.Domain.Attachments.Models.Attachment¶
+£
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs (G
+%6string"BAksaty.Application.ViewModels.AttachmentViewModelBase.FileName.set*9
+7
+%01Aksaty.Application.ViewModels.AttachmentViewModel*
+
+%5stringµ
+≤
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs! (>1
+%7+Aksaty.Domain.Attachments.Models.Attachment"6Aksaty.Domain.Models.CustomerAttachment.Attachment.get*?
+=
+customerAttachment'Aksaty.Domain.Models.CustomerAttachmentå
+â
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs! (M
+%8string">Aksaty.Domain.Attachments.Models.Attachment.SourceFileName.get*3
+1
+%7+Aksaty.Domain.Attachments.Models.Attachment¨
+©
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs (M
+%9string"HAksaty.Application.ViewModels.AttachmentViewModelBase.SourceFileName.set*9
+7
+%01Aksaty.Application.ViewModels.AttachmentViewModel*
+
+%8string∂
+≥
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs  (=2
+%10+Aksaty.Domain.Attachments.Models.Attachment"6Aksaty.Domain.Models.CustomerAttachment.Attachment.get*?
+=
+customerAttachment'Aksaty.Domain.Models.CustomerAttachmentç
+ä
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs  (K
+%11string"=Aksaty.Domain.Attachments.Models.Attachment.FileExtension.get*4
+2
+%10+Aksaty.Domain.Attachments.Models.Attachment≠
+™
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs (K
+%12string"GAksaty.Application.ViewModels.AttachmentViewModelBase.FileExtension.set*9
+7
+%01Aksaty.Application.ViewModels.AttachmentViewModel*
+
+%11string∂
+≥
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs (32
+%13+Aksaty.Domain.Attachments.Models.Attachment"6Aksaty.Domain.Models.CustomerAttachment.Attachment.get*?
+=
+customerAttachment'Aksaty.Domain.Models.CustomerAttachmentÉ
+Ä
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs (7
+%14string"3Aksaty.Domain.Attachments.Models.Attachment.URL.get*4
+2
+%13+Aksaty.Domain.Attachments.Models.Attachment£
+†
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs (7
+%15string"=Aksaty.Application.ViewModels.AttachmentViewModelBase.Url.set*9
+7
+%01Aksaty.Application.ViewModels.AttachmentViewModel*
+
+%14string"¡
+É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs (9
+7
+%01Aksaty.Application.ViewModels.AttachmentViewModel*•
+1É
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs ("ô
+Å
+yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModel.cs (
+implicit return:=
+customerAttachment'Aksaty.Domain.Models.CustomerAttachmentB5"3
+1Aksaty.Application.ViewModels.AttachmentViewModel

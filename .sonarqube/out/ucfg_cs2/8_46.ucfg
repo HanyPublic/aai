@@ -1,0 +1,50 @@
+
+ùAksaty.Infra.Data.Mappings.StoredEventMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Core.Events.StoredEvent>)f
+\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\StoredEventMap.cs	 	("0*Ü
+0f
+\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\StoredEventMap.cs (-ûõ
+f
+\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\StoredEventMap.cs (.P
+%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)õ
+ò
+f
+\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\StoredEventMap.cs (.P
+%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"ÆMicrosoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions.HasColumnName<TProperty>(Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>, string)*E"C
+AMicrosoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions*R
+P
+%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+CreationDateûõ
+f
+\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\StoredEventMap.cs (0P
+%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)ï
+í
+f
+\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\StoredEventMap.cs ((P
+%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"ÆMicrosoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions.HasColumnName<TProperty>(Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>, string)*E"C
+AMicrosoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions*R
+P
+%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+
+Actionõ
+ò
+f
+\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\StoredEventMap.cs (.P
+%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"ÆMicrosoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions.HasColumnType<TProperty>(Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>, string)*E"C
+AMicrosoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions*R
+P
+%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+varchar(100)*
+1*Í
+1f
+\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\StoredEventMap.cs	 (	"}
+f
+\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\StoredEventMap.cs (	
+implicit return:U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>B-+
+)Aksaty.Infra.Data.Mappings.StoredEventMap

@@ -1,0 +1,22 @@
+
+Aksaty.Domain.Handlers.ProductEventHandler.Handle(Aksaty.Domain.Events.ProductRemovedEvent, System.Threading.CancellationToken)q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductEventHandler.cs ("0*˝
+0q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductEventHandler.cs (%È
+Ê
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductEventHandler.cs (%!
+%0System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*"
+System.Threading.Tasks.Task"ò
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductEventHandler.cs (&#
+!
+%0System.Threading.Tasks.Task*Å
+1q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductEventHandler.cs	 (	"à
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductEventHandler.cs (	
+implicit return:8
+notification(Aksaty.Domain.Events.ProductRemovedEvent:7
+cancellationToken"System.Threading.CancellationTokenB.,
+*Aksaty.Domain.Handlers.ProductEventHandler

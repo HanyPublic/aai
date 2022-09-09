@@ -1,0 +1,17 @@
+Ù
+6Aksaty.Application.ViewModels.GetAllCustomersViewModel(Aksaty.Infra.CrossCutting.Util.BaseQuery.Aksaty.Infra.CrossCutting.Util.BaseEntityQueryobjecto
+GetAllCustomersViewModel()QAksaty.Application.ViewModels.GetAllCustomersViewModel.GetAllCustomersViewModel()[
+MinBirthDate.getGAksaty.Application.ViewModels.GetAllCustomersViewModel.MinBirthDate.get[
+MinBirthDate.setGAksaty.Application.ViewModels.GetAllCustomersViewModel.MinBirthDate.set[
+MaxBirthDate.getGAksaty.Application.ViewModels.GetAllCustomersViewModel.MaxBirthDate.get[
+MaxBirthDate.setGAksaty.Application.ViewModels.GetAllCustomersViewModel.MaxBirthDate.setg
+MinNextInstallDate.getMAksaty.Application.ViewModels.GetAllCustomersViewModel.MinNextInstallDate.getg
+MinNextInstallDate.setMAksaty.Application.ViewModels.GetAllCustomersViewModel.MinNextInstallDate.setg
+MaxNextInstallDate.getMAksaty.Application.ViewModels.GetAllCustomersViewModel.MaxNextInstallDate.getg
+MaxNextInstallDate.setMAksaty.Application.ViewModels.GetAllCustomersViewModel.MaxNextInstallDate.setW
+MinBalance.getEAksaty.Application.ViewModels.GetAllCustomersViewModel.MinBalance.getW
+MinBalance.setEAksaty.Application.ViewModels.GetAllCustomersViewModel.MinBalance.setW
+MaxBalance.getEAksaty.Application.ViewModels.GetAllCustomersViewModel.MaxBalance.getW
+MaxBalance.setEAksaty.Application.ViewModels.GetAllCustomersViewModel.MaxBalance.setg
+includeAttachments.getMAksaty.Application.ViewModels.GetAllCustomersViewModel.includeAttachments.getg
+includeAttachments.setMAksaty.Application.ViewModels.GetAllCustomersViewModel.includeAttachments.set

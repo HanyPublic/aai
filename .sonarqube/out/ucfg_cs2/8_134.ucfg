@@ -1,0 +1,32 @@
+
+`Aksaty.Infra.Data.Repository.SaleInstallmentRepository.Add(Aksaty.Domain.Models.SaleInstallment)s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csT T("0*·
+0s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csV V(4›
+˜
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csV V(-
+%0'Aksaty.Infra.Data.Context.AksatyContext"__id*l*j8
+6Aksaty.Infra.Data.Repository.SaleInstallmentRepository".
+_db'Aksaty.Infra.Data.Context.AksatyContext›
+˜
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csV V( 2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"<Aksaty.Infra.Data.Context.AksatyContext.SaleInstallments.get*/
+-
+%0'Aksaty.Infra.Data.Context.AksatyContextûø
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csV V(5G
+%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*9
+7
+saleInstallment$Aksaty.Domain.Models.SaleInstallment2Add(TEntity)*
+1*…
+1s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csW	 W(	"Š
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csW W(	
+implicit return:7
+saleInstallment$Aksaty.Domain.Models.SaleInstallmentB:8
+6Aksaty.Infra.Data.Repository.SaleInstallmentRepository

@@ -1,0 +1,17 @@
+n
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.csutf-8e
+\D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\TanentCommand.csutf-8„
+{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\Validations\AddUpdateTanentCommandValidation.csutf-8t
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\Validations\TanentValidation.csutf-8a
+XD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentEvent.csutf-8h
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentEventHandler.csutf-8k
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentRegisteredEvent.csutf-8h
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentRemovedEvent.csutf-8h
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.csutf-8m
+dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Handlers\TanentCommandsHandler.csutf-8k
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Interfaces\ITanentRepository.csutf-8\
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.csutf-8i
+`D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Queries\GetAllTanentsQuery.csutf-8i
+`D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Queries\GetTanentByIdQuery.csutf-8•
+‰D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8Œ
+€D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\obj\Debug\netcoreapp3.1\Aksaty.Domain.Tanents.AssemblyInfo.csutf-8

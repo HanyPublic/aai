@@ -1,0 +1,50 @@
+
+pAksaty.Domain.Queries.GetAllSaleInstallmentQuery.GetAllSaleInstallmentQuery(System.Guid, string, string, string)
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetAllSaleInstallmentQuery.cs. .()"1*˝
+1
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetAllSaleInstallmentQuery.cs9	 9(	r
+p
+
+%0void"4Aksaty.Infra.CrossCutting.Util.BaseQuery.BaseQuery()*,*
+(Aksaty.Infra.CrossCutting.Util.BaseQuery*
+0*Í	
+0
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetAllSaleInstallmentQuery.cs5 8(í
+è
+
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetAllSaleInstallmentQuery.cs5 5(
+%1System.Guid";Aksaty.Domain.Queries.GetAllSaleInstallmentQuery.SaleId.set*42
+0Aksaty.Domain.Queries.GetAllSaleInstallmentQuery*
+""ü
+ú
+
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetAllSaleInstallmentQuery.cs6 6(%
+%2string">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedById.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*
+
+createdByIdstringô
+ñ
+
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetAllSaleInstallmentQuery.cs7 7(
+%3string";Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.TanentId.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*
+
+tanentIdstringã
+à
+
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetAllSaleInstallmentQuery.cs8 8(
+%4string"4Aksaty.Infra.CrossCutting.Util.BaseQuery.OrderBy.set*,*
+(Aksaty.Infra.CrossCutting.Util.BaseQuery*
+
+orderBystring*
+2*ù
+2
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetAllSaleInstallmentQuery.cs9	 9(	"ñ
+
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetAllSaleInstallmentQuery.cs9 9(	
+implicit return:
+saleIdSystem.Guid:
+createdByIdstring:
+tanentIdstring:
+orderBystringB42
+0Aksaty.Domain.Queries.GetAllSaleInstallmentQuery

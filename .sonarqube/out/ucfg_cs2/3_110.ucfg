@@ -1,0 +1,51 @@
+
+ªAksaty.Domain.Attachments.Handlers.AttachmentCommandsHandler.Handle(Aksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand, System.Threading.CancellationToken)u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.cs?, ?(2"0*³
+0u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csA A(1®
+«
+u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csA A()/
+%0)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.get*N
+L
+requestAAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommandýú
+u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csA A(1
+
+%1bool"5FluentValidation.Results.ValidationResult.IsValid.get*1
+/
+%0)FluentValidation.Results.ValidationResult2IsValid.get*
+1
+2*Ø
+1u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csA: A(R®
+«
+u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csA: A(R/
+%2)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.get*N
+L
+requestAAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand"ª
+u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csA3 A(S1
+/
+%2)FluentValidation.Results.ValidationResult*É
+2u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csB B(1Ë
+È
+u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csB B(2*
+%3$System.Threading.Tasks.Task<TResult>"Aksaty.Domain.Attachments.Handlers.AttachmentCommandsHandler.RemoveAttachment(Aksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand)*@>
+<Aksaty.Domain.Attachments.Handlers.AttachmentCommandsHandler*N
+L
+requestAAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand"
+u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csB B(3
+""*‰
+3u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csD	 D(	"Œ
+u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csD D(	
+implicit return:L
+requestAAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand:7
+cancellationToken"System.Threading.CancellationTokenB@>
+<Aksaty.Domain.Attachments.Handlers.AttachmentCommandsHandler

@@ -1,0 +1,16 @@
+b
+YD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Enums\Enums.csutf-8p
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Extensions\LinqExtensions.csutf-8q
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Extensions\ResponseHeaders.csutf-8u
+lD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentContentTypes.csutf-8r
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.csutf-8l
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\MyHttpContext.csutf-8m
+dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Interfaces\IBaseEntity.csutf-8h
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Models\BaseEntity.csutf-8n
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\BaseEntityCommand.csutf-8l
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\BaseEntityEvent.csutf-8l
+cD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\BaseEntityQuery.csutf-8f
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\BaseQuery.csutf-8f
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.csutf-8ù
+ëD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8ù
+ëD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\obj\Debug\netcoreapp3.1\Aksaty.Infra.CrossCutting.Util.AssemblyInfo.csutf-8

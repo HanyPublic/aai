@@ -1,0 +1,55 @@
+
+hAksaty.Application.Services.ProductAppService.GetById(Aksaty.Application.ViewModels.GetProductViewModel)j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs&, &(3"0*€
+0j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs( ((v„
+‡
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs( ((
+%0AutoMapper.IMapper"__id*R*P/
+-Aksaty.Application.Services.ProductAppService"
+_mapperAutoMapper.IMapper„
+‡
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs(7 ((@
+%1MediatR.IMediator"__id*S*Q/
+-Aksaty.Application.Services.ProductAppService"
+	_mediatorMediatR.IMediator„
+‡
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs(F ((M
+%2AutoMapper.IMapper"__id*R*P/
+-Aksaty.Application.Services.ProductAppService"
+_mapperAutoMapper.IMapper—Œ
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs(F ((w+
+%3%Aksaty.Domain.Queries.GetProductQuery"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%2AutoMapper.IMapper*J
+H
+getProductViewModel1Aksaty.Application.ViewModels.GetProductViewModel2Map<TDestination>(object)£†
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs(7 ((x*
+%4$System.Threading.Tasks.Task<TResult>"bMediatR.IMediator.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%1MediatR.IMediator*-
++
+%3%Aksaty.Domain.Queries.GetProductQuery*
+""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)ñì
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs( ((y4
+%5.Aksaty.Application.ViewModels.ProductViewModel"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%0AutoMapper.IMapper*
+""2Map<TDestination>(object)"§
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs( ((z6
+4
+%5.Aksaty.Application.ViewModels.ProductViewModel*Û
+1j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs)	 )(	"Å
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs) )(	
+implicit return:H
+getProductViewModel1Aksaty.Application.ViewModels.GetProductViewModelB1/
+-Aksaty.Application.Services.ProductAppService

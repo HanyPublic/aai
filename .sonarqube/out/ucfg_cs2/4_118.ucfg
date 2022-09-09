@@ -1,0 +1,169 @@
+
+ÌAksaty.Domain.Commands.UpdateCustomerCommand.UpdateCustomerCommand(System.Guid, string, string, string, System.DateTime, string, string, string, string, string, bool, string, string, string, string, bool)i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs ($"1*é
+1i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs#	 #(	t
+r
+
+%0void"8Aksaty.Domain.Commands.CustomerCommand.CustomerCommand()**(
+&Aksaty.Domain.Commands.CustomerCommand*
+0*š
+0i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs (-ä
+á
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs (
+%1System.Guid"-Aksaty.Domain.Commands.CustomerCommand.Id.set**(
+&Aksaty.Domain.Commands.CustomerCommand*
+""º
+·
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs (.
+
+%2bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+imageIdstring*
+2
+3*¸
+2i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs0 (LÂ
+¿
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs: (M
+%3System.Guid"System.Guid.Parse(string)*"
+System.Guid*
+
+imageIdstringý
+ú
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs0 (M
+%4System.Nullable<T>"2Aksaty.Domain.Commands.CustomerCommand.ImageId.set**(
+&Aksaty.Domain.Commands.CustomerCommand*
+
+%3System.Guid*
+3*ð
+3i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs "(ë
+è
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs (
+%5string"/Aksaty.Domain.Commands.CustomerCommand.Name.set**(
+&Aksaty.Domain.Commands.CustomerCommand*
+
+namestringí
+ê
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs (
+%6string"0Aksaty.Domain.Commands.CustomerCommand.Email.set**(
+&Aksaty.Domain.Commands.CustomerCommand*
+
+emailstring‡
+„
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs (!
+%7System.DateTime"4Aksaty.Domain.Commands.CustomerCommand.BirthDate.set**(
+&Aksaty.Domain.Commands.CustomerCommand*
+
+	birthDateSystem.DateTimeï
+ì
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs (
+%8string"1Aksaty.Domain.Commands.CustomerCommand.Mobile.set**(
+&Aksaty.Domain.Commands.CustomerCommand*
+
+mobilestringñ
+î
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs (
+%9string"2Aksaty.Domain.Commands.CustomerCommand.Mobile2.set**(
+&Aksaty.Domain.Commands.CustomerCommand*
+
+mobile2stringò
+ï
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs (
+%10string"2Aksaty.Domain.Commands.CustomerCommand.Address.set**(
+&Aksaty.Domain.Commands.CustomerCommand*
+
+addressstringì
+é
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs (
+%11string"/Aksaty.Domain.Commands.CustomerCommand.Type.set**(
+&Aksaty.Domain.Commands.CustomerCommand*
+
+typestringþ
+û
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs ()
+%12string"8Aksaty.Domain.Commands.CustomerCommand.AddRecription.set**(
+&Aksaty.Domain.Commands.CustomerCommand*
+
+addRecriptionstringý
+ú
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs ()
+%13bool"BAksaty.Infra.CrossCutting.Util.BaseEntityCommand.ShowOnWebsite.set*42
+0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
+""ø
+õ
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs (#
+%14string"5Aksaty.Domain.Commands.CustomerCommand.NationalId.set**(
+&Aksaty.Domain.Commands.CustomerCommand*
+
+
+nationalIdstringî
+ë
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs (
+%15string"0Aksaty.Domain.Commands.CustomerCommand.RefId.set**(
+&Aksaty.Domain.Commands.CustomerCommand*
+
+refIdstringî
+ë
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs   (
+%16string"0Aksaty.Domain.Commands.CustomerCommand.Notes.set**(
+&Aksaty.Domain.Commands.CustomerCommand*
+
+notesstringð
+í
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs! !(
+%17string"1Aksaty.Domain.Commands.CustomerCommand.Review.set**(
+&Aksaty.Domain.Commands.CustomerCommand*
+
+reviewstring÷
+ô
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs" "(
+%18bool"<Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.Deleted.set*42
+0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
+""*
+4*ñ
+4i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs#	 #(	"€
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs# #(	
+implicit return:
+idSystem.Guid:
+imageIdstring:
+namestring:
+emailstring:
+	birthDateSystem.DateTime:
+mobilestring:
+mobile2string:
+addressstring:
+typestring:
+addRecriptionstring:
+showOnWebsitebool:
+
+nationalIdstring:
+refIdstring:
+notesstring:
+reviewstring:
+deletedboolB0.
+,Aksaty.Domain.Commands.UpdateCustomerCommand

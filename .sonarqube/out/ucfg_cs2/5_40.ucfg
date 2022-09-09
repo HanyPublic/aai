@@ -1,0 +1,51 @@
+
+7Aksaty.Domain.Commands.AddUpdateTanentCommand.IsValid()o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs ($"0*∂
+0o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs  (+ÑÅ
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (EI
+%0CAksaty.Domain.Commands.Validations.AddUpdateTanentCommandValidation"CAksaty.Domain.Commands.Validations.AddUpdateTanentCommandValidationµ
+≤
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs# (C
+
+%1void"fAksaty.Domain.Commands.Validations.AddUpdateTanentCommandValidation.AddUpdateTanentCommandValidation()*K
+I
+%0CAksaty.Domain.Commands.Validations.AddUpdateTanentCommandValidationÿ
+’
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (T/
+%2)FluentValidation.Results.ValidationResult"1FluentValidation.AbstractValidator<T>.Validate(T)*K
+I
+%0CAksaty.Domain.Commands.Validations.AddUpdateTanentCommandValidation*1/
+-Aksaty.Domain.Commands.AddUpdateTanentCommand≠
+™
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (T/
+%3)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.set* 
+NetDevPack.Messaging.Command*1
+/
+%2)FluentValidation.Results.ValidationResult˙
+˜
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs   (#/
+%4)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.get* 
+NetDevPack.Messaging.Command˜Ù
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs   (+
+
+%5bool"5FluentValidation.Results.ValidationResult.IsValid.get*1
+/
+%4)FluentValidation.Results.ValidationResult2IsValid.get"
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs   (,
+
+
+%5bool*˝
+1o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs!	 !(	"Ü
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs! !(	
+implicit returnB1/
+-Aksaty.Domain.Commands.AddUpdateTanentCommand

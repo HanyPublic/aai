@@ -1,0 +1,40 @@
+
+\Aksaty.Domain.Commands.Validations.UpdateSaleCommandValidation.UpdateSaleCommandValidation()Ç
+xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\UpdateSaleCommandValidation.cs (*"1*†
+1Ç
+xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\UpdateSaleCommandValidation.cs	 (	ê
+ç
+
+%0void"EAksaty.Domain.Commands.Validations.SaleValidation<T>.SaleValidation()*86
+4Aksaty.Domain.Commands.Validations.SaleValidation<T>*
+0*’
+0Ç
+xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\UpdateSaleCommandValidation.cs 
+( ë
+é
+Ç
+xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\UpdateSaleCommandValidation.cs (
+
+%1void"AAksaty.Domain.Commands.Validations.SaleValidation<T>.ValidateId()*86
+4Aksaty.Domain.Commands.Validations.SaleValidation<T>ï
+í
+Ç
+xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\UpdateSaleCommandValidation.cs	 	(
+
+%2void"EAksaty.Domain.Commands.Validations.SaleValidation<T>.ValidateAmount()*86
+4Aksaty.Domain.Commands.Validations.SaleValidation<T>ô
+ñ
+Ç
+xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\UpdateSaleCommandValidation.cs
+ 
+( 
+
+%3void"IAksaty.Domain.Commands.Validations.SaleValidation<T>.ValidatePaidAmount()*86
+4Aksaty.Domain.Commands.Validations.SaleValidation<T>*
+2*•
+2Ç
+xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\UpdateSaleCommandValidation.cs	 (	"ö
+Ç
+xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\UpdateSaleCommandValidation.cs (	
+implicit returnBB@
+>Aksaty.Domain.Commands.Validations.UpdateSaleCommandValidation

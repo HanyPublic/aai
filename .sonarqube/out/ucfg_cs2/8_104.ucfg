@@ -1,0 +1,314 @@
+
+rAksaty.Infra.Data.Repository.AttachmentRepository.GetAll(Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery)n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs#1 #(7"0*{
+0n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csI	 I(	*
+1
+2*Ã
+1n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs( )(@û
+õ
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs( (("2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*o*m3
+1Aksaty.Infra.Data.Repository.AttachmentRepository"6
+_DbSet,Microsoft.EntityFrameworkCore.DbSet<TEntity>â
+Ü
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs( ((1
+%1System.Linq.IQueryable<T>"wMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AsNoTracking<TEntity>(System.Linq.IQueryable<TEntity>)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>„
+‡
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs( ((ê
+%2System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*!
+
+%1System.Linq.IQueryable<T>*
+""≤
+Ø
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs( ((û
+%3System.Linq.IQueryable<T>"]System.Linq.Queryable.AsQueryable<TElement>(System.Collections.Generic.IEnumerable<TElement>)*"
+System.Linq.Queryable*!
+
+%2System.Linq.IQueryable<T>¡
+æ
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs( ((û"
+querySystem.Linq.IQueryable<T>"__id*!
+
+%3System.Linq.IQueryable<T>Ö
+Ç
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs)* )(@
+%4string"4Aksaty.Infra.CrossCutting.Util.BaseQuery.OrderBy.get*L
+J
+resourceParams8Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery∫
+∑
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs) )(A
+
+%5bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%4string*
+3
+4*ß
+3n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs+ +(FÖ
+Ç
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs+0 +(F
+%6string"4Aksaty.Infra.CrossCutting.Util.BaseQuery.OrderBy.get*L
+J
+resourceParams8Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery·
+ﬁ
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs+ +(G
+%7System.Linq.IQueryable<T>"bAksaty.Infra.CrossCutting.Util.LinqExtensions.OrderByDynamic<T>(System.Linq.IQueryable<T>, string)*1"/
+-Aksaty.Infra.CrossCutting.Util.LinqExtensions*$
+"
+querySystem.Linq.IQueryable<T>*
+
+%6string¿
+Ω
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs+ +(G"
+querySystem.Linq.IQueryable<T>"__id*!
+
+%7System.Linq.IQueryable<T>*
+5*√
+4n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs/ /(D˛
+˚
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs/ /(E&
+%8 System.Linq.IOrderedQueryable<T>"óSystem.Linq.Queryable.OrderByDescending<TSource, TKey>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TKey>>)*"
+System.Linq.Queryable*$
+"
+querySystem.Linq.IQueryable<T>*
+""«
+ƒ
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs/ /(E"
+querySystem.Linq.IQueryable<T>"__id*(
+&
+%8 System.Linq.IOrderedQueryable<T>*
+5*À
+5n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs1 1(Dè
+å
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs1* 1(D
+%9string">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedById.get*L
+J
+resourceParams8Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQueryª
+∏
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs1 1(E
+%10bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%9string*
+6
+7*®
+6o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs1G 1(âÁ
+‰
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs1O 1(ä 
+%11System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*$
+"
+querySystem.Linq.IQueryable<T>*
+""¬
+ø
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs1G 1(ä"
+querySystem.Linq.IQueryable<T>"__id*"
+ 
+%11System.Linq.IQueryable<T>*
+7* 
+7n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs2 2(Aç
+ä
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs2* 2(A
+%12string";Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.TanentId.get*L
+J
+resourceParams8Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQueryº
+π
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs2 2(B
+%13bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%12string*
+8
+9*®
+8o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs2D 2(ÅÁ
+‰
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs2L 2(Ç 
+%14System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*$
+"
+querySystem.Linq.IQueryable<T>*
+""¬
+ø
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs2D 2(Ç"
+querySystem.Linq.IQueryable<T>"__id*"
+ 
+%14System.Linq.IQueryable<T>*
+9*…
+9n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs4 4(Dä
+á
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs4* 4(D
+%15string"8Aksaty.Infra.CrossCutting.Util.BaseQuery.SearchQuery.get*L
+J
+resourceParams8Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQueryº
+π
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs4 4(E
+%16bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%15string*
+10
+11*®
+10n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs6 >(Iä
+á
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs61 6(K
+%17string"8Aksaty.Infra.CrossCutting.Util.BaseQuery.SearchQuery.get*L
+J
+resourceParams8Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQueryÆ
+´
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs61 6(^
+%18string"string.ToLowerInvariant()*
+
+%17string¢
+ü
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs61 6(e
+%19string"string.Trim()*
+
+%18stringõ
+ò
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs6 6(e
+%20string"8Aksaty.Infra.CrossCutting.Util.BaseQuery.SearchQuery.set*L
+J
+resourceParams8Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery*
+
+%19stringÊ
+„
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs7 >(J 
+%21System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*$
+"
+querySystem.Linq.IQueryable<T>*
+""¡
+æ
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs7 >(J"
+querySystem.Linq.IQueryable<T>"__id*"
+ 
+%21System.Linq.IQueryable<T>*
+11*ò
+11n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs@ B( á
+Ñ
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs@8 @(E
+
+%22int"ESystem.Linq.Queryable.Count<TSource>(System.Linq.IQueryable<TSource>)*"
+System.Linq.Queryable*$
+"
+querySystem.Linq.IQueryable<T>ï
+í
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs@F @(_
+%23System.Nullable<T>"7Aksaty.Infra.CrossCutting.Util.BaseQuery.PageNumber.get*L
+J
+resourceParams8Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery∫
+∑
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs@F @(e
+
+%24int"System.Nullable<T>.Value.get*
+
+%23System.Nullable<T>ì
+ê
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs@g @(~
+%25System.Nullable<T>"5Aksaty.Infra.CrossCutting.Util.BaseQuery.PageSize.get*L
+J
+resourceParams8Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQueryª
+∏
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs@g @(Ñ
+
+%26int"System.Nullable<T>.Value.get*
+
+%25System.Nullable<T>’“
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs@ @(Ö2
+%27+Aksaty.Infra.CrossCutting.Util.PagedList<T>"+Aksaty.Infra.CrossCutting.Util.PagedList<T>¶
+£
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs@" @(7
+%28void"DAksaty.Infra.CrossCutting.Util.PagedList<T>.PagedList(int, int, int)*4
+2
+%27+Aksaty.Infra.CrossCutting.Util.PagedList<T>*
+
+
+%22int*
+
+
+%24int*
+
+
+%26intÍ
+Á
+o
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs@ @(Ö8
+	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>"__id*4
+2
+%27+Aksaty.Infra.CrossCutting.Util.PagedList<T>—
+Œ
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csA A(6"
+%29System.Threading.Tasks.Task"VAksaty.Infra.CrossCutting.Util.PagedList<T>.CreateListAsync(System.Linq.IQueryable<T>)*:
+8
+	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>*$
+"
+querySystem.Linq.IQueryable<T>"¨
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csB B(!:
+8
+	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>*y
+2n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csF F(*
+12*¸
+12n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csI	 I(	"Ö
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csI I(	
+implicit return:J
+resourceParams8Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQueryB53
+1Aksaty.Infra.Data.Repository.AttachmentRepository

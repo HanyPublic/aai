@@ -1,0 +1,3 @@
+†
+0Aksaty.Domain.Events.SaleInstallmentUpdatedEvent)Aksaty.Domain.Events.SaleInstallmentEventNetDevPack.Messaging.EventNetDevPack.Messaging.Messageobjectä
+WSaleInstallmentUpdatedEvent(System.Guid, System.Guid, decimal, System.DateTime, string)ˆAksaty.Domain.Events.SaleInstallmentUpdatedEvent.SaleInstallmentUpdatedEvent(System.Guid, System.Guid, decimal, System.DateTime, string)

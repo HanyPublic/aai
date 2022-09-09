@@ -1,0 +1,4 @@
+Ñ
+7Aksaty.Domain.Attachments.Commands.AddAttachmentCommand4Aksaty.Domain.Attachments.Commands.AttachmentCommand0Aksaty.Infra.CrossCutting.Util.BaseEntityCommandNetDevPack.Messaging.CommandNetDevPack.Messaging.Messageobject™
+nAddAttachmentCommand(System.Guid, string, string, string, string, string, string, System.DateTime, bool, bool)¦Aksaty.Domain.Attachments.Commands.AddAttachmentCommand.AddAttachmentCommand(System.Guid, string, string, string, string, string, string, System.DateTime, bool, bool)N
+	IsValid()AAksaty.Domain.Attachments.Commands.AddAttachmentCommand.IsValid()

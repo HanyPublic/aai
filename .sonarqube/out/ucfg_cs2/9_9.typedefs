@@ -1,0 +1,19 @@
+…
+>Aksaty.Application.EventSourcedNormalizers.CustomerHistoryDataobjectm
+CustomerHistoryData()TAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.CustomerHistoryData()W
+
+Action.getIAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Action.getW
+
+Action.setIAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Action.setO
+Id.getEAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Id.getO
+Id.setEAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Id.setS
+Name.getGAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Name.getS
+Name.setGAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Name.setU
+	Email.getHAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Email.getU
+	Email.setHAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Email.set]
+BirthDate.getLAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.BirthDate.get]
+BirthDate.setLAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.BirthDate.set]
+Timestamp.getLAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Timestamp.get]
+Timestamp.setLAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Timestamp.setQ
+Who.getFAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Who.getQ
+Who.setFAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Who.set

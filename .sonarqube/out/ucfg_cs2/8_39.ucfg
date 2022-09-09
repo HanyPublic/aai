@@ -1,0 +1,37 @@
+
+jAksaty.Infra.Data.Context.EventStoreSqlContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\EventStoreSQLContext.cs  (/"0*√
+0k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\EventStoreSQLContext.cs (-Ã…
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\EventStoreSQLContext.cs, (@/
+%0)Aksaty.Infra.Data.Mappings.StoredEventMap")Aksaty.Infra.Data.Mappings.StoredEventMapÎ
+Ë
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\EventStoreSQLContext.cs0 (>
+
+%1void":Aksaty.Infra.Data.Mappings.StoredEventMap.StoredEventMap()*1
+/
+%0)Aksaty.Infra.Data.Mappings.StoredEventMap˚¯
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\EventStoreSQLContext.cs (A0
+%2*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*1
+/
+%0)Aksaty.Infra.Data.Mappings.StoredEventMap2\ApplyConfiguration<TEntity>(Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>)êç
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\EventStoreSQLContext.cs (.
+
+%3void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*20
+.Aksaty.Infra.Data.Context.EventStoreSqlContext*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*
+1*ı
+1k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\EventStoreSQLContext.cs	 (	"Ç
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\EventStoreSQLContext.cs (	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderB20
+.Aksaty.Infra.Data.Context.EventStoreSqlContext

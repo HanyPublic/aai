@@ -1,0 +1,47 @@
+
+zAksaty.Domain.Events.SaleInstallmentStatusUpdatedEvent.SaleInstallmentStatusUpdatedEvent(System.Guid, System.Guid, string)Ö
+{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentStatusUpdatedEvent.cs (0"1*ë
+1Ö
+{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentStatusUpdatedEvent.cs	 (	
+}
+
+%0void"@Aksaty.Domain.Events.SaleInstallmentEvent.SaleInstallmentEvent()*-+
+)Aksaty.Domain.Events.SaleInstallmentEvent*
+0*∂	
+0Ö
+{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentStatusUpdatedEvent.cs (á
+Ñ
+Ö
+{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentStatusUpdatedEvent.cs (
+%1System.Guid"0Aksaty.Domain.Events.SaleInstallmentEvent.Id.set*-+
+)Aksaty.Domain.Events.SaleInstallmentEvent*
+""ˆ
+Û
+Ö
+{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentStatusUpdatedEvent.cs (
+%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
+NetDevPack.Messaging.Message*
+""ã
+à
+Ö
+{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentStatusUpdatedEvent.cs (
+%3System.Guid"4Aksaty.Domain.Events.SaleInstallmentEvent.SaleId.set*-+
+)Aksaty.Domain.Events.SaleInstallmentEvent*
+""í
+è
+Ö
+{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentStatusUpdatedEvent.cs (
+%4string"4Aksaty.Domain.Events.SaleInstallmentEvent.Status.set*-+
+)Aksaty.Domain.Events.SaleInstallmentEvent*
+
+statusstring*
+2*´
+2Ö
+{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentStatusUpdatedEvent.cs	 (	"ù
+Ö
+{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentStatusUpdatedEvent.cs (	
+implicit return:
+idSystem.Guid:
+saleIdSystem.Guid:
+statusstringB:8
+6Aksaty.Domain.Events.SaleInstallmentStatusUpdatedEvent

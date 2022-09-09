@@ -1,0 +1,57 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.3.0.0",
+        "fileVersion": "4.3.0-3.22365.10 (dd078d4e)",
+        "semanticVersion": "4.3.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "S3875",
+          "level": "warning",
+          "message": "Remove this overload of 'operator =='.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/src/Aksaty.Domain.Core/Models/ValueObject.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 37,
+                  "endLine": 20,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S3875": {
+          "id": "S3875",
+          "shortDescription": "\"operator==\" should not be overloaded on reference types",
+          "fullDescription": "The use of == to compare two objects is expected to do a reference comparison. That is, it is expected to return true if and only if they are the same object instance. Overloading the operator to do anything else will inevitably lead to the introduction of bugs by callers. On the other hand, overloading it to do exactly that is pointless; that’s what == does by default.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3875",
+          "properties": {
+            "category": "Blocker Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

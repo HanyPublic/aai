@@ -1,0 +1,9 @@
+¢
+5Aksaty.Application.Services.SaleInstallmentAppServiceobject8Aksaty.Application.Interfaces.ISaleInstallmentAppService‡
+fSaleInstallmentAppService(NetDevPack.Mediator.IMediatorHandler, MediatR.IMediator, AutoMapper.IMapper)œAksaty.Application.Services.SaleInstallmentAppService.SaleInstallmentAppService(NetDevPack.Mediator.IMediatorHandler, MediatR.IMediator, AutoMapper.IMapper)¾
+BGetById(Aksaty.Application.ViewModels.GetSaleInstallmentViewModel)xAksaty.Application.Services.SaleInstallmentAppService.GetById(Aksaty.Application.ViewModels.GetSaleInstallmentViewModel)Â
+DGetAll(Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel)zAksaty.Application.Services.SaleInstallmentAppService.GetAll(Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel)¶
+>Add(Aksaty.Application.ViewModels.AddSaleInstallmentViewModel)tAksaty.Application.Services.SaleInstallmentAppService.Add(Aksaty.Application.ViewModels.AddSaleInstallmentViewModel)¶
+>Update(Aksaty.Application.ViewModels.SaleInstallmentViewModel)tAksaty.Application.Services.SaleInstallmentAppService.Update(Aksaty.Application.ViewModels.SaleInstallmentViewModel)Â
+DUpdateStatus(Aksaty.Application.ViewModels.SaleInstallmentViewModel)zAksaty.Application.Services.SaleInstallmentAppService.UpdateStatus(Aksaty.Application.ViewModels.SaleInstallmentViewModel)`
+Remove(System.Guid)IAksaty.Application.Services.SaleInstallmentAppService.Remove(System.Guid)

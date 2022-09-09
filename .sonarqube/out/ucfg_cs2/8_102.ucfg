@@ -1,0 +1,113 @@
+
+aAksaty.Infra.Data.Migrations.init.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.csÌ  Ì($"0* 0
+0o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.csÔ ó(!¥±
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.csÔ ()_
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AspNetRoleClaims*
+""2DropTable(string, string)¥±
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.csÚ Û()_
+%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AspNetUserClaims*
+""2DropTable(string, string)¥±
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.csı ˆ()_
+%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AspNetUserLogins*
+""2DropTable(string, string)≥∞
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.cs¯ ˘((_
+%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AspNetUserRoles*
+""2DropTable(string, string)¥±
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.cs˚ ¸()_
+%4YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AspNetUserTokens*
+""2DropTable(string, string)Ø¨
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.cs˛ ˇ($_
+%5YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+Attachments*
+""2DropTable(string, string)¥±
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.csÅ Ç()_
+%6YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+SaleInstallments*
+""2DropTable(string, string)±Æ
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.csÑ Ö(&_
+%7YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+SalesProducts*
+""2DropTable(string, string)¨©
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.csá à(!_
+%8YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+Settings*
+""2DropTable(string, string)Ø¨
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.csä ã($_
+%9YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AspNetRoles*
+""2DropTable(string, string)∞≠
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.csç é($`
+%10YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AspNetUsers*
+""2DropTable(string, string)≠™
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.csê ë(!`
+%11YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+Products*
+""2DropTable(string, string)™ß
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.csì î(`
+%12YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+Sales*
+""2DropTable(string, string)Æ´
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.csñ ó("`
+%13YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+	Customers*
+""2DropTable(string, string)*
+1*˝
+1o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.csò	 ò(	"Ü
+o
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319161040_init.csò ò(	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB%#
+!Aksaty.Infra.Data.Migrations.init

@@ -1,0 +1,64 @@
+
+rAksaty.Infra.Data.Migrations.attachment_base_props.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)~
+tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210428043127_attachment_base_props.cs'  '($"0*å
+0~
+tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210428043127_attachment_base_props.cs) =(ßÜ
+~
+tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210428043127_attachment_base_props.cs) +(%_
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+	CreatedAt*
+Attachments*
+""2"DropColumn(string, string, string)áÞ
+~
+tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210428043127_attachment_base_props.cs- /(%_
+%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+CreatedById*
+Attachments*
+""2"DropColumn(string, string, string)ãà
+~
+tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210428043127_attachment_base_props.cs1 3(%_
+%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+ShowOnWebsite*
+Attachments*
+""2"DropColumn(string, string, string)ÞÛ
+~
+tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210428043127_attachment_base_props.cs5 7(%_
+%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+TanentId*
+Attachments*
+""2"DropColumn(string, string, string)ÍÊ
+~
+tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210428043127_attachment_base_props.cs9 =(_
+%4YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"¦Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+DateCreated*
+Attachments*
+	datetime2*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2lAddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)*
+1*›
+1~
+tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210428043127_attachment_base_props.cs>	 >(	"•
+~
+tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210428043127_attachment_base_props.cs> >(	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB64
+2Aksaty.Infra.Data.Migrations.attachment_base_props

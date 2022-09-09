@@ -1,0 +1,9 @@
+Ø
+)Aksaty.Domain.Handlers.SaleCommandHandler#NetDevPack.Messaging.CommandHandlerobject,MediatR.IRequestHandler<TRequest, TResponse>,MediatR.IRequestHandler<TRequest, TResponse>,MediatR.IRequestHandler<TRequest, TResponse>,MediatR.IRequestHandler<TRequest, TResponse>,MediatR.IRequestHandler<TRequest, TResponse>¯
+§SaleCommandHandler(Aksaty.Domain.Interfaces.ISaleRepository, Aksaty.Domain.Interfaces.ISaleInstallmentRepository, Aksaty.Domain.Interfaces.ISalesProductsRepository)ŒAksaty.Domain.Handlers.SaleCommandHandler.SaleCommandHandler(Aksaty.Domain.Interfaces.ISaleRepository, Aksaty.Domain.Interfaces.ISaleInstallmentRepository, Aksaty.Domain.Interfaces.ISalesProductsRepository)›
+WHandle(Aksaty.Domain.Commands.CreateNewSaleCommand, System.Threading.CancellationToken)ÅAksaty.Domain.Handlers.SaleCommandHandler.Handle(Aksaty.Domain.Commands.CreateNewSaleCommand, System.Threading.CancellationToken)÷
+THandle(Aksaty.Domain.Commands.UpdateSaleCommand, System.Threading.CancellationToken)~Aksaty.Domain.Handlers.SaleCommandHandler.Handle(Aksaty.Domain.Commands.UpdateSaleCommand, System.Threading.CancellationToken)÷
+THandle(Aksaty.Domain.Commands.RemoveSaleCommand, System.Threading.CancellationToken)~Aksaty.Domain.Handlers.SaleCommandHandler.Handle(Aksaty.Domain.Commands.RemoveSaleCommand, System.Threading.CancellationToken)@
+	Dispose()3Aksaty.Domain.Handlers.SaleCommandHandler.Dispose()“
+RHandle(Aksaty.Domain.Queries.GetAllSalesQuery, System.Threading.CancellationToken)|Aksaty.Domain.Handlers.SaleCommandHandler.Handle(Aksaty.Domain.Queries.GetAllSalesQuery, System.Threading.CancellationToken) 
+NHandle(Aksaty.Domain.Queries.GetSaleQuery, System.Threading.CancellationToken)xAksaty.Domain.Handlers.SaleCommandHandler.Handle(Aksaty.Domain.Queries.GetSaleQuery, System.Threading.CancellationToken)

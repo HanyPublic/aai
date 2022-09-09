@@ -1,0 +1,6 @@
+½
+*Aksaty.Infra.Data.Migrations.product_image2Microsoft.EntityFrameworkCore.Migrations.Migrationobject©
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)hAksaty.Infra.Data.Migrations.product_image.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)­
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)jAksaty.Infra.Data.Migrations.product_image.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)§
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)gAksaty.Infra.Data.Migrations.product_image.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)M
+product_image():Aksaty.Infra.Data.Migrations.product_image.product_image()

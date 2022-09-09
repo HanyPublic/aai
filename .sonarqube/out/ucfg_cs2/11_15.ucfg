@@ -1,0 +1,167 @@
+
+iAksaty.Api.Controllers.TanentController.AddUpdateTanent(Aksaty.Application.ViewModels.AddTanentViewModel)m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs.) .(8"4*£
+0m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs0 0("ô
+ñ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs0 0(@
+%0:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary"6Microsoft.AspNetCore.Mvc.ControllerBase.ModelState.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseä
+á
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs0 0("
+
+%1bool"FMicrosoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary.IsValid.get*B
+@
+%0:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary*
+1
+2*œ
+1m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs2 3(TÌ
+Í
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs2) 2(/
+%2string"8Aksaty.Services.Api.Controllers.ApiController.UserId.get*1/
+-Aksaty.Services.Api.Controllers.ApiControllerî
+ë
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs2 2(/
+%3string";Aksaty.Application.ViewModels.AddTanentViewModel.UserId.set*E
+C
+tanentViewModel0Aksaty.Application.ViewModels.AddTanentViewModel*
+
+%2string°
+û
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs3, 3(:5
+%4/Aksaty.Application.Interfaces.ITanentAppService"__id*p*n)
+'Aksaty.Api.Controllers.TanentController"A
+_tanentSerivce/Aksaty.Application.Interfaces.ITanentAppService»≈
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs3, 3(U*
+%5$System.Threading.Tasks.Task<TResult>"kAksaty.Application.Interfaces.ITanentAppService.AddUpdate(Aksaty.Application.ViewModels.AddTanentViewModel)*7
+5
+%4/Aksaty.Application.Interfaces.ITanentAppService*E
+C
+tanentViewModel0Aksaty.Application.ViewModels.AddTanentViewModel2;AddUpdate(Aksaty.Application.ViewModels.AddTanentViewModel)√
+¿
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs3 3(V+
+%6%Microsoft.AspNetCore.Mvc.ActionResult"gAksaty.Services.Api.Controllers.ApiController.CustomResponse(FluentValidation.Results.ValidationResult)*1/
+-Aksaty.Services.Api.Controllers.ApiController*
+"""û
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs3 3(W-
++
+%6%Microsoft.AspNetCore.Mvc.ActionResult*¬
+2m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs7 7(0ô
+ñ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs7& 7(0@
+%7:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary"6Microsoft.AspNetCore.Mvc.ControllerBase.ModelState.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseê
+ç
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs7 7(1+
+%8%Microsoft.AspNetCore.Mvc.ActionResult"xAksaty.Services.Api.Controllers.ApiController.CustomResponse(Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary)*1/
+-Aksaty.Services.Api.Controllers.ApiController*B
+@
+%7:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary"û
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs7 7(2-
++
+%8%Microsoft.AspNetCore.Mvc.ActionResult*˘
+3m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs9	 9(	"Ñ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs9 9(	
+implicit return*º
+4m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs.\ .(\€
+ÿ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs.) .(8Y
+C
+tanentViewModel0Aksaty.Application.ViewModels.AddTanentViewModel"
+ImageUrlstring"__entrypoint⁄
+◊
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs.) .(8X
+C
+tanentViewModel0Aksaty.Application.ViewModels.AddTanentViewModel"
+ImageIdstring"__entrypoint◊
+‘
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs.) .(8U
+C
+tanentViewModel0Aksaty.Application.ViewModels.AddTanentViewModel"
+Namestring"__entrypointÿ
+’
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs.) .(8V
+C
+tanentViewModel0Aksaty.Application.ViewModels.AddTanentViewModel"
+Emailstring"__entrypointŸ
+÷
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs.) .(8W
+C
+tanentViewModel0Aksaty.Application.ViewModels.AddTanentViewModel"
+Mobilestring"__entrypoint⁄
+◊
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs.) .(8X
+C
+tanentViewModel0Aksaty.Application.ViewModels.AddTanentViewModel"
+Addressstring"__entrypoint€
+ÿ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs.) .(8Y
+C
+tanentViewModel0Aksaty.Application.ViewModels.AddTanentViewModel"
+Currencystring"__entrypoint◊
+‘
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs.) .(8U
+C
+tanentViewModel0Aksaty.Application.ViewModels.AddTanentViewModel"
+Logostring"__entrypointŸ
+÷
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs.) .(8W
+C
+tanentViewModel0Aksaty.Application.ViewModels.AddTanentViewModel"
+Colorsstring"__entrypoint◊
+‘
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs.) .(8U
+C
+tanentViewModel0Aksaty.Application.ViewModels.AddTanentViewModel"
+Notestring"__entrypoint·
+ﬁ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs.) .(8_
+C
+tanentViewModel0Aksaty.Application.ViewModels.AddTanentViewModel"
+SignatureArraystring"__entrypoint‚
+ﬂ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs.) .(8`
+C
+tanentViewModel0Aksaty.Application.ViewModels.AddTanentViewModel"
+StampAttachmentstring"__entrypointŸ
+÷
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs.) .(8W
+C
+tanentViewModel0Aksaty.Application.ViewModels.AddTanentViewModel"
+UserIdstring"__entrypointÜ
+É
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\TanentController.cs.) .(8
+%9"__entrypoint*
+0:C
+tanentViewModel0Aksaty.Application.ViewModels.AddTanentViewModelB+)
+'Aksaty.Api.Controllers.TanentController

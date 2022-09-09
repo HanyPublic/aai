@@ -1,0 +1,76 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20210428043031_entities_base_props.cs" />
+    <Compile Remove="Migrations\20210428043031_entities_base_props.Designer.cs" />
+    <Compile Remove="Migrations\20210602002511_customer_attachments_image.cs" />
+    <Compile Remove="Migrations\20210602002511_customer_attachments_image.Designer.cs" />
+    <Compile Remove="Migrations\20210602002728_customer_attachments_image.cs" />
+    <Compile Remove="Migrations\20210602002728_customer_attachments_image.Designer.cs" />
+    <Compile Remove="Migrations\20210602035125_customer_product_image.cs" />
+    <Compile Remove="Migrations\20210602035125_customer_product_image.Designer.cs" />
+    <Compile Remove="Migrations\20210602035140_product_image.cs" />
+    <Compile Remove="Migrations\20210602035140_product_image.Designer.cs" />
+    <Compile Remove="Migrations\20210815232402_nvarchar.cs" />
+    <Compile Remove="Migrations\20210815232402_nvarchar.Designer.cs" />
+    <Compile Remove="Migrations\20210815232837_nvarchar.cs" />
+    <Compile Remove="Migrations\20210815232837_nvarchar.Designer.cs" />
+    <Compile Remove="Migrations\20210816114342_nvaarchar_%40.cs" />
+    <Compile Remove="Migrations\20210816114342_nvaarchar_%40.Designer.cs" />
+    <Compile Remove="Migrations\20210816114630_nvaarchar_2.cs" />
+    <Compile Remove="Migrations\20210816114630_nvaarchar_2.Designer.cs" />
+    <Compile Remove="Migrations\20210816115446_nvaarchar_2.cs" />
+    <Compile Remove="Migrations\20210816115446_nvaarchar_2.Designer.cs" />
+    <Compile Remove="Migrations\20210816115748_nvaarchar_3.cs" />
+    <Compile Remove="Migrations\20210816115748_nvaarchar_3.Designer.cs" />
+    <Compile Remove="Migrations\20210822171705_customer_fields.cs" />
+    <Compile Remove="Migrations\20210822171705_customer_fields.Designer.cs" />
+    <Compile Remove="Migrations\20210822172314_customer_fields.cs" />
+    <Compile Remove="Migrations\20210822172314_customer_fields.Designer.cs" />
+    <Compile Remove="Migrations\20210822173838_customer_fields.cs" />
+    <Compile Remove="Migrations\20210822173838_customer_fields.Designer.cs" />
+    <Compile Remove="Migrations\20210822173924_customer_fields.cs" />
+    <Compile Remove="Migrations\20210822173924_customer_fields.Designer.cs" />
+    <Compile Remove="Migrations\20210822174551_customer_fields.cs" />
+    <Compile Remove="Migrations\20210822174551_customer_fields.Designer.cs" />
+    <Compile Remove="Migrations\20210822174719_customer_fields.cs" />
+    <Compile Remove="Migrations\20210822174719_customer_fields.Designer.cs" />
+    <Compile Remove="Migrations\20210822175132_customer_fields.cs" />
+    <Compile Remove="Migrations\20210822175132_customer_fields.Designer.cs" />
+    <Compile Remove="Migrations\20210822175903_customer_fields.cs" />
+    <Compile Remove="Migrations\20210822175903_customer_fields.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Aksaty.Domain.Attachments\Aksaty.Domain.Attachments.csproj" />
+    <ProjectReference Include="..\..\Aksaty.Domain.Sales\Aksaty.Domain.Sales.csproj" />
+    <ProjectReference Include="..\..\Aksaty.Domain.Settings\Aksaty.Domain.Tanents.csproj" />
+    <ProjectReference Include="..\Aksaty.Domain\Aksaty.Domain.Customer.csproj" />
+    <ProjectReference Include="..\Aksaty.Infra.CrossCutting.Identity\Aksaty.Infra.CrossCutting.Identity.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.4" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.4" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="3.1.4" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.4" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="3.1.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="NetDevPack.Identity">
+      <HintPath>..\..\..\..\Users\conta\.nuget\packages\netdevpack.identity\1.1.1\lib\netcoreapp3.1\NetDevPack.Identity.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

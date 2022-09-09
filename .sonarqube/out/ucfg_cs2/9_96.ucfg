@@ -1,0 +1,92 @@
+
+HAksaty.Application.Services.UserService.GetUserByEmailOrUserName(string)d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs() ((A"0*Û
+0d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs* .(ú
+ô
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs* *(#
+%0string"string.ToLower()*
+
+emailstringñ
+ì
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs* *(*
+%1string"string.Trim()*
+
+%0stringê
+ç
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs* *(*
+emailstring"__id*
+
+%1stringò
+ï
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs+ +()6
+%20Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*o*m)
+'Aksaty.Application.Services.UserService"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>ãà
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs+ +(/
+%3System.Linq.IQueryable<T>":Microsoft.AspNetCore.Identity.UserManager<TUser>.Users.get*8
+6
+%20Microsoft.AspNetCore.Identity.UserManager<TUser>2	Users.getÛ
+
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs+ +(q*
+%4$System.Threading.Tasks.Task<TResult>"‚Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
+
+%3System.Linq.IQueryable<T>*
+""*
+""´
+®
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs+ +(q2
+user*Microsoft.AspNetCore.Identity.IdentityUser"__id*
+""◊
+‘
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs, ,(#
+%5AutoMapper.IMapper"__id*L*J)
+'Aksaty.Application.Services.UserService"
+_mapperAutoMapper.IMapperª∏
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs, ,(<1
+%6+Aksaty.Application.ViewModels.UserViewModel"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%5AutoMapper.IMapper*4
+2
+user*Microsoft.AspNetCore.Identity.IdentityUser2Map<TDestination>(object)ﬁ
+€
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs, ,(<8
+	userModel+Aksaty.Application.ViewModels.UserViewModel"__id*3
+1
+%6+Aksaty.Application.ViewModels.UserViewModelÿ
+’
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs-# -(3*
+%7$System.Threading.Tasks.Task<TResult>"^Aksaty.Application.Services.UserService.GetFullJwt(Microsoft.AspNetCore.Identity.IdentityUser)*+)
+'Aksaty.Application.Services.UserService*4
+2
+user*Microsoft.AspNetCore.Identity.IdentityUserˆ
+Û
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs- -(3
+%8string"9Aksaty.Application.ViewModels.UserBaseViewModel.Token.set*:
+8
+	userModel+Aksaty.Application.ViewModels.UserViewModel*
+"""¢
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs. .(:
+8
+	userModel+Aksaty.Application.ViewModels.UserViewModel*Ê
+1d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs/	 /(	"{
+d
+ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs/ /(	
+implicit return:
+emailstringB+)
+'Aksaty.Application.Services.UserService

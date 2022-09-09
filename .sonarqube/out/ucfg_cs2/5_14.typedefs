@@ -1,0 +1,6 @@
+®
+4Aksaty.Domain.Tanents.Handlers.TanentCommandsHandler#NetDevPack.Messaging.CommandHandlerobject,MediatR.IRequestHandler<TRequest, TResponse>,MediatR.IRequestHandler<TRequest, TResponse>»
+ATanentCommandsHandler(Aksaty.Domain.Interfaces.ITanentRepository)vAksaty.Domain.Tanents.Handlers.TanentCommandsHandler.TanentCommandsHandler(Aksaty.Domain.Interfaces.ITanentRepository)ò
+\Handle(Aksaty.Domain.Tanents.Queries.GetTanentByIdQuery, System.Threading.CancellationToken)‘Aksaty.Domain.Tanents.Handlers.TanentCommandsHandler.Handle(Aksaty.Domain.Tanents.Queries.GetTanentByIdQuery, System.Threading.CancellationToken)ì
+YHandle(Aksaty.Domain.Commands.AddUpdateTanentCommand, System.Threading.CancellationToken)ŽAksaty.Domain.Tanents.Handlers.TanentCommandsHandler.Handle(Aksaty.Domain.Commands.AddUpdateTanentCommand, System.Threading.CancellationToken)K
+	Dispose()>Aksaty.Domain.Tanents.Handlers.TanentCommandsHandler.Dispose()

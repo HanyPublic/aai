@@ -1,0 +1,9 @@
+Ç
+)Aksaty.Domain.Queries.GetAllProductsQuery(Aksaty.Infra.CrossCutting.Util.BaseQuery.Aksaty.Infra.CrossCutting.Util.BaseEntityQueryobjectMediatR.IRequest<TResponse>Ò
+RGetAllProductsQuery(decimal?, decimal?, bool?, System.DateTime?, System.DateTime?)|Aksaty.Domain.Queries.GetAllProductsQuery.GetAllProductsQuery(decimal?, decimal?, bool?, System.DateTime?, System.DateTime?)H
+MinAmount.get7Aksaty.Domain.Queries.GetAllProductsQuery.MinAmount.getH
+MinAmount.set7Aksaty.Domain.Queries.GetAllProductsQuery.MinAmount.setH
+MaxAmount.get7Aksaty.Domain.Queries.GetAllProductsQuery.MaxAmount.getH
+MaxAmount.set7Aksaty.Domain.Queries.GetAllProductsQuery.MaxAmount.setN
+IncludeSales.get:Aksaty.Domain.Queries.GetAllProductsQuery.IncludeSales.getN
+IncludeSales.set:Aksaty.Domain.Queries.GetAllProductsQuery.IncludeSales.set

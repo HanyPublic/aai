@@ -1,0 +1,145 @@
+{
+ "vulnerabilities": [
+  {
+   "cvss": 5,
+   "cwe": "CWE-316",
+   "line": 13,
+   "class": "UserLogInViewModel.cs (13:16)",
+   "vul_id": "40f52c9430ba2fcec3c04a61dd6d9d18",
+   "method": "public string Password { get; set; }",
+   "column": 16,
+   "description": "The code uses standard strings and byte arrays to store sensitive transient data, such as passwords and private encryption keys, instead of the SecureString class which is more secure because it encrypts the data at rest https://docs.microsoft. com / en-us / dotnet / api / system.security.securestring? view = netframework-4.8.",
+   "classMessage": "src\\Aksaty.Application\\ViewModels\\UserViewModels\\UserLogInViewModel.cs (13:16)"
+  },
+  {
+   "cvss": 5,
+   "cwe": "CWE-316",
+   "line": 12,
+   "class": "UserRegisterViewModel.cs (12:16)",
+   "vul_id": "175ced1cd7cda70e90729b14ca27ec47",
+   "method": "public string Password { get; set; }",
+   "column": 16,
+   "description": "The code uses standard strings and byte arrays to store sensitive transient data, such as passwords and private encryption keys, instead of the SecureString class which is more secure because it encrypts the data at rest https://docs.microsoft. com / en-us / dotnet / api / system.security.securestring? view = netframework-4.8.",
+   "classMessage": "src\\Aksaty.Application\\ViewModels\\UserViewModels\\UserRegisterViewModel.cs (12:16)"
+  },
+  {
+   "cvss": 2,
+   "cwe": "CWE-352",
+   "line": 12,
+   "class": "ApiController.cs (12:1)",
+   "vul_id": "e9c47300bcc2398155d5aa3114613839",
+   "method": "public abstract class ApiController : ControllerBase",
+   "column": 1,
+   "description": "The Anti-forgery token is missing. Without this validation, an attacker could send a link to the victim and, visiting the malicious link, a web page would trigger a POST request (because it is a blind attack - the attacker does not see a response to the triggered request and does not have the use of the GET request and GET requests must not change a server state by default) for the site. The victim would not be able to recognize that an action is taken in the background, but his cookie would be sent automatically if he was authenticated on the website. This attack requires no special interaction other than visiting a website.",
+   "classMessage": "src\\Aksaty.Services.Api\\Controllers\\ApiController.cs (12:1)",
+   "recomendation": "To help prevent CSRF attacks, ASP.NET MVC uses anti-forgery tokens, also called request verification tokens.\n\n- The customer requests an HTML page that contains a form.\n\n- The server includes two tokens in the response. A token is sent as a cookie. The other is placed in a hidden form field. Tokens are generated randomly so that an opponent cannot guess the values.\n\nhttps://docs.microsoft.com/en-us/aspnet/web-api/overview/security/preventing-cross-site-request-forgery-csrf-attacks\n\n- When the client submits the form, he must send the two tokens back to the server. The client sends the cookie token as a cookie and sends the form token within the form data. (A browser client does this automatically when the user submits the form.)\n\n- If a request does not include both tokens, the server will not allow the request."
+  },
+  {
+   "cvss": 2,
+   "cwe": "CWE-352",
+   "line": 15,
+   "class": "CustomerController.cs (15:5)",
+   "vul_id": "6de0929c6dcb83dc9f345221916a25dd",
+   "method": "public class CustomerController : ApiController",
+   "column": 5,
+   "description": "The Anti-forgery token is missing. Without this validation, an attacker could send a link to the victim and, visiting the malicious link, a web page would trigger a POST request (because it is a blind attack - the attacker does not see a response to the triggered request and does not have the use of the GET request and GET requests must not change a server state by default) for the site. The victim would not be able to recognize that an action is taken in the background, but his cookie would be sent automatically if he was authenticated on the website. This attack requires no special interaction other than visiting a website.",
+   "classMessage": "src\\Aksaty.Services.Api\\Controllers\\CustomerController.cs (15:5)",
+   "recomendation": "To help prevent CSRF attacks, ASP.NET MVC uses anti-forgery tokens, also called request verification tokens.\n\n- The customer requests an HTML page that contains a form.\n\n- The server includes two tokens in the response. A token is sent as a cookie. The other is placed in a hidden form field. Tokens are generated randomly so that an opponent cannot guess the values.\n\nhttps://docs.microsoft.com/en-us/aspnet/web-api/overview/security/preventing-cross-site-request-forgery-csrf-attacks\n\n- When the client submits the form, he must send the two tokens back to the server. The client sends the cookie token as a cookie and sends the form token within the form data. (A browser client does this automatically when the user submits the form.)\n\n- If a request does not include both tokens, the server will not allow the request."
+  },
+  {
+   "cvss": 2,
+   "cwe": "CWE-352",
+   "line": 14,
+   "class": "AccountController.cs (14:5)",
+   "vul_id": "7fa370a57069ac4f19ecfcdbaa6f119e",
+   "method": "public class AccountController : ApiController",
+   "column": 5,
+   "description": "The Anti-forgery token is missing. Without this validation, an attacker could send a link to the victim and, visiting the malicious link, a web page would trigger a POST request (because it is a blind attack - the attacker does not see a response to the triggered request and does not have the use of the GET request and GET requests must not change a server state by default) for the site. The victim would not be able to recognize that an action is taken in the background, but his cookie would be sent automatically if he was authenticated on the website. This attack requires no special interaction other than visiting a website.",
+   "classMessage": "src\\Aksaty.Services.Api\\Controllers\\AccountController.cs (14:5)",
+   "recomendation": "To help prevent CSRF attacks, ASP.NET MVC uses anti-forgery tokens, also called request verification tokens.\n\n- The customer requests an HTML page that contains a form.\n\n- The server includes two tokens in the response. A token is sent as a cookie. The other is placed in a hidden form field. Tokens are generated randomly so that an opponent cannot guess the values.\n\nhttps://docs.microsoft.com/en-us/aspnet/web-api/overview/security/preventing-cross-site-request-forgery-csrf-attacks\n\n- When the client submits the form, he must send the two tokens back to the server. The client sends the cookie token as a cookie and sends the form token within the form data. (A browser client does this automatically when the user submits the form.)\n\n- If a request does not include both tokens, the server will not allow the request."
+  },
+  {
+   "cvss": 2,
+   "cwe": "CWE-352",
+   "line": 16,
+   "class": "ProductController.cs (16:5)",
+   "vul_id": "304fd7042c98f0dcee417c791b6d6252",
+   "method": "public class ProductController : ApiController",
+   "column": 5,
+   "description": "The Anti-forgery token is missing. Without this validation, an attacker could send a link to the victim and, visiting the malicious link, a web page would trigger a POST request (because it is a blind attack - the attacker does not see a response to the triggered request and does not have the use of the GET request and GET requests must not change a server state by default) for the site. The victim would not be able to recognize that an action is taken in the background, but his cookie would be sent automatically if he was authenticated on the website. This attack requires no special interaction other than visiting a website.",
+   "classMessage": "src\\Aksaty.Services.Api\\Controllers\\ProductController.cs (16:5)",
+   "recomendation": "To help prevent CSRF attacks, ASP.NET MVC uses anti-forgery tokens, also called request verification tokens.\n\n- The customer requests an HTML page that contains a form.\n\n- The server includes two tokens in the response. A token is sent as a cookie. The other is placed in a hidden form field. Tokens are generated randomly so that an opponent cannot guess the values.\n\nhttps://docs.microsoft.com/en-us/aspnet/web-api/overview/security/preventing-cross-site-request-forgery-csrf-attacks\n\n- When the client submits the form, he must send the two tokens back to the server. The client sends the cookie token as a cookie and sends the form token within the form data. (A browser client does this automatically when the user submits the form.)\n\n- If a request does not include both tokens, the server will not allow the request."
+  },
+  {
+   "cvss": 2,
+   "cwe": "CWE-352",
+   "line": 19,
+   "class": "SaleController.cs (19:5)",
+   "vul_id": "0fae07c27a2d019e499f51a8501b990a",
+   "method": "public class SaleController : ApiController",
+   "column": 5,
+   "description": "The Anti-forgery token is missing. Without this validation, an attacker could send a link to the victim and, visiting the malicious link, a web page would trigger a POST request (because it is a blind attack - the attacker does not see a response to the triggered request and does not have the use of the GET request and GET requests must not change a server state by default) for the site. The victim would not be able to recognize that an action is taken in the background, but his cookie would be sent automatically if he was authenticated on the website. This attack requires no special interaction other than visiting a website.",
+   "classMessage": "src\\Aksaty.Services.Api\\Controllers\\SaleController.cs (19:5)",
+   "recomendation": "To help prevent CSRF attacks, ASP.NET MVC uses anti-forgery tokens, also called request verification tokens.\n\n- The customer requests an HTML page that contains a form.\n\n- The server includes two tokens in the response. A token is sent as a cookie. The other is placed in a hidden form field. Tokens are generated randomly so that an opponent cannot guess the values.\n\nhttps://docs.microsoft.com/en-us/aspnet/web-api/overview/security/preventing-cross-site-request-forgery-csrf-attacks\n\n- When the client submits the form, he must send the two tokens back to the server. The client sends the cookie token as a cookie and sends the form token within the form data. (A browser client does this automatically when the user submits the form.)\n\n- If a request does not include both tokens, the server will not allow the request."
+  },
+  {
+   "cvss": 2,
+   "cwe": "CWE-352",
+   "line": 16,
+   "class": "SaleInstallmentController.cs (16:5)",
+   "vul_id": "710cfeb76e352ae16c64721af9fb7776",
+   "method": "public class SaleInstallmentController : ApiController",
+   "column": 5,
+   "description": "The Anti-forgery token is missing. Without this validation, an attacker could send a link to the victim and, visiting the malicious link, a web page would trigger a POST request (because it is a blind attack - the attacker does not see a response to the triggered request and does not have the use of the GET request and GET requests must not change a server state by default) for the site. The victim would not be able to recognize that an action is taken in the background, but his cookie would be sent automatically if he was authenticated on the website. This attack requires no special interaction other than visiting a website.",
+   "classMessage": "src\\Aksaty.Services.Api\\Controllers\\SaleInstallmentController.cs (16:5)",
+   "recomendation": "To help prevent CSRF attacks, ASP.NET MVC uses anti-forgery tokens, also called request verification tokens.\n\n- The customer requests an HTML page that contains a form.\n\n- The server includes two tokens in the response. A token is sent as a cookie. The other is placed in a hidden form field. Tokens are generated randomly so that an opponent cannot guess the values.\n\nhttps://docs.microsoft.com/en-us/aspnet/web-api/overview/security/preventing-cross-site-request-forgery-csrf-attacks\n\n- When the client submits the form, he must send the two tokens back to the server. The client sends the cookie token as a cookie and sends the form token within the form data. (A browser client does this automatically when the user submits the form.)\n\n- If a request does not include both tokens, the server will not allow the request."
+  },
+  {
+   "cvss": 2,
+   "cwe": "CWE-352",
+   "line": 16,
+   "class": "TanentController.cs (16:5)",
+   "vul_id": "5530bcd3c71b7e7d4c37f839acacd61d",
+   "method": "public class TanentController : ApiController",
+   "column": 5,
+   "description": "The Anti-forgery token is missing. Without this validation, an attacker could send a link to the victim and, visiting the malicious link, a web page would trigger a POST request (because it is a blind attack - the attacker does not see a response to the triggered request and does not have the use of the GET request and GET requests must not change a server state by default) for the site. The victim would not be able to recognize that an action is taken in the background, but his cookie would be sent automatically if he was authenticated on the website. This attack requires no special interaction other than visiting a website.",
+   "classMessage": "src\\Aksaty.Services.Api\\Controllers\\TanentController.cs (16:5)",
+   "recomendation": "To help prevent CSRF attacks, ASP.NET MVC uses anti-forgery tokens, also called request verification tokens.\n\n- The customer requests an HTML page that contains a form.\n\n- The server includes two tokens in the response. A token is sent as a cookie. The other is placed in a hidden form field. Tokens are generated randomly so that an opponent cannot guess the values.\n\nhttps://docs.microsoft.com/en-us/aspnet/web-api/overview/security/preventing-cross-site-request-forgery-csrf-attacks\n\n- When the client submits the form, he must send the two tokens back to the server. The client sends the cookie token as a cookie and sends the form token within the form data. (A browser client does this automatically when the user submits the form.)\n\n- If a request does not include both tokens, the server will not allow the request."
+  },
+  {
+   "cvss": 6,
+   "cwe": "CWE-79",
+   "line": 24,
+   "class": "AttachmentController.cs (24:5)",
+   "vul_id": "c6c462834219282e9fdc63980cd53ab8",
+   "method": "public class AttachmentController : ApiController",
+   "column": 5,
+   "description": "A potential Cross-Site Scripting (XSS) was found. The endpoint returns a variable from the client entry that has not been coded. Always encode untrusted input before output, regardless of validation or cleaning performed. https://docs.microsoft.com/en-us/aspnet/core/security/cross-site-scripting?view=aspnetcore-3.1",
+   "classMessage": "src\\Aksaty.Services.Api\\Controllers\\AttachmentController.cs (24:5)"
+  },
+  {
+   "cvss": 2,
+   "cwe": "CWE-352",
+   "line": 24,
+   "class": "AttachmentController.cs (24:5)",
+   "vul_id": "c6c462834219282e9fdc63980cd53ab8",
+   "method": "public class AttachmentController : ApiController",
+   "column": 5,
+   "description": "The Anti-forgery token is missing. Without this validation, an attacker could send a link to the victim and, visiting the malicious link, a web page would trigger a POST request (because it is a blind attack - the attacker does not see a response to the triggered request and does not have the use of the GET request and GET requests must not change a server state by default) for the site. The victim would not be able to recognize that an action is taken in the background, but his cookie would be sent automatically if he was authenticated on the website. This attack requires no special interaction other than visiting a website.",
+   "classMessage": "src\\Aksaty.Services.Api\\Controllers\\AttachmentController.cs (24:5)",
+   "recomendation": "To help prevent CSRF attacks, ASP.NET MVC uses anti-forgery tokens, also called request verification tokens.\n\n- The customer requests an HTML page that contains a form.\n\n- The server includes two tokens in the response. A token is sent as a cookie. The other is placed in a hidden form field. Tokens are generated randomly so that an opponent cannot guess the values.\n\nhttps://docs.microsoft.com/en-us/aspnet/web-api/overview/security/preventing-cross-site-request-forgery-csrf-attacks\n\n- When the client submits the form, he must send the two tokens back to the server. The client sends the cookie token as a cookie and sends the form token within the form data. (A browser client does this automatically when the user submits the form.)\n\n- If a request does not include both tokens, the server will not allow the request."
+  }
+ ],
+ "none": 0,
+ "low": 8,
+ "medium": 3,
+ "high": 0,
+ "critical": 0,
+ "total": 11,
+ "sast": {
+  "averageCvss": 6,
+  "securityScore": 40,
+  "size": "1076636 Bytes",
+  "numberOfLines": 24157
+ }
+}

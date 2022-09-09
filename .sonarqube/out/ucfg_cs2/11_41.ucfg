@@ -1,0 +1,223 @@
+
+tAksaty.Api.Controllers.AttachmentController.GetAttachments(Aksaty.Application.ViewModels.GetAllAttachmentsViewModel)q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csL) L(7"8*‘
+0q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csN N(Zì
+ê
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csN? N(Z
+%0string">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedById.get*M
+K
+getAllViewModel8Aksaty.Application.ViewModels.GetAllAttachmentsViewModelΩ
+∫
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csN* N([
+
+%1bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%0string*
+1
+2*ß
+1q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csN^ N(iÔ
+Ï
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csN^ N(i
+%5string"8Aksaty.Services.Api.Controllers.ApiController.UserId.get*/-
++Aksaty.Api.Controllers.AttachmentControllerö
+ó
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csN^ N(i
+%3string"__id*
+
+%5stringö
+ó
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csN^ N(i
+%2string"__id*
+
+%3string*
+3*œ
+2r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csNl N(áî
+ë
+r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csNl N(á
+%6string">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedById.get*M
+K
+getAllViewModel8Aksaty.Application.ViewModels.GetAllAttachmentsViewModelõ
+ò
+r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csNl N(á
+%4string"__id*
+
+%6stringõ
+ò
+r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csNl N(á
+%2string"__id*
+
+%4string*
+3*¯
+3q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csN O(T§
+°
+r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csN N(á
+%7string">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedById.set*M
+K
+getAllViewModel8Aksaty.Application.ViewModels.GetAllAttachmentsViewModel*
+
+%2stringê
+ç
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csO< O(T
+%8string";Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.TanentId.get*M
+K
+getAllViewModel8Aksaty.Application.ViewModels.GetAllAttachmentsViewModelΩ
+∫
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csO' O(U
+
+%9bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%8string*
+4
+5*Æ
+4q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csOX O(eÚ
+Ô
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csOX O(e
+%13string":Aksaty.Services.Api.Controllers.ApiController.TanentId.get*/-
++Aksaty.Api.Controllers.AttachmentControllerú
+ô
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csOX O(e
+%11string"__id*
+
+%13stringú
+ô
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csOX O(e
+%10string"__id*
+
+%11string*
+6*—
+5r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csOh O(Äí
+è
+r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csOh O(Ä
+%14string";Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.TanentId.get*M
+K
+getAllViewModel8Aksaty.Application.ViewModels.GetAllAttachmentsViewModelù
+ö
+r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csOh O(Ä
+%12string"__id*
+
+%14stringù
+ö
+r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csOh O(Ä
+%10string"__id*
+
+%12string*
+6*¨
+6q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csO R(1£
+†
+r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csO O(Ä
+%15string";Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.TanentId.set*M
+K
+getAllViewModel8Aksaty.Application.ViewModels.GetAllAttachmentsViewModel*
+
+%10stringπ
+∂
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csP" P(7:
+%163Aksaty.Application.Interfaces.IAttachmentAppService"__id**}-
++Aksaty.Api.Controllers.AttachmentController"L
+_attachmentAppService3Aksaty.Application.Interfaces.IAttachmentAppServiceËÂ
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csP" P(O+
+%17$System.Threading.Tasks.Task<TResult>"tAksaty.Application.Interfaces.IAttachmentAppService.GetAll(Aksaty.Application.ViewModels.GetAllAttachmentsViewModel)*<
+:
+%163Aksaty.Application.Interfaces.IAttachmentAppService*M
+K
+getAllViewModel8Aksaty.Application.ViewModels.GetAllAttachmentsViewModel2@GetAll(Aksaty.Application.ViewModels.GetAllAttachmentsViewModel)æ
+ª
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csP P(O8
+	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>"__id*
+""à
+Ö
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csQ Q(-
+%18&Microsoft.AspNetCore.Http.HttpResponse"4Microsoft.AspNetCore.Mvc.ControllerBase.Response.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseè
+å
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csQ Q(2
+%19+Microsoft.AspNetCore.Http.IHeaderDictionary"2Microsoft.AspNetCore.Http.HttpResponse.Headers.get*/
+-
+%18&Microsoft.AspNetCore.Http.HttpResponse¸
+˘
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csQ+ Q(B
+%20string"9Aksaty.Infra.CrossCutting.Util.PagedList<T>.GetMetaData()*:
+8
+	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>Ò
+Ó
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csQ Q(C
+%21void"qAksaty.Infra.CrossCutting.Util.ResponseHeaders.AddPagination(Microsoft.AspNetCore.Http.IHeaderDictionary, string)*2"0
+.Aksaty.Infra.CrossCutting.Util.ResponseHeaders*4
+2
+%19+Microsoft.AspNetCore.Http.IHeaderDictionary*
+
+%20stringõ
+ò
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csR" R(10
+%22)System.Collections.Generic.IEnumerable<T>"5Aksaty.Infra.CrossCutting.Util.PagedList<T>.Items.get*:
+8
+	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>—
+Œ
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csR R(2,
+%23%Microsoft.AspNetCore.Mvc.ActionResult"DAksaty.Services.Api.Controllers.ApiController.CustomResponse(object)*1/
+-Aksaty.Services.Api.Controllers.ApiController*2
+0
+%22)System.Collections.Generic.IEnumerable<T>"£
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csR R(3.
+,
+%23%Microsoft.AspNetCore.Mvc.ActionResult*Å
+7q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csS	 S(	"à
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csS S(	
+implicit return*ı
+8q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csLo L(oÈ
+Ê
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csL) L(7c
+K
+getAllViewModel8Aksaty.Application.ViewModels.GetAllAttachmentsViewModel"
+
+EntityTypestring"__entrypointã
+à
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csL) L(7
+%24"__entrypoint*
+0:K
+getAllViewModel8Aksaty.Application.ViewModels.GetAllAttachmentsViewModelB/-
++Aksaty.Api.Controllers.AttachmentController

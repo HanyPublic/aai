@@ -1,0 +1,41 @@
+
+kAksaty.Infra.Data.Migrations.tanentSettings.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)w
+mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210414195709_tanentSettings.cs  ($"0*™
+0w
+mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210414195709_tanentSettings.cs )(!ÚÔ
+w
+mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210414195709_tanentSettings.cs !("_
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"`Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropForeignKey(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*" 
+FK_Settings_AspNetUsers_UserId*
+
+Settings*
+""2&DropForeignKey(string, string, string)‹Ÿ
+w
+mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210414195709_tanentSettings.cs# %("_
+%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"[Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropIndex(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+IX_Settings_UserId*
+
+Settings*
+""2!DropIndex(string, string, string)“œ
+w
+mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210414195709_tanentSettings.cs' )("_
+%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+UserId*
+
+Settings*
+""2"DropColumn(string, string, string)*
+1*ç
+1w
+mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210414195709_tanentSettings.cs*	 *(	"é
+w
+mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210414195709_tanentSettings.cs* *(	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB/-
++Aksaty.Infra.Data.Migrations.tanentSettings

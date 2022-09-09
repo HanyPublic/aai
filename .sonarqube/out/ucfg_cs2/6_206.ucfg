@@ -1,0 +1,37 @@
+
+HAksaty.Domain.Queries.GetProductQuery.GetProductQuery(System.Guid, bool)l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetProductQuery.cs ("1*á
+1l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetProductQuery.cs	 (	è
+å
+l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetProductQuery.cs (7
+
+%0bool"6Aksaty.Domain.Queries.GetProductQuery.IncludeSales.set*)'
+%Aksaty.Domain.Queries.GetProductQuery*
+""*
+0*É
+0l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetProductQuery.cs ('å
+â
+l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetProductQuery.cs (
+%1System.Guid",Aksaty.Domain.Queries.GetProductQuery.Id.set*)'
+%Aksaty.Domain.Queries.GetProductQuery*
+""è
+å
+l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetProductQuery.cs ('
+
+%2bool"6Aksaty.Domain.Queries.GetProductQuery.IncludeSales.set*)'
+%Aksaty.Domain.Queries.GetProductQuery*
+""*
+2*÷
+2l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetProductQuery.cs	 (	"ƒ
+l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetProductQuery.cs (	
+implicit return:
+idSystem.Guid:
+includeSalesboolB)'
+%Aksaty.Domain.Queries.GetProductQuery

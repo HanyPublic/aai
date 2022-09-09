@@ -1,0 +1,653 @@
+
+jAksaty.Infra.Data.Migrations.customer_fields.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)x
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs  (""0*÷¨
+0y
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs	 À(!·ﬁ
+x
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs	 ("d
+%0^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+SignatureArray*	
+Tanents*
+nvarchar(1000)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)◊‘
+x
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs ("d
+%1^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+Note*	
+Tanents*
+nvarchar(1000)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)÷”
+x
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs "("d
+%2^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+Name*	
+Tanents*
+nvarchar(300)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)ÿ’
+x
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs$ +("d
+%3^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+Mobile*	
+Tanents*
+nvarchar(200)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)◊‘
+x
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs- 4("d
+%4^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+Email*	
+Tanents*
+nvarchar(500)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)Ÿ÷
+x
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs6 =("d
+%5^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+Currency*	
+Tanents*
+nvarchar(50)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)⁄◊
+x
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs? F("d
+%6^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+Address*	
+Tanents*
+nvarchar(1000)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)◊‘
+x
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csH O("d
+%7^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+Name*
+
+Products*
+nvarchar(500)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)€ÿ
+x
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csQ X("d
+%8^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+Category*
+
+Products*
+nvarchar(500)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)ﬁ€
+x
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csZ a("d
+%9^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+NationalId*
+	Customers*
+nvarchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)◊‘
+x
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csc j("e
+%10^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+Name*
+	Customers*
+nvarchar(200)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*2d*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)‹Ÿ
+x
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csl s("e
+%11^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+Mobile2*
+	Customers*
+nvarchar(200)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)€ÿ
+x
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csu |("e
+%12^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+Mobile*
+	Customers*
+nvarchar(200)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)Ÿ÷
+y
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs~ Ö("e
+%13^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+Email*
+	Customers*
+nvarchar(300)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*2d*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)ﬂ‹
+z
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csá é("e
+%14^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+Address*
+	Customers*
+nvarchar(1000)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)∆√
+z
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csê î(`
+%15YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"¶Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+Notes*
+	Customers*
+nvarchar(500)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2lAddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)≈¬
+z
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csñ ö(`
+%16YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"¶Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+RefId*
+	Customers*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2lAddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)«ƒ
+z
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csú †(`
+%17YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"¶Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+Review*
+	Customers*
+nvarchar(200)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2lAddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)›⁄
+z
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs¢ ©("e
+%18^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+URL*
+Attachments*
+nvarchar(2000)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)ËÂ
+z
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs´ ±((e
+%19^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+SystemFileName*
+Attachments*
+nvarchar(1000)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)ËÂ
+z
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs≥ π((e
+%20^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+SourceFileName*
+Attachments*
+nvarchar(1000)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)Â‚
+z
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csª ¬("e
+%21^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+SeoFileName*
+Attachments*
+nvarchar(1000)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)‰·
+z
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csƒ À("e
+%22^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+Description*
+Attachments*
+nvarchar(500)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+varchar(100)*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*
+1*ì
+1z
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csÃ	 Ã(	"ë
+z
+nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csÃ Ã(	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB0.
+,Aksaty.Infra.Data.Migrations.customer_fields

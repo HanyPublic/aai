@@ -1,0 +1,33 @@
+
+AAksaty.Domain.Commands.Validations.SaleValidation<T>.ValidateId()u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\SaleValidation.cs (!"0*Ê
+0u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\SaleValidation.cs ($à
+Ý
+u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\SaleValidation.cs (8
+%02FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*)'
+%FluentValidation.AbstractValidator<T>*
+""Ž
+‹
+u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\SaleValidation.cs ($
+%1"__id*
+""Ô
+Ñ
+u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\SaleValidation.cs (%8
+%22FluentValidation.IRuleBuilderOptions<T, TProperty>" FluentValidation.DefaultValidatorExtensions.NotEqual<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>, TProperty, System.Collections.IEqualityComparer)*/"-
++FluentValidation.DefaultValidatorExtensions*:
+8
+%02FluentValidation.IRuleBuilderInitial<T, TProperty>*
+
+%1*
+""*
+1*‰
+1u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\SaleValidation.cs 	  (	"Œ
+u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\SaleValidation.cs   (	
+implicit returnB86
+4Aksaty.Domain.Commands.Validations.SaleValidation<T>

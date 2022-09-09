@@ -1,0 +1,34 @@
+
+ÐAksaty.Infra.Data.Repository.SaleInstallmentRepository.GetAllList(Aksaty.Domain.Queries.GetAllSaleInstallmentQuery, System.Linq.Expressions.Expression<System.Func<Aksaty.Domain.Models.SaleInstallment, bool>>)s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs"+ "(5"0*ú	
+0s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs$ $(/¤
+¡
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs$ $(0
+%0System.Linq.IQueryable<T>"ÑAksaty.Infra.Data.Repository.SaleInstallmentRepository.GetAllQuery(Aksaty.Domain.Queries.GetAllSaleInstallmentQuery, System.Linq.Expressions.Expression<System.Func<Aksaty.Domain.Models.SaleInstallment, bool>>)*:8
+6Aksaty.Infra.Data.Repository.SaleInstallmentRepository*A
+?
+queryParams0Aksaty.Domain.Queries.GetAllSaleInstallmentQuery*6
+4
+exp-System.Linq.Expressions.Expression<TDelegate>²
+¯
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs$ $(>*
+%1$System.Threading.Tasks.Task<TResult>"šMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
+
+%0System.Linq.IQueryable<T>*
+"""£
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs$ $(?,
+*
+%1$System.Threading.Tasks.Task<TResult>*…
+1s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs%	 %(	"Š
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs% %(	
+implicit return:?
+queryParams0Aksaty.Domain.Queries.GetAllSaleInstallmentQuery:4
+exp-System.Linq.Expressions.Expression<TDelegate>B:8
+6Aksaty.Infra.Data.Repository.SaleInstallmentRepository

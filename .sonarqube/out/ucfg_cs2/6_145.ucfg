@@ -1,0 +1,22 @@
+
+ŽAksaty.Domain.Handlers.SaleInstallmentEventsHandler.Handle(Aksaty.Domain.Events.SaleInstallmentAddedEvent, System.Threading.CancellationToken)‚
+xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentEventsHandler.cs ("0*³
+0‚
+xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentEventsHandler.cs (%û
+ø
+‚
+xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentEventsHandler.cs (%!
+%0System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*"
+System.Threading.Tasks.Task"ª
+‚
+xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentEventsHandler.cs (&#
+!
+%0System.Threading.Tasks.Task*¥
+1‚
+xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentEventsHandler.cs	 (	"š
+‚
+xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentEventsHandler.cs (	
+implicit return:>
+notification.Aksaty.Domain.Events.SaleInstallmentAddedEvent:7
+cancellationToken"System.Threading.CancellationTokenB75
+3Aksaty.Domain.Handlers.SaleInstallmentEventsHandler

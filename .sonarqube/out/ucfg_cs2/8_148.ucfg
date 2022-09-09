@@ -1,0 +1,433 @@
+
+`Aksaty.Infra.Data.Repository.ProductRepository.GetAll(Aksaty.Domain.Queries.GetAllProductsQuery)k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs .  (4"0*£
+0k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs" ((1ò
+ï
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs" "(2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*l*j0
+.Aksaty.Infra.Data.Repository.ProductRepository"6
+_dbSet,Microsoft.EntityFrameworkCore.DbSet<TEntity>Ü
+É
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs" "(-
+%1System.Linq.IQueryable<T>"wMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AsNoTracking<TEntity>(System.Linq.IQueryable<TEntity>)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>ﬂ
+‹
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs" &(-
+%2System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*!
+
+%1System.Linq.IQueryable<T>*
+""Æ
+´
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs" &(;
+%3System.Linq.IQueryable<T>"]System.Linq.Queryable.AsQueryable<TElement>(System.Collections.Generic.IEnumerable<TElement>)*"
+System.Linq.Queryable*!
+
+%2System.Linq.IQueryable<T>Ω
+∫
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs" &(;"
+querySystem.Linq.IQueryable<T>"__id*!
+
+%3System.Linq.IQueryable<T>˝
+˙
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs' '(/R
+%4LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>"¬Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include<TEntity, TProperty>(System.Linq.IQueryable<TEntity>, System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*$
+"
+querySystem.Linq.IQueryable<T>*
+""
+Ì
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs' '(/"
+querySystem.Linq.IQueryable<T>"__id*T
+R
+%4LMicrosoft.EntityFrameworkCore.Query.IIncludableQueryable<TEntity, TProperty>Ç
+ˇ
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs( (((
+%5System.Nullable<T>":Aksaty.Domain.Queries.GetAllProductsQuery.IncludeSales.get*:
+8
+queryParams)Aksaty.Domain.Queries.GetAllProductsQueryπ
+∂
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs( ((1
+
+%6bool"System.Nullable<T>.HasValue.get*
+
+%5System.Nullable<T>*
+1
+2*∂
+1k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs(3 ((QÇ
+ˇ
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs(3 ((K
+%7System.Nullable<T>":Aksaty.Domain.Queries.GetAllProductsQuery.IncludeSales.get*:
+8
+queryParams)Aksaty.Domain.Queries.GetAllProductsQuery∂
+≥
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs(3 ((Q
+
+%8bool"System.Nullable<T>.Value.get*
+
+%7System.Nullable<T>*
+3
+2*º
+3k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs(S ((pÑ
+Å
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs([ ((q
+%9System.Linq.IQueryable<T>"zMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include<TEntity>(System.Linq.IQueryable<TEntity>, string)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*$
+"
+querySystem.Linq.IQueryable<T>*	
+SalesΩ
+∫
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs(S ((q"
+querySystem.Linq.IQueryable<T>"__id*!
+
+%9System.Linq.IQueryable<T>*
+2*®
+2k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs) )(9Ò
+Ó
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs)& )(9
+%10string"4Aksaty.Infra.CrossCutting.Util.BaseQuery.OrderBy.get*:
+8
+queryParams)Aksaty.Domain.Queries.GetAllProductsQueryπ
+∂
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs) )(:
+%11bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%10string*
+4
+5*ç
+4k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs+ +(@Ò
+Ó
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs+- +(@
+%12string"4Aksaty.Infra.CrossCutting.Util.BaseQuery.OrderBy.get*:
+8
+queryParams)Aksaty.Domain.Queries.GetAllProductsQuery‡
+›
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs+ +(A 
+%13System.Linq.IQueryable<T>"bAksaty.Infra.CrossCutting.Util.LinqExtensions.OrderByDynamic<T>(System.Linq.IQueryable<T>, string)*1"/
+-Aksaty.Infra.CrossCutting.Util.LinqExtensions*$
+"
+querySystem.Linq.IQueryable<T>*
+
+%12stringæ
+ª
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs+ +(A"
+querySystem.Linq.IQueryable<T>"__id*"
+ 
+%13System.Linq.IQueryable<T>*
+6*º
+5k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs/ /(9¸
+˘
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs/ /(:'
+%14 System.Linq.IOrderedQueryable<T>"óSystem.Linq.Queryable.OrderByDescending<TSource, TKey>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TKey>>)*"
+System.Linq.Queryable*$
+"
+querySystem.Linq.IQueryable<T>*
+""≈
+¬
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs/ /(:"
+querySystem.Linq.IQueryable<T>"__id*)
+'
+%14 System.Linq.IOrderedQueryable<T>*
+6*π
+6k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs1 1(.Ä
+˝
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs1 1(%
+%15System.Nullable<T>"7Aksaty.Domain.Queries.GetAllProductsQuery.MinAmount.get*:
+8
+queryParams)Aksaty.Domain.Queries.GetAllProductsQueryª
+∏
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs1 1(.
+%16bool"System.Nullable<T>.HasValue.get*
+
+%15System.Nullable<T>*
+7
+8*ú
+7k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs10 1(j„
+‡
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs18 1(k 
+%17System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*$
+"
+querySystem.Linq.IQueryable<T>*
+""æ
+ª
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs10 1(k"
+querySystem.Linq.IQueryable<T>"__id*"
+ 
+%17System.Linq.IQueryable<T>*
+8*∫
+8k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs2 2(.Ä
+˝
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs2 2(%
+%18System.Nullable<T>"7Aksaty.Domain.Queries.GetAllProductsQuery.MaxAmount.get*:
+8
+queryParams)Aksaty.Domain.Queries.GetAllProductsQueryª
+∏
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs2 2(.
+%19bool"System.Nullable<T>.HasValue.get*
+
+%18System.Nullable<T>*
+9
+10*ù
+9k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs20 2(j„
+‡
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs28 2(k 
+%20System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*$
+"
+querySystem.Linq.IQueryable<T>*
+""æ
+ª
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs20 2(k"
+querySystem.Linq.IQueryable<T>"__id*"
+ 
+%20System.Linq.IQueryable<T>*
+10*≈
+10k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs4 4(2â
+Ü
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs4 4()
+%21System.Nullable<T>"@Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedAtFrom.get*:
+8
+queryParams)Aksaty.Domain.Queries.GetAllProductsQueryª
+∏
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs4 4(2
+%22bool"System.Nullable<T>.HasValue.get*
+
+%21System.Nullable<T>*
+11
+12*û
+11k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs44 4({„
+‡
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs4< 4(| 
+%23System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*$
+"
+querySystem.Linq.IQueryable<T>*
+""æ
+ª
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs44 4(|"
+querySystem.Linq.IQueryable<T>"__id*"
+ 
+%23System.Linq.IQueryable<T>*
+12*√
+12k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs5 5(0á
+Ñ
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs5 5('
+%24System.Nullable<T>">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedAtTo.get*:
+8
+queryParams)Aksaty.Domain.Queries.GetAllProductsQueryª
+∏
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs5 5(0
+%25bool"System.Nullable<T>.HasValue.get*
+
+%24System.Nullable<T>*
+13
+14*û
+13k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs52 5(w„
+‡
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs5: 5(x 
+%26System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*$
+"
+querySystem.Linq.IQueryable<T>*
+""æ
+ª
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs52 5(x"
+querySystem.Linq.IQueryable<T>"__id*"
+ 
+%26System.Linq.IQueryable<T>*
+14*Ø
+14k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs7 7(=ı
+Ú
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs7& 7(=
+%27string"8Aksaty.Infra.CrossCutting.Util.BaseQuery.SearchQuery.get*:
+8
+queryParams)Aksaty.Domain.Queries.GetAllProductsQueryπ
+∂
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs7 7(>
+%28bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%27string*
+15
+16*È
+15l
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs9 :(ïı
+Ú
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs9* 9(A
+%29string"8Aksaty.Infra.CrossCutting.Util.BaseQuery.SearchQuery.get*:
+8
+queryParams)Aksaty.Domain.Queries.GetAllProductsQueryü
+ú
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs9* 9(H
+%30string"string.Trim()*
+
+%29string¢
+ü
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs9* 9(R
+%31string"string.ToLower()*
+
+%30stringÜ
+É
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs9 9(R
+%32string"8Aksaty.Infra.CrossCutting.Util.BaseQuery.SearchQuery.set*:
+8
+queryParams)Aksaty.Domain.Queries.GetAllProductsQuery*
+
+%31string‰
+·
+l
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs: :(ñ 
+%33System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*$
+"
+querySystem.Linq.IQueryable<T>*
+""ø
+º
+l
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs: :(ñ"
+querySystem.Linq.IQueryable<T>"__id*"
+ 
+%33System.Linq.IQueryable<T>*
+16*–
+16k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs< >(Ñ
+Å
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs<3 <(@
+
+%34int"ESystem.Linq.Queryable.Count<TSource>(System.Linq.IQueryable<TSource>)*"
+System.Linq.Queryable*$
+"
+querySystem.Linq.IQueryable<T>Ä
+˝
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs<B <(X
+%35System.Nullable<T>"7Aksaty.Infra.CrossCutting.Util.BaseQuery.PageNumber.get*:
+8
+queryParams)Aksaty.Domain.Queries.GetAllProductsQuery∑
+¥
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs<B <(^
+
+%36int"System.Nullable<T>.Value.get*
+
+%35System.Nullable<T>˛
+˚
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs<` <(t
+%37System.Nullable<T>"5Aksaty.Infra.CrossCutting.Util.BaseQuery.PageSize.get*:
+8
+queryParams)Aksaty.Domain.Queries.GetAllProductsQuery∑
+¥
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs<` <(z
+
+%38int"System.Nullable<T>.Value.get*
+
+%37System.Nullable<T>—Œ
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs< <({2
+%39+Aksaty.Infra.CrossCutting.Util.PagedList<T>"+Aksaty.Infra.CrossCutting.Util.PagedList<T>£
+†
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs<  <(2
+%40void"DAksaty.Infra.CrossCutting.Util.PagedList<T>.PagedList(int, int, int)*4
+2
+%39+Aksaty.Infra.CrossCutting.Util.PagedList<T>*
+
+
+%34int*
+
+
+%36int*
+
+
+%38intÊ
+„
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs< <({8
+	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>"__id*4
+2
+%39+Aksaty.Infra.CrossCutting.Util.PagedList<T>Œ
+À
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs= =(2"
+%41System.Threading.Tasks.Task"VAksaty.Infra.CrossCutting.Util.PagedList<T>.CreateListAsync(System.Linq.IQueryable<T>)*:
+8
+	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>*$
+"
+querySystem.Linq.IQueryable<T>"©
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs> >(:
+8
+	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>*ˆ
+17k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs?	 ?(	"Ç
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.cs? ?(	
+implicit return:8
+queryParams)Aksaty.Domain.Queries.GetAllProductsQueryB20
+.Aksaty.Infra.Data.Repository.ProductRepository

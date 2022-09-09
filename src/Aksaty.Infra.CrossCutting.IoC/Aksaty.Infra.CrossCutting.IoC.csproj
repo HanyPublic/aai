@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aksaty.Application\Aksaty.Application.csproj" />
+    <ProjectReference Include="..\Aksaty.Domain\Aksaty.Domain.Customer.csproj" />
+    <ProjectReference Include="..\Aksaty.Infra.CrossCutting.Identity\Aksaty.Infra.CrossCutting.Identity.csproj" />
+    <ProjectReference Include="..\Aksaty.Infra.Data\Aksaty.Infra.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.4" />
+  </ItemGroup>
+
+</Project>

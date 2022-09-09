@@ -1,0 +1,29 @@
+
+’Aksaty.Domain.Handlers.SaleInstallmentCommandsHandler.Handle(Aksaty.Domain.Queries.GetAllSaleInstallmentQuery, System.Threading.CancellationToken)†
+zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.cs·6 ·(<"0*Ð
+0†
+zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.cs¹ ¹(3Î
+Ë
+†
+zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.cs¹ ¹($9
+%03Aksaty.Domain.Interfaces.ISaleInstallmentRepository"__id**}7
+5Aksaty.Domain.Handlers.SaleInstallmentCommandsHandler"B
+_repository3Aksaty.Domain.Interfaces.ISaleInstallmentRepositoryÜÙ
+†
+zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.cs¹ ¹(4*
+%1$System.Threading.Tasks.Task<TResult>"lAksaty.Domain.Interfaces.ISaleInstallmentRepository.GetAll(Aksaty.Domain.Queries.GetAllSaleInstallmentQuery)*;
+9
+%03Aksaty.Domain.Interfaces.ISaleInstallmentRepository*=
+;
+request0Aksaty.Domain.Queries.GetAllSaleInstallmentQuery28GetAll(Aksaty.Domain.Queries.GetAllSaleInstallmentQuery)"‘
+†
+zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.cs¹ ¹(5
+""*­
+1†
+zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csº	 º(	"ž
+†
+zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csº º(	
+implicit return:;
+request0Aksaty.Domain.Queries.GetAllSaleInstallmentQuery:7
+cancellationToken"System.Threading.CancellationTokenB97
+5Aksaty.Domain.Handlers.SaleInstallmentCommandsHandler

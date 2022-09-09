@@ -1,0 +1,42 @@
+
+mAksaty.Application.Services.AttachmentAppService.Add(Aksaty.Application.ViewModels.AttachmentCreateViewModel)m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs ("0*¼
+
+0m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs (Z•
+’
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs (!*
+%0$NetDevPack.Mediator.IMediatorHandler"__id*o*m2
+0Aksaty.Application.Services.AttachmentAppService"7
+_mediatorHelper$NetDevPack.Mediator.IMediatorHandleré
+æ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs. (5
+%1AutoMapper.IMapper"__id*U*S2
+0Aksaty.Application.Services.AttachmentAppService"
+_mapperAutoMapper.IMapperãà
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs. ([=
+%27Aksaty.Domain.Attachments.Commands.AddAttachmentCommand"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%1AutoMapper.IMapper*G
+E
+
+attachment7Aksaty.Application.ViewModels.AttachmentCreateViewModel2Map<TDestination>(object)ØÕ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs (\*
+%3$System.Threading.Tasks.Task<TResult>"6NetDevPack.Mediator.IMediatorHandler.SendCommand<T>(T)*,
+*
+%0$NetDevPack.Mediator.IMediatorHandler*?
+=
+%27Aksaty.Domain.Attachments.Commands.AddAttachmentCommand2SendCommand<T>(T)*
+1*ù
+1m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs	 (	"„
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs (	
+implicit return:E
+
+attachment7Aksaty.Application.ViewModels.AttachmentCreateViewModelB42
+0Aksaty.Application.Services.AttachmentAppService

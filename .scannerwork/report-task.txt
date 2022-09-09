@@ -1,0 +1,7 @@
+organization=hanyorg
+projectKey=aksatigeneric
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.31745
+dashboardUrl=https://sonarcloud.io/dashboard?id=aksatigeneric
+ceTaskId=AYMegH0bd2jvW3NIRWGz
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYMegH0bd2jvW3NIRWGz

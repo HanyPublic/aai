@@ -1,0 +1,54 @@
+
+nAksaty.Infra.Data.Migrations.sales_base_entity.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)z
+pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210508002216_sales_base_entity.cs)  )($"0*¿
+0z
+pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210508002216_sales_base_entity.cs+ =(ÕÒ
+z
+pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210508002216_sales_base_entity.cs+ -(_
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+	CreatedAt*	
+Sales*
+""2"DropColumn(string, string, string)×Ô
+z
+pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210508002216_sales_base_entity.cs/ 1(_
+%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+CreatedById*	
+Sales*
+""2"DropColumn(string, string, string)ÓÐ
+z
+pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210508002216_sales_base_entity.cs3 5(_
+%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+Deleted*	
+Sales*
+""2"DropColumn(string, string, string)ÙÖ
+z
+pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210508002216_sales_base_entity.cs7 9(_
+%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+ShowOnWebsite*	
+Sales*
+""2"DropColumn(string, string, string)ÔÑ
+z
+pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210508002216_sales_base_entity.cs; =(_
+%4YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+TanentId*	
+Sales*
+""2"DropColumn(string, string, string)*
+1*“
+1z
+pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210508002216_sales_base_entity.cs>	 >(	"‘
+z
+pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210508002216_sales_base_entity.cs> >(	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB20
+.Aksaty.Infra.Data.Migrations.sales_base_entity

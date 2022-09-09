@@ -1,0 +1,105 @@
+
+ΩAksaty.Domain.Queries.GetAllCustomersQuery.GetAllCustomersQuery(System.DateTime?, System.DateTime?, System.DateTime?, System.DateTime?, decimal?, decimal?, bool, string, string, bool, bool)g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetAllCustomersQuery.cs (#"1*Â
+1g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetAllCustomersQuery.cs"	 "(	r
+p
+
+%0void"4Aksaty.Infra.CrossCutting.Util.BaseQuery.BaseQuery()*,*
+(Aksaty.Infra.CrossCutting.Util.BaseQuery*
+0*ˇ
+0g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetAllCustomersQuery.cs !(ô
+ñ
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetAllCustomersQuery.cs ('
+%1System.Nullable<T>";Aksaty.Domain.Queries.GetAllCustomersQuery.MinBirthDate.set*.,
+*Aksaty.Domain.Queries.GetAllCustomersQuery*$
+"
+minBirthDateSystem.Nullable<T>ô
+ñ
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetAllCustomersQuery.cs ('
+%2System.Nullable<T>";Aksaty.Domain.Queries.GetAllCustomersQuery.MaxBirthDate.set*.,
+*Aksaty.Domain.Queries.GetAllCustomersQuery*$
+"
+maxBirthDateSystem.Nullable<T>•
+¢
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetAllCustomersQuery.cs (3
+%3System.Nullable<T>"AAksaty.Domain.Queries.GetAllCustomersQuery.MinNextInstallDate.set*.,
+*Aksaty.Domain.Queries.GetAllCustomersQuery**
+(
+minNextInstallDateSystem.Nullable<T>•
+¢
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetAllCustomersQuery.cs (3
+%4System.Nullable<T>"AAksaty.Domain.Queries.GetAllCustomersQuery.MaxNextInstallDate.set*.,
+*Aksaty.Domain.Queries.GetAllCustomersQuery**
+(
+maxNextInstallDateSystem.Nullable<T>˘
+ˆ
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetAllCustomersQuery.cs (#
+%5System.Nullable<T>"9Aksaty.Domain.Queries.GetAllCustomersQuery.MinBalance.set*.,
+*Aksaty.Domain.Queries.GetAllCustomersQuery*
+""˘
+ˆ
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetAllCustomersQuery.cs (#
+%6System.Nullable<T>"9Aksaty.Domain.Queries.GetAllCustomersQuery.MaxBalance.set*.,
+*Aksaty.Domain.Queries.GetAllCustomersQuery*
+""Û
+
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetAllCustomersQuery.cs (3
+
+%7bool"AAksaty.Domain.Queries.GetAllCustomersQuery.IncludeAttachments.set*.,
+*Aksaty.Domain.Queries.GetAllCustomersQuery*
+""á
+Ñ
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetAllCustomersQuery.cs (%
+%8string">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedById.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*
+
+createdByIdstringÅ
+˛
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetAllCustomersQuery.cs (
+%9string";Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.TanentId.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*
+
+tanentIdstringÖ
+Ç
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetAllCustomersQuery.cs   ()
+%10System.Nullable<T>"@Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.ShowOnWebsite.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*
+""ˇ
+¸
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetAllCustomersQuery.cs! !(
+%11System.Nullable<T>":Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.Deleted.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*
+""*
+2*Ï
+2g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetAllCustomersQuery.cs"	 "(	"~
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetAllCustomersQuery.cs" "(	
+implicit return:"
+minBirthDateSystem.Nullable<T>:"
+maxBirthDateSystem.Nullable<T>:(
+minNextInstallDateSystem.Nullable<T>:(
+maxNextInstallDateSystem.Nullable<T>: 
+
+minBalanceSystem.Nullable<T>: 
+
+maxBalanceSystem.Nullable<T>:
+includeAttachmentsbool:
+createdByIdstring:
+tanentIdstring:
+showOnWebsitebool:
+deletedboolB.,
+*Aksaty.Domain.Queries.GetAllCustomersQuery

@@ -1,0 +1,7 @@
+Ž
+8Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery(Aksaty.Infra.CrossCutting.Util.BaseQuery.Aksaty.Infra.CrossCutting.Util.BaseEntityQueryobjectMediatR.IRequest<TResponse>î
+XGetAllAttachmentsQuery(string, string, System.DateTime?, System.DateTime?, bool?, bool?)‘Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery.GetAllAttachmentsQuery(string, string, System.DateTime?, System.DateTime?, bool?, bool?)U
+EntityId.getEAksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery.EntityId.getU
+EntityId.setEAksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery.EntityId.setY
+EntityType.getGAksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery.EntityType.getY
+EntityType.setGAksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery.EntityType.set

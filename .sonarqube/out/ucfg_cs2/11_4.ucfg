@@ -1,0 +1,63 @@
+
+ÐAksaty.Services.Api.Controllers.AccountController.AccountController(Microsoft.AspNetCore.Identity.SignInManager<Microsoft.AspNetCore.Identity.IdentityUser>, Microsoft.AspNetCore.Identity.UserManager<Microsoft.AspNetCore.Identity.IdentityUser>, Aksaty.Application.Interfaces.IUserService, Aksaty.Application.Interfaces.ITanentAppService)n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs ( "3*û
+1n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs	 (	€
+~
+
+%0void"=Aksaty.Services.Api.Controllers.ApiController.ApiController()*1/
+-Aksaty.Services.Api.Controllers.ApiController*
+0*Ù
+
+0n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs (-µ
+²
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs (&w3
+1Aksaty.Services.Api.Controllers.AccountController"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*A
+?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>½
+º
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs (*{3
+1Aksaty.Services.Api.Controllers.AccountController"D
+_signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>"__id*E
+C
+signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>©
+¦
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs (&q3
+1Aksaty.Services.Api.Controllers.AccountController":
+_userService*Aksaty.Application.Interfaces.IUserService"__id*;
+9
+userService*Aksaty.Application.Interfaces.IUserServiceº
+·
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs (-x3
+1Aksaty.Services.Api.Controllers.AccountController"A
+_tanentService/Aksaty.Application.Interfaces.ITanentAppService"__id*E
+C
+tanentAppService/Aksaty.Application.Interfaces.ITanentAppService*
+2*û
+2n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs	 (	"…
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs (	
+implicit return*Œ
+3n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs/ (/‘
+Ž
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AccountController.cs ( 
+%1"__entrypoint*E
+C
+signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>*A
+?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>*
+1:C
+signInManager2Microsoft.AspNetCore.Identity.SignInManager<TUser>:?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>:9
+userService*Aksaty.Application.Interfaces.IUserService:C
+tanentAppService/Aksaty.Application.Interfaces.ITanentAppServiceB53
+1Aksaty.Services.Api.Controllers.AccountController

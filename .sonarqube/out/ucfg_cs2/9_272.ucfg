@@ -1,0 +1,42 @@
+
+tAksaty.Application.Services.SaleInstallmentAppService.Add(Aksaty.Application.ViewModels.AddSaleInstallmentViewModel)r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs(, ((/"0*€
+0r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs* *(s†
+ù
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs* *('*
+%0$NetDevPack.Mediator.IMediatorHandler"__id*u*s7
+5Aksaty.Application.Services.SaleInstallmentAppService"8
+_mediatorHandler$NetDevPack.Mediator.IMediatorHandlerÛ
+
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs*4 *(;
+%1AutoMapper.IMapper"__id*Z*X7
+5Aksaty.Application.Services.SaleInstallmentAppService"
+_mapperAutoMapper.IMapperÒÓ
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs*4 *(t6
+%20Aksaty.Domain.Commands.AddSaleInstallmentCommand"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%1AutoMapper.IMapper*W
+U
+SaleInstallmentViewModel9Aksaty.Application.ViewModels.AddSaleInstallmentViewModel2Map<TDestination>(object)÷”
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs* *(u*
+%3$System.Threading.Tasks.Task<TResult>"6NetDevPack.Mediator.IMediatorHandler.SendCommand<T>(T)*,
+*
+%0$NetDevPack.Mediator.IMediatorHandler*8
+6
+%20Aksaty.Domain.Commands.AddSaleInstallmentCommand2SendCommand<T>(T)"|
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs*
+ *(v
+""*É
+1r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs+	 +(	"â
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs+ +(	
+implicit return:U
+SaleInstallmentViewModel9Aksaty.Application.ViewModels.AddSaleInstallmentViewModelB97
+5Aksaty.Application.Services.SaleInstallmentAppService

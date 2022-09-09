@@ -1,0 +1,94 @@
+
+nAksaty.Application.Helpers.MediaHelper.CreateMediaURL(Aksaty.Application.ViewModels.AttachmentCreateViewModel)c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (+"0*è
+0c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs ("õ
+ò
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs ("
+
+%0bool""object.operator ==(object, object)*
+"
+object*G
+E
+
+attachment7Aksaty.Application.ViewModels.AttachmentCreateViewModel*
+""*
+1
+2*ý
+1c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (#›
+˜
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (#
+%1string"__id**
+string"
+Emptystring"u
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs ($
+
+%1string*Í
+2d
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (‰þ
+û
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (-
+%2string"=Aksaty.Application.ViewModels.AttachmentViewModelBase.Url.get*G
+E
+
+attachment7Aksaty.Application.ViewModels.AttachmentCreateViewModelÿ
+ü
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs/ (B
+%3string">Aksaty.Application.ViewModels.BaseEntityViewModel.TanentId.get*G
+E
+
+attachment7Aksaty.Application.ViewModels.AttachmentCreateViewModel‚
+ÿ
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.csD (Z
+%4string"AAksaty.Application.ViewModels.BaseEntityViewModel.CreatedById.get*G
+E
+
+attachment7Aksaty.Application.ViewModels.AttachmentCreateViewModelƒ
+€
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs\ (o
+%5string"BAksaty.Application.ViewModels.AttachmentViewModelBase.FileName.get*G
+E
+
+attachment7Aksaty.Application.ViewModels.AttachmentCreateViewModel‰
+†
+d
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.csq (‰
+%6string"GAksaty.Application.ViewModels.AttachmentViewModelBase.FileExtension.get*G
+E
+
+attachment7Aksaty.Application.ViewModels.AttachmentCreateViewModelÏ
+Ì
+d
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (Š
+%7string"ZAksaty.Application.Helpers.MediaHelper.getMediaURL(string, string, string, string, string)**"(
+&Aksaty.Application.Helpers.MediaHelper*
+
+%2string*
+
+%3string*
+
+%4string*
+
+%5string*
+
+%6string"v
+d
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (‹
+
+%7string*ä
+3c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs	 (	"z
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (	
+implicit return:E
+
+attachment7Aksaty.Application.ViewModels.AttachmentCreateViewModelB*"(
+&Aksaty.Application.Helpers.MediaHelper

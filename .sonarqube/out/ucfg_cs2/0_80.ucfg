@@ -1,0 +1,59 @@
+
+VAksaty.Infra.CrossCutting.Util.PagedList<T>.CreateListAsync(System.Linq.IQueryable<T>)g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs+ +()"0*ß
+0g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs- -(OÂ
+‚
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs-% -(0	
+%0int";Aksaty.Infra.CrossCutting.Util.PagedList<T>.CurrentPage.get*/-
++Aksaty.Infra.CrossCutting.Util.PagedList<T>‚
+ﬂ
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs-8 -(@	
+%1int"8Aksaty.Infra.CrossCutting.Util.PagedList<T>.PageSize.get*/-
++Aksaty.Infra.CrossCutting.Util.PagedList<T>¢
+ü
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs- -(A
+%2System.Linq.IQueryable<T>"ISystem.Linq.Queryable.Skip<TSource>(System.Linq.IQueryable<TSource>, int)*"
+System.Linq.Queryable*%
+#
+sourceSystem.Linq.IQueryable<T>*
+""‚
+ﬂ
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs-G -(O	
+%3int"8Aksaty.Infra.CrossCutting.Util.PagedList<T>.PageSize.get*/-
++Aksaty.Infra.CrossCutting.Util.PagedList<T>£
+†
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs- -(P
+%4System.Linq.IQueryable<T>"ISystem.Linq.Queryable.Take<TSource>(System.Linq.IQueryable<TSource>, int)*"
+System.Linq.Queryable*!
+
+%2System.Linq.IQueryable<T>*
+	
+%3int¶
+£
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs- -(a*
+%5$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
+
+%4System.Linq.IQueryable<T>*
+""ç
+ä
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs- -(a/
+%6)System.Collections.Generic.IEnumerable<T>"5Aksaty.Infra.CrossCutting.Util.PagedList<T>.Items.set*/-
++Aksaty.Infra.CrossCutting.Util.PagedList<T>*
+""*
+1*Ï
+1g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs.	 .(	"~
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs. .(	
+implicit return:#
+sourceSystem.Linq.IQueryable<T>B/-
++Aksaty.Infra.CrossCutting.Util.PagedList<T>

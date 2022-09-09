@@ -1,0 +1,40 @@
+
+sAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand.RemoveRestoreAttachmentCommand(System.Guid, bool)z
+pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs (-"1*ö
+1z
+pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs	 (	ì
+ê
+
+%0void"HAksaty.Domain.Attachments.Commands.AttachmentCommand.AttachmentCommand()*86
+4Aksaty.Domain.Attachments.Commands.AttachmentCommand*
+0*∞
+0z
+pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs (ë
+é
+z
+pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs (
+%1System.Guid";Aksaty.Domain.Attachments.Commands.AttachmentCommand.Id.set*86
+4Aksaty.Domain.Attachments.Commands.AttachmentCommand*
+""Í
+Á
+z
+pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs (
+%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
+NetDevPack.Messaging.Message*
+""®
+•
+z
+pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs (
+
+%3bool"LAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand.Delete.set*EC
+AAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand*
+""*
+2*ì
+2z
+pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs	 (	"ë
+z
+pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs (	
+implicit return:
+idSystem.Guid:
+deleteboolBEC
+AAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand

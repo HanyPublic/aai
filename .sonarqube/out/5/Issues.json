@@ -1,0 +1,237 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.3.0.0",
+        "fileVersion": "4.3.0-3.22365.10 (dd078d4e)",
+        "semanticVersion": "4.3.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Settings/Commands/Validations/AddUpdateTanentCommandValidation.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 13,
+                  "endLine": 7,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Settings/Commands/Validations/AddUpdateTanentCommandValidation.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 13,
+                  "endLine": 9,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2953",
+          "level": "warning",
+          "message": "Either implement 'IDisposable.Dispose', or totally rename this method to prevent confusion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Settings/Handlers/TanentCommandsHandler.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 21,
+                  "endLine": 99,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 14 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Settings/Commands/AddUpdateTanentCommand.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 38,
+                  "endLine": 8,
+                  "endColumn": 266
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 14 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Settings/Events/TanentUpdatedEvent.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 34,
+                  "endLine": 9,
+                  "endColumn": 256
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 15 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Settings/Models/Tanent.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 22,
+                  "endLine": 12,
+                  "endColumn": 260
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 14 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Settings/Events/TanentRegisteredEvent.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 37,
+                  "endLine": 9,
+                  "endColumn": 259
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 13 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Settings/Models/Tanent.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 27,
+                  "endLine": 59,
+                  "endColumn": 240
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S107": {
+          "id": "S107",
+          "shortDescription": "Methods should not have too many parameters",
+          "fullDescription": "A long parameter list can indicate that a new structure should be created to wrap the numerous parameters or that the function is doing too many things.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-107",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2953": {
+          "id": "S2953",
+          "shortDescription": "Methods named \"Dispose\" should implement \"IDisposable.Dispose\"",
+          "fullDescription": "Dispose as a method name should be used exclusively to implement IDisposable.Dispose to prevent any confusion.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2953",
+          "properties": {
+            "category": "Blocker Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

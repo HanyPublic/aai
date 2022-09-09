@@ -1,0 +1,51 @@
+
+2Aksaty.Domain.Commands.UpdateSaleCommand.IsValid()l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\UpdateSaleCommand.cs   ($"0*û
+0l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\UpdateSaleCommand.cs" #(+÷ô
+l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\UpdateSaleCommand.cs" "(@D
+%0>Aksaty.Domain.Commands.Validations.UpdateSaleCommandValidation">Aksaty.Domain.Commands.Validations.UpdateSaleCommandValidation£
+ 
+l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\UpdateSaleCommand.cs"# "(>
+
+%1void"\Aksaty.Domain.Commands.Validations.UpdateSaleCommandValidation.UpdateSaleCommandValidation()*F
+D
+%0>Aksaty.Domain.Commands.Validations.UpdateSaleCommandValidationË
+È
+l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\UpdateSaleCommand.cs" "(O/
+%2)FluentValidation.Results.ValidationResult"1FluentValidation.AbstractValidator<T>.Validate(T)*F
+D
+%0>Aksaty.Domain.Commands.Validations.UpdateSaleCommandValidation*,*
+(Aksaty.Domain.Commands.UpdateSaleCommandª
+§
+l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\UpdateSaleCommand.cs" "(O/
+%3)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.set* 
+NetDevPack.Messaging.Command*1
+/
+%2)FluentValidation.Results.ValidationResult÷
+ô
+l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\UpdateSaleCommand.cs# #(#/
+%4)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.get* 
+NetDevPack.Messaging.Commandôñ
+l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\UpdateSaleCommand.cs# #(+
+
+%5bool"5FluentValidation.Results.ValidationResult.IsValid.get*1
+/
+%4)FluentValidation.Results.ValidationResult2IsValid.get"|
+l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\UpdateSaleCommand.cs# #(,
+
+
+%5bool*÷
+1l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\UpdateSaleCommand.cs$	 $(	"ƒ
+l
+bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\UpdateSaleCommand.cs$ $(	
+implicit returnB,*
+(Aksaty.Domain.Commands.UpdateSaleCommand

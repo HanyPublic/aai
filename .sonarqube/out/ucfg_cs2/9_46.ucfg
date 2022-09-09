@@ -1,0 +1,93 @@
+
+bAksaty.Application.Helpers.MediaHelper.CreateMediaURL(Aksaty.Domain.Attachments.Models.Attachment)c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (+"0*§
+0c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs ("±
+Æ
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs ("
+
+%0bool"XNetDevPack.Domain.Entity.operator ==(NetDevPack.Domain.Entity, NetDevPack.Domain.Entity)*"
+NetDevPack.Domain.Entity*;
+9
+
+attachment+Aksaty.Domain.Attachments.Models.Attachment*
+""*
+1
+2*˝
+1c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (#õ
+ò
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (#
+%1string"__id**
+string"
+Emptystring"u
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs ($
+
+%1string*È
+2d
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (èË
+Â
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (-
+%2string"3Aksaty.Domain.Attachments.Models.Attachment.URL.get*;
+9
+
+attachment+Aksaty.Domain.Attachments.Models.AttachmentÎ
+Ë
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs/ (B
+%3string"6Aksaty.Infra.CrossCutting.Util.BaseEntity.TanentId.get*;
+9
+
+attachment+Aksaty.Domain.Attachments.Models.AttachmentÓ
+Î
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.csD (Z
+%4string"9Aksaty.Infra.CrossCutting.Util.BaseEntity.CreatedById.get*;
+9
+
+attachment+Aksaty.Domain.Attachments.Models.AttachmentÛ
+
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs\ (u
+%5string">Aksaty.Domain.Attachments.Models.Attachment.SystemFileName.get*;
+9
+
+attachment+Aksaty.Domain.Attachments.Models.AttachmentÛ
+
+d
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.csw (è
+%6string"=Aksaty.Domain.Attachments.Models.Attachment.FileExtension.get*;
+9
+
+attachment+Aksaty.Domain.Attachments.Models.Attachmentœ
+Ã
+d
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (ê
+%7string"ZAksaty.Application.Helpers.MediaHelper.getMediaURL(string, string, string, string, string)**"(
+&Aksaty.Application.Helpers.MediaHelper*
+
+%2string*
+
+%3string*
+
+%4string*
+
+%5string*
+
+%6string"v
+d
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (ë
+
+%7string*‰
+3c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs	 (	"z
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (	
+implicit return:9
+
+attachment+Aksaty.Domain.Attachments.Models.AttachmentB*"(
+&Aksaty.Application.Helpers.MediaHelper

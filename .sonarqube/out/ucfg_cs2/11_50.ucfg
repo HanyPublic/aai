@@ -1,0 +1,41 @@
+
+*Aksaty.Services.API.Program.Main(string[])X
+ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Program.cs ("0*ž
+0X
+ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Program.cs
+ 
+("ü
+ù
+X
+ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Program.cs
+ 
+(#/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"7Aksaty.Services.API.Program.CreateHostBuilder(string[])*"
+Aksaty.Services.API.Program*
+
+argsstring[]öó
+X
+ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Program.cs
+ 
+(+(
+%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()Á
+¾
+X
+ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Program.cs
+ 
+(1
+
+%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
+>Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
+(
+%1"Microsoft.Extensions.Hosting.IHost*
+1*Î
+1X
+ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Program.cs	 (	"o
+X
+ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Program.cs (	
+implicit return:
+argsstring[]B"
+Aksaty.Services.API.Program

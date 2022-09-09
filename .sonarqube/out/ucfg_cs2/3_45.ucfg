@@ -1,0 +1,65 @@
+
+ëAksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery.GetAllAttachmentsQuery(string, string, System.DateTime?, System.DateTime?, bool?, bool?)q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Queries\GetAllAttachmentsQuery.cs (%"1*Ô
+1q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Queries\GetAllAttachmentsQuery.cs	 (	r
+p
+
+%0void"4Aksaty.Infra.CrossCutting.Util.BaseQuery.BaseQuery()*,*
+(Aksaty.Infra.CrossCutting.Util.BaseQuery*
+0*ï
+0q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Queries\GetAllAttachmentsQuery.cs (ë
+é
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Queries\GetAllAttachmentsQuery.cs (%
+%1string">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedById.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*
+
+createdByIdstringã
+à
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Queries\GetAllAttachmentsQuery.cs (
+%2string";Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.TanentId.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*
+
+tanentIdstring≠
+™
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Queries\GetAllAttachmentsQuery.cs ()
+%3System.Nullable<T>"@Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedAtFrom.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*%
+#
+createdAtFromSystem.Nullable<T>©
+¶
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Queries\GetAllAttachmentsQuery.cs (%
+%4System.Nullable<T>">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedAtTo.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*#
+!
+createdAtToSystem.Nullable<T>é
+ã
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Queries\GetAllAttachmentsQuery.cs ()
+%5System.Nullable<T>"@Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.ShowOnWebsite.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*
+""à
+Ö
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Queries\GetAllAttachmentsQuery.cs (
+%6System.Nullable<T>":Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.Deleted.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*
+""*
+2*Å
+2q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Queries\GetAllAttachmentsQuery.cs	 (	"à
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Queries\GetAllAttachmentsQuery.cs (	
+implicit return:
+createdByIdstring:
+tanentIdstring:#
+createdAtFromSystem.Nullable<T>:!
+createdAtToSystem.Nullable<T>:#
+showOnWebsiteSystem.Nullable<T>:
+deletedSystem.Nullable<T>B<:
+8Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery

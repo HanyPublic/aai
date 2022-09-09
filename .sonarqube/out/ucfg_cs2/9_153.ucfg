@@ -1,0 +1,45 @@
+
+BAksaty.Application.Services.CustomerAppService.Remove(System.Guid)k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.cs?, ?(2"0*Ÿ
+0k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csA B(<ÒÏ
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csA  A(=2
+%0,Aksaty.Domain.Commands.RemoveCustomerCommand",Aksaty.Domain.Commands.RemoveCustomerCommand‹
+ˆ
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csA$ A(9
+
+%1void"OAksaty.Domain.Commands.RemoveCustomerCommand.RemoveCustomerCommand(System.Guid)*4
+2
+%0,Aksaty.Domain.Commands.RemoveCustomerCommand*
+""ë
+è
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csA A(==
+removeCommand,Aksaty.Domain.Commands.RemoveCustomerCommand"__id*4
+2
+%0,Aksaty.Domain.Commands.RemoveCustomerCommand‹
+ˆ
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csB B("*
+%2$NetDevPack.Mediator.IMediatorHandler"__id*g*e0
+.Aksaty.Application.Services.CustomerAppService"1
+	_mediator$NetDevPack.Mediator.IMediatorHandlerÖÓ
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csB B(=*
+%3$System.Threading.Tasks.Task<TResult>"6NetDevPack.Mediator.IMediatorHandler.SendCommand<T>(T)*,
+*
+%2$NetDevPack.Mediator.IMediatorHandler*?
+=
+removeCommand,Aksaty.Domain.Commands.RemoveCustomerCommand2SendCommand<T>(T)"u
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csB B(>
+""*õ
+1k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csC	 C(	"‚
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csC C(	
+implicit return:
+idSystem.GuidB20
+.Aksaty.Application.Services.CustomerAppService

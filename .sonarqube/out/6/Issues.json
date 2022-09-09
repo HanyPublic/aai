@@ -1,0 +1,1230 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.3.0.0",
+        "fileVersion": "4.3.0-3.22365.10 (dd078d4e)",
+        "semanticVersion": "4.3.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Commands/Validations/Sale/SaleValidation.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 9,
+                  "endLine": 22,
+                  "endColumn": 12
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Commands/Validations/Sale/SaleValidation.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 9,
+                  "endLine": 34,
+                  "endColumn": 12
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Commands/Validations/Sale/SaleValidation.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 9,
+                  "endLine": 44,
+                  "endColumn": 12
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3604",
+          "level": "warning",
+          "message": "Remove the member initializer, all constructors set an initial value for the member.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Queries/SaleInstallment/GetSaleInstallmentQuery.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 48,
+                  "endLine": 12,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2953",
+          "level": "warning",
+          "message": "Either implement 'IDisposable.Dispose', or totally rename this method to prevent confusion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 196,
+                  "startColumn": 21,
+                  "endLine": 196,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4136",
+          "level": "warning",
+          "message": "All 'Handle' method overloads should be adjacent.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 45,
+                  "endLine": 43,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 201,
+                  "startColumn": 44,
+                  "endLine": 201,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Non-adjacent overload"
+            }
+          }
+        },
+        {
+          "ruleId": "S3604",
+          "level": "warning",
+          "message": "Remove the member initializer, all constructors set an initial value for the member.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Queries/Sale/GetAllSalesQuery.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 60,
+                  "endLine": 25,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3604",
+          "level": "warning",
+          "message": "Remove the member initializer, all constructors set an initial value for the member.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Queries/Sale/GetAllSalesQuery.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 52,
+                  "endLine": 26,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3604",
+          "level": "warning",
+          "message": "Remove the member initializer, all constructors set an initial value for the member.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Queries/Sale/GetAllSalesQuery.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 53,
+                  "endLine": 27,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 12 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Events/Sale/SaleUpdateEvent.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 31,
+                  "endLine": 17,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 10 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Events/Product/ProductCreatedEvent.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 36,
+                  "endLine": 11,
+                  "endColumn": 193
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 9 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Commands/Product/AddProductCommand.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 33,
+                  "endLine": 9,
+                  "endColumn": 184
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 10 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Events/Product/ProductUpdatedEvent.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 35,
+                  "endLine": 11,
+                  "endColumn": 195
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 15 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Events/Sale/SaleCreatedEvent.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 32,
+                  "endLine": 18,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 9 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Commands/SaleInstallment/AddSaleInstallmentCommand.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 41,
+                  "endLine": 11,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 15 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Commands/Sale/CreateNewSaleCommand.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 36,
+                  "endLine": 16,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 22 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Queries/Sale/GetAllSalesQuery.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 32,
+                  "endLine": 36,
+                  "endColumn": 125
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 12 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Commands/Sale/UpdateSaleCommand.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 33,
+                  "endLine": 15,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 16 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Models/Sale/Sale.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 20,
+                  "endLine": 18,
+                  "endColumn": 62
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 10 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Models/Product/Product.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 184
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 11 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Models/SaleInstallment/SaleInstallment.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 31,
+                  "endLine": 17,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Constructor has 13 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Queries/SaleInstallment/GetAllSaleInstallmentQuery.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 42,
+                  "endLine": 25,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 12 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Models/Sale/Sale.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 31,
+                  "endLine": 60,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 11 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Models/SaleInstallment/SaleInstallment.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 60,
+                  "endLine": 41,
+                  "endColumn": 77
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/SaleInstallment/SaleInstallmentCommandsHandler.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 45,
+                  "endLine": 75,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/SaleInstallment/SaleInstallmentCommandsHandler.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 13,
+                  "endLine": 80,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/SaleInstallment/SaleInstallmentCommandsHandler.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 17,
+                  "endLine": 83,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/SaleInstallment/SaleInstallmentCommandsHandler.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 21,
+                  "endLine": 88,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/SaleInstallment/SaleInstallmentCommandsHandler.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 25,
+                  "endLine": 92,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/SaleInstallment/SaleInstallmentCommandsHandler.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 25,
+                  "endLine": 97,
+                  "endColumn": 29
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/SaleInstallment/SaleInstallmentCommandsHandler.cs",
+                "region": {
+                  "startLine": 105,
+                  "startColumn": 17,
+                  "endLine": 105,
+                  "endColumn": 21
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/SaleInstallment/SaleInstallmentCommandsHandler.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 21,
+                  "endLine": 109,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/SaleInstallment/SaleInstallmentCommandsHandler.cs",
+                "region": {
+                  "startLine": 114,
+                  "startColumn": 21,
+                  "endLine": 114,
+                  "endColumn": 25
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/SaleInstallment/SaleInstallmentCommandsHandler.cs",
+                "region": {
+                  "startLine": 133,
+                  "startColumn": 13,
+                  "endLine": 133,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+2 (incl 1 for nesting)",
+              "2": "+3 (incl 2 for nesting)",
+              "3": "+4 (incl 3 for nesting)",
+              "4": "+1",
+              "5": "+1",
+              "6": "+3 (incl 2 for nesting)",
+              "7": "+1",
+              "8": "+1"
+            }
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 87,
+                  "startColumn": 117,
+                  "endLine": 87,
+                  "endColumn": 122
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 89,
+                  "startColumn": 127,
+                  "endLine": 89,
+                  "endColumn": 132
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 45,
+                  "endLine": 80,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 13,
+                  "endLine": 82,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 13,
+                  "endLine": 84,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 90,
+                  "startColumn": 17,
+                  "endLine": 90,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 21,
+                  "endLine": 92,
+                  "endColumn": 28
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 17,
+                  "endLine": 97,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 21,
+                  "endLine": 99,
+                  "endColumn": 28
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 17,
+                  "endLine": 110,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 112,
+                  "startColumn": 21,
+                  "endLine": 112,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 120,
+                  "startColumn": 17,
+                  "endLine": 120,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 123,
+                  "startColumn": 21,
+                  "endLine": 123,
+                  "endColumn": 24
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 131,
+                  "startColumn": 17,
+                  "endLine": 131,
+                  "endColumn": 24
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 21,
+                  "endLine": 134,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 46,
+                  "endLine": 134,
+                  "endColumn": 48
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 135,
+                  "startColumn": 21,
+                  "endLine": 135,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 139,
+                  "startColumn": 17,
+                  "endLine": 139,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 143,
+                  "startColumn": 21,
+                  "endLine": 143,
+                  "endColumn": 24
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 13,
+                  "endLine": 170,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+1",
+              "10": "+2 (incl 1 for nesting)",
+              "11": "+3 (incl 2 for nesting)",
+              "12": "+1",
+              "13": "+3 (incl 2 for nesting)",
+              "14": "+2 (incl 1 for nesting)",
+              "15": "+3 (incl 2 for nesting)",
+              "16": "+1",
+              "2": "+2 (incl 1 for nesting)",
+              "3": "+3 (incl 2 for nesting)",
+              "4": "+2 (incl 1 for nesting)",
+              "5": "+3 (incl 2 for nesting)",
+              "6": "+2 (incl 1 for nesting)",
+              "7": "+3 (incl 2 for nesting)",
+              "8": "+2 (incl 1 for nesting)",
+              "9": "+3 (incl 2 for nesting)"
+            }
+          }
+        },
+        {
+          "ruleId": "S1155",
+          "level": "warning",
+          "message": "Use '.Any()' to test whether this 'IEnumerable<Aksaty.Domain.Models.Product>' is empty or not.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 90,
+                  "startColumn": 33,
+                  "endLine": 90,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1155",
+          "level": "warning",
+          "message": "Use '.Any()' to test whether this 'IEnumerable<Aksaty.Domain.Models.SalesProducts>' is empty or not.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 43,
+                  "endLine": 97,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2971",
+          "level": "warning",
+          "message": "Use 'Count' property here instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 90,
+                  "startColumn": 33,
+                  "endLine": 90,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2971",
+          "level": "warning",
+          "message": "Use 'Count' property here instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 43,
+                  "endLine": 97,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 112,
+                  "startColumn": 21,
+                  "endLine": 112,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/Aksaty.Domain.Sales/Handlers/Sale/SaleCommandHandler.cs",
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 17,
+                  "endLine": 110,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S1066": {
+          "id": "S1066",
+          "shortDescription": "Collapsible \"if\" statements should be merged",
+          "fullDescription": "Merging collapsible if statements increases the code’s readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1066",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S107": {
+          "id": "S107",
+          "shortDescription": "Methods should not have too many parameters",
+          "fullDescription": "A long parameter list can indicate that a new structure should be created to wrap the numerous parameters or that the function is doing too many things.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-107",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1125": {
+          "id": "S1125",
+          "shortDescription": "Boolean literals should not be redundant",
+          "fullDescription": "Redundant Boolean literals should be removed from expressions to improve readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1125",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1155": {
+          "id": "S1155",
+          "shortDescription": "\"Any()\" should be used to test for emptiness",
+          "fullDescription": "Using .Count() to test for emptiness works, but using .Any() makes the intent clearer, and the code more readable. However, there are some cases where special attention should be paid:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1155",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2953": {
+          "id": "S2953",
+          "shortDescription": "Methods named \"Dispose\" should implement \"IDisposable.Dispose\"",
+          "fullDescription": "Dispose as a method name should be used exclusively to implement IDisposable.Dispose to prevent any confusion.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2953",
+          "properties": {
+            "category": "Blocker Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2971": {
+          "id": "S2971",
+          "shortDescription": "\"IEnumerable\" LINQs should be simplified",
+          "fullDescription": "In the interests of readability, code that can be simplified should be simplified. To that end, there are several ways IEnumerable language integrated queries (LINQ) can be simplified",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2971",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3604": {
+          "id": "S3604",
+          "shortDescription": "Member initializer values should not be redundant",
+          "fullDescription": "Fields, properties and events can be initialized either inline or in the constructor. Initializing them inline and in the constructor at the same time is redundant; the inline initialization will be overridden.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3604",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3776": {
+          "id": "S3776",
+          "shortDescription": "Cognitive Complexity of methods should not be too high",
+          "fullDescription": "Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S4136": {
+          "id": "S4136",
+          "shortDescription": "Method overloads should be grouped together",
+          "fullDescription": "For clarity, all overloads of the same method should be grouped together. That lets both users and maintainers quickly understand all the current available options.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4136",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

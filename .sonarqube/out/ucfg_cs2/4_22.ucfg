@@ -1,0 +1,58 @@
+
+YAksaty.Domain.Queries.GetByEmailQuery.GetByEmailQuery(string, string, string, bool, bool)b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetByEmailQuery.cs ("1*ô
+1b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetByEmailQuery.cs	 (	…
+‚
+
+%0void"@Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.BaseEntityQuery()*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*
+0*Õ
+
+0b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetByEmailQuery.cs (ä
+á
+b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetByEmailQuery.cs (
+%1string"/Aksaty.Domain.Queries.GetByEmailQuery.Email.set*)'
+%Aksaty.Domain.Queries.GetByEmailQuery*
+
+emailstring‚
+ÿ
+b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetByEmailQuery.cs (%
+%2string">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedById.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*
+
+createdByIdstringü
+ù
+b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetByEmailQuery.cs (
+%3string";Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.TanentId.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*
+
+tanentIdstringÿ
+ü
+b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetByEmailQuery.cs ()
+%4System.Nullable<T>"@Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.ShowOnWebsite.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*
+""ù
+ö
+b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetByEmailQuery.cs (
+%5System.Nullable<T>":Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.Deleted.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*
+""*
+2*â
+2b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetByEmailQuery.cs	 (	"y
+b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Queries\GetByEmailQuery.cs (	
+implicit return:
+emailstring:
+createdByIdstring:
+tanentIdstring:
+showOnWebsitebool:
+deletedboolB)'
+%Aksaty.Domain.Queries.GetByEmailQuery

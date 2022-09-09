@@ -1,0 +1,36 @@
+
+tAksaty.Api.Configurations.HttpContextAccessorConfig.UseHttpContext(Microsoft.AspNetCore.Builder.IApplicationBuilder)y
+oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\HttpContextAccessorConfig.cs, (:"0*ì
+0y
+oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\HttpContextAccessorConfig.cs (% «
+y
+oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\HttpContextAccessorConfig.cs$ (J
+%0System.IServiceProvider"HMicrosoft.AspNetCore.Builder.IApplicationBuilder.ApplicationServices.get*H
+F
+applicationBuilder0Microsoft.AspNetCore.Builder.IApplicationBuilder2ApplicationServices.getû
+õ
+y
+oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\HttpContextAccessorConfig.cs$ (u4
+%1.Microsoft.AspNetCore.Http.IHttpContextAccessor"xMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService<T>(System.IServiceProvider)*M"K
+IMicrosoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions*
+
+%0System.IServiceProvider‹
+Ÿ
+y
+oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\HttpContextAccessorConfig.cs (v
+
+%2void"fAksaty.Infra.CrossCutting.Util.MyHttpContext.Configure(Microsoft.AspNetCore.Http.IHttpContextAccessor)*0".
+,Aksaty.Infra.CrossCutting.Util.MyHttpContext*6
+4
+%1.Microsoft.AspNetCore.Http.IHttpContextAccessor"≈
+y
+oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\HttpContextAccessorConfig.cs (&H
+F
+applicationBuilder0Microsoft.AspNetCore.Builder.IApplicationBuilder*ë
+1y
+oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\HttpContextAccessorConfig.cs	 (	"ê
+y
+oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\HttpContextAccessorConfig.cs (	
+implicit return:F
+applicationBuilder0Microsoft.AspNetCore.Builder.IApplicationBuilderB7"5
+3Aksaty.Api.Configurations.HttpContextAccessorConfig

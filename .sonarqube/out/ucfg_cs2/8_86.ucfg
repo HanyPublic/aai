@@ -1,0 +1,26 @@
+
+_Aksaty.Infra.Data.Repository.SalesProductsRepository.Remove(Aksaty.Domain.Models.SalesProducts)q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SalesProductsRepository.cs ("0*†
+0q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SalesProductsRepository.cs ('§
+°
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SalesProductsRepository.cs (2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*r*p6
+4Aksaty.Infra.Data.Repository.SalesProductsRepository"6
+_dbSet,Microsoft.EntityFrameworkCore.DbSet<TEntity>˚¯
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SalesProductsRepository.cs ((G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*5
+3
+salesProducts"Aksaty.Domain.Models.SalesProducts2Remove(TEntity)*
+1*Å
+1q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SalesProductsRepository.cs	 (	"à
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SalesProductsRepository.cs (	
+implicit return:3
+salesProducts"Aksaty.Domain.Models.SalesProductsB86
+4Aksaty.Infra.Data.Repository.SalesProductsRepository

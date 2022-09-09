@@ -1,0 +1,26 @@
+
+JAksaty.Infra.Data.Repository.SaleRepository.Add(Aksaty.Domain.Models.Sale)h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.cs ("0*ã
+0h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.cs (‘
+Ž
+h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.cs (2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*h*f-
++Aksaty.Infra.Data.Repository.SaleRepository"5
+DbSet,Microsoft.EntityFrameworkCore.DbSet<TEntity>Ú×
+h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.cs (G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*#
+!
+SaleAksaty.Domain.Models.Sale2Add(TEntity)*
+1*î
+1h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.cs 	  (	"
+h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.cs   (	
+implicit return:!
+SaleAksaty.Domain.Models.SaleB/-
++Aksaty.Infra.Data.Repository.SaleRepository

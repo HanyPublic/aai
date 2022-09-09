@@ -1,0 +1,10 @@
+Í
+-Aksaty.Infra.Data.Repository.TanentRepositoryobject*Aksaty.Domain.Interfaces.ITanentRepository¤
+9TanentRepository(Aksaty.Infra.Data.Context.AksatyContext)gAksaty.Infra.Data.Repository.TanentRepository.TanentRepository(Aksaty.Infra.Data.Context.AksatyContext)’
+0GetAll(Aksaty.Domain.Queries.GetAllTanentsQuery)^Aksaty.Infra.Data.Repository.TanentRepository.GetAll(Aksaty.Domain.Queries.GetAllTanentsQuery)X
+GetByUserId(string)AAksaty.Infra.Data.Repository.TanentRepository.GetByUserId(string)r
+ Add(Aksaty.Domain.Models.Tanent)NAksaty.Infra.Data.Repository.TanentRepository.Add(Aksaty.Domain.Models.Tanent)x
+#Update(Aksaty.Domain.Models.Tanent)QAksaty.Infra.Data.Repository.TanentRepository.Update(Aksaty.Domain.Models.Tanent)D
+	Dispose()7Aksaty.Infra.Data.Repository.TanentRepository.Dispose()N
+UnitOfWork.get<Aksaty.Infra.Data.Repository.TanentRepository.UnitOfWork.getN
+UnitOfWork.set<Aksaty.Infra.Data.Repository.TanentRepository.UnitOfWork.set

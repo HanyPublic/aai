@@ -1,0 +1,47 @@
+
+[Aksaty.Domain.Queries.GetAllTanentsQuery.GetAllTanentsQuery(int?, int?, decimal?, decimal?)j
+`D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Queries\GetAllTanentsQuery.cs (!"1*è
+1j
+`D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Queries\GetAllTanentsQuery.cs	 (	r
+p
+
+%0void"4Aksaty.Infra.CrossCutting.Util.BaseQuery.BaseQuery()*,*
+(Aksaty.Infra.CrossCutting.Util.BaseQuery*
+0*ì
+0j
+`D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Queries\GetAllTanentsQuery.cs ()û
+ø
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Queries\GetAllTanentsQuery.cs ()
+%1System.Nullable<T>":Aksaty.Domain.Queries.GetAllTanentsQuery.MinMonthCount.set*,*
+(Aksaty.Domain.Queries.GetAllTanentsQuery*
+""û
+ø
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Queries\GetAllTanentsQuery.cs ()
+%2System.Nullable<T>":Aksaty.Domain.Queries.GetAllTanentsQuery.MaxMonthCount.set*,*
+(Aksaty.Domain.Queries.GetAllTanentsQuery*
+""û
+ø
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Queries\GetAllTanentsQuery.cs ()
+%3System.Nullable<T>":Aksaty.Domain.Queries.GetAllTanentsQuery.MinPerecntage.set*,*
+(Aksaty.Domain.Queries.GetAllTanentsQuery*
+""û
+ø
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Queries\GetAllTanentsQuery.cs ()
+%4System.Nullable<T>":Aksaty.Domain.Queries.GetAllTanentsQuery.MaxPerecntage.set*,*
+(Aksaty.Domain.Queries.GetAllTanentsQuery*
+""*
+2*ó
+2j
+`D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Queries\GetAllTanentsQuery.cs	 (	"
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Queries\GetAllTanentsQuery.cs (	
+implicit return:#
+minMonthCountSystem.Nullable<T>:#
+maxMonthCountSystem.Nullable<T>:#
+minPerecntageSystem.Nullable<T>:#
+maxPerecntageSystem.Nullable<T>B,*
+(Aksaty.Domain.Queries.GetAllTanentsQuery

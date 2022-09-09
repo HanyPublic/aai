@@ -1,0 +1,76 @@
+
+gAksaty.Application.ViewModels.AttachmentViewModelBase.GetAttachmentAbsolutePath(string, string, string)á
+}D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModelBase.cs (/"0*ﬂ
+0á
+}D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModelBase.cs (I◊
+‘
+á
+}D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModelBase.cs6 (p
+%0string"XAksaty.Infra.CrossCutting.Util.AttachmentUrlHelper.GetAttachmentRootPath(string, string)*6"4
+2Aksaty.Infra.CrossCutting.Util.AttachmentUrlHelper*
+
+tanentIdstring*
+
+userIdstring˝
+˙
+á
+}D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModelBase.cs  (q
+%1string"&System.IO.Path.Combine(string, string)*"
+System.IO.Path*
+
+rootPathstring*
+
+%0stringº
+π
+á
+}D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModelBase.cs (q
+directoryPathstring"__id*
+
+%1stringç
+ä
+á
+}D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModelBase.cs (4
+%2System.IO.DirectoryInfo"+System.IO.Directory.CreateDirectory(string)*"
+System.IO.Directory*
+
+directoryPathstringö
+ó
+á
+}D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModelBase.cs2 (:
+%3string"BAksaty.Application.ViewModels.AttachmentViewModelBase.FileName.get*97
+5Aksaty.Application.ViewModels.AttachmentViewModelBaseü
+ú
+á
+}D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModelBase.cs< (I
+%4string"GAksaty.Application.ViewModels.AttachmentViewModelBase.FileExtension.get*97
+5Aksaty.Application.ViewModels.AttachmentViewModelBase≈
+¬
+á
+}D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModelBase.cs/ (K
+%5string"__concat*
+
+%3string*
+
+%4stringÇ
+ˇ
+á
+}D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModelBase.cs (L
+%6string"&System.IO.Path.Combine(string, string)*"
+System.IO.Path*
+
+directoryPathstring*
+
+%5string"ö
+á
+}D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModelBase.cs (M
+
+%6string*Ø
+1á
+}D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModelBase.cs	 (	"ü
+á
+}D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\AttachmentViewModels\AttachmentViewModelBase.cs (	
+implicit return:
+rootPathstring:
+tanentIdstring:
+userIdstringB97
+5Aksaty.Application.ViewModels.AttachmentViewModelBase

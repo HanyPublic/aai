@@ -1,0 +1,30 @@
+
+¡Aksaty.Domain.Attachments.Handlers.AttachmentCommandsHandler.Handle(Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery, System.Threading.CancellationToken)u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csK+ K(1"0*ë
+0u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csM M(1Ó
+Ð
+u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csM M("@
+%0:Aksaty.Domain.Attachments.Interfaces.IAttachmentRepository"__id*Ž*‹>
+<Aksaty.Domain.Attachments.Handlers.AttachmentCommandsHandler"I
+_repository:Aksaty.Domain.Attachments.Interfaces.IAttachmentRepositoryðí
+u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csM M(2*
+%1$System.Threading.Tasks.Task<TResult>"{Aksaty.Domain.Attachments.Interfaces.IAttachmentRepository.GetAll(Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery)*B
+@
+%0:Aksaty.Domain.Attachments.Interfaces.IAttachmentRepository*E
+C
+request8Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery2@GetAll(Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery)"¥
+u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csM M(3,
+*
+%1$System.Threading.Tasks.Task<TResult>*‰
+1u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csN	 N(	"Œ
+u
+kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csN N(	
+implicit return:C
+request8Aksaty.Domain.Attachments.Queries.GetAllAttachmentsQuery:7
+cancellationToken"System.Threading.CancellationTokenB@>
+<Aksaty.Domain.Attachments.Handlers.AttachmentCommandsHandler

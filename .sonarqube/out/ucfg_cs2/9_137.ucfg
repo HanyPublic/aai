@@ -1,0 +1,42 @@
+
+JAksaty.Application.Services.AttachmentAppService.Remove(System.Guid, bool)m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs+& +(,"0*·
+0m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs- -([ï
+í
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs- -("*
+%0$NetDevPack.Mediator.IMediatorHandler"__id*o*m2
+0Aksaty.Application.Services.AttachmentAppService"7
+_mediatorHelper$NetDevPack.Mediator.IMediatorHandler˛˚
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs-/ -(\G
+%1AAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand"AAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommandŒ
+À
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs-3 -(Q
+
+%2void"sAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand.RemoveRestoreAttachmentCommand(System.Guid, bool)*I
+G
+%1AAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand*
+""*
+""‚ﬂ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs- -(]*
+%3$System.Threading.Tasks.Task<TResult>"6NetDevPack.Mediator.IMediatorHandler.SendCommand<T>(T)*,
+*
+%0$NetDevPack.Mediator.IMediatorHandler*I
+G
+%1AAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand2SendCommand<T>(T)"ù
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs- -(^,
+*
+%3$System.Threading.Tasks.Task<TResult>*˘
+1m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs.	 .(	"Ñ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\AttachmentAppService.cs. .(	
+implicit return:
+idSystem.Guid:
+DeleteboolB42
+0Aksaty.Application.Services.AttachmentAppService

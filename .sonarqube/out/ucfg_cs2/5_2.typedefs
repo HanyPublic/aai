@@ -1,0 +1,6 @@
+“
+'Aksaty.Domain.Events.TanentEventHandlerobject+MediatR.INotificationHandler<TNotification>+MediatR.INotificationHandler<TNotification>+MediatR.INotificationHandler<TNotification>Ò
+SHandle(Aksaty.Domain.Events.TanentUpdatedEvent, System.Threading.CancellationToken){Aksaty.Domain.Events.TanentEventHandler.Handle(Aksaty.Domain.Events.TanentUpdatedEvent, System.Threading.CancellationToken)Ø
+VHandle(Aksaty.Domain.Events.TanentRegisteredEvent, System.Threading.CancellationToken)~Aksaty.Domain.Events.TanentEventHandler.Handle(Aksaty.Domain.Events.TanentRegisteredEvent, System.Threading.CancellationToken)Ò
+SHandle(Aksaty.Domain.Events.TanentRemovedEvent, System.Threading.CancellationToken){Aksaty.Domain.Events.TanentEventHandler.Handle(Aksaty.Domain.Events.TanentRemovedEvent, System.Threading.CancellationToken)T
+TanentEventHandler()<Aksaty.Domain.Events.TanentEventHandler.TanentEventHandler()

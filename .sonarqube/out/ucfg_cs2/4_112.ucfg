@@ -1,0 +1,35 @@
+
+OAksaty.Domain.Commands.RemoveCustomerCommand.RemoveCustomerCommand(System.Guid)i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\RemoveCustomerCommand.cs ($"1*é
+1i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\RemoveCustomerCommand.cs	 (	t
+r
+
+%0void"8Aksaty.Domain.Commands.CustomerCommand.CustomerCommand()**(
+&Aksaty.Domain.Commands.CustomerCommand*
+0*¶
+0i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\RemoveCustomerCommand.cs
+ (ä
+á
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\RemoveCustomerCommand.cs
+ 
+(
+%1System.Guid"-Aksaty.Domain.Commands.CustomerCommand.Id.set**(
+&Aksaty.Domain.Commands.CustomerCommand*
+""Ù
+Ö
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\RemoveCustomerCommand.cs (
+%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
+NetDevPack.Messaging.Message*
+""*
+2*ñ
+2i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\RemoveCustomerCommand.cs	 (	"€
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\RemoveCustomerCommand.cs (	
+implicit return:
+idSystem.GuidB0.
+,Aksaty.Domain.Commands.RemoveCustomerCommand

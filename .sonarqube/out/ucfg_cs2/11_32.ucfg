@@ -1,0 +1,35 @@
+
+GAksaty.Services.Api.Controllers.CustomerController.History(System.Guid)o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs<6 <(="2*û
+0o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs> >(=¹
+¶
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs> >(,7
+%01Aksaty.Application.Interfaces.ICustomerAppService"__id*ƒ*€4
+2Aksaty.Services.Api.Controllers.CustomerController"H
+_customerAppService1Aksaty.Application.Interfaces.ICustomerAppServiceÍÊ
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs> >(>*
+%1$System.Threading.Tasks.Task<TResult>"LAksaty.Application.Interfaces.ICustomerAppService.GetAllHistory(System.Guid)*9
+7
+%01Aksaty.Application.Interfaces.ICustomerAppService*
+""2GetAllHistory(System.Guid)"y
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs> >(?
+""*ý
+1o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs?	 ?(	"†
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs? ?(	
+implicit return*Œ
+2o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs<F <(F
+
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs<6 <(=
+%2"__entrypoint*
+""*
+0:
+idSystem.GuidB64
+2Aksaty.Services.Api.Controllers.CustomerController

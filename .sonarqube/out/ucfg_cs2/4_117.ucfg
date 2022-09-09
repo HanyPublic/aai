@@ -1,0 +1,51 @@
+
+6Aksaty.Domain.Commands.UpdateCustomerCommand.IsValid()i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs% %($"0*ÿ
+0i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs' ((+üù
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs' '(DH
+%0BAksaty.Domain.Commands.Validations.UpdateCustomerCommandValidation"BAksaty.Domain.Commands.Validations.UpdateCustomerCommandValidation¬
+©
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs'# '(B
+
+%1void"dAksaty.Domain.Commands.Validations.UpdateCustomerCommandValidation.UpdateCustomerCommandValidation()*J
+H
+%0BAksaty.Domain.Commands.Validations.UpdateCustomerCommandValidationÐ
+Í
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs' '(S/
+%2)FluentValidation.Results.ValidationResult"1FluentValidation.AbstractValidator<T>.Validate(T)*J
+H
+%0BAksaty.Domain.Commands.Validations.UpdateCustomerCommandValidation*0.
+,Aksaty.Domain.Commands.UpdateCustomerCommand§
+¤
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs' '(S/
+%3)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.set* 
+NetDevPack.Messaging.Command*1
+/
+%2)FluentValidation.Results.ValidationResultô
+ñ
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs( ((#/
+%4)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.get* 
+NetDevPack.Messaging.Commandñî
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs( ((+
+
+%5bool"5FluentValidation.Results.ValidationResult.IsValid.get*1
+/
+%4)FluentValidation.Results.ValidationResult2IsValid.get"y
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs( ((,
+
+
+%5bool*ñ
+1i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs)	 )(	"€
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\UpdateCustomerCommand.cs) )(	
+implicit returnB0.
+,Aksaty.Domain.Commands.UpdateCustomerCommand

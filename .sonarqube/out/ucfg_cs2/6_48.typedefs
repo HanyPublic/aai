@@ -1,0 +1,6 @@
+Ñ
+4Aksaty.Domain.Commands.Validations.SaleValidation<T>%FluentValidation.AbstractValidator<T>objectY
+ValidateAmount()EAksaty.Domain.Commands.Validations.SaleValidation<T>.ValidateAmount()a
+ValidatePaidAmount()IAksaty.Domain.Commands.Validations.SaleValidation<T>.ValidatePaidAmount()Q
+ValidateId()AAksaty.Domain.Commands.Validations.SaleValidation<T>.ValidateId()Y
+SaleValidation()EAksaty.Domain.Commands.Validations.SaleValidation<T>.SaleValidation()

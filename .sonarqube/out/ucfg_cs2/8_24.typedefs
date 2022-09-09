@@ -1,0 +1,14 @@
+ù
+6Aksaty.Infra.Data.Repository.SaleInstallmentRepositoryobject3Aksaty.Domain.Interfaces.ISaleInstallmentRepositoryø
+BSaleInstallmentRepository(Aksaty.Infra.Data.Context.AksatyContext)yAksaty.Infra.Data.Repository.SaleInstallmentRepository.SaleInstallmentRepository(Aksaty.Infra.Data.Context.AksatyContext)´
+8GetAll(Aksaty.Domain.Queries.GetAllSaleInstallmentQuery)oAksaty.Infra.Data.Repository.SaleInstallmentRepository.GetAll(Aksaty.Domain.Queries.GetAllSaleInstallmentQuery)Ô
+ôGetAllList(Aksaty.Domain.Queries.GetAllSaleInstallmentQuery, System.Linq.Expressions.Expression<System.Func<Aksaty.Domain.Models.SaleInstallment, bool>>)–Aksaty.Infra.Data.Repository.SaleInstallmentRepository.GetAllList(Aksaty.Domain.Queries.GetAllSaleInstallmentQuery, System.Linq.Expressions.Expression<System.Func<Aksaty.Domain.Models.SaleInstallment, bool>>)Ò
+öGetAllQuery(Aksaty.Domain.Queries.GetAllSaleInstallmentQuery, System.Linq.Expressions.Expression<System.Func<Aksaty.Domain.Models.SaleInstallment, bool>>)—Aksaty.Infra.Data.Repository.SaleInstallmentRepository.GetAllQuery(Aksaty.Domain.Queries.GetAllSaleInstallmentQuery, System.Linq.Expressions.Expression<System.Func<Aksaty.Domain.Models.SaleInstallment, bool>>)q
+GetById(System.Guid, bool?)RAksaty.Infra.Data.Repository.SaleInstallmentRepository.GetById(System.Guid, bool?)ç
+)Add(Aksaty.Domain.Models.SaleInstallment)`Aksaty.Infra.Data.Repository.SaleInstallmentRepository.Add(Aksaty.Domain.Models.SaleInstallment)ü
+2DetachEntity(Aksaty.Domain.Models.SaleInstallment)iAksaty.Infra.Data.Repository.SaleInstallmentRepository.DetachEntity(Aksaty.Domain.Models.SaleInstallment)ì
+,Update(Aksaty.Domain.Models.SaleInstallment)cAksaty.Infra.Data.Repository.SaleInstallmentRepository.Update(Aksaty.Domain.Models.SaleInstallment)ì
+,Remove(Aksaty.Domain.Models.SaleInstallment)cAksaty.Infra.Data.Repository.SaleInstallmentRepository.Remove(Aksaty.Domain.Models.SaleInstallment)M
+	Dispose()@Aksaty.Infra.Data.Repository.SaleInstallmentRepository.Dispose()W
+UnitOfWork.getEAksaty.Infra.Data.Repository.SaleInstallmentRepository.UnitOfWork.getW
+UnitOfWork.setEAksaty.Infra.Data.Repository.SaleInstallmentRepository.UnitOfWork.set

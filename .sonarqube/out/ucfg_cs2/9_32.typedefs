@@ -1,0 +1,37 @@
+È
+7Aksaty.Application.ViewModels.CustomerRegisterViewModel1Aksaty.Application.ViewModels.BaseEntityViewModelobjectr
+CustomerRegisterViewModel()SAksaty.Application.ViewModels.CustomerRegisterViewModel.CustomerRegisterViewModel()X
+NationalId.getFAksaty.Application.ViewModels.CustomerRegisterViewModel.NationalId.getX
+NationalId.setFAksaty.Application.ViewModels.CustomerRegisterViewModel.NationalId.setN
+	RefId.getAAksaty.Application.ViewModels.CustomerRegisterViewModel.RefId.getN
+	RefId.setAAksaty.Application.ViewModels.CustomerRegisterViewModel.RefId.setN
+	Notes.getAAksaty.Application.ViewModels.CustomerRegisterViewModel.Notes.getN
+	Notes.setAAksaty.Application.ViewModels.CustomerRegisterViewModel.Notes.setP
+
+Review.getBAksaty.Application.ViewModels.CustomerRegisterViewModel.Review.getP
+
+Review.setBAksaty.Application.ViewModels.CustomerRegisterViewModel.Review.setR
+ImageId.getCAksaty.Application.ViewModels.CustomerRegisterViewModel.ImageId.getR
+ImageId.setCAksaty.Application.ViewModels.CustomerRegisterViewModel.ImageId.setT
+ImageUrl.getDAksaty.Application.ViewModels.CustomerRegisterViewModel.ImageUrl.getT
+ImageUrl.setDAksaty.Application.ViewModels.CustomerRegisterViewModel.ImageUrl.setL
+Name.get@Aksaty.Application.ViewModels.CustomerRegisterViewModel.Name.getL
+Name.set@Aksaty.Application.ViewModels.CustomerRegisterViewModel.Name.setN
+	Email.getAAksaty.Application.ViewModels.CustomerRegisterViewModel.Email.getN
+	Email.setAAksaty.Application.ViewModels.CustomerRegisterViewModel.Email.setV
+BirthDate.getEAksaty.Application.ViewModels.CustomerRegisterViewModel.BirthDate.getV
+BirthDate.setEAksaty.Application.ViewModels.CustomerRegisterViewModel.BirthDate.setP
+
+Mobile.getBAksaty.Application.ViewModels.CustomerRegisterViewModel.Mobile.getP
+
+Mobile.setBAksaty.Application.ViewModels.CustomerRegisterViewModel.Mobile.setR
+Mobile2.getCAksaty.Application.ViewModels.CustomerRegisterViewModel.Mobile2.getR
+Mobile2.setCAksaty.Application.ViewModels.CustomerRegisterViewModel.Mobile2.setR
+Address.getCAksaty.Application.ViewModels.CustomerRegisterViewModel.Address.getR
+Address.setCAksaty.Application.ViewModels.CustomerRegisterViewModel.Address.setL
+Type.get@Aksaty.Application.ViewModels.CustomerRegisterViewModel.Type.getL
+Type.set@Aksaty.Application.ViewModels.CustomerRegisterViewModel.Type.set^
+AddRecription.getIAksaty.Application.ViewModels.CustomerRegisterViewModel.AddRecription.get^
+AddRecription.setIAksaty.Application.ViewModels.CustomerRegisterViewModel.AddRecription.setZ
+Attachments.getGAksaty.Application.ViewModels.CustomerRegisterViewModel.Attachments.getZ
+Attachments.setGAksaty.Application.ViewModels.CustomerRegisterViewModel.Attachments.set

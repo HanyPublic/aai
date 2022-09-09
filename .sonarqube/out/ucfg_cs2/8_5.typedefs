@@ -1,0 +1,6 @@
+Ò
+.Aksaty.Infra.Data.Context.EventStoreSqlContext'Microsoft.EntityFrameworkCore.DbContextobjectœ
+tEventStoreSqlContext(Microsoft.EntityFrameworkCore.DbContextOptions<Aksaty.Infra.Data.Context.EventStoreSqlContext>)£Aksaty.Infra.Data.Context.EventStoreSqlContext.EventStoreSqlContext(Microsoft.EntityFrameworkCore.DbContextOptions<Aksaty.Infra.Data.Context.EventStoreSqlContext>)©
+;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)jAksaty.Infra.Data.Context.EventStoreSqlContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)Q
+StoredEvent.get>Aksaty.Infra.Data.Context.EventStoreSqlContext.StoredEvent.getQ
+StoredEvent.set>Aksaty.Infra.Data.Context.EventStoreSqlContext.StoredEvent.set

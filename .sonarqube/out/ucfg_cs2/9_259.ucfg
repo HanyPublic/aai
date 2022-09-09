@@ -1,0 +1,61 @@
+
+zAksaty.Application.Services.SaleInstallmentAppService.GetAll(Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel)r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs#? #(E"0*Ç
+0r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs% &(Ió
+ð
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs% %('
+%0MediatR.IMediator"__id*[*Y7
+5Aksaty.Application.Services.SaleInstallmentAppService"
+	_mediatorMediatR.IMediatoró
+ð
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs%- %(4
+%1AutoMapper.IMapper"__id*Z*X7
+5Aksaty.Application.Services.SaleInstallmentAppService"
+_mapperAutoMapper.IMapperú÷
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs%- %(t6
+%20Aksaty.Domain.Queries.GetAllSaleInstallmentQuery"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%1AutoMapper.IMapper*`
+^
+getAllSaleInstallmentViewModel<Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel2Map<TDestination>(object)¶³
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs% %(u*
+%3$System.Threading.Tasks.Task<TResult>"bMediatR.IMediator.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%0MediatR.IMediator*8
+6
+%20Aksaty.Domain.Queries.GetAllSaleInstallmentQuery*
+""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)»
+¸
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs% %(u4
+gasiq+Aksaty.Infra.CrossCutting.Util.PagedList<T>"__id*
+""ó
+ð
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs& &(
+%4AutoMapper.IMapper"__id*Z*X7
+5Aksaty.Application.Services.SaleInstallmentAppService"
+_mapperAutoMapper.IMapperËÈ
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs& &(J1
+%5+Aksaty.Infra.CrossCutting.Util.PagedList<T>"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%4AutoMapper.IMapper*6
+4
+gasiq+Aksaty.Infra.CrossCutting.Util.PagedList<T>2Map<TDestination>(object)"©
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs& &(K3
+1
+%5+Aksaty.Infra.CrossCutting.Util.PagedList<T>*ƒ
+1r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs'	 '(	"‰
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs' '(	
+implicit return:^
+getAllSaleInstallmentViewModel<Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModelB97
+5Aksaty.Application.Services.SaleInstallmentAppService

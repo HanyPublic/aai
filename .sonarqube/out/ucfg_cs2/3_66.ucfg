@@ -1,0 +1,87 @@
+
+ŽAksaty.Domain.Attachments.Events.AttachmentRemovedEvent.AttachmentRemovedEvent(System.Guid, string, string, System.DateTime, bool, bool, bool)p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRemovedEvent.cs (%"1*‚
+1p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRemovedEvent.cs	 (	…
+‚
+
+%0void"@Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.BaseEntityEvent()*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
+0*µ
+0p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRemovedEvent.cs (
+Š
+p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRemovedEvent.cs (
+%1System.Guid">Aksaty.Domain.Attachments.Events.AttachmentRemovedEvent.Id.set*;9
+7Aksaty.Domain.Attachments.Events.AttachmentRemovedEvent*
+""à
+Ý
+p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRemovedEvent.cs (
+%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
+NetDevPack.Messaging.Message*
+""ù
+ö
+p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRemovedEvent.cs (
+
+%3bool":Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.Deleted.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
+""
+
+p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRemovedEvent.cs (%
+%4string">Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.CreatedById.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
+
+createdByIdstringŠ
+‡
+p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRemovedEvent.cs (
+%5string";Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.TanentId.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
+
+tanentIdstringž
+›
+p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRemovedEvent.cs (!
+%6System.DateTime"<Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.CreatedAt.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
+
+	createdAtSystem.DateTimeÿ
+ü
+p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRemovedEvent.cs ()
+
+%7bool"@Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.ShowOnWebsite.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
+""Š
+‡
+p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRemovedEvent.cs (
+
+%8bool"BAksaty.Domain.Attachments.Events.AttachmentRemovedEvent.Delete.set*;9
+7Aksaty.Domain.Attachments.Events.AttachmentRemovedEvent*
+""ù
+ö
+p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRemovedEvent.cs (
+
+%9bool":Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.Deleted.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
+""*
+2*ÿ
+2p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRemovedEvent.cs	 (	"‡
+p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRemovedEvent.cs (	
+implicit return:
+idSystem.Guid:
+createdByIdstring:
+tanentIdstring:
+	createdAtSystem.DateTime:
+showOnWebsitebool:
+deletebool:
+deletedboolB;9
+7Aksaty.Domain.Attachments.Events.AttachmentRemovedEvent

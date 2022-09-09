@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Commands\SaleProductsCommands\**" />
+    <EmbeddedResource Remove="Commands\SaleProductsCommands\**" />
+    <None Remove="Commands\SaleProductsCommands\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aksaty.Infra.CrossCutting.Util\Aksaty.Infra.CrossCutting.Util.csproj" />
+    <ProjectReference Include="..\src\Aksaty.Domain.Core\Aksaty.Domain.Core.csproj" />
+    <ProjectReference Include="..\src\Aksaty.Domain\Aksaty.Domain.Customer.csproj" />
+    <ProjectReference Include="..\src\Aksaty.Infra.CrossCutting.Bus\Aksaty.Infra.CrossCutting.Bus.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Commands\Validations\Product\" />
+    <Folder Include="Commands\Validations\SaleInstallment\" />
+  </ItemGroup>
+
+</Project>

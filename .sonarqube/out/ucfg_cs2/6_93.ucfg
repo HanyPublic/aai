@@ -1,0 +1,32 @@
+
+YAksaty.Domain.Events.SaleInstallmentRemovedEvent.SaleInstallmentRemovedEvent(System.Guid)
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentRemovedEvent.cs	 	(*"1*›
+1
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentRemovedEvent.cs	 (	R
+P
+
+%0void""NetDevPack.Messaging.Event.Event()*
+NetDevPack.Messaging.Event*
+0*å
+0
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentRemovedEvent.cs (é
+ã
+
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentRemovedEvent.cs (
+%1System.Guid"7Aksaty.Domain.Events.SaleInstallmentRemovedEvent.Id.set*42
+0Aksaty.Domain.Events.SaleInstallmentRemovedEvent*
+""Ô
+Ï
+
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentRemovedEvent.cs (
+%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
+NetDevPack.Messaging.Message*
+""*
+2*ù
+2
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentRemovedEvent.cs	 (	"ñ
+
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentRemovedEvent.cs (	
+implicit return:
+idSystem.GuidB42
+0Aksaty.Domain.Events.SaleInstallmentRemovedEvent

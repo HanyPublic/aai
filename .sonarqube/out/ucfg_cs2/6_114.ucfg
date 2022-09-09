@@ -1,0 +1,22 @@
+
+yAksaty.Domain.Handlers.SaleEventHandler.Handle(Aksaty.Domain.Events.SaleCreatedEvent, System.Threading.CancellationToken)k
+aD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleEventHandler.cs ("0*ë
+0k
+aD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleEventHandler.cs (%ã
+à
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleEventHandler.cs (%!
+%0System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*"
+System.Threading.Tasks.Task"’
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleEventHandler.cs (&#
+!
+%0System.Threading.Tasks.Task*õ
+1k
+aD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleEventHandler.cs	 (	"‚
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Sale\SaleEventHandler.cs (	
+implicit return:0
+message%Aksaty.Domain.Events.SaleCreatedEvent:7
+cancellationToken"System.Threading.CancellationTokenB+)
+'Aksaty.Domain.Handlers.SaleEventHandler

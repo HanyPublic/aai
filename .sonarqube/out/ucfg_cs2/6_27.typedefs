@@ -1,0 +1,3 @@
+ö
+9Aksaty.Domain.Commands.UpdateSaleInstallmentStatusCommand-Aksaty.Domain.Commands.SaleInstallmentCommand0Aksaty.Infra.CrossCutting.Util.BaseEntityCommandNetDevPack.Messaging.CommandNetDevPack.Messaging.Messageobject“
+jUpdateSaleInstallmentStatusCommand(System.Guid, System.Guid, decimal, System.DateTime, string, bool, bool)¤Aksaty.Domain.Commands.UpdateSaleInstallmentStatusCommand.UpdateSaleInstallmentStatusCommand(System.Guid, System.Guid, decimal, System.DateTime, string, bool, bool)

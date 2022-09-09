@@ -1,0 +1,52 @@
+
+@Aksaty.Api.Controllers.SaleInstallmentController.GetStatusEnum()v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs& &(*"2*‚
+
+0v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs( ((}Œ
+À
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs(' ((A
+%0string"__id*=*;)
+'Aksaty.Infra.Util.SaleInstallmentStatus"
+Paidstring–
+Õ
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs(C ((_
+%1string"__id*?*=)
+'Aksaty.Infra.Util.SaleInstallmentStatus"
+UnPaidstring—
+Œ
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs(` ((}
+%2string"__id*@*>)
+'Aksaty.Infra.Util.SaleInstallmentStatus"
+OverDuestringÃ…
+w
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs( ((Ä)
+%3#Microsoft.AspNetCore.Mvc.JsonResult"#Microsoft.AspNetCore.Mvc.JsonResultÙ
+Ò
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs( ((!
+
+%4void"6Microsoft.AspNetCore.Mvc.JsonResult.JsonResult(object)*+
+)
+%3#Microsoft.AspNetCore.Mvc.JsonResult*
+"""¶
+w
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs( ((Å+
+)
+%3#Microsoft.AspNetCore.Mvc.JsonResult*ã
+1v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs)	 )(	"ç
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs) )(	
+implicit return*í
+2v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs&, &(,è
+å
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs& &(*
+%5"__entrypoint*
+0B42
+0Aksaty.Api.Controllers.SaleInstallmentController

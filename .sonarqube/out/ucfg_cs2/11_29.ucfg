@@ -1,0 +1,150 @@
+
+`Aksaty.Api.Controllers.ProductController.Post(Aksaty.Application.ViewModels.AddProductViewModel)n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs&) &(-"5*Ω
+0n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs( *(&È
+Ê
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs(+ ((6
+%0string"8Aksaty.Services.Api.Controllers.ApiController.UserId.get*,*
+(Aksaty.Api.Controllers.ProductControllerù
+ö
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs( ((6
+%1string"AAksaty.Application.ViewModels.BaseEntityViewModel.CreatedById.set*G
+E
+productViewModel1Aksaty.Application.ViewModels.AddProductViewModel*
+
+%0stringÎ
+Ë
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs)( )(5
+%2string":Aksaty.Services.Api.Controllers.ApiController.TanentId.get*,*
+(Aksaty.Api.Controllers.ProductControllerö
+ó
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs) )(5
+%3string">Aksaty.Application.ViewModels.BaseEntityViewModel.TanentId.set*G
+E
+productViewModel1Aksaty.Application.ViewModels.AddProductViewModel*
+
+%2stringö
+ó
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs* *(@
+%4:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary"6Microsoft.AspNetCore.Mvc.ControllerBase.ModelState.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseã
+à
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs* *(&
+
+%5bool"FMicrosoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary.IsValid.get*B
+@
+%4:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary*
+1
+2*‹	
+1n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs*) *(Bö
+ó
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs*8 *(B@
+%9:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary"6Microsoft.AspNetCore.Mvc.ControllerBase.ModelState.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseí
+è
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs*) *(C,
+%10%Microsoft.AspNetCore.Mvc.ActionResult"xAksaty.Services.Api.Controllers.ApiController.CustomResponse(Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary)*1/
+-Aksaty.Services.Api.Controllers.ApiController*B
+@
+%9:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary÷
+”
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs*) *(C+
+%7%Microsoft.AspNetCore.Mvc.ActionResult"__id*.
+,
+%10%Microsoft.AspNetCore.Mvc.ActionResult÷
+”
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs*) *(C,
+%6&Microsoft.AspNetCore.Mvc.IActionResult"__id*-
++
+%7%Microsoft.AspNetCore.Mvc.ActionResult*
+3*›
+2n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs*F *(x†
+ù
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs*[ *(c7
+%110Aksaty.Application.Interfaces.IProductAppService"__id*l*j*
+(Aksaty.Api.Controllers.ProductController"<
+_service0Aksaty.Application.Interfaces.IProductAppService≈¬
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs*[ *(y+
+%12$System.Threading.Tasks.Task<TResult>"gAksaty.Application.Interfaces.IProductAppService.Add(Aksaty.Application.ViewModels.AddProductViewModel)*9
+7
+%110Aksaty.Application.Interfaces.IProductAppService*G
+E
+productViewModel1Aksaty.Application.ViewModels.AddProductViewModel26Add(Aksaty.Application.ViewModels.AddProductViewModel)≈
+¬
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs*F *(z,
+%13%Microsoft.AspNetCore.Mvc.ActionResult"gAksaty.Services.Api.Controllers.ApiController.CustomResponse(FluentValidation.Results.ValidationResult)*1/
+-Aksaty.Services.Api.Controllers.ApiController*
+""÷
+”
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs*F *(z+
+%8%Microsoft.AspNetCore.Mvc.ActionResult"__id*.
+,
+%13%Microsoft.AspNetCore.Mvc.ActionResult÷
+”
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs*F *(z,
+%6&Microsoft.AspNetCore.Mvc.IActionResult"__id*-
++
+%8%Microsoft.AspNetCore.Mvc.ActionResult*
+3*ñ
+3n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs+	 +(	"†
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs* *({.
+,
+%6&Microsoft.AspNetCore.Mvc.IActionResult*˚
+4n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs+	 +(	"Ö
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs+ +(	
+implicit return*Ç	
+5n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs&^ &(^›
+⁄
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs&) &(-Z
+E
+productViewModel1Aksaty.Application.ViewModels.AddProductViewModel"
+ImageIdstring"__entrypointﬁ
+€
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs&) &(-[
+E
+productViewModel1Aksaty.Application.ViewModels.AddProductViewModel"
+ImageUrlstring"__entrypoint⁄
+◊
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs&) &(-W
+E
+productViewModel1Aksaty.Application.ViewModels.AddProductViewModel"
+Namestring"__entrypointﬁ
+€
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs&) &(-[
+E
+productViewModel1Aksaty.Application.ViewModels.AddProductViewModel"
+Categorystring"__entrypointà
+Ö
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs&) &(-
+%14"__entrypoint*
+0:E
+productViewModel1Aksaty.Application.ViewModels.AddProductViewModelB,*
+(Aksaty.Api.Controllers.ProductController

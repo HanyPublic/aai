@@ -1,0 +1,3 @@
+ê
+$Aksaty.Domain.Events.SaleUpdateEvent)Aksaty.Domain.Sales.Events.Sale.SaleEvent.Aksaty.Infra.CrossCutting.Util.BaseEntityEventNetDevPack.Messaging.EventNetDevPack.Messaging.Messageobject¤
+}SaleUpdateEvent(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, bool, bool)¢Aksaty.Domain.Events.SaleUpdateEvent.SaleUpdateEvent(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, bool, bool)

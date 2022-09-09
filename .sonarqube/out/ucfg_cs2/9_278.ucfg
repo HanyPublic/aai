@@ -1,0 +1,67 @@
+
+iAksaty.Application.Services.TanentAppService.GetAll(Aksaty.Application.ViewModels.GetAllTanentsViewModel)i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs"6 "(<"0*ž
+0i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs$ &(Bá
+Þ
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs$ $(
+%0AutoMapper.IMapper"__id*Q*O.
+,Aksaty.Application.Services.TanentAppService"
+_mapperAutoMapper.IMapperÙÖ
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs$ $(O.
+%1(Aksaty.Domain.Queries.GetAllTanentsQuery"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%0AutoMapper.IMapper*P
+N
+getAllTanentsViewModel4Aksaty.Application.ViewModels.GetAllTanentsViewModel2Map<TDestination>(object)Ù
+Ö
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs$ $(O1
+query(Aksaty.Domain.Queries.GetAllTanentsQuery"__id*0
+.
+%1(Aksaty.Domain.Queries.GetAllTanentsQueryá
+Þ
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs%  %()
+%2MediatR.IMediator"__id*R*P.
+,Aksaty.Application.Services.TanentAppService"
+	_mediatorMediatR.IMediator¨¥
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs%  %(5*
+%3$System.Threading.Tasks.Task<TResult>"bMediatR.IMediator.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%2MediatR.IMediator*3
+1
+query(Aksaty.Domain.Queries.GetAllTanentsQuery*
+""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)´
+±
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs% %(56
+tanents+Aksaty.Infra.CrossCutting.Util.PagedList<T>"__id*
+""á
+Þ
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs& &(
+%4AutoMapper.IMapper"__id*Q*O.
+,Aksaty.Application.Services.TanentAppService"
+_mapperAutoMapper.IMapperÄÁ
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs& &(C1
+%5+Aksaty.Infra.CrossCutting.Util.PagedList<T>"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%4AutoMapper.IMapper*8
+6
+tanents+Aksaty.Infra.CrossCutting.Util.PagedList<T>2Map<TDestination>(object)" 
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs& &(D3
+1
+%5+Aksaty.Infra.CrossCutting.Util.PagedList<T>*ñ
+1i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs'	 '(	"€
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs' '(	
+implicit return:N
+getAllTanentsViewModel4Aksaty.Application.ViewModels.GetAllTanentsViewModelB0.
+,Aksaty.Application.Services.TanentAppService

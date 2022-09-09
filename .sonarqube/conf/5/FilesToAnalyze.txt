@@ -1,0 +1,14 @@
+﻿D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs
+D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\TanentCommand.cs
+D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\Validations\AddUpdateTanentCommandValidation.cs
+D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\Validations\TanentValidation.cs
+D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentEvent.cs
+D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentEventHandler.cs
+D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentRegisteredEvent.cs
+D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentRemovedEvent.cs
+D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs
+D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Handlers\TanentCommandsHandler.cs
+D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Interfaces\ITanentRepository.cs
+D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.cs
+D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Queries\GetAllTanentsQuery.cs
+D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Queries\GetTanentByIdQuery.cs

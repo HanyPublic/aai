@@ -1,0 +1,4 @@
+†
++Aksaty.Domain.Commands.CreateNewSaleCommand"Aksaty.Domain.Commands.SaleCommand0Aksaty.Infra.CrossCutting.Util.BaseEntityCommandNetDevPack.Messaging.CommandNetDevPack.Messaging.Messageobjectø
+£CreateNewSaleCommand(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, string, string, System.DateTime, bool, bool)ÏAksaty.Domain.Commands.CreateNewSaleCommand.CreateNewSaleCommand(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, string, string, System.DateTime, bool, bool)B
+	IsValid()5Aksaty.Domain.Commands.CreateNewSaleCommand.IsValid()

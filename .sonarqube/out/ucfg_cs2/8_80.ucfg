@@ -1,0 +1,45 @@
+
+lAksaty.Infra.Data.Migrations.setting_as_tanent.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)z
+pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210427082018_setting_as_tanent.cs  (""0*Å
+0z
+pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210427082018_setting_as_tanent.cs
+ .( ∑¥
+z
+pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210427082018_setting_as_tanent.cs
+ (!_
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+Settings*
+""2DropTable(string, string)îë
+z
+pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210427082018_setting_as_tanent.cs )(_
+%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+Tanents*
+""*
+""*
+""*
+""2˚CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)©¶
+z
+pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210427082018_setting_as_tanent.cs+ .(!_
+%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+IX_Tanents_UserId*	
+Tanents*
+
+UserId*
+""*
+""*
+""29CreateIndex(string, string, string, string, bool, string)*
+1*ì
+1z
+pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210427082018_setting_as_tanent.cs/	 /(	"ë
+z
+pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210427082018_setting_as_tanent.cs/ /(	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB20
+.Aksaty.Infra.Data.Migrations.setting_as_tanent

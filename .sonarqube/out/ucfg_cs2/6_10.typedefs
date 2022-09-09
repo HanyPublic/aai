@@ -1,0 +1,17 @@
+²
+Aksaty.Domain.Models.Product)Aksaty.Infra.CrossCutting.Util.BaseEntityNetDevPack.Domain.Entityobject NetDevPack.Domain.IAggregateRootò
+hProduct(System.Guid, System.Guid?, string, decimal, string, string, string, System.DateTime, bool, bool)…Aksaty.Domain.Models.Product.Product(System.Guid, System.Guid?, string, decimal, string, string, string, System.DateTime, bool, bool)7
+ImageId.get(Aksaty.Domain.Models.Product.ImageId.get7
+ImageId.set(Aksaty.Domain.Models.Product.ImageId.set3
+	Image.get&Aksaty.Domain.Models.Product.Image.get3
+	Image.set&Aksaty.Domain.Models.Product.Image.set1
+Name.get%Aksaty.Domain.Models.Product.Name.get1
+Name.set%Aksaty.Domain.Models.Product.Name.set5
+
+Amount.get'Aksaty.Domain.Models.Product.Amount.get5
+
+Amount.set'Aksaty.Domain.Models.Product.Amount.set9
+Category.get)Aksaty.Domain.Models.Product.Category.get9
+Category.set)Aksaty.Domain.Models.Product.Category.setC
+SalesProducts.get.Aksaty.Domain.Models.Product.SalesProducts.getC
+SalesProducts.set.Aksaty.Domain.Models.Product.SalesProducts.set

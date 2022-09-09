@@ -1,0 +1,121 @@
+
+ŽAksaty.Domain.Models.Tanent.Update(string, System.Guid?, string, string, string, string, int, decimal, string, string, string, string, string)]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.cs; ;("0*ì
+0]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.cs= J(-Î
+Ë
+]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.cs= =(
+%0System.Nullable<T>"'Aksaty.Domain.Models.Tanent.ImageId.set*
+Aksaty.Domain.Models.Tanent*
+""å
+â
+]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.cs> >(1
+%1+Aksaty.Domain.Attachments.Models.Attachment"%Aksaty.Domain.Models.Tanent.Image.set*
+Aksaty.Domain.Models.Tanent*
+""É
+Æ
+]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.cs? ?(
+%2string"$Aksaty.Domain.Models.Tanent.Name.set*
+Aksaty.Domain.Models.Tanent*
+
+namestringË
+È
+]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.cs@ @(
+%3string"%Aksaty.Domain.Models.Tanent.Email.set*
+Aksaty.Domain.Models.Tanent*
+
+emailstringÍ
+Ê
+]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.csA A(
+%4string"&Aksaty.Domain.Models.Tanent.Mobile.set*
+Aksaty.Domain.Models.Tanent*
+
+mobilestringÏ
+Ì
+]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.csB B(
+%5string"'Aksaty.Domain.Models.Tanent.Address.set*
+Aksaty.Domain.Models.Tanent*
+
+addressstringÑ
+Î
+]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.csC C(
+%6string"(Aksaty.Domain.Models.Tanent.Currency.set*
+Aksaty.Domain.Models.Tanent*
+
+currencystringÂ
+¿
+]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.csD D(#	
+%7int"*Aksaty.Domain.Models.Tanent.MonthCount.set*
+Aksaty.Domain.Models.Tanent*
+""Æ
+Ã
+]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.csE E(#
+%8decimal"*Aksaty.Domain.Models.Tanent.Perecntage.set*
+Aksaty.Domain.Models.Tanent*
+""É
+Æ
+]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.csF F(
+%9string"$Aksaty.Domain.Models.Tanent.Logo.set*
+Aksaty.Domain.Models.Tanent*
+
+logostringÎ
+Ë
+]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.csG G(
+%10string"&Aksaty.Domain.Models.Tanent.Colors.set*
+Aksaty.Domain.Models.Tanent*
+
+colorsstringÊ
+Ç
+]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.csH H(
+%11string"$Aksaty.Domain.Models.Tanent.Note.set*
+Aksaty.Domain.Models.Tanent*
+
+notestringÞ
+Û
+]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.csI I(+
+%12string".Aksaty.Domain.Models.Tanent.SignatureArray.set*
+Aksaty.Domain.Models.Tanent*
+
+signatureArraystringà
+Ý
+]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.csJ J(-
+%13string"/Aksaty.Domain.Models.Tanent.StampAttachment.set*
+Aksaty.Domain.Models.Tanent*
+
+stampAttachmentstring*
+1*Ø
+1]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.csK	 K(	"t
+]
+SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Models\Tanent.csK K(	
+implicit return:
+namestring:
+imageIdSystem.Nullable<T>:
+emailstring:
+mobilestring:
+addressstring:
+currencystring:
+
+monthCountint:
+
+perecntagedecimal:
+logostring:
+colorsstring:
+notestring:
+signatureArraystring:
+stampAttachmentstringB
+Aksaty.Domain.Models.Tanent

@@ -1,0 +1,5 @@
+¯
+'Aksaty.Api.Controllers.TanentController-Aksaty.Services.Api.Controllers.ApiController'Microsoft.AspNetCore.Mvc.ControllerBaseobject®
+ATanentController(Aksaty.Application.Interfaces.ITanentAppService)iAksaty.Api.Controllers.TanentController.TanentController(Aksaty.Application.Interfaces.ITanentAppService)B
+GetTanent()3Aksaty.Api.Controllers.TanentController.GetTanent()®
+AAddUpdateTanent(Aksaty.Application.ViewModels.AddTanentViewModel)iAksaty.Api.Controllers.TanentController.AddUpdateTanent(Aksaty.Application.ViewModels.AddTanentViewModel)

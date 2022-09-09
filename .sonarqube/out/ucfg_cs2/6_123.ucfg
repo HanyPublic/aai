@@ -1,0 +1,30 @@
+
+~Aksaty.Domain.Handlers.ProductCommandHandler.Handle(Aksaty.Domain.Queries.GetProductQuery, System.Threading.CancellationToken)s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs! !(#"0*å
+0s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs# #(5¨
+¥
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs# #(%1
+%0+Aksaty.Domain.Interfaces.IProductRepository"__id*u*s.
+,Aksaty.Domain.Handlers.ProductCommandHandler"A
+_productRepository+Aksaty.Domain.Interfaces.IProductRepository™–
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs# #(6*
+%1$System.Threading.Tasks.Task<TResult>"ZAksaty.Domain.Interfaces.IProductRepository.GetById(Aksaty.Domain.Queries.GetProductQuery)*3
+1
+%0+Aksaty.Domain.Interfaces.IProductRepository*2
+0
+request%Aksaty.Domain.Queries.GetProductQuery2.GetById(Aksaty.Domain.Queries.GetProductQuery)"£
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs# #(7,
+*
+%1$System.Threading.Tasks.Task<TResult>*…
+1s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs$	 $(	"Š
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs$ $(	
+implicit return:0
+request%Aksaty.Domain.Queries.GetProductQuery:7
+cancellationToken"System.Threading.CancellationTokenB0.
+,Aksaty.Domain.Handlers.ProductCommandHandler

@@ -1,0 +1,55 @@
+
+eAksaty.Application.Services.SaleAppService.GetAll(Aksaty.Application.ViewModels.GetAllSalesViewModel)g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csB4 B(:"0*Ω
+0h
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csD D(Ä›
+⁄
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csD D(
+%0AutoMapper.IMapper"__id*O*M,
+*Aksaty.Application.Services.SaleAppService"
+_mapperAutoMapper.IMapper›
+⁄
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csD? D(H
+%1MediatR.IMediator"__id*P*N,
+*Aksaty.Application.Services.SaleAppService"
+	_mediatorMediatR.IMediator›
+⁄
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csDN D(U
+%2AutoMapper.IMapper"__id*O*M,
+*Aksaty.Application.Services.SaleAppService"
+_mapperAutoMapper.IMapper“œ
+h
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csDN D(Å,
+%3&Aksaty.Domain.Queries.GetAllSalesQuery"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%2AutoMapper.IMapper*L
+J
+getAllSalesViewModel2Aksaty.Application.ViewModels.GetAllSalesViewModel2Map<TDestination>(object)¢ü
+h
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csD? D(Ç*
+%4$System.Threading.Tasks.Task<TResult>"bMediatR.IMediator.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
+
+%1MediatR.IMediator*.
+,
+%3&Aksaty.Domain.Queries.GetAllSalesQuery*
+""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)ëé
+h
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csD D(É1
+%5+Aksaty.Infra.CrossCutting.Util.PagedList<T>"0AutoMapper.IMapperBase.Map<TDestination>(object)*
+
+%0AutoMapper.IMapper*
+""2Map<TDestination>(object)"ü
+h
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csD D(Ñ3
+1
+%5+Aksaty.Infra.CrossCutting.Util.PagedList<T>*Ï
+1g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csE	 E(	"~
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csE E(	
+implicit return:J
+getAllSalesViewModel2Aksaty.Application.ViewModels.GetAllSalesViewModelB.,
+*Aksaty.Application.Services.SaleAppService

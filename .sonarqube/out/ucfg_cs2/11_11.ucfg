@@ -1,0 +1,44 @@
+
+ßAksaty.Api.Controllers.AttachmentController.AttachmentController(Aksaty.Application.Interfaces.IAttachmentAppService, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs (#"3*˛
+1q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs 	  (	Ä
+~
+
+%0void"=Aksaty.Services.Api.Controllers.ApiController.ApiController()*1/
+-Aksaty.Services.Api.Controllers.ApiController*
+0*É
+0q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs (, 
+«
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs (8}-
++Aksaty.Api.Controllers.AttachmentController"L
+_attachmentAppService3Aksaty.Application.Interfaces.IAttachmentAppService"__id*M
+K
+attachmentAppService3Aksaty.Application.Interfaces.IAttachmentAppService∏
+µ
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs (,p-
++Aksaty.Api.Controllers.AttachmentController"?
+_hostingEnv0Microsoft.AspNetCore.Hosting.IWebHostEnvironment"__id*H
+F
+hostingEnvironment0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
+2*Å
+2q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs 	  (	"à
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs   (	
+implicit return*“
+3q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csw (w‘
+—
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs (#
+%1"__entrypoint*H
+F
+hostingEnvironment0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
+1:K
+attachmentAppService3Aksaty.Application.Interfaces.IAttachmentAppService:F
+hostingEnvironment0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB/-
++Aksaty.Api.Controllers.AttachmentController

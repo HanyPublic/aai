@@ -1,0 +1,22 @@
+
+ùAksaty.Domain.Attachments.Handlers.AttachmentEventHandler.Handle(Aksaty.Domain.Attachments.Events.AttachmentRemovedEvent, System.Threading.CancellationToken)r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentEventHandler.cs ("0*Ä
+0r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentEventHandler.cs (%Í
+Á
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentEventHandler.cs (%!
+%0System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*"
+System.Threading.Tasks.Task"ô
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentEventHandler.cs (&#
+!
+%0System.Threading.Tasks.Task*É
+1r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentEventHandler.cs	 (	"â
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentEventHandler.cs (	
+implicit return:G
+notification7Aksaty.Domain.Attachments.Events.AttachmentRemovedEvent:7
+cancellationToken"System.Threading.CancellationTokenB=;
+9Aksaty.Domain.Attachments.Handlers.AttachmentEventHandler

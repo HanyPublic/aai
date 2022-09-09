@@ -1,0 +1,79 @@
+
+]Aksaty.Domain.Core.Events.StoredEvent.StoredEvent(NetDevPack.Messaging.Event, string, string)b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain.Core\Events\StoredEvent.cs ("1*À
+1b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain.Core\Events\StoredEvent.cs	 (	R
+P
+
+%0void""NetDevPack.Messaging.Event.Event()*
+NetDevPack.Messaging.Event*
+0*¥
+0b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain.Core\Events\StoredEvent.cs
+ (¢
+Ÿ
+b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain.Core\Events\StoredEvent.cs
+ 
+(
+%1System.Guid"System.Guid.NewGuid()*"
+System.Guidè
+å
+b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain.Core\Events\StoredEvent.cs
+ 
+(
+%2System.Guid",Aksaty.Domain.Core.Events.StoredEvent.Id.set*)'
+%Aksaty.Domain.Core.Events.StoredEvent*
+
+%1System.GuidÒ
+Ï
+b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain.Core\Events\StoredEvent.cs (.
+%3System.Guid",NetDevPack.Messaging.Message.AggregateId.get*(
+&
+theEventNetDevPack.Messaging.Eventß
+Ü
+b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain.Core\Events\StoredEvent.cs (.
+%4System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
+NetDevPack.Messaging.Message*
+
+%3System.GuidÍ
+Ê
+b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain.Core\Events\StoredEvent.cs (.
+%5string",NetDevPack.Messaging.Message.MessageType.get*(
+&
+theEventNetDevPack.Messaging.EventÕ
+Ò
+b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain.Core\Events\StoredEvent.cs (.
+%6string",NetDevPack.Messaging.Message.MessageType.set* 
+NetDevPack.Messaging.Message*
+
+%5stringâ
+ß
+b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain.Core\Events\StoredEvent.cs (
+%7string".Aksaty.Domain.Core.Events.StoredEvent.Data.set*)'
+%Aksaty.Domain.Core.Events.StoredEvent*
+
+datastringâ
+ß
+b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain.Core\Events\StoredEvent.cs (
+%8string".Aksaty.Domain.Core.Events.StoredEvent.User.set*)'
+%Aksaty.Domain.Core.Events.StoredEvent*
+
+userstring*
+2*â
+2b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain.Core\Events\StoredEvent.cs	 (	"y
+b
+XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain.Core\Events\StoredEvent.cs (	
+implicit return:&
+theEventNetDevPack.Messaging.Event:
+datastring:
+userstringB)'
+%Aksaty.Domain.Core.Events.StoredEvent

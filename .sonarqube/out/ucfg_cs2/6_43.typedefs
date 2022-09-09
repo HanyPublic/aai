@@ -1,0 +1,7 @@
+ƒ
+-Aksaty.Domain.Queries.GetSaleInstallmentQueryobjectMediatR.IRequest<TResponse>ˆ
++GetSaleInstallmentQuery(System.Guid, bool?)YAksaty.Domain.Queries.GetSaleInstallmentQuery.GetSaleInstallmentQuery(System.Guid, bool?)>
+Id.get4Aksaty.Domain.Queries.GetSaleInstallmentQuery.Id.get>
+Id.set4Aksaty.Domain.Queries.GetSaleInstallmentQuery.Id.setP
+IncludeSale.get=Aksaty.Domain.Queries.GetSaleInstallmentQuery.IncludeSale.getP
+IncludeSale.set=Aksaty.Domain.Queries.GetSaleInstallmentQuery.IncludeSale.set

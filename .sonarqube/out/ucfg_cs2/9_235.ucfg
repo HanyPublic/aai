@@ -1,0 +1,94 @@
+
+¸Aksaty.Application.ViewModels.SaleInstallmentViewModel.SaleInstallmentViewModel(System.Guid, decimal, System.Guid, string, System.DateTime, string, string, System.DateTime, bool, bool)Ž
+ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs ('"1*Æ
+1Ž
+ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs!	 !(	ª
+§
+
+%0void"YAksaty.Application.ViewModels.SaleSaleInstallmentViewModel.SaleSaleInstallmentViewModel()*><
+:Aksaty.Application.ViewModels.SaleSaleInstallmentViewModel*
+0*à
+0Ž
+ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs  (²
+¯
+Ž
+ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs (
+%1System.Guid"AAksaty.Application.ViewModels.SaleSaleInstallmentViewModel.Id.set*><
+:Aksaty.Application.ViewModels.SaleSaleInstallmentViewModel*
+""°
+­
+Ž
+ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs (
+%2decimal"DAksaty.Application.ViewModels.AddSaleInstallmentViewModel.Amount.set*=;
+9Aksaty.Application.ViewModels.AddSaleInstallmentViewModel*
+""´
+±
+Ž
+ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs (
+%3System.Guid"DAksaty.Application.ViewModels.AddSaleInstallmentViewModel.SaleId.set*=;
+9Aksaty.Application.ViewModels.AddSaleInstallmentViewModel*
+""»
+¸
+Ž
+ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs (
+%4string"DAksaty.Application.ViewModels.AddSaleInstallmentViewModel.Status.set*=;
+9Aksaty.Application.ViewModels.AddSaleInstallmentViewModel*
+
+statusstringÏ
+Ì
+Ž
+ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs (
+%5System.DateTime"EAksaty.Application.ViewModels.AddSaleInstallmentViewModel.DueDate.set*=;
+9Aksaty.Application.ViewModels.AddSaleInstallmentViewModel*
+
+dueDateSystem.DateTime¯
+¬
+Ž
+ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs (
+%6string">Aksaty.Application.ViewModels.BaseEntityViewModel.TanentId.set*53
+1Aksaty.Application.ViewModels.BaseEntityViewModel*
+
+tanentIdstringµ
+²
+Ž
+ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs (%
+%7string"AAksaty.Application.ViewModels.BaseEntityViewModel.CreatedById.set*53
+1Aksaty.Application.ViewModels.BaseEntityViewModel*
+
+createdByIdstringÆ
+Ã
+Ž
+ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs (!
+%8System.Nullable<T>"?Aksaty.Application.ViewModels.BaseEntityViewModel.CreatedAt.set*53
+1Aksaty.Application.ViewModels.BaseEntityViewModel*
+
+	createdAtSystem.DateTime²
+¯
+Ž
+ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs ()
+%9System.Nullable<T>"CAksaty.Application.ViewModels.BaseEntityViewModel.ShowOnWebsite.set*53
+1Aksaty.Application.ViewModels.BaseEntityViewModel*
+""­
+ª
+Ž
+ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs   (
+%10System.Nullable<T>"=Aksaty.Application.ViewModels.BaseEntityViewModel.Deleted.set*53
+1Aksaty.Application.ViewModels.BaseEntityViewModel*
+""*
+2*½
+2Ž
+ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs!	 !(	"¦
+Ž
+ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs! !(	
+implicit return:
+idSystem.Guid:
+amountdecimal:
+saleIdSystem.Guid:
+statusstring:
+dueDateSystem.DateTime:
+tanentIdstring:
+createdByIdstring:
+	createdAtSystem.DateTime:
+showOnWebsitebool:
+deletedboolB:8
+6Aksaty.Application.ViewModels.SaleInstallmentViewModel

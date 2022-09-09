@@ -1,0 +1,9 @@
+ä	
+0Aksaty.Application.Services.AttachmentAppServiceobject3Aksaty.Application.Interfaces.IAttachmentAppServiceø
+aAttachmentAppService(AutoMapper.IMapper, MediatR.IMediator, NetDevPack.Mediator.IMediatorHandler)’Aksaty.Application.Services.AttachmentAppService.AttachmentAppService(AutoMapper.IMapper, MediatR.IMediator, NetDevPack.Mediator.IMediatorHandler)­
+<Add(Aksaty.Application.ViewModels.AttachmentCreateViewModel)mAksaty.Application.Services.AttachmentAppService.Add(Aksaty.Application.ViewModels.AttachmentCreateViewModel)]
+GetById(System.Guid)EAksaty.Application.Services.AttachmentAppService.GetById(System.Guid)µ
+@GetAll(Aksaty.Application.ViewModels.GetAllAttachmentsViewModel)qAksaty.Application.Services.AttachmentAppService.GetAll(Aksaty.Application.ViewModels.GetAllAttachmentsViewModel)g
+Remove(System.Guid, bool)JAksaty.Application.Services.AttachmentAppService.Remove(System.Guid, bool)þ
+dRemoveList(System.Collections.Generic.List<Aksaty.Application.ViewModels.AttachmentViewModel>, bool)•Aksaty.Application.Services.AttachmentAppService.RemoveList(System.Collections.Generic.List<Aksaty.Application.ViewModels.AttachmentViewModel>, bool)G
+	SaveAll():Aksaty.Application.Services.AttachmentAppService.SaveAll()

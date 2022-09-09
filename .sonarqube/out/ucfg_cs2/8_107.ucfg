@@ -1,0 +1,27 @@
+
+@Aksaty.Infra.Data.Repository.SaleRepository.GetById(System.Guid)h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.csl  l('"0*¹
+0h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.csn n(+‘
+Ž
+h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.csn n(2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*h*f-
++Aksaty.Infra.Data.Repository.SaleRepository"5
+DbSet,Microsoft.EntityFrameworkCore.DbSet<TEntity>Á¾
+h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.csn n(,/
+%1)System.Threading.Tasks.ValueTask<TResult>"GMicrosoft.EntityFrameworkCore.DbSet<TEntity>.FindAsync(params object[])*4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""2FindAsync(params object[])"r
+h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.csn n(-
+""*î
+1h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.cso	 o(	"
+h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.cso o(	
+implicit return:
+IdSystem.GuidB/-
++Aksaty.Infra.Data.Repository.SaleRepository

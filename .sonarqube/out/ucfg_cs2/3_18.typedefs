@@ -1,0 +1,5 @@
+ô
+9Aksaty.Domain.Attachments.Handlers.AttachmentEventHandlerobject+MediatR.INotificationHandler<TNotification>+MediatR.INotificationHandler<TNotification>Å
+aHandle(Aksaty.Domain.Attachments.Events.AttachmentAddedEvent, System.Threading.CancellationToken)õAksaty.Domain.Attachments.Handlers.AttachmentEventHandler.Handle(Aksaty.Domain.Attachments.Events.AttachmentAddedEvent, System.Threading.CancellationToken)Ö
+cHandle(Aksaty.Domain.Attachments.Events.AttachmentRemovedEvent, System.Threading.CancellationToken)ùAksaty.Domain.Attachments.Handlers.AttachmentEventHandler.Handle(Aksaty.Domain.Attachments.Events.AttachmentRemovedEvent, System.Threading.CancellationToken)n
+AttachmentEventHandler()RAksaty.Domain.Attachments.Handlers.AttachmentEventHandler.AttachmentEventHandler()

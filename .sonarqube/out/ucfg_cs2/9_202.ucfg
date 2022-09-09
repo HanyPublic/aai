@@ -1,0 +1,40 @@
+
+AAksaty.Application.Services.ProductAppService.Remove(System.Guid)j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs+, +(2"0*ü
+
+0j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs- -(Pè
+å
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs- -((*
+%0$NetDevPack.Mediator.IMediatorHandler"__id*l*j/
+-Aksaty.Application.Services.ProductAppService"7
+_mediatorHelper$NetDevPack.Mediator.IMediatorHandlerœÃ
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs-5 -(Q1
+%1+Aksaty.Domain.Commands.RemoveProductCommand"+Aksaty.Domain.Commands.RemoveProductCommandá
+Ñ
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs-9 -(M
+
+%2void"MAksaty.Domain.Commands.RemoveProductCommand.RemoveProductCommand(System.Guid)*3
+1
+%1+Aksaty.Domain.Commands.RemoveProductCommand*
+""…∆
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs- -(R*
+%3$System.Threading.Tasks.Task<TResult>"6NetDevPack.Mediator.IMediatorHandler.SendCommand<T>(T)*,
+*
+%0$NetDevPack.Mediator.IMediatorHandler*3
+1
+%1+Aksaty.Domain.Commands.RemoveProductCommand2SendCommand<T>(T)"t
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs- -(S
+""*Û
+1j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs.	 .(	"Å
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\ProductAppService.cs. .(	
+implicit return:
+idSystem.GuidB1/
+-Aksaty.Application.Services.ProductAppService

@@ -1,0 +1,139 @@
+
+≈Aksaty.Domain.Events.SaleCreatedEvent.SaleCreatedEvent(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, string, string, System.DateTime, bool, bool)i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs ("1*È
+1i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs$	 $(	t
+r
+
+%0void"5Aksaty.Domain.Sales.Events.Sale.SaleEvent.SaleEvent()*-+
+)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
+0*î 
+0i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs #(Í
+Á
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs (
+%1System.Guid"0Aksaty.Domain.Sales.Events.Sale.SaleEvent.Id.set*-+
+)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
+""Ÿ
+÷
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs (
+%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
+NetDevPack.Messaging.Message*
+""˘
+ˆ
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs (#
+%3System.Nullable<T>"8Aksaty.Domain.Sales.Events.Sale.SaleEvent.CustomerId.set*-+
+)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
+""ç
+ä
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs (!
+%4System.DateTime"7Aksaty.Domain.Sales.Events.Sale.SaleEvent.StartDate.set*-+
+)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
+
+	startDateSystem.DateTimeı
+Ú
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs (
+%5string"4Aksaty.Domain.Sales.Events.Sale.SaleEvent.Status.set*-+
+)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
+
+statusstringÍ
+Á
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs (
+%6decimal"4Aksaty.Domain.Sales.Events.Sale.SaleEvent.Amount.set*-+
+)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
+""Ó
+Î
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs (#
+%7decimal"8Aksaty.Domain.Sales.Events.Sale.SaleEvent.PaidAmount.set*-+
+)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
+""Û
+
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs (-
+%8decimal"=Aksaty.Domain.Sales.Events.Sale.SaleEvent.RemainingAmount.set*-+
+)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
+""ˆ
+Û
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs (;	
+%9int"DAksaty.Domain.Sales.Events.Sale.SaleEvent.InstallmentMonthNumber.set*-+
+)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
+""Ò
+Ó
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs (/
+
+%10int">Aksaty.Domain.Sales.Events.Sale.SaleEvent.InstallmentValue.set*-+
+)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
+""Ô
+Ï
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs (#
+%11decimal"8Aksaty.Domain.Sales.Events.Sale.SaleEvent.Percentage.set*-+
+)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
+""ä
+á
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs (%
+%12string">Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.CreatedById.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
+
+createdByIdstringÑ
+Å
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs   (
+%13string";Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.TanentId.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
+
+tanentIdstringò
+ï
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs! !(!
+%14System.DateTime"<Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.CreatedAt.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
+
+	createdAtSystem.DateTime˘
+ˆ
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs" "()
+%15bool"@Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.ShowOnWebsite.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
+""Û
+
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs# #(
+%16bool":Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.Deleted.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
+""*
+2*Ò
+2i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs$	 $(	"Ä
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleCreatedEvent.cs$ $(	
+implicit return:
+idSystem.Guid: 
+
+customerIdSystem.Nullable<T>:
+	startDateSystem.DateTime:
+statusstring:
+amountdecimal:
+
+paidAmountdecimal:
+remainingAmountdecimal:
+installmentMonthNumberint:
+installmentValueint:
+
+percentagedecimal:
+createdByIdstring:
+tanentIdstring:
+	createdAtSystem.DateTime:
+showOnWebsitebool:
+deletedboolB)'
+%Aksaty.Domain.Events.SaleCreatedEvent

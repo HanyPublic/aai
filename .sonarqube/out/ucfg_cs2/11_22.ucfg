@@ -1,0 +1,217 @@
+
+pAksaty.Services.Api.Controllers.CustomerController.Post(Aksaty.Application.ViewModels.CustomerRegisterViewModel)o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-"5*÷
+0o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs+ -(&Ù
+Ò
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs+$ +(/
+%0string"8Aksaty.Services.Api.Controllers.ApiController.UserId.get*64
+2Aksaty.Services.Api.Controllers.CustomerControllerù
+ö
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs+ +(/
+%1string"AAksaty.Application.ViewModels.BaseEntityViewModel.CreatedById.set*F
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel*
+
+%0stringˆ
+Û
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs,! ,(.
+%2string":Aksaty.Services.Api.Controllers.ApiController.TanentId.get*64
+2Aksaty.Services.Api.Controllers.CustomerControllerö
+ó
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs, ,(.
+%3string">Aksaty.Application.ViewModels.BaseEntityViewModel.TanentId.set*F
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel*
+
+%2stringõ
+ò
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs- -(@
+%4:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary"6Microsoft.AspNetCore.Mvc.ControllerBase.ModelState.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseå
+â
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs- -(&
+
+%5bool"FMicrosoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary.IsValid.get*B
+@
+%4:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary*
+1
+2*·	
+1o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs-) -(Bõ
+ò
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs-8 -(B@
+%9:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary"6Microsoft.AspNetCore.Mvc.ControllerBase.ModelState.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseì
+ê
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs-) -(C,
+%10%Microsoft.AspNetCore.Mvc.ActionResult"xAksaty.Services.Api.Controllers.ApiController.CustomResponse(Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary)*1/
+-Aksaty.Services.Api.Controllers.ApiController*B
+@
+%9:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary◊
+‘
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs-) -(C+
+%7%Microsoft.AspNetCore.Mvc.ActionResult"__id*.
+,
+%10%Microsoft.AspNetCore.Mvc.ActionResult◊
+‘
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs-) -(C,
+%6&Microsoft.AspNetCore.Mvc.IActionResult"__id*-
++
+%7%Microsoft.AspNetCore.Mvc.ActionResult*
+3*ò
+2p
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs-F -(Å∫
+∑
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs-[ -(n8
+%111Aksaty.Application.Interfaces.ICustomerAppService"__id*É*Ä4
+2Aksaty.Services.Api.Controllers.CustomerController"H
+_customerAppService1Aksaty.Application.Interfaces.ICustomerAppServiceﬁ€
+p
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs-[ -(Ç+
+%12$System.Threading.Tasks.Task<TResult>"sAksaty.Application.Interfaces.ICustomerAppService.Register(Aksaty.Application.ViewModels.CustomerRegisterViewModel)*:
+8
+%111Aksaty.Application.Interfaces.ICustomerAppService*F
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel2ARegister(Aksaty.Application.ViewModels.CustomerRegisterViewModel)«
+ƒ
+p
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs-F -(É,
+%13%Microsoft.AspNetCore.Mvc.ActionResult"gAksaty.Services.Api.Controllers.ApiController.CustomResponse(FluentValidation.Results.ValidationResult)*1/
+-Aksaty.Services.Api.Controllers.ApiController*
+""ÿ
+’
+p
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs-F -(É+
+%8%Microsoft.AspNetCore.Mvc.ActionResult"__id*.
+,
+%13%Microsoft.AspNetCore.Mvc.ActionResultÿ
+’
+p
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs-F -(É,
+%6&Microsoft.AspNetCore.Mvc.IActionResult"__id*-
++
+%8%Microsoft.AspNetCore.Mvc.ActionResult*
+3*ô
+3o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs.	 .(	"¢
+p
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs- -(Ñ.
+,
+%6&Microsoft.AspNetCore.Mvc.IActionResult*˝
+4o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs.	 .(	"Ü
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs. .(	
+implicit return*Ã
+5o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)] )(]‡
+›
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-\
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel"
+
+NationalIdstring"__entrypoint€
+ÿ
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-W
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel"
+RefIdstring"__entrypoint€
+ÿ
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-W
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel"
+Notesstring"__entrypoint‹
+Ÿ
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-X
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel"
+Reviewstring"__entrypoint›
+⁄
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-Y
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel"
+ImageIdstring"__entrypointﬁ
+€
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-Z
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel"
+ImageUrlstring"__entrypoint⁄
+◊
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-V
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel"
+Namestring"__entrypoint€
+ÿ
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-W
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel"
+Emailstring"__entrypointË
+Â
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-d
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel"
+	BirthDateSystem.DateTime"__entrypoint‹
+Ÿ
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-X
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel"
+Mobilestring"__entrypoint›
+⁄
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-Y
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel"
+Mobile2string"__entrypoint›
+⁄
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-Y
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel"
+Addressstring"__entrypoint⁄
+◊
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-V
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel"
+Typestring"__entrypoint„
+‡
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-_
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel"
+AddRecriptionstring"__entrypoint˝
+˙
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-y
+D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModel"1
+Attachments"System.Collections.Generic.List<T>"__entrypointâ
+Ü
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs)) )(-
+%14"__entrypoint*
+0:D
+	viewModel7Aksaty.Application.ViewModels.CustomerRegisterViewModelB64
+2Aksaty.Services.Api.Controllers.CustomerController

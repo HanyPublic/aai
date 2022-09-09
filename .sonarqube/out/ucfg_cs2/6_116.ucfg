@@ -1,0 +1,30 @@
+
+‚Aksaty.Domain.Handlers.ProductCommandHandler.Handle(Aksaty.Domain.Queries.GetAllProductsQuery, System.Threading.CancellationToken)s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs( (."0*ï
+0s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs (4¨
+¥
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs (%1
+%0+Aksaty.Domain.Interfaces.IProductRepository"__id*u*s.
+,Aksaty.Domain.Handlers.ProductCommandHandler"A
+_productRepository+Aksaty.Domain.Interfaces.IProductRepository£ 
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs (5*
+%1$System.Threading.Tasks.Task<TResult>"]Aksaty.Domain.Interfaces.IProductRepository.GetAll(Aksaty.Domain.Queries.GetAllProductsQuery)*3
+1
+%0+Aksaty.Domain.Interfaces.IProductRepository*6
+4
+request)Aksaty.Domain.Queries.GetAllProductsQuery21GetAll(Aksaty.Domain.Queries.GetAllProductsQuery)"£
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs (6,
+*
+%1$System.Threading.Tasks.Task<TResult>*…
+1s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs	 (	"Š
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs (	
+implicit return:4
+request)Aksaty.Domain.Queries.GetAllProductsQuery:7
+cancellationToken"System.Threading.CancellationTokenB0.
+,Aksaty.Domain.Handlers.ProductCommandHandler

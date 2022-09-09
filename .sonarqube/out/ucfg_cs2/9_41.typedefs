@@ -1,0 +1,12 @@
+í
+.Aksaty.Application.ViewModels.GetSaleViewModelobject‘
+/GetSaleViewModel(System.Guid, bool, bool, bool)^Aksaty.Application.ViewModels.GetSaleViewModel.GetSaleViewModel(System.Guid, bool, bool, bool)W
+GetSaleViewModel()AAksaty.Application.ViewModels.GetSaleViewModel.GetSaleViewModel()?
+Id.get5Aksaty.Application.ViewModels.GetSaleViewModel.Id.get?
+Id.set5Aksaty.Application.ViewModels.GetSaleViewModel.Id.seti
+IncludeSaleInstallments.getJAksaty.Application.ViewModels.GetSaleViewModel.IncludeSaleInstallments.geti
+IncludeSaleInstallments.setJAksaty.Application.ViewModels.GetSaleViewModel.IncludeSaleInstallments.set[
+IncludeCustomers.getCAksaty.Application.ViewModels.GetSaleViewModel.IncludeCustomers.get[
+IncludeCustomers.setCAksaty.Application.ViewModels.GetSaleViewModel.IncludeCustomers.setY
+IncludeProducts.getBAksaty.Application.ViewModels.GetSaleViewModel.IncludeProducts.getY
+IncludeProducts.setBAksaty.Application.ViewModels.GetSaleViewModel.IncludeProducts.set

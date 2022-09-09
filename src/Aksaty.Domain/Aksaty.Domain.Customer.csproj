@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Properties\**" />
+    <EmbeddedResource Remove="Properties\**" />
+    <None Remove="Properties\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Aksaty.Domain.Attachments\Aksaty.Domain.Attachments.csproj" />
+    <ProjectReference Include="..\..\Aksaty.Infra.CrossCutting.Util\Aksaty.Infra.CrossCutting.Util.csproj" />
+    <ProjectReference Include="..\Aksaty.Domain.Core\Aksaty.Domain.Core.csproj" />
+    <ProjectReference Include="..\Aksaty.Infra.CrossCutting.Bus\Aksaty.Infra.CrossCutting.Bus.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="8.6.2" />
+    <PackageReference Include="System.ComponentModel" Version="4.3.0" />
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.7.0" />
+    <PackageReference Include="System.Security.Claims" Version="4.3.0" />
+  </ItemGroup>
+
+</Project>

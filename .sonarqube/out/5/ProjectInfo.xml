@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Aksaty.Domain.Tanents</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>82b4fd59-90c3-458e-a5d5-1ae1756be8d5</ProjectGuid>
+  <FullPath>D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Aksaty.Domain.Tanents.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="D:\Projects\aksaty-api-main\aksaty-api-main\.sonarqube\conf\5\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">D:\Projects\aksaty-api-main\aksaty-api-main\.sonarqube\out\5\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">D:\Projects\aksaty-api-main\aksaty-api-main\.sonarqube\out\5</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>netcoreapp3.1</TargetFramework>
+</ProjectInfo>

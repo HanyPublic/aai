@@ -1,0 +1,56 @@
+
+|Aksaty.Domain.Queries.GetAllProductsQuery.GetAllProductsQuery(decimal?, decimal?, bool?, System.DateTime?, System.DateTime?)p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetAllProductsQuery.cs (""1*î
+1p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetAllProductsQuery.cs	 (	r
+p
+
+%0void"4Aksaty.Infra.CrossCutting.Util.BaseQuery.BaseQuery()*,*
+(Aksaty.Infra.CrossCutting.Util.BaseQuery*
+0*Ý
+0p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetAllProductsQuery.cs (%ÿ
+ü
+p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetAllProductsQuery.cs (!
+%1System.Nullable<T>"7Aksaty.Domain.Queries.GetAllProductsQuery.MinAmount.set*-+
+)Aksaty.Domain.Queries.GetAllProductsQuery*
+""ÿ
+ü
+p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetAllProductsQuery.cs (!
+%2System.Nullable<T>"7Aksaty.Domain.Queries.GetAllProductsQuery.MaxAmount.set*-+
+)Aksaty.Domain.Queries.GetAllProductsQuery*
+""‚
+ÿ
+p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetAllProductsQuery.cs ('
+%3System.Nullable<T>":Aksaty.Domain.Queries.GetAllProductsQuery.IncludeSales.set*-+
+)Aksaty.Domain.Queries.GetAllProductsQuery*
+""¬
+©
+p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetAllProductsQuery.cs ()
+%4System.Nullable<T>"@Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedAtFrom.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*%
+#
+createdAtFromSystem.Nullable<T>¨
+¥
+p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetAllProductsQuery.cs (%
+%5System.Nullable<T>">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedAtTo.set*20
+.Aksaty.Infra.CrossCutting.Util.BaseEntityQuery*#
+!
+createdAtToSystem.Nullable<T>*
+2*ÿ
+2p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetAllProductsQuery.cs	 (	"‡
+p
+fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Product\GetAllProductsQuery.cs (	
+implicit return:
+	maxAmountSystem.Nullable<T>:
+	minAmountSystem.Nullable<T>:"
+includeSalesSystem.Nullable<T>:#
+createdAtFromSystem.Nullable<T>:!
+createdAtToSystem.Nullable<T>B-+
+)Aksaty.Domain.Queries.GetAllProductsQuery

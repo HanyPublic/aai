@@ -1,0 +1,189 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.3.0.0",
+        "fileVersion": "4.3.0-3.22365.10 (dd078d4e)",
+        "semanticVersion": "4.3.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "S5693",
+          "level": "warning",
+          "message": "Make sure the content length limit is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/src/Aksaty.Services.Api/Controllers/AttachmentController.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 10,
+                  "endLine": 37,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5122",
+          "level": "warning",
+          "message": "Make sure this permissive CORS policy is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/src/Aksaty.Services.Api/Startup.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 17,
+                  "endLine": 78,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5332",
+          "level": "warning",
+          "message": "Using http protocol is insecure. Use https instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/src/Aksaty.Services.Api/Configurations/SwaggerConfig.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 129,
+                  "endLine": 21,
+                  "endColumn": 161
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1075",
+          "level": "warning",
+          "message": "Refactor your code not to use hardcoded absolute paths or URIs.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/src/Aksaty.Services.Api/Configurations/SwaggerConfig.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 129,
+                  "endLine": 21,
+                  "endColumn": 161
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1075",
+          "level": "warning",
+          "message": "Refactor your code not to use hardcoded absolute paths or URIs.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Projects/aksaty-api-main/aksaty-api-main/src/Aksaty.Services.Api/Configurations/SwaggerConfig.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 80,
+                  "endLine": 22,
+                  "endColumn": 147
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S1075": {
+          "id": "S1075",
+          "shortDescription": "URIs should not be hardcoded",
+          "fullDescription": "Hardcoding a URI makes it difficult to test a program: path literals are not always portable across operating systems, a given absolute path may not exist on a specific test environment, a specified Internet URL may not be available when executing the tests, production environment filesystems usually differ from the development environment, …​etc. For all those reasons, a URI should never be hardcoded. Instead, it should be replaced by customizable parameter.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1075",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S5122": {
+          "id": "S5122",
+          "shortDescription": "Having a permissive Cross-Origin Resource Sharing policy is security-sensitive",
+          "fullDescription": "Having a permissive Cross-Origin Resource Sharing policy is security-sensitive. It has led in the past to the following vulnerabilities:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-5122",
+          "properties": {
+            "category": "Minor Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S5332": {
+          "id": "S5332",
+          "shortDescription": "Using clear-text protocols is security-sensitive",
+          "fullDescription": "Clear-text protocols such as ftp, telnet or non-secure http lack encryption of transported data, as well as the capability to build an authenticated connection. It means that an attacker able to sniff traffic from the network can read, modify or corrupt the transported content. These protocols are not secure as they expose applications to an extensive range of risks:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-5332",
+          "properties": {
+            "category": "Critical Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S5693": {
+          "id": "S5693",
+          "shortDescription": "Allowing requests with excessive content length is security-sensitive",
+          "fullDescription": "Rejecting requests with significant content length is a good practice to control the network traffic intensity and thus resource consumption in order to prevents DoS attacks.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-5693",
+          "properties": {
+            "category": "Major Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

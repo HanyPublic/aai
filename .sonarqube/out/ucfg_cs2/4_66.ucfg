@@ -1,0 +1,27 @@
+
+rAksaty.Domain.Commands.CustomerCommandHandler.CustomerCommandHandler(Aksaty.Domain.Interfaces.ICustomerRepository)j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs (%"1*„
+1j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs	 (	m
+k
+
+%0void"4NetDevPack.Messaging.CommandHandler.CommandHandler()*'%
+#NetDevPack.Messaging.CommandHandler*
+0*™
+0j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs (4≥
+∞
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs (4v/
+-Aksaty.Domain.Commands.CustomerCommandHandler"C
+_customerRepository,Aksaty.Domain.Interfaces.ICustomerRepository"__id*D
+B
+customerRepository,Aksaty.Domain.Interfaces.ICustomerRepository*
+2*Û
+2j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs	 (	"Å
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs (	
+implicit return:B
+customerRepository,Aksaty.Domain.Interfaces.ICustomerRepositoryB1/
+-Aksaty.Domain.Commands.CustomerCommandHandler

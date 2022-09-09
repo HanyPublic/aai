@@ -1,0 +1,6 @@
+û
+Aksaty.Services.API.StartupobjectŒ
+6Startup(Microsoft.Extensions.Hosting.IHostEnvironment)RAksaty.Services.API.Startup.Startup(Microsoft.Extensions.Hosting.IHostEnvironment)¼
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)jAksaty.Services.API.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)B
+Configuration.get-Aksaty.Services.API.Startup.Configuration.getB
+Configuration.set-Aksaty.Services.API.Startup.Configuration.set

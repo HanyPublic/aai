@@ -1,0 +1,42 @@
+
+oAksaty.Api.Controllers.SaleInstallmentController.Get(Aksaty.Application.ViewModels.GetSaleInstallmentViewModel)v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs!) !(,"2*ä
+0v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs# #(Bø
+º
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs#( #(0>
+%08Aksaty.Application.Interfaces.ISaleInstallmentAppService"__id*|*z2
+0Aksaty.Api.Controllers.SaleInstallmentController"D
+_service8Aksaty.Application.Interfaces.ISaleInstallmentAppServiceÙÒ
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs#( #(C*
+%1$System.Threading.Tasks.Task<TResult>"{Aksaty.Application.Interfaces.ISaleInstallmentAppService.GetById(Aksaty.Application.ViewModels.GetSaleInstallmentViewModel)*@
+>
+%08Aksaty.Application.Interfaces.ISaleInstallmentAppService*H
+F
+	viewModel9Aksaty.Application.ViewModels.GetSaleInstallmentViewModel2BGetById(Aksaty.Application.ViewModels.GetSaleInstallmentViewModel)©
+¶
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs# #(D+
+%2%Microsoft.AspNetCore.Mvc.ActionResult"DAksaty.Services.Api.Controllers.ApiController.CustomResponse(object)*1/
+-Aksaty.Services.Api.Controllers.ApiController*
+"""ß
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs# #(E-
++
+%2%Microsoft.AspNetCore.Mvc.ActionResult*ã
+1v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs$	 $(	"ç
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs$ $(	
+implicit return*í
+2v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs!S !(Sè
+å
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs!) !(,
+%3"__entrypoint*
+0:F
+	viewModel9Aksaty.Application.ViewModels.GetSaleInstallmentViewModelB42
+0Aksaty.Api.Controllers.SaleInstallmentController

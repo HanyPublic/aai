@@ -1,0 +1,9 @@
+÷
+2Aksaty.Services.Api.Controllers.CustomerController-Aksaty.Services.Api.Controllers.ApiController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectÁ
+ECustomerController(Aksaty.Application.Interfaces.ICustomerAppService)xAksaty.Services.Api.Controllers.CustomerController.CustomerController(Aksaty.Application.Interfaces.ICustomerAppService)­
+;Get(Aksaty.Application.ViewModels.GetAllCustomersViewModel)nAksaty.Services.Api.Controllers.CustomerController.Get(Aksaty.Application.ViewModels.GetAllCustomersViewModel)W
+Get(System.Guid)CAksaty.Services.Api.Controllers.CustomerController.Get(System.Guid)±
+=Post(Aksaty.Application.ViewModels.CustomerRegisterViewModel)pAksaty.Services.Api.Controllers.CustomerController.Post(Aksaty.Application.ViewModels.CustomerRegisterViewModel)Ÿ
+4Put(Aksaty.Application.ViewModels.CustomerViewModel)gAksaty.Services.Api.Controllers.CustomerController.Put(Aksaty.Application.ViewModels.CustomerViewModel)]
+Delete(System.Guid)FAksaty.Services.Api.Controllers.CustomerController.Delete(System.Guid)_
+History(System.Guid)GAksaty.Services.Api.Controllers.CustomerController.History(System.Guid)

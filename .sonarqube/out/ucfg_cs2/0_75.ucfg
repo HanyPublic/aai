@@ -1,0 +1,66 @@
+
+DAksaty.Infra.CrossCutting.Util.PagedList<T>.PagedList(int, int, int)g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs$ $("1*q
+1g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs*	 *(	*
+0*Ò
+0g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs& )(Hì
+é
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs& &(	
+%0int":Aksaty.Infra.CrossCutting.Util.PagedList<T>.TotalCount.set*/-
++Aksaty.Infra.CrossCutting.Util.PagedList<T>*
+""ê
+ç
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs' '(	
+%1int"8Aksaty.Infra.CrossCutting.Util.PagedList<T>.PageSize.set*/-
++Aksaty.Infra.CrossCutting.Util.PagedList<T>*
+""í
+ê
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs( (($	
+%2int";Aksaty.Infra.CrossCutting.Util.PagedList<T>.CurrentPage.set*/-
++Aksaty.Infra.CrossCutting.Util.PagedList<T>*
+""ä
+á
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs)+ )(5	
+%3int":Aksaty.Infra.CrossCutting.Util.PagedList<T>.TotalCount.get*/-
++Aksaty.Infra.CrossCutting.Util.PagedList<T>
+}
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs)8 )(H
+%4"__id*
+""°
+­
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs) )(I
+%5double"System.Math.Ceiling(double)*"
+System.Math*
+""ˆ
+…
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs) )(I
+%6"__id*
+
+%5doubleì
+é
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs) )(I	
+%7int":Aksaty.Infra.CrossCutting.Util.PagedList<T>.TotalPages.set*/-
++Aksaty.Infra.CrossCutting.Util.PagedList<T>*
+
+%6*
+2*ì
+2g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs*	 *(	"~
+g
+]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs* *(	
+implicit return:
+countint:
+
+pageNumberint:
+pageSizeintB/-
++Aksaty.Infra.CrossCutting.Util.PagedList<T>

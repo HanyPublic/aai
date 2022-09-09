@@ -1,0 +1,6 @@
+∑
+6Aksaty.Application.ViewModels.SaleInstallmentViewModel:Aksaty.Application.ViewModels.SaleSaleInstallmentViewModel9Aksaty.Application.ViewModels.AddSaleInstallmentViewModel1Aksaty.Application.ViewModels.BaseEntityViewModelobjecto
+SaleInstallmentViewModel()QAksaty.Application.ViewModels.SaleInstallmentViewModel.SaleInstallmentViewModel()ø
+ÅSaleInstallmentViewModel(System.Guid, decimal, System.Guid, string, System.DateTime, string, string, System.DateTime, bool, bool)∏Aksaty.Application.ViewModels.SaleInstallmentViewModel.SaleInstallmentViewModel(System.Guid, decimal, System.Guid, string, System.DateTime, string, string, System.DateTime, bool, bool)K
+Sale.get?Aksaty.Application.ViewModels.SaleInstallmentViewModel.Sale.getK
+Sale.set?Aksaty.Application.ViewModels.SaleInstallmentViewModel.Sale.set

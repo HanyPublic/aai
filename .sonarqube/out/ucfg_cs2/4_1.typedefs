@@ -1,0 +1,3 @@
+ž
+:Aksaty.Domain.Customer.Commands.UpdateCustomerSalesCommand&Aksaty.Domain.Commands.CustomerCommand0Aksaty.Infra.CrossCutting.Util.BaseEntityCommandNetDevPack.Messaging.CommandNetDevPack.Messaging.MessageobjectÁ
+AUpdateCustomerSalesCommand(System.Guid, decimal, System.DateTime)|Aksaty.Domain.Customer.Commands.UpdateCustomerSalesCommand.UpdateCustomerSalesCommand(System.Guid, decimal, System.DateTime)

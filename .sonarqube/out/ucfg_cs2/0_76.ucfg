@@ -1,0 +1,53 @@
+
+XAksaty.Infra.CrossCutting.Util.AttachmentUrlHelper.GetAttachmentRootPath(string, string)s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (2"0*õ
+0s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (3­
+ª
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (6
+%0string"__concat*
+
+tanentIdstring*
+_´
+±
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (6
+%1string"__concat*
+
+%0string*
+
+userIdstring§
+¤
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (6
+%2string"__concat*
+
+%1string*
+\­
+ª
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (D
+%3string"__concat*	
+Upload\*
+
+%2string±
+®
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (D
+%4string"__concat*
+
+%3string*
+Attachments"…
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (E
+
+%4string*…
+1s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs	 (	"Š
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (	
+implicit return:
+tanentIdstring:
+userIdstringB6"4
+2Aksaty.Infra.CrossCutting.Util.AttachmentUrlHelper

@@ -1,0 +1,35 @@
+
+IAksaty.Application.Services.CustomerAppService.GetAllHistory(System.Guid)k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csE6 E(C"0*ø
+
+0k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csG G(a—
+Œ
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csGE G(ZF
+%0@Aksaty.Infra.Data.Repository.EventSourcing.IEventStoreRepository"__id*ê*ç0
+.Aksaty.Application.Services.CustomerAppService"Y
+_eventStoreRepository@Aksaty.Infra.Data.Repository.EventSourcing.IEventStoreRepository”–
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csGE G(b*
+%1$System.Threading.Tasks.Task<TResult>"QAksaty.Infra.Data.Repository.EventSourcing.IEventStoreRepository.All(System.Guid)*H
+F
+%0@Aksaty.Infra.Data.Repository.EventSourcing.IEventStoreRepository*
+""2All(System.Guid)Ö
+Ç
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csG G(c)
+%2#System.Collections.Generic.IList<T>"üAksaty.Application.EventSourcedNormalizers.CustomerHistory.ToJavaScriptCustomerHistory(System.Collections.Generic.IList<Aksaty.Domain.Core.Events.StoredEvent>)*>"<
+:Aksaty.Application.EventSourcedNormalizers.CustomerHistory*
+"""ö
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csG G(d+
+)
+%2#System.Collections.Generic.IList<T>*ı
+1k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csH	 H(	"Ç
+k
+aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\CustomerAppService.csH H(	
+implicit return:
+idSystem.GuidB20
+.Aksaty.Application.Services.CustomerAppService

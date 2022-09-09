@@ -1,0 +1,8 @@
+—
+,Aksaty.Domain.Handlers.ProductCommandHandler#NetDevPack.Messaging.CommandHandlerobject,MediatR.IRequestHandler<TRequest, TResponse>,MediatR.IRequestHandler<TRequest, TResponse>,MediatR.IRequestHandler<TRequest, TResponse>,MediatR.IRequestHandler<TRequest, TResponse>,MediatR.IRequestHandler<TRequest, TResponse>µ
+BProductCommandHandler(Aksaty.Domain.Interfaces.IProductRepository)oAksaty.Domain.Handlers.ProductCommandHandler.ProductCommandHandler(Aksaty.Domain.Interfaces.IProductRepository)‹
+UHandle(Aksaty.Domain.Queries.GetAllProductsQuery, System.Threading.CancellationToken)ÇAksaty.Domain.Handlers.ProductCommandHandler.Handle(Aksaty.Domain.Queries.GetAllProductsQuery, System.Threading.CancellationToken)”
+QHandle(Aksaty.Domain.Queries.GetProductQuery, System.Threading.CancellationToken)~Aksaty.Domain.Handlers.ProductCommandHandler.Handle(Aksaty.Domain.Queries.GetProductQuery, System.Threading.CancellationToken)⁄
+THandle(Aksaty.Domain.Commands.AddProductCommand, System.Threading.CancellationToken)ÅAksaty.Domain.Handlers.ProductCommandHandler.Handle(Aksaty.Domain.Commands.AddProductCommand, System.Threading.CancellationToken)‡
+WHandle(Aksaty.Domain.Commands.UpdateProductCommand, System.Threading.CancellationToken)ÑAksaty.Domain.Handlers.ProductCommandHandler.Handle(Aksaty.Domain.Commands.UpdateProductCommand, System.Threading.CancellationToken)‡
+WHandle(Aksaty.Domain.Commands.RemoveProductCommand, System.Threading.CancellationToken)ÑAksaty.Domain.Handlers.ProductCommandHandler.Handle(Aksaty.Domain.Commands.RemoveProductCommand, System.Threading.CancellationToken)

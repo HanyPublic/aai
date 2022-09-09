@@ -1,0 +1,102 @@
+
+zAksaty.Domain.Commands.UpdateProductCommand.UpdateProductCommand(System.Guid, string, string, decimal, string, bool, bool)r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs	 	(#"1*Ô
+1r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs	 (	q
+o
+
+%0void"6Aksaty.Domain.Commands.ProductCommand.ProductCommand()*)'
+%Aksaty.Domain.Commands.ProductCommand*
+0*ò
+0r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs (-Î
+Ë
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs (
+%1System.Guid",Aksaty.Domain.Commands.ProductCommand.Id.set*)'
+%Aksaty.Domain.Commands.ProductCommand*
+""‚
+ﬂ
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs (
+%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
+NetDevPack.Messaging.Message*
+""√
+¿
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs (.
+
+%3bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+imageIdstring*
+2
+3*—
+2r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs0 (LÀ
+»
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs: (M
+%4System.Guid"System.Guid.Parse(string)*"
+System.Guid*
+
+imageIdstringÑ
+Å
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs0 (M
+%5System.Nullable<T>"1Aksaty.Domain.Commands.ProductCommand.ImageId.set*)'
+%Aksaty.Domain.Commands.ProductCommand*
+
+%4System.Guid*
+3*Á
+
+3r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs (Ú
+Ô
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs (
+%6string".Aksaty.Domain.Commands.ProductCommand.Name.set*)'
+%Aksaty.Domain.Commands.ProductCommand*
+
+namestringÎ
+Ë
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs (
+%7decimal"0Aksaty.Domain.Commands.ProductCommand.Amount.set*)'
+%Aksaty.Domain.Commands.ProductCommand*
+""˙
+˜
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs (
+%8string"2Aksaty.Domain.Commands.ProductCommand.Category.set*)'
+%Aksaty.Domain.Commands.ProductCommand*
+
+categorystringÖ
+Ç
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs ()
+
+%9bool"BAksaty.Infra.CrossCutting.Util.BaseEntityCommand.ShowOnWebsite.set*42
+0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
+""Ä
+˝
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs (
+%10bool"<Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.Deleted.set*42
+0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
+""*
+4*É
+4r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs	 (	"â
+r
+hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\UpdateProductCommand.cs (	
+implicit return:
+idSystem.Guid:
+imageIdstring:
+namestring:
+amountdecimal:
+categorystring:
+showOnWebsitebool:
+deletedboolB/-
++Aksaty.Domain.Commands.UpdateProductCommand

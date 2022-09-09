@@ -1,0 +1,6 @@
+Ë
+,Aksaty.Infra.Data.Migrations.customer_fields2Microsoft.EntityFrameworkCore.Migrations.Migrationobject«
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)jAksaty.Infra.Data.Migrations.customer_fields.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¯
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)lAksaty.Infra.Data.Migrations.customer_fields.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)©
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)iAksaty.Infra.Data.Migrations.customer_fields.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)S
+customer_fields()>Aksaty.Infra.Data.Migrations.customer_fields.customer_fields()

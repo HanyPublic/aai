@@ -1,0 +1,35 @@
+
+GAksaty.Domain.Events.TanentRemovedEvent.TanentRemovedEvent(System.Guid)i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentRemovedEvent.cs (!"1*Ç
+1i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentRemovedEvent.cs	 (	R
+P
+
+%0void""NetDevPack.Messaging.Event.Event()*
+NetDevPack.Messaging.Event*
+0*¸
+0i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentRemovedEvent.cs
+ (æ
+ã
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentRemovedEvent.cs
+ 
+(
+%1System.Guid".Aksaty.Domain.Events.TanentRemovedEvent.Id.set*+)
+'Aksaty.Domain.Events.TanentRemovedEvent*
+""Ù
+Ö
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentRemovedEvent.cs (
+%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
+NetDevPack.Messaging.Message*
+""*
+2*ñ
+2i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentRemovedEvent.cs	 (	"€
+i
+_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentRemovedEvent.cs (	
+implicit return:
+idSystem.GuidB+)
+'Aksaty.Domain.Events.TanentRemovedEvent

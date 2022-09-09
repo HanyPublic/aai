@@ -1,0 +1,26 @@
+á
++Aksaty.Domain.Attachments.Models.Attachment)Aksaty.Infra.CrossCutting.Util.BaseEntityNetDevPack.Domain.Entityobject NetDevPack.Domain.IAggregateRootH
+Attachment()8Aksaty.Domain.Attachments.Models.Attachment.Attachment()ä
+™Attachment(System.Guid, string, string, string, bool, string, string, string, string, string, int, string, string, string, string, System.DateTime, bool)ÅAksaty.Domain.Attachments.Models.Attachment.Attachment(System.Guid, string, string, string, bool, string, string, string, string, string, int, string, string, string, string, System.DateTime, bool)@
+Type.get4Aksaty.Domain.Attachments.Models.Attachment.Type.get@
+Type.set4Aksaty.Domain.Attachments.Models.Attachment.Type.setN
+Description.get;Aksaty.Domain.Attachments.Models.Attachment.Description.getN
+Description.set;Aksaty.Domain.Attachments.Models.Attachment.Description.set>
+URL.get3Aksaty.Domain.Attachments.Models.Attachment.URL.get>
+URL.set3Aksaty.Domain.Attachments.Models.Attachment.URL.setT
+SystemFileName.get>Aksaty.Domain.Attachments.Models.Attachment.SystemFileName.getT
+SystemFileName.set>Aksaty.Domain.Attachments.Models.Attachment.SystemFileName.setT
+SourceFileName.get>Aksaty.Domain.Attachments.Models.Attachment.SourceFileName.getT
+SourceFileName.set>Aksaty.Domain.Attachments.Models.Attachment.SourceFileName.setN
+SeoFileName.get;Aksaty.Domain.Attachments.Models.Attachment.SeoFileName.getN
+SeoFileName.set;Aksaty.Domain.Attachments.Models.Attachment.SeoFileName.setJ
+SubFolder.get9Aksaty.Domain.Attachments.Models.Attachment.SubFolder.getJ
+SubFolder.set9Aksaty.Domain.Attachments.Models.Attachment.SubFolder.setR
+FileExtension.get=Aksaty.Domain.Attachments.Models.Attachment.FileExtension.getR
+FileExtension.set=Aksaty.Domain.Attachments.Models.Attachment.FileExtension.setN
+MediaTypeId.get;Aksaty.Domain.Attachments.Models.Attachment.MediaTypeId.getN
+MediaTypeId.set;Aksaty.Domain.Attachments.Models.Attachment.MediaTypeId.setH
+ThumbURL.get8Aksaty.Domain.Attachments.Models.Attachment.ThumbURL.getH
+ThumbURL.set8Aksaty.Domain.Attachments.Models.Attachment.ThumbURL.set@
+Tags.get4Aksaty.Domain.Attachments.Models.Attachment.Tags.get@
+Tags.set4Aksaty.Domain.Attachments.Models.Attachment.Tags.set

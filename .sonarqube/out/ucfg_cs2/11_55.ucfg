@@ -1,0 +1,128 @@
+
+VAksaty.Api.Controllers.AttachmentController.RemoveRestoreAttachment(System.Guid, bool)q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cse) e(@"7*—	
+0q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csg h(∏
+µ
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csg g(49
+%03Aksaty.Application.Interfaces.IAttachmentAppService"__id**}-
++Aksaty.Api.Controllers.AttachmentController"L
+_attachmentAppService3Aksaty.Application.Interfaces.IAttachmentAppServiceŸ÷
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csg g(F*
+%1$System.Threading.Tasks.Task<TResult>"MAksaty.Application.Interfaces.IAttachmentAppService.Remove(System.Guid, bool)*;
+9
+%03Aksaty.Application.Interfaces.IAttachmentAppService*
+""*
+""2Remove(System.Guid, bool)π
+∂
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csg g(F3
+result)FluentValidation.Results.ValidationResult"__id*
+""˝˙
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csh h(
+
+%2bool"5FluentValidation.Results.ValidationResult.IsValid.get*5
+3
+result)FluentValidation.Results.ValidationResult2IsValid.get*
+1
+2*~
+1q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csj j(L*
+3
+4*¢
+3q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csjO j(Xè
+å
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csjO j(X
+%4"__id*	
+deletedí
+è
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csjO j(X
+%3string"__id*
+
+%4*
+5*£
+4q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csj[ j(eê
+ç
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csj[ j(e
+%5"__id*
+
+restoredí
+è
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csj[ j(e
+%3string"__id*
+
+%5*
+5*©
+5q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csj j(hß
+§
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csj& j(h
+%6"__concat*
+Attachment with id *
+""ô
+ñ
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csj& j(h
+%7"__concat*
+
+%6*	
+ was û
+õ
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csj& j(h
+%8"__concat*
+
+%7*
+
+%3string§
+°
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csj j(i+
+%9%Microsoft.AspNetCore.Mvc.ActionResult"DAksaty.Services.Api.Controllers.ApiController.CustomResponse(object)*1/
+-Aksaty.Services.Api.Controllers.ApiController*
+
+%8"¢
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csj j(j-
++
+%9%Microsoft.AspNetCore.Mvc.ActionResult*ñ
+2q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csn n(,˜
+Ù
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csn n(-,
+%10%Microsoft.AspNetCore.Mvc.ActionResult"gAksaty.Services.Api.Controllers.ApiController.CustomResponse(FluentValidation.Results.ValidationResult)*1/
+-Aksaty.Services.Api.Controllers.ApiController*5
+3
+result)FluentValidation.Results.ValidationResult"£
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csn n(..
+,
+%10%Microsoft.AspNetCore.Mvc.ActionResult*Å
+6q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csp	 p(	"à
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csp p(	
+implicit return*ô
+7q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cseV e(Võ
+ò
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cse) e(@
+%11"__entrypoint*
+""*
+""*
+0:
+IdSystem.Guid:
+DeleteboolB/-
++Aksaty.Api.Controllers.AttachmentController

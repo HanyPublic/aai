@@ -1,0 +1,19 @@
+Æ
+<Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel(Aksaty.Infra.CrossCutting.Util.BaseQuery.Aksaty.Infra.CrossCutting.Util.BaseEntityQueryobject
+ GetAllSaleInstallmentViewModel()]Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel.GetAllSaleInstallmentViewModel()U
+
+SaleId.getGAksaty.Application.ViewModels.GetAllSaleInstallmentViewModel.SaleId.getU
+
+SaleId.setGAksaty.Application.ViewModels.GetAllSaleInstallmentViewModel.SaleId.set]
+CustomerId.getKAksaty.Application.ViewModels.GetAllSaleInstallmentViewModel.CustomerId.get]
+CustomerId.setKAksaty.Application.ViewModels.GetAllSaleInstallmentViewModel.CustomerId.set]
+MinDueDate.getKAksaty.Application.ViewModels.GetAllSaleInstallmentViewModel.MinDueDate.get]
+MinDueDate.setKAksaty.Application.ViewModels.GetAllSaleInstallmentViewModel.MinDueDate.set]
+MaxDueDate.getKAksaty.Application.ViewModels.GetAllSaleInstallmentViewModel.MaxDueDate.get]
+MaxDueDate.setKAksaty.Application.ViewModels.GetAllSaleInstallmentViewModel.MaxDueDate.set[
+MinAmount.getJAksaty.Application.ViewModels.GetAllSaleInstallmentViewModel.MinAmount.get[
+MinAmount.setJAksaty.Application.ViewModels.GetAllSaleInstallmentViewModel.MinAmount.set[
+MaxAmount.getJAksaty.Application.ViewModels.GetAllSaleInstallmentViewModel.MaxAmount.get[
+MaxAmount.setJAksaty.Application.ViewModels.GetAllSaleInstallmentViewModel.MaxAmount.seta
+IncludeSales.getMAksaty.Application.ViewModels.GetAllSaleInstallmentViewModel.IncludeSales.geta
+IncludeSales.setMAksaty.Application.ViewModels.GetAllSaleInstallmentViewModel.IncludeSales.set

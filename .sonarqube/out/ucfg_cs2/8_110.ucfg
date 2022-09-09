@@ -1,0 +1,213 @@
+
+jAksaty.Infra.Data.Migrations.product_image.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csV  V($"0*ÜH
+0w
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csX û(3çä
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csX Z(-_
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"`Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropForeignKey(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*31
+/FK_CustomerAttachments_Attachments_AttachmentId*
+CustomerAttachments*
+""2&DropForeignKey(string, string, string)âÜ
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.cs\ ^(-_
+%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"`Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropForeignKey(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*/-
++FK_CustomerAttachments_Customers_CustomerId*
+CustomerAttachments*
+""2&DropForeignKey(string, string, string)ÙÒ
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.cs` b(#_
+%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"`Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropForeignKey(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*$"
+ FK_Customers_Attachments_ImageId*
+	Customers*
+""2&DropForeignKey(string, string, string)ÚÔ
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csd f("_
+%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"`Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropForeignKey(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*#!
+FK_Products_Attachments_ImageId*
+
+Products*
+""2&DropForeignKey(string, string, string)‹Ÿ
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csh j("_
+%4YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"[Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropIndex(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+IX_Products_ImageId*
+
+Products*
+""2!DropIndex(string, string, string)“œ
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csl n("_
+%5YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+ImageId*
+
+Products*
+""2"DropColumn(string, string, string)“œ
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csp v("d
+%6^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
+ImageId*
+	Customers*
+uniqueidentifier*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)ﬂ‹
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csx ~("d
+%7^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+CustomerId*
+CustomerAttachments*
+uniqueidentifier*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)„‡
+x
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csÄ Ü("d
+%8^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+AttachmentId*
+CustomerAttachments*
+uniqueidentifier*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)ë
+é
+x
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csé é(3
+%9"__id*
+""ÉÄ
+x
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csà é(4`
+%10YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"˜Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddForeignKey(string, string, string, string, string, string, string, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*31
+/FK_CustomerAttachments_Attachments_AttachmentId*
+CustomerAttachments*
+AttachmentId*
+Attachments*
+""*
+""*
+Id*
+""*
+
+%92ΩAddForeignKey(string, string, string, string, string, string, string, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction)í
+è
+x
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csñ ñ(3
+%11"__id*
+""¸˘
+x
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csê ñ(4`
+%12YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"˜Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddForeignKey(string, string, string, string, string, string, string, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*/-
++FK_CustomerAttachments_Customers_CustomerId*
+CustomerAttachments*
+
+CustomerId*
+	Customers*
+""*
+""*
+Id*
+""*
+
+%112ΩAddForeignKey(string, string, string, string, string, string, string, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction)í
+è
+x
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csû û(3
+%13"__id*
+""Ê„
+x
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csò û(4`
+%14YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"˜Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddForeignKey(string, string, string, string, string, string, string, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*$"
+ FK_Customers_Attachments_ImageId*
+	Customers*	
+ImageId*
+Attachments*
+""*
+""*
+Id*
+""*
+
+%132ΩAddForeignKey(string, string, string, string, string, string, string, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction)*
+1*è
+1x
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csü	 ü(	"è
+x
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602035442_product_image.csü ü(	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB.,
+*Aksaty.Infra.Data.Migrations.product_image

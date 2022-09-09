@@ -1,0 +1,4 @@
+à
++Aksaty.Infra.Data.Mappings.SalesProductsMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>‘
+pConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Models.SalesProducts>)œAksaty.Infra.Data.Mappings.SalesProductsMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Models.SalesProducts>)T
+SalesProductsMap()>Aksaty.Infra.Data.Mappings.SalesProductsMap.SalesProductsMap()

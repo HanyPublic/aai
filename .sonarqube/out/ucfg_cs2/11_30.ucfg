@@ -1,0 +1,178 @@
+
+rAksaty.Api.Controllers.SaleInstallmentController.Get(Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel)v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs) (,"6*ˆ
+0v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs (O´
+®
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs% (O
+%0string">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedById.get*`
+^
+getAllSaleInstallmentViewModel<Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel¬
+ø
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs (P
+
+%1bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%0string*
+1
+2*Ω
+1w
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.csR (ä˙
+˜
+w
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs (ä
+%2string"8Aksaty.Services.Api.Controllers.ApiController.UserId.get*42
+0Aksaty.Api.Controllers.SaleInstallmentControllerº
+π
+w
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.csR (ä
+%3string">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedById.set*`
+^
+getAllSaleInstallmentViewModel<Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel*
+
+%2string*
+2*Û
+2v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs (L®
+•
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs% (L
+%4string";Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.TanentId.get*`
+^
+getAllSaleInstallmentViewModel<Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel¬
+ø
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs (M
+
+%5bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%4string*
+3
+4*º
+3w
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.csO (Ü¸
+˘
+w
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.csy (Ü
+%6string":Aksaty.Services.Api.Controllers.ApiController.TanentId.get*42
+0Aksaty.Api.Controllers.SaleInstallmentControllerπ
+∂
+w
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.csO (Ü
+%7string";Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.TanentId.set*`
+^
+getAllSaleInstallmentViewModel<Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel*
+
+%6string*
+4*·
+4v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs (1ø
+º
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs" (*>
+%88Aksaty.Application.Interfaces.ISaleInstallmentAppService"__id*|*z2
+0Aksaty.Api.Controllers.SaleInstallmentController"D
+_service8Aksaty.Application.Interfaces.ISaleInstallmentAppServiceêç
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs" (Q*
+%9$System.Threading.Tasks.Task<TResult>"}Aksaty.Application.Interfaces.ISaleInstallmentAppService.GetAll(Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel)*@
+>
+%88Aksaty.Application.Interfaces.ISaleInstallmentAppService*`
+^
+getAllSaleInstallmentViewModel<Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel2DGetAll(Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel)√
+¿
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs (Q8
+	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>"__id*
+""ç
+ä
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs (-
+%10&Microsoft.AspNetCore.Http.HttpResponse"4Microsoft.AspNetCore.Mvc.ControllerBase.Response.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseî
+ë
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs (2
+%11+Microsoft.AspNetCore.Http.IHeaderDictionary"2Microsoft.AspNetCore.Http.HttpResponse.Headers.get*/
+-
+%10&Microsoft.AspNetCore.Http.HttpResponseÅ
+˛
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs+ (B
+%12string"9Aksaty.Infra.CrossCutting.Util.PagedList<T>.GetMetaData()*:
+8
+	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>ˆ
+Û
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs (C
+%13void"qAksaty.Infra.CrossCutting.Util.ResponseHeaders.AddPagination(Microsoft.AspNetCore.Http.IHeaderDictionary, string)*2"0
+.Aksaty.Infra.CrossCutting.Util.ResponseHeaders*4
+2
+%11+Microsoft.AspNetCore.Http.IHeaderDictionary*
+
+%12string†
+ù
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs" (10
+%14)System.Collections.Generic.IEnumerable<T>"5Aksaty.Infra.CrossCutting.Util.PagedList<T>.Items.get*:
+8
+	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>÷
+”
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs (2,
+%15%Microsoft.AspNetCore.Mvc.ActionResult"DAksaty.Services.Api.Controllers.ApiController.CustomResponse(object)*1/
+-Aksaty.Services.Api.Controllers.ApiController*2
+0
+%14)System.Collections.Generic.IEnumerable<T>"®
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs (3.
+,
+%15%Microsoft.AspNetCore.Mvc.ActionResult*ã
+5v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs	 (	"ç
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs (	
+implicit return*π
+
+6v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.csw (w˝
+˙
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs) (,r
+^
+getAllSaleInstallmentViewModel<Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel"
+SaleIdstring"__entrypointÅ
+˛
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs) (,v
+^
+getAllSaleInstallmentViewModel<Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel"
+
+CustomerIdstring"__entrypointé
+ã
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs) (,Ç
+^
+getAllSaleInstallmentViewModel<Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel" 
+
+MinDueDateSystem.Nullable<T>"__entrypointé
+ã
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs) (,Ç
+^
+getAllSaleInstallmentViewModel<Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel" 
+
+MaxDueDateSystem.Nullable<T>"__entrypointê
+ç
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleInstallmentController.cs) (,
+%16"__entrypoint*
+0:^
+getAllSaleInstallmentViewModel<Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModelB42
+0Aksaty.Api.Controllers.SaleInstallmentController

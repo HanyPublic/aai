@@ -1,0 +1,33 @@
+
+’Aksaty.Infra.Data.Repository.CustomerRepository.RemoveAttachments(System.Collections.Generic.IEnumerable<Aksaty.Domain.Models.CustomerAttachment>)l
+bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csa a(%"0*º
+0l
+bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csc c(:Œ
+‰
+l
+bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csc c(-
+%0'Aksaty.Infra.Data.Context.AksatyContext"__id*d*b1
+/Aksaty.Infra.Data.Repository.CustomerRepository"-
+Db'Aksaty.Infra.Data.Context.AksatyContext—
+”
+l
+bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csc c("2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"?Aksaty.Infra.Data.Context.AksatyContext.CustomerAttachments.get*/
+-
+%0'Aksaty.Infra.Data.Context.AksatyContext˜•
+l
+bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csc c(;
+
+%2void"iMicrosoft.EntityFrameworkCore.DbSet<TEntity>.RemoveRange(System.Collections.Generic.IEnumerable<TEntity>)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*:
+8
+attachments)System.Collections.Generic.IEnumerable<T>2<RemoveRange(System.Collections.Generic.IEnumerable<TEntity>)*
+1*÷
+1l
+bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csd	 d(	"ƒ
+l
+bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csd d(	
+implicit return:8
+attachments)System.Collections.Generic.IEnumerable<T>B31
+/Aksaty.Infra.Data.Repository.CustomerRepository

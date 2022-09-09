@@ -1,0 +1,64 @@
+
+LAksaty.Infra.CrossCutting.Util.AttachmentContentTypes.GetContentType(string)v
+lD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentContentTypes.cs
+ 
+(+"0*É
+0v
+lD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentContentTypes.cs	 (	*
+1
+2*ª
+1v
+lD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentContentTypes.cs ("∑
+¥
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentContentTypes.cs (*9
+%03System.Collections.Generic.Dictionary<TKey, TValue>"DAksaty.Infra.CrossCutting.Util.AttachmentContentTypes.GetMimeTypes()*9"7
+5Aksaty.Infra.CrossCutting.Util.AttachmentContentTypes¸
+˘
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentContentTypes.cs (*<
+types3System.Collections.Generic.Dictionary<TKey, TValue>"__id*;
+9
+%03System.Collections.Generic.Dictionary<TKey, TValue>ª
+∏
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentContentTypes.cs (6
+%1string"string.ToLowerInvariant()*
+
+	extensionstring†
+ù
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentContentTypes.cs (6
+extstring"__id*
+
+%1string‰
+·
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentContentTypes.cs" (,
+%2string"__mapGet*>
+<
+types3System.Collections.Generic.Dictionary<TKey, TValue>*
+
+extstring®
+•
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentContentTypes.cs (,
+contentTypestring"__id*
+
+%2string"ë
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentContentTypes.cs (#
+
+contentTypestring*î
+2v
+lD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentContentTypes.cs (1"ñ
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentContentTypes.cs (2
+application/octet-stream*ã
+3v
+lD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentContentTypes.cs	 (	"ç
+v
+lD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentContentTypes.cs (	
+implicit return:
+	extensionstringB9"7
+5Aksaty.Infra.CrossCutting.Util.AttachmentContentTypes

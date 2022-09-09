@@ -1,0 +1,26 @@
+
+XAksaty.Domain.Queries.GetAllSaleInstallmentQuery.GetAllSaleInstallmentQuery(System.Guid)
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetAllSaleInstallmentQuery.cs) )()"1*˝
+1
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetAllSaleInstallmentQuery.cs-	 -(	r
+p
+
+%0void"4Aksaty.Infra.CrossCutting.Util.BaseQuery.BaseQuery()*,*
+(Aksaty.Infra.CrossCutting.Util.BaseQuery*
+0*û
+0
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetAllSaleInstallmentQuery.cs, ,(í
+è
+
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetAllSaleInstallmentQuery.cs, ,(
+%1System.Guid";Aksaty.Domain.Queries.GetAllSaleInstallmentQuery.SaleId.set*42
+0Aksaty.Domain.Queries.GetAllSaleInstallmentQuery*
+""*
+2*ù
+2
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetAllSaleInstallmentQuery.cs-	 -(	"ñ
+
+uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetAllSaleInstallmentQuery.cs- -(	
+implicit return:
+saleIdSystem.GuidB42
+0Aksaty.Domain.Queries.GetAllSaleInstallmentQuery

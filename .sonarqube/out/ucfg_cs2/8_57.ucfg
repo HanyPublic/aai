@@ -1,0 +1,55 @@
+
+úAksaty.Infra.Data.Mappings.SalesProductsMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Models.SalesProducts>)h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SalesProductsMap.cs ("0*Å#
+0h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SalesProductsMap.cs (jÌ
+h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SalesProductsMap.cs (A@
+%0:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"ìMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)*W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2HHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object>>)…∆
+h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SalesProductsMap.cs ()i
+%1cMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceNavigationBuilder<TEntity, TRelatedEntity>"´Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasOne<TRelatedEntity>(System.Linq.Expressions.Expression<System.Func<TEntity, TRelatedEntity>>)*W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2`HasOne<TRelatedEntity>(System.Linq.Expressions.Expression<System.Func<TEntity, TRelatedEntity>>)µ≤
+h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SalesProductsMap.cs (Ht
+%2nMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>"ﬁMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceNavigationBuilder<TEntity, TRelatedEntity>.WithMany(System.Linq.Expressions.Expression<System.Func<TRelatedEntity, System.Collections.Generic.IEnumerable<TEntity>>>)*k
+i
+%1cMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceNavigationBuilder<TEntity, TRelatedEntity>*
+""2zWithMany(System.Linq.Expressions.Expression<System.Func<TRelatedEntity, System.Collections.Generic.IEnumerable<TEntity>>>)áÑ
+h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SalesProductsMap.cs (et
+%3nMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>"«Microsoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>.HasForeignKey(System.Linq.Expressions.Expression<System.Func<TDependentEntity, object>>)*v
+t
+%2nMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>*
+""2XHasForeignKey(System.Linq.Expressions.Expression<System.Func<TDependentEntity, object>>)…∆
+h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SalesProductsMap.cs (,i
+%4cMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceNavigationBuilder<TEntity, TRelatedEntity>"´Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasOne<TRelatedEntity>(System.Linq.Expressions.Expression<System.Func<TEntity, TRelatedEntity>>)*W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+""2`HasOne<TRelatedEntity>(System.Linq.Expressions.Expression<System.Func<TEntity, TRelatedEntity>>)µ≤
+h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SalesProductsMap.cs (Kt
+%5nMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>"ﬁMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceNavigationBuilder<TEntity, TRelatedEntity>.WithMany(System.Linq.Expressions.Expression<System.Func<TRelatedEntity, System.Collections.Generic.IEnumerable<TEntity>>>)*k
+i
+%4cMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceNavigationBuilder<TEntity, TRelatedEntity>*
+""2zWithMany(System.Linq.Expressions.Expression<System.Func<TRelatedEntity, System.Collections.Generic.IEnumerable<TEntity>>>)áÑ
+h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SalesProductsMap.cs (kt
+%6nMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>"«Microsoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>.HasForeignKey(System.Linq.Expressions.Expression<System.Func<TDependentEntity, object>>)*v
+t
+%5nMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>*
+""2XHasForeignKey(System.Linq.Expressions.Expression<System.Func<TDependentEntity, object>>)*
+1*Ó
+1h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SalesProductsMap.cs	 (	"
+h
+^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SalesProductsMap.cs (	
+implicit return:U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>B/-
++Aksaty.Infra.Data.Mappings.SalesProductsMap

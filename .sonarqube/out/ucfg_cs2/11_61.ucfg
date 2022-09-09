@@ -1,0 +1,163 @@
+
+AAksaty.Api.Controllers.AttachmentController.Download(System.Guid)s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs©) ©(1"4*Ÿ	
+0s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs´ ¨($∫
+∑
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs´% ´(:9
+%03Aksaty.Application.Interfaces.IAttachmentAppService"__id**}-
++Aksaty.Api.Controllers.AttachmentController"L
+_attachmentAppService3Aksaty.Application.Interfaces.IAttachmentAppService…∆
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs´% ´(F*
+%1$System.Threading.Tasks.Task<TResult>"HAksaty.Application.Interfaces.IAttachmentAppService.GetById(System.Guid)*;
+9
+%03Aksaty.Application.Interfaces.IAttachmentAppService*
+""2GetById(System.Guid)…
+∆
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs´ ´(FA
+attachmentVM1Aksaty.Application.ViewModels.AttachmentViewModel"__id*
+""Å
+˛
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¨ ¨($
+
+%2bool""object.operator !=(object, object)*
+"
+object*C
+A
+attachmentVM1Aksaty.Application.ViewModels.AttachmentViewModel*
+""*
+1
+2*Ò
+1s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÆ Ø(t™
+ß
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÆ\ Æ(g6
+%30Microsoft.AspNetCore.Hosting.IWebHostEnvironment"__id*r*p-
++Aksaty.Api.Controllers.AttachmentController"?
+_hostingEnv0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentìê
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÆ\ Æ(s
+%4string"@Microsoft.AspNetCore.Hosting.IWebHostEnvironment.WebRootPath.get*8
+6
+%30Microsoft.AspNetCore.Hosting.IWebHostEnvironment2WebRootPath.getÙ
+Ò
+t
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÆ} Æ(ä
+%5string":Aksaty.Services.Api.Controllers.ApiController.TanentId.get*/-
++Aksaty.Api.Controllers.AttachmentControllerÛ
+
+u
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÆí Æ(ù
+%6string"8Aksaty.Services.Api.Controllers.ApiController.UserId.get*/-
++Aksaty.Api.Controllers.AttachmentControllerÂ
+‚
+t
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÆ, Æ(û
+%7string"gAksaty.Application.ViewModels.AttachmentViewModelBase.GetAttachmentAbsolutePath(string, string, string)*C
+A
+attachmentVM1Aksaty.Application.ViewModels.AttachmentViewModel*
+
+%4string*
+
+%5string*
+
+%6stringé
+ã
+u
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÆ† Æ(≠
+%8"__id*
+""é
+ã
+u
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÆØ Æ(æ
+%9"__id*
+""è
+å
+u
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÆ¿ Æ(Œ
+%10"__id*
+""¨©
+t
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÆ Æ(œ
+%11System.IO.FileStream"System.IO.FileStreamµ
+≤
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÆ! Æ(+
+%12void"fSystem.IO.FileStream.FileStream(string, System.IO.FileMode, System.IO.FileAccess, System.IO.FileShare)*
+
+%11System.IO.FileStream*
+
+%7string*
+
+%8*
+
+%9*
+
+%10æ
+ª
+t
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÆ Æ(œ
+streamSystem.IO.FileStream"__id*
+
+%11System.IO.FileStreamï
+í
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csØZ Ø(t
+%13string"GAksaty.Application.ViewModels.AttachmentViewModelBase.FileExtension.get*C
+A
+attachmentVM1Aksaty.Application.ViewModels.AttachmentViewModel°
+û
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csØ4 Ø(u
+%14string"LAksaty.Infra.CrossCutting.Util.AttachmentContentTypes.GetContentType(string)*9"7
+5Aksaty.Infra.CrossCutting.Util.AttachmentContentTypes*
+
+%13string’“
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csØ Ø(v0
+%15)Microsoft.AspNetCore.Mvc.FileStreamResult")Microsoft.AspNetCore.Mvc.FileStreamResult¬
+ø
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csØ Ø(+
+%16void"TMicrosoft.AspNetCore.Mvc.FileStreamResult.FileStreamResult(System.IO.Stream, string)*2
+0
+%15)Microsoft.AspNetCore.Mvc.FileStreamResult* 
+
+streamSystem.IO.FileStream*
+
+%14string"©
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csØ Ø(w2
+0
+%15)Microsoft.AspNetCore.Mvc.FileStreamResult*∫
+2s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs≥ ≥(!ïí
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs≥ ≥(!.
+%17'Microsoft.AspNetCore.Mvc.NotFoundResult"2Microsoft.AspNetCore.Mvc.ControllerBase.NotFound()*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase2
+NotFound()"ß
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs≥ ≥("0
+.
+%17'Microsoft.AspNetCore.Mvc.NotFoundResult*Ö
+3s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csµ	 µ(	"ä
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csµ µ(	
+implicit return*ï
+4s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs©: ©(:ï
+í
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs©) ©(1
+%18"__entrypoint*
+""*
+0:
+idSystem.GuidB/-
++Aksaty.Api.Controllers.AttachmentController

@@ -1,0 +1,151 @@
+
+„Aksaty.Domain.Handlers.ProductCommandHandler.Handle(Aksaty.Domain.Commands.RemoveProductCommand, System.Threading.CancellationToken)s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csL, L(2"0*ô
+0s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csN N("ñî
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csN N("
+
+%0bool"&NetDevPack.Messaging.Command.IsValid()*8
+6
+request+Aksaty.Domain.Commands.RemoveProductCommand2	IsValid()*
+1
+2*¼
+1s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csN+ N(C–
+“
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csN+ N(C/
+%1)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.get*8
+6
+request+Aksaty.Domain.Commands.RemoveProductCommand"¨
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csN$ N(D1
+/
+%1)FluentValidation.Results.ValidationResult*Ô
+2s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csO P(¨
+¥
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csO  O(21
+%2+Aksaty.Domain.Interfaces.IProductRepository"__id*u*s.
+,Aksaty.Domain.Handlers.ProductCommandHandler"A
+_productRepository+Aksaty.Domain.Interfaces.IProductRepositoryù
+ö
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csO; O(E
+%3System.Guid"2Aksaty.Domain.Commands.RemoveProductCommand.Id.get*8
+6
+request+Aksaty.Domain.Commands.RemoveProductCommandÆÃ
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csO  O(F*
+%4$System.Threading.Tasks.Task<TResult>"@Aksaty.Domain.Interfaces.IProductRepository.GetById(System.Guid)*3
+1
+%2+Aksaty.Domain.Interfaces.IProductRepository*
+
+%3System.Guid2GetById(System.Guid)¯
+¬
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csO O(F'
+productAksaty.Domain.Models.Product"__id*
+""¯
+¬
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csP P(
+
+%5bool"XNetDevPack.Domain.Entity.operator ==(NetDevPack.Domain.Entity, NetDevPack.Domain.Entity)*"
+NetDevPack.Domain.Entity*)
+'
+productAksaty.Domain.Models.Product*
+""*
+3
+4*Ï
+3s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csR S('
+Š
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csR R(@
+
+%6void"4NetDevPack.Messaging.CommandHandler.AddError(string)*'%
+#NetDevPack.Messaging.CommandHandler*(&
+$The requested product doesn't exist.™
+–
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csS S('/
+%7)FluentValidation.Results.ValidationResult"__id*h*f%
+#NetDevPack.Messaging.CommandHandler"=
+ValidationResult)FluentValidation.Results.ValidationResult"¨
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csS S((1
+/
+%7)FluentValidation.Results.ValidationResult*©
+4s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csW Y(Aù
+ö
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csW? W(I
+%8System.Guid"2Aksaty.Domain.Commands.RemoveProductCommand.Id.get*8
+6
+request+Aksaty.Domain.Commands.RemoveProductCommandÒÏ
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csW' W(J.
+%9(Aksaty.Domain.Events.ProductRemovedEvent"(Aksaty.Domain.Events.ProductRemovedEvent—
+”
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csW+ W(>
+%10void"IAksaty.Domain.Events.ProductRemovedEvent.ProductRemovedEvent(System.Guid)*0
+.
+%9(Aksaty.Domain.Events.ProductRemovedEvent*
+
+%8System.Guid§
+¤
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csW W(K
+%11void"CNetDevPack.Domain.Entity.AddDomainEvent(NetDevPack.Messaging.Event)*)
+'
+productAksaty.Domain.Models.Product*0
+.
+%9(Aksaty.Domain.Events.ProductRemovedEvent©
+¦
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csX X("2
+%12+Aksaty.Domain.Interfaces.IProductRepository"__id*u*s.
+,Aksaty.Domain.Handlers.ProductCommandHandler"A
+_productRepository+Aksaty.Domain.Interfaces.IProductRepositoryÞÛ
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csX X(2
+%13void"PAksaty.Domain.Interfaces.IProductRepository.Remove(Aksaty.Domain.Models.Product)*4
+2
+%12+Aksaty.Domain.Interfaces.IProductRepository*)
+'
+productAksaty.Domain.Models.Product2$Remove(Aksaty.Domain.Models.Product)©
+¦
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csY$ Y(62
+%14+Aksaty.Domain.Interfaces.IProductRepository"__id*u*s.
+,Aksaty.Domain.Handlers.ProductCommandHandler"A
+_productRepository+Aksaty.Domain.Interfaces.IProductRepository‘Ž
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csY$ Y(A"
+%15NetDevPack.Data.IUnitOfWork"-NetDevPack.Data.IRepository<T>.UnitOfWork.get*4
+2
+%14+Aksaty.Domain.Interfaces.IProductRepository2UnitOfWork.getÍ
+Ê
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csY Y(B+
+%16$System.Threading.Tasks.Task<TResult>"ONetDevPack.Messaging.CommandHandler.Commit(NetDevPack.Data.IUnitOfWork, string)*'%
+#NetDevPack.Messaging.CommandHandler*$
+"
+%15NetDevPack.Data.IUnitOfWork*
+"""}
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.csY Y(C
+""*…
+5s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs[	 [(	"Š
+s
+iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs[ [(	
+implicit return:6
+request+Aksaty.Domain.Commands.RemoveProductCommand:7
+cancellationToken"System.Threading.CancellationTokenB0.
+,Aksaty.Domain.Handlers.ProductCommandHandler

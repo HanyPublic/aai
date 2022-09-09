@@ -1,0 +1,28 @@
+
+eAksaty.Infra.Data.Repository.AttachmentRepository.Update(Aksaty.Domain.Attachments.Models.Attachment)n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs ("0*š
+0n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs   ($ž
+›
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs   (2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*o*m3
+1Aksaty.Infra.Data.Repository.AttachmentRepository"6
+_DbSet,Microsoft.EntityFrameworkCore.DbSet<TEntity>þû
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs   (%G
+%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Update(TEntity)*4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*;
+9
+
+attachment+Aksaty.Domain.Attachments.Models.Attachment2Update(TEntity)*
+1*û
+1n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs!	 !(	"…
+n
+dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.cs! !(	
+implicit return:9
+
+attachment+Aksaty.Domain.Attachments.Models.AttachmentB53
+1Aksaty.Infra.Data.Repository.AttachmentRepository

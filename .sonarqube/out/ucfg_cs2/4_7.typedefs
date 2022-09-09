@@ -1,0 +1,6 @@
+®
+)Aksaty.Domain.Events.CustomerEventHandlerobject+MediatR.INotificationHandler<TNotification>+MediatR.INotificationHandler<TNotification>+MediatR.INotificationHandler<TNotification>Ø
+UHandle(Aksaty.Domain.Events.CustomerUpdatedEvent, System.Threading.CancellationToken)Aksaty.Domain.Events.CustomerEventHandler.Handle(Aksaty.Domain.Events.CustomerUpdatedEvent, System.Threading.CancellationToken)ß
+XHandle(Aksaty.Domain.Events.CustomerRegisteredEvent, System.Threading.CancellationToken)‚Aksaty.Domain.Events.CustomerEventHandler.Handle(Aksaty.Domain.Events.CustomerRegisteredEvent, System.Threading.CancellationToken)Ø
+UHandle(Aksaty.Domain.Events.CustomerRemovedEvent, System.Threading.CancellationToken)Aksaty.Domain.Events.CustomerEventHandler.Handle(Aksaty.Domain.Events.CustomerRemovedEvent, System.Threading.CancellationToken)Z
+CustomerEventHandler()@Aksaty.Domain.Events.CustomerEventHandler.CustomerEventHandler()

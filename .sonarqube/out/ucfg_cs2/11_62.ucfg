@@ -1,0 +1,186 @@
+
+°Aksaty.Api.Controllers.AttachmentController.RemoveRestoreListAttachment(System.Collections.Generic.List<Aksaty.Application.ViewModels.AttachmentViewModel>, bool)q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csx) x(D"7*î
+0q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csz {(∏
+µ
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csz z(49
+%03Aksaty.Application.Interfaces.IAttachmentAppService"__id**}-
++Aksaty.Api.Controllers.AttachmentController"L
+_attachmentAppService3Aksaty.Application.Interfaces.IAttachmentAppServiceúô
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csz z(R*
+%1$System.Threading.Tasks.Task<TResult>"òAksaty.Application.Interfaces.IAttachmentAppService.RemoveList(System.Collections.Generic.List<Aksaty.Application.ViewModels.AttachmentViewModel>, bool)*;
+9
+%03Aksaty.Application.Interfaces.IAttachmentAppService*2
+0
+
+viewModels"System.Collections.Generic.List<T>*
+""2dRemoveList(System.Collections.Generic.List<Aksaty.Application.ViewModels.AttachmentViewModel>, bool)π
+∂
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csz z(R3
+result)FluentValidation.Results.ValidationResult"__id*
+""˝˙
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs{ {(
+
+%2bool"5FluentValidation.Results.ValidationResult.IsValid.get*5
+3
+result)FluentValidation.Results.ValidationResult2IsValid.get*
+1
+2*~
+1q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs} }(E*
+3
+4*Ò	
+3q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs}F }(uÄ
+˝
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs}Z }(v/
+%6)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
+System.Linq.Enumerable*2
+0
+
+viewModels"System.Collections.Generic.List<T>*
+""é
+ã
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs}I }(w
+%7string"Bstring.Join<T>(string?, System.Collections.Generic.IEnumerable<T>)*
+"
+string*
+,*1
+/
+%6)System.Collections.Generic.IEnumerable<T>≥
+∞
+r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs}F }(á
+%8string"__concat*
+
+%7string*
+ were deleted.ì
+ê
+r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs}F }(á
+%4"__id*
+
+%8stringì
+ê
+r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs}F }(á
+%3string"__id*
+
+%4*
+5*ˇ	
+4s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs}â }(∏Ç
+ˇ
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs}ù }(π/
+%9)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
+System.Linq.Enumerable*2
+0
+
+viewModels"System.Collections.Generic.List<T>*
+""ë
+é
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs}å }(∫
+%10string"Bstring.Join<T>(string?, System.Collections.Generic.IEnumerable<T>)*
+"
+string*
+,*1
+/
+%9)System.Collections.Generic.IEnumerable<T>∑
+¥
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs}â }(À
+%11string"__concat*
+
+%10string*
+ were restored.ï
+í
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs}â }(À
+%5"__id*
+
+%11stringî
+ë
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs}â }(À
+%3string"__id*
+
+%5*
+5*é
+5r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs} }(Œª
+∏
+r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs}& }(Œ
+%12string"__concat*
+Attachments with Ids *
+
+%3stringØ
+¨
+r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs} }(œ,
+%13%Microsoft.AspNetCore.Mvc.ActionResult"DAksaty.Services.Api.Controllers.ApiController.CustomResponse(object)*1/
+-Aksaty.Services.Api.Controllers.ApiController*
+
+%12string"§
+r
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs} }(–.
+,
+%13%Microsoft.AspNetCore.Mvc.ActionResult*ú
+2s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÅ Å(,˘
+ˆ
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÅ Å(-,
+%14%Microsoft.AspNetCore.Mvc.ActionResult"gAksaty.Services.Api.Controllers.ApiController.CustomResponse(FluentValidation.Results.ValidationResult)*1/
+-Aksaty.Services.Api.Controllers.ApiController*5
+3
+result)FluentValidation.Results.ValidationResult"•
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÅ Å(..
+,
+%14%Microsoft.AspNetCore.Mvc.ActionResult*Ö
+6s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÉ	 É(	"ä
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÉ É(	
+implicit return*ë
+7q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csxv x(v«
+ƒ
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csx) x(D
+%15"__entrypoint*2
+0
+
+viewModels"System.Collections.Generic.List<T>*
+""á
+Ñ
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csw	 w(-
+%16"
+__annotate*HF
+DMicrosoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute(string)*2
+0
+
+viewModels"System.Collections.Generic.List<T>ø
+º
+q
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csxE x(i0
+
+viewModels"System.Collections.Generic.List<T>"__annotation*
+
+%16*
+0:0
+
+viewModels"System.Collections.Generic.List<T>:
+deleteboolB/-
++Aksaty.Api.Controllers.AttachmentController

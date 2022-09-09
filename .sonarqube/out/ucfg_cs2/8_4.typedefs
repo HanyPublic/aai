@@ -1,0 +1,4 @@
+î
+-Aksaty.Infra.Data.Mappings.SaleInstallmentMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>—
+rConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Models.SaleInstallment>) Aksaty.Infra.Data.Mappings.SaleInstallmentMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Models.SaleInstallment>)Z
+SaleInstallmentMap()BAksaty.Infra.Data.Mappings.SaleInstallmentMap.SaleInstallmentMap()

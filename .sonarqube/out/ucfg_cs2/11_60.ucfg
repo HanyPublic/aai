@@ -1,0 +1,182 @@
+
+pAksaty.Api.Controllers.AttachmentController.GetResizePicture(Aksaty.Application.ViewModels.ImageResizeViewModel)s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cså å(-"6*µ
+0s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csê ê(&ü
+ú
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csê ê(@
+%0:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary"6Microsoft.AspNetCore.Mvc.ControllerBase.ModelState.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseê
+ç
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csê ê(&
+
+%1bool"FMicrosoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary.IsValid.get*B
+@
+%0:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary*
+1
+2*Œ
+1s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csí  ó(U£
+†
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csí8 í(F)
+%2#Microsoft.AspNetCore.Http.IFormFile"<Aksaty.Application.ViewModels.ImageResizeViewModel.Image.get*@
+>
+ImageDto2Aksaty.Application.ViewModels.ImageResizeViewModelÖÇ
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csí8 í(W
+%3System.IO.Stream"4Microsoft.AspNetCore.Http.IFormFile.OpenReadStream()*+
+)
+%2#Microsoft.AspNetCore.Http.IFormFile2OpenReadStream()∞≠
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csí( í(X
+%4ImageMagick.MagickImage"ImageMagick.MagickImageˆ
+Û
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csí, í(7
+
+%5void"5ImageMagick.MagickImage.MagickImage(System.IO.Stream)*
+
+%4ImageMagick.MagickImage*
+
+%3System.IO.Stream¡
+æ
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csí  í(X 
+imageImageMagick.MagickImage"__id*
+
+%4ImageMagick.MagickImageÉ
+Ä
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csî! î(/	
+%6int"<Aksaty.Application.ViewModels.ImageResizeViewModel.Width.get*@
+>
+ImageDto2Aksaty.Application.ViewModels.ImageResizeViewModelÑ
+Å
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csî1 î(@	
+%7int"=Aksaty.Application.ViewModels.ImageResizeViewModel.Height.get*@
+>
+ImageDto2Aksaty.Application.ViewModels.ImageResizeViewModelÏ
+È
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csî î(A
+
+%8void"(ImageMagick.MagickImage.Resize(int, int)*"
+ 
+imageImageMagick.MagickImage*
+	
+%6int*
+	
+%7int…
+∆
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csï ï(!
+
+%9void"ImageMagick.MagickImage.Strip()*"
+ 
+imageImageMagick.MagickImageÜ
+É
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csñ$ ñ(4
+
+%10int">Aksaty.Application.ViewModels.ImageResizeViewModel.Quality.get*@
+>
+ImageDto2Aksaty.Application.ViewModels.ImageResizeViewModel€
+ÿ
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csñ ñ(4
+
+%11int"#ImageMagick.MagickImage.Quality.set*"
+ 
+imageImageMagick.MagickImage*
+
+
+%10int“
+œ
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csó  ó(3
+%12byte[]"%ImageMagick.MagickImage.ToByteArray()*"
+ 
+imageImageMagick.MagickImage§
+°
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csóB ó(P*
+%13#Microsoft.AspNetCore.Http.IFormFile"<Aksaty.Application.ViewModels.ImageResizeViewModel.Image.get*@
+>
+ImageDto2Aksaty.Application.ViewModels.ImageResizeViewModelÌÍ
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csóB ó(U
+%14string",Microsoft.AspNetCore.Http.IFormFile.Name.get*,
+*
+%13#Microsoft.AspNetCore.Http.IFormFile2Name.getÌÍ
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csó ó(V1
+%15*Microsoft.AspNetCore.Mvc.FileContentResult"DMicrosoft.AspNetCore.Mvc.ControllerBase.File(byte[], string, string)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+%12byte[]*
+	image/png*
+
+%14string2File(byte[], string, string)"™
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csó ó(W3
+1
+%15*Microsoft.AspNetCore.Mvc.FileContentResult*¯
+2s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csõ õ(@À»
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csõ õ(A6
+%16/Microsoft.AspNetCore.Mvc.BadRequestObjectResult":Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+parameters are incorrect2BadRequest(object)"Ø
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csõ õ(B8
+6
+%16/Microsoft.AspNetCore.Mvc.BadRequestObjectResult*Ä
+3s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¢	 ¢(	*
+4
+5*π
+4s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs† †(/¡
+æ
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs†" †(/
+%17System.Exception"__concat*
+
+failed*
+
+exSystem.Exception»≈
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs† †(06
+%18/Microsoft.AspNetCore.Mvc.BadRequestObjectResult":Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+%17System.Exception2BadRequest(object)"Ø
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs† †(18
+6
+%18/Microsoft.AspNetCore.Mvc.BadRequestObjectResult*Ö
+5s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¢	 ¢(	"ä
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¢ ¢(	
+implicit return*Ü
+6s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csåW å(Wˆ
+Û
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cså å(-n
+>
+ImageDto2Aksaty.Application.ViewModels.ImageResizeViewModel",
+Image#Microsoft.AspNetCore.Http.IFormFile"__entrypointç
+ä
+s
+gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cså å(-
+%19"__entrypoint*
+0:>
+ImageDto2Aksaty.Application.ViewModels.ImageResizeViewModelB/-
++Aksaty.Api.Controllers.AttachmentController

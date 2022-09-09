@@ -1,0 +1,41 @@
+ã
+&Aksaty.Domain.Commands.CustomerCommand0Aksaty.Infra.CrossCutting.Util.BaseEntityCommandNetDevPack.Messaging.CommandNetDevPack.Messaging.MessageobjectM
+CustomerCommand()8Aksaty.Domain.Commands.CustomerCommand.CustomerCommand()7
+Id.get-Aksaty.Domain.Commands.CustomerCommand.Id.get7
+Id.set-Aksaty.Domain.Commands.CustomerCommand.Id.setA
+ImageId.get2Aksaty.Domain.Commands.CustomerCommand.ImageId.getA
+ImageId.set2Aksaty.Domain.Commands.CustomerCommand.ImageId.setG
+NationalId.get5Aksaty.Domain.Commands.CustomerCommand.NationalId.getG
+NationalId.set5Aksaty.Domain.Commands.CustomerCommand.NationalId.set=
+	RefId.get0Aksaty.Domain.Commands.CustomerCommand.RefId.get=
+	RefId.set0Aksaty.Domain.Commands.CustomerCommand.RefId.set=
+	Notes.get0Aksaty.Domain.Commands.CustomerCommand.Notes.get=
+	Notes.set0Aksaty.Domain.Commands.CustomerCommand.Notes.set?
+
+Review.get1Aksaty.Domain.Commands.CustomerCommand.Review.get?
+
+Review.set1Aksaty.Domain.Commands.CustomerCommand.Review.set;
+Name.get/Aksaty.Domain.Commands.CustomerCommand.Name.get;
+Name.set/Aksaty.Domain.Commands.CustomerCommand.Name.set=
+	Email.get0Aksaty.Domain.Commands.CustomerCommand.Email.get=
+	Email.set0Aksaty.Domain.Commands.CustomerCommand.Email.setE
+BirthDate.get4Aksaty.Domain.Commands.CustomerCommand.BirthDate.getE
+BirthDate.set4Aksaty.Domain.Commands.CustomerCommand.BirthDate.set?
+
+Mobile.get1Aksaty.Domain.Commands.CustomerCommand.Mobile.get?
+
+Mobile.set1Aksaty.Domain.Commands.CustomerCommand.Mobile.setA
+Mobile2.get2Aksaty.Domain.Commands.CustomerCommand.Mobile2.getA
+Mobile2.set2Aksaty.Domain.Commands.CustomerCommand.Mobile2.setA
+Address.get2Aksaty.Domain.Commands.CustomerCommand.Address.getA
+Address.set2Aksaty.Domain.Commands.CustomerCommand.Address.set;
+Type.get/Aksaty.Domain.Commands.CustomerCommand.Type.get;
+Type.set/Aksaty.Domain.Commands.CustomerCommand.Type.setM
+AddRecription.get8Aksaty.Domain.Commands.CustomerCommand.AddRecription.getM
+AddRecription.set8Aksaty.Domain.Commands.CustomerCommand.AddRecription.setA
+Balance.get2Aksaty.Domain.Commands.CustomerCommand.Balance.getA
+Balance.set2Aksaty.Domain.Commands.CustomerCommand.Balance.setQ
+NextInstallDate.get:Aksaty.Domain.Commands.CustomerCommand.NextInstallDate.getQ
+NextInstallDate.set:Aksaty.Domain.Commands.CustomerCommand.NextInstallDate.setI
+Attachments.get6Aksaty.Domain.Commands.CustomerCommand.Attachments.getI
+Attachments.set6Aksaty.Domain.Commands.CustomerCommand.Attachments.set

@@ -1,0 +1,51 @@
+
+ÖAksaty.Services.Api.Configurations.SwaggerConfig.AddSwaggerConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection)m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\SwaggerConfig.cs
+ 
+(2"0*˛
+0m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\SwaggerConfig.cs ( Å
+˛
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\SwaggerConfig.cs ( 
+
+%0bool""object.operator ==(object, object)*
+"
+object*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+1
+2*ö
+1m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\SwaggerConfig.cs( (R¥±
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\SwaggerConfig.cs( (S"
+%1System.ArgumentNullException"System.ArgumentNullExceptionÈ
+Ê
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\SwaggerConfig.cs, (A
+
+%2void";System.ArgumentNullException.ArgumentNullException(string?)*$
+"
+%1System.ArgumentNullException*
+""*
+3*∂
+2m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\SwaggerConfig.cs 2(º
+π
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\SwaggerConfig.cs 2(A
+%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"›Microsoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.AddSwaggerGen(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions>)*R"P
+NMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+3*˘
+3m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\SwaggerConfig.cs3	 3(	"Ñ
+m
+cD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\SwaggerConfig.cs3 3(	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB4"2
+0Aksaty.Services.Api.Configurations.SwaggerConfig

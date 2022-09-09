@@ -1,0 +1,9 @@
+Ï
+7Aksaty.Domain.Attachments.Events.AttachmentRemovedEvent.Aksaty.Infra.CrossCutting.Util.BaseEntityEventNetDevPack.Messaging.EventNetDevPack.Messaging.Messageobjecté
+VAttachmentRemovedEvent(System.Guid, string, string, System.DateTime, bool, bool, bool)ŽAksaty.Domain.Attachments.Events.AttachmentRemovedEvent.AttachmentRemovedEvent(System.Guid, string, string, System.DateTime, bool, bool, bool)H
+Id.get>Aksaty.Domain.Attachments.Events.AttachmentRemovedEvent.Id.getH
+Id.set>Aksaty.Domain.Attachments.Events.AttachmentRemovedEvent.Id.setP
+
+Delete.getBAksaty.Domain.Attachments.Events.AttachmentRemovedEvent.Delete.getP
+
+Delete.setBAksaty.Domain.Attachments.Events.AttachmentRemovedEvent.Delete.set

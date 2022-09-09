@@ -1,0 +1,111 @@
+
+àAksaty.Domain.Commands.AddProductCommand.AddProductCommand(string, string, decimal, string, string, string, System.DateTime, bool, bool)o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs	 	( "1*Ï
+1o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs	 (	q
+o
+
+%0void"6Aksaty.Domain.Commands.ProductCommand.ProductCommand()*)'
+%Aksaty.Domain.Commands.ProductCommand*
+0*ø
+0o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs (-¿
+Ω
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs (.
+
+%1bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+imageIdstring*
+2
+3*»
+2o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs0 (L»
+≈
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs: (M
+%2System.Guid"System.Guid.Parse(string)*"
+System.Guid*
+
+imageIdstringÅ
+˛
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs0 (M
+%3System.Nullable<T>"1Aksaty.Domain.Commands.ProductCommand.ImageId.set*)'
+%Aksaty.Domain.Commands.ProductCommand*
+
+%2System.Guid*
+3*†
+3o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs (Ô
+Ï
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs (
+%4string".Aksaty.Domain.Commands.ProductCommand.Name.set*)'
+%Aksaty.Domain.Commands.ProductCommand*
+
+namestringË
+Â
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs (
+%5decimal"0Aksaty.Domain.Commands.ProductCommand.Amount.set*)'
+%Aksaty.Domain.Commands.ProductCommand*
+""˜
+Ù
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs (
+%6string"2Aksaty.Domain.Commands.ProductCommand.Category.set*)'
+%Aksaty.Domain.Commands.ProductCommand*
+
+categorystringì
+ê
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs (%
+%7string"@Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.CreatedById.set*42
+0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
+
+createdByIdstringç
+ä
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs (
+%8string"=Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.TanentId.set*42
+0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
+
+tanentIdstring°
+û
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs (!
+%9System.DateTime">Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.CreatedAt.set*42
+0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
+
+	createdAtSystem.DateTimeÉ
+Ä
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs ()
+%10bool"BAksaty.Infra.CrossCutting.Util.BaseEntityCommand.ShowOnWebsite.set*42
+0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
+""˝
+˙
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs (
+%11bool"<Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.Deleted.set*42
+0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
+""*
+4*˝
+4o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs	 (	"Ü
+o
+eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Product\AddProductCommand.cs (	
+implicit return:
+imageIdstring:
+namestring:
+amountdecimal:
+categorystring:
+tanentIdstring:
+createdByIdstring:
+	createdAtSystem.DateTime:
+showOnWebsitebool:
+deletedboolB,*
+(Aksaty.Domain.Commands.AddProductCommand

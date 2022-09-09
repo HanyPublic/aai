@@ -1,0 +1,8 @@
+Õ
+-Aksaty.Domain.Commands.CustomerCommandHandler#NetDevPack.Messaging.CommandHandlerobject,MediatR.IRequestHandler<TRequest, TResponse>,MediatR.IRequestHandler<TRequest, TResponse>,MediatR.IRequestHandler<TRequest, TResponse>,MediatR.IRequestHandler<TRequest, TResponse>º
+DCustomerCommandHandler(Aksaty.Domain.Interfaces.ICustomerRepository)rAksaty.Domain.Commands.CustomerCommandHandler.CustomerCommandHandler(Aksaty.Domain.Interfaces.ICustomerRepository)í
+]Handle(Aksaty.Domain.Commands.RegisterNewCustomerCommand, System.Threading.CancellationToken)‹Aksaty.Domain.Commands.CustomerCommandHandler.Handle(Aksaty.Domain.Commands.RegisterNewCustomerCommand, System.Threading.CancellationToken)ã
+XHandle(Aksaty.Domain.Commands.UpdateCustomerCommand, System.Threading.CancellationToken)†Aksaty.Domain.Commands.CustomerCommandHandler.Handle(Aksaty.Domain.Commands.UpdateCustomerCommand, System.Threading.CancellationToken)ã
+XHandle(Aksaty.Domain.Commands.RemoveCustomerCommand, System.Threading.CancellationToken)†Aksaty.Domain.Commands.CustomerCommandHandler.Handle(Aksaty.Domain.Commands.RemoveCustomerCommand, System.Threading.CancellationToken)D
+	Dispose()7Aksaty.Domain.Commands.CustomerCommandHandler.Dispose()ÿ
+fHandle(Aksaty.Domain.Customer.Commands.UpdateCustomerSalesCommand, System.Threading.CancellationToken)”Aksaty.Domain.Commands.CustomerCommandHandler.Handle(Aksaty.Domain.Customer.Commands.UpdateCustomerSalesCommand, System.Threading.CancellationToken)

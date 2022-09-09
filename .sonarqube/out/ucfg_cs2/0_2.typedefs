@@ -1,0 +1,11 @@
+ï
+(Aksaty.Infra.CrossCutting.Util.BaseQuery.Aksaty.Infra.CrossCutting.Util.BaseEntityQueryobjectC
+BaseQuery()4Aksaty.Infra.CrossCutting.Util.BaseQuery.BaseQuery()E
+PageSize.get5Aksaty.Infra.CrossCutting.Util.BaseQuery.PageSize.getE
+PageSize.set5Aksaty.Infra.CrossCutting.Util.BaseQuery.PageSize.setI
+PageNumber.get7Aksaty.Infra.CrossCutting.Util.BaseQuery.PageNumber.getI
+PageNumber.set7Aksaty.Infra.CrossCutting.Util.BaseQuery.PageNumber.setK
+SearchQuery.get8Aksaty.Infra.CrossCutting.Util.BaseQuery.SearchQuery.getK
+SearchQuery.set8Aksaty.Infra.CrossCutting.Util.BaseQuery.SearchQuery.setC
+OrderBy.get4Aksaty.Infra.CrossCutting.Util.BaseQuery.OrderBy.getC
+OrderBy.set4Aksaty.Infra.CrossCutting.Util.BaseQuery.OrderBy.set

@@ -1,0 +1,5 @@
+∆
+-Aksaty.Infra.Data.EventSourcing.SqlEventStoreobject%Aksaty.Domain.Core.Events.IEventStoreù
+uSqlEventStore(Aksaty.Infra.Data.Repository.EventSourcing.IEventStoreRepository, NetDevPack.Identity.User.IAspNetUser)£Aksaty.Infra.Data.EventSourcing.SqlEventStore.SqlEventStore(Aksaty.Infra.Data.Repository.EventSourcing.IEventStoreRepository, NetDevPack.Identity.User.IAspNetUser)F
+
+Save<T>(T)8Aksaty.Infra.Data.EventSourcing.SqlEventStore.Save<T>(T)

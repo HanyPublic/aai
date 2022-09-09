@@ -1,0 +1,11 @@
+ù
+/Aksaty.Application.ViewModels.UserBaseViewModelobjectZ
+UserBaseViewModel()CAksaty.Application.ViewModels.UserBaseViewModel.UserBaseViewModel()F
+	Email.get9Aksaty.Application.ViewModels.UserBaseViewModel.Email.getF
+	Email.set9Aksaty.Application.ViewModels.UserBaseViewModel.Email.setL
+UserName.get<Aksaty.Application.ViewModels.UserBaseViewModel.UserName.getL
+UserName.set<Aksaty.Application.ViewModels.UserBaseViewModel.UserName.setF
+	Token.get9Aksaty.Application.ViewModels.UserBaseViewModel.Token.getF
+	Token.set9Aksaty.Application.ViewModels.UserBaseViewModel.Token.setR
+CompanyName.get?Aksaty.Application.ViewModels.UserBaseViewModel.CompanyName.getR
+CompanyName.set?Aksaty.Application.ViewModels.UserBaseViewModel.CompanyName.set

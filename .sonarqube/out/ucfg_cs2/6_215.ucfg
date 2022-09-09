@@ -1,0 +1,95 @@
+
+…Aksaty.Domain.Models.Product.Product(System.Guid, System.Guid?, string, decimal, string, string, string, System.DateTime, bool, bool)c
+YD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Product\Product.cs ("1*ä
+1c
+YD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Product\Product.cs	 (	u
+s
+
+%0void"6Aksaty.Infra.CrossCutting.Util.BaseEntity.BaseEntity()*-+
+)Aksaty.Infra.CrossCutting.Util.BaseEntity*
+0*Õ
+0c
+YD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Product\Product.cs (Â
+¿
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Product\Product.cs (
+%1System.Guid"NetDevPack.Domain.Entity.Id.set*
+NetDevPack.Domain.Entity*
+""Ö
+Ó
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Product\Product.cs (
+%2System.Nullable<T>"(Aksaty.Domain.Models.Product.ImageId.set* 
+Aksaty.Domain.Models.Product*
+""Ñ
+Î
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Product\Product.cs (
+%3string"%Aksaty.Domain.Models.Product.Name.set* 
+Aksaty.Domain.Models.Product*
+
+namestringÊ
+Ç
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Product\Product.cs (
+%4decimal"'Aksaty.Domain.Models.Product.Amount.set* 
+Aksaty.Domain.Models.Product*
+""Ù
+Ö
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Product\Product.cs (
+%5string")Aksaty.Domain.Models.Product.Category.set* 
+Aksaty.Domain.Models.Product*
+
+categorystringù
+ö
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Product\Product.cs (%
+%6string"9Aksaty.Infra.CrossCutting.Util.BaseEntity.CreatedById.set*-+
+)Aksaty.Infra.CrossCutting.Util.BaseEntity*
+
+createdByIdstringó
+ð
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Product\Product.cs (
+%7string"6Aksaty.Infra.CrossCutting.Util.BaseEntity.TanentId.set*-+
+)Aksaty.Infra.CrossCutting.Util.BaseEntity*
+
+tanentIdstring‡
+„
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Product\Product.cs (!
+%8System.DateTime"7Aksaty.Infra.CrossCutting.Util.BaseEntity.CreatedAt.set*-+
+)Aksaty.Infra.CrossCutting.Util.BaseEntity*
+
+	createdAtSystem.DateTimeè
+å
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Product\Product.cs ()
+
+%9bool";Aksaty.Infra.CrossCutting.Util.BaseEntity.ShowOnWebsite.set*-+
+)Aksaty.Infra.CrossCutting.Util.BaseEntity*
+""ã
+à
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Product\Product.cs (
+%10bool"5Aksaty.Infra.CrossCutting.Util.BaseEntity.Deleted.set*-+
+)Aksaty.Infra.CrossCutting.Util.BaseEntity*
+""*
+2*ä
+2c
+YD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Product\Product.cs	 (	"z
+c
+YD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Product\Product.cs (	
+implicit return:
+idSystem.Guid:
+imageIdSystem.Nullable<T>:
+namestring:
+amountdecimal:
+categorystring:
+tanentIdstring:
+createdByIdstring:
+	createdAtSystem.DateTime:
+showOnWebsitebool:
+deletedboolB 
+Aksaty.Domain.Models.Product

@@ -1,0 +1,68 @@
+
+xAksaty.Services.Api.Controllers.ApiController.CustomResponse(Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary)j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ApiController.cs* *(-"0*Ù
+0j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ApiController.cs, -((‘
+—
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ApiController.cs, ,(*P
+%0JMicrosoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary.ValueEnumerable"EMicrosoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary.Values.get*J
+H
+
+modelState:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary∆
+√
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ApiController.cs, ,(D/
+%1)System.Collections.Generic.IEnumerable<T>"´System.Linq.Enumerable.SelectMany<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Collections.Generic.IEnumerable<TResult>>)*"
+System.Linq.Enumerable*R
+P
+%0JMicrosoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary.ValueEnumerable*
+""›
+⁄
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ApiController.cs, ,(D3
+errors)System.Collections.Generic.IEnumerable<T>"__id*1
+/
+%1)System.Collections.Generic.IEnumerable<T>*
+1*w
+1j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ApiController.cs3	 3(	*
+2
+3*ı
+2j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ApiController.cs/ /(+˝
+˙
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ApiController.cs/ /(+
+%2string"AMicrosoft.AspNetCore.Mvc.ModelBinding.ModelError.ErrorMessage.get*;
+9
+error0Microsoft.AspNetCore.Mvc.ModelBinding.ModelError˛
+˚
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ApiController.cs/ /(,
+
+%3void">Aksaty.Services.Api.Controllers.ApiController.AddError(string)*1/
+-Aksaty.Services.Api.Controllers.ApiController*
+
+%2string*
+1*≠
+3j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ApiController.cs2 2(#ù
+ö
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ApiController.cs2 2(#+
+%4%Microsoft.AspNetCore.Mvc.ActionResult"DAksaty.Services.Api.Controllers.ApiController.CustomResponse(object)*1/
+-Aksaty.Services.Api.Controllers.ApiController*
+"""õ
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ApiController.cs2 2($-
++
+%4%Microsoft.AspNetCore.Mvc.ActionResult*Û
+4j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ApiController.cs3	 3(	"Å
+j
+`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ApiController.cs3 3(	
+implicit return:H
+
+modelState:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionaryB1/
+-Aksaty.Services.Api.Controllers.ApiController

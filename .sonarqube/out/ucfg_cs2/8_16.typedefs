@@ -1,0 +1,7 @@
+∏
+4Aksaty.Infra.Data.Repository.SalesProductsRepositoryobject1Aksaty.Domain.Interfaces.ISalesProductsRepositoryπ
+@SalesProductsRepository(Aksaty.Infra.Data.Context.AksatyContext)uAksaty.Infra.Data.Repository.SalesProductsRepository.SalesProductsRepository(Aksaty.Infra.Data.Context.AksatyContext)K
+	Dispose()>Aksaty.Infra.Data.Repository.SalesProductsRepository.Dispose()ç
+*Remove(Aksaty.Domain.Models.SalesProducts)_Aksaty.Infra.Data.Repository.SalesProductsRepository.Remove(Aksaty.Domain.Models.SalesProducts)U
+UnitOfWork.getCAksaty.Infra.Data.Repository.SalesProductsRepository.UnitOfWork.getU
+UnitOfWork.setCAksaty.Infra.Data.Repository.SalesProductsRepository.UnitOfWork.set
