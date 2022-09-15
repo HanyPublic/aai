@@ -16,7 +16,7 @@ jobs:
         with:
           args: >
             -Dsonar.organization=my-hanypublic
-            -Dsonar.projectKey=hanypublic_aai_JS
+            -Dsonar.projectKey=aai_js
             -Dsonar.sources=.
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Needed to get PR information, if any
