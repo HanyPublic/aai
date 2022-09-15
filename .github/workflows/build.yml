@@ -15,7 +15,7 @@ jobs:
         uses: SonarSource/sonarcloud-github-action@master
         with:
           args: >
-            -Dsonar.organization=my-hanypublic
+            -Dsonar.organization=hanypublic
             -Dsonar.projectKey=aai_js
             -Dsonar.sources=.
         env:
