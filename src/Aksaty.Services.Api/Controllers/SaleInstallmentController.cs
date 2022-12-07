@@ -24,6 +24,48 @@ namespace Aksaty.Api.Controllers
         public async Task<IActionResult> Get([FromQuery] GetAllSaleInstallmentViewModel getAllSaleInstallmentViewModel)
         {
             if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
+            if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.CreatedById)) getAllSaleInstallmentViewModel.CreatedById = this.UserId;
             if (string.IsNullOrEmpty(getAllSaleInstallmentViewModel.TanentId)) getAllSaleInstallmentViewModel.TanentId = this.TanentId;
             var pagedList = await _service.GetAll(getAllSaleInstallmentViewModel);
             Response.Headers.AddPagination(pagedList.GetMetaData());
@@ -42,6 +84,44 @@ namespace Aksaty.Api.Controllers
         [HttpPut]
         public async Task<IActionResult> Put([FromBody] SaleInstallmentViewModel SaleInstallmentViewModel)
         {
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
+            return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
             return !ModelState.IsValid ? CustomResponse(ModelState) : CustomResponse(await _service.Update(SaleInstallmentViewModel));
         }
         [HttpDelete("{Id}")]
