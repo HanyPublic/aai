@@ -1,6 +1,8 @@
 name: Build
 on:
   push:
+    branches:
+      - master # or the name of your main branch
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
@@ -42,8 +44,3 @@ jobs:
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"HanyPublic_aai" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="${{ secrets.SONAR_HOST_URL }}"
           dotnet build
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
-      - uses: sonarsource/sonarqube-scan-action@master
-        env:
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-          SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
-          
