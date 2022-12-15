@@ -1,9 +1,0 @@
-—
-5Aksaty.Application.ViewModels.GetAllProductsViewModel(Aksaty.Infra.CrossCutting.Util.BaseQuery.Aksaty.Infra.CrossCutting.Util.BaseEntityQueryobjectl
-GetAllProductsViewModel()OAksaty.Application.ViewModels.GetAllProductsViewModel.GetAllProductsViewModel()T
-MinAmount.getCAksaty.Application.ViewModels.GetAllProductsViewModel.MinAmount.getT
-MinAmount.setCAksaty.Application.ViewModels.GetAllProductsViewModel.MinAmount.setT
-MaxAmount.getCAksaty.Application.ViewModels.GetAllProductsViewModel.MaxAmount.getT
-MaxAmount.setCAksaty.Application.ViewModels.GetAllProductsViewModel.MaxAmount.setZ
-IncludeSales.getFAksaty.Application.ViewModels.GetAllProductsViewModel.IncludeSales.getZ
-IncludeSales.setFAksaty.Application.ViewModels.GetAllProductsViewModel.IncludeSales.set

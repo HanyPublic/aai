@@ -1,261 +1,0 @@
-
-ÅAksaty.Domain.Handlers.ProductCommandHandler.Handle(Aksaty.Domain.Commands.AddProductCommand, System.Threading.CancellationToken)s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs%, %(2"0*Ò
-0s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs' '("ÓÎ
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs' '("
-
-%0bool"&NetDevPack.Messaging.Command.IsValid()*5
-3
-request(Aksaty.Domain.Commands.AddProductCommand2	IsValid()*
-1
-2*π
-1s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs'+ '(Cì
-ê
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs'+ '(C/
-%1)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.get*5
-3
-request(Aksaty.Domain.Commands.AddProductCommand"®
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs'$ '(D1
-/
-%1)FluentValidation.Results.ValidationResult*œB
-2s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs( 4(=≥
-∞
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs) )("
-%2System.Guid"System.Guid.NewGuid()*"
-System.Guid¸
-˘
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs* *(
-%3System.Nullable<T>"1Aksaty.Domain.Commands.ProductCommand.ImageId.get*5
-3
-request(Aksaty.Domain.Commands.AddProductCommandÌ
-Í
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs+ +("
-%4string".Aksaty.Domain.Commands.ProductCommand.Name.get*5
-3
-request(Aksaty.Domain.Commands.AddProductCommand
-Ì
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs+, +(:
-%5decimal"0Aksaty.Domain.Commands.ProductCommand.Amount.get*5
-3
-request(Aksaty.Domain.Commands.AddProductCommandÒ
-Ó
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs+F +(V
-%6string"2Aksaty.Domain.Commands.ProductCommand.Category.get*5
-3
-request(Aksaty.Domain.Commands.AddProductCommand¸
-˘
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs, ,( 
-%7string"=Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.TanentId.get*5
-3
-request(Aksaty.Domain.Commands.AddProductCommandˇ
-¸
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs," ,(5
-%8string"@Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.CreatedById.get*5
-3
-request(Aksaty.Domain.Commands.AddProductCommandÜ
-É
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs,7 ,(H
-%9System.DateTime">Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.CreatedAt.get*5
-3
-request(Aksaty.Domain.Commands.AddProductCommandÄ
-˝
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs,J ,(_
-%10bool"BAksaty.Infra.CrossCutting.Util.BaseEntityCommand.ShowOnWebsite.get*5
-3
-request(Aksaty.Domain.Commands.AddProductCommand˙
-˜
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs- -(
-%11bool"<Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.Deleted.get*5
-3
-request(Aksaty.Domain.Commands.AddProductCommandª∏
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs( -( #
-%12Aksaty.Domain.Models.Product"Aksaty.Domain.Models.ProductÌ
-Í
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs( ((%
-%13void"ÖAksaty.Domain.Models.Product.Product(System.Guid, System.Guid?, string, decimal, string, string, string, System.DateTime, bool, bool)*%
-#
-%12Aksaty.Domain.Models.Product*
-
-%2System.Guid*
-
-%3System.Nullable<T>*
-
-%4string*
-
-%5decimal*
-
-%6string*
-
-%7string*
-
-%8string*
-
-%9System.DateTime*
-
-%10bool*
-
-%11boolŒ
-À
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs( -( '
-productAksaty.Domain.Models.Product"__id*%
-#
-%12Aksaty.Domain.Models.Productÿ
-’
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs/ /(
-%14System.Guid"NetDevPack.Domain.Entity.Id.get*)
-'
-productAksaty.Domain.Models.ProductË
-Â
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs/' /(6
-%15System.Nullable<T>"(Aksaty.Domain.Models.Product.ImageId.get*)
-'
-productAksaty.Domain.Models.ProductŸ
-÷
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs0 0("
-%16string"%Aksaty.Domain.Models.Product.Name.get*)
-'
-productAksaty.Domain.Models.Product‹
-Ÿ
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs0, 0(:
-%17decimal"'Aksaty.Domain.Models.Product.Amount.get*)
-'
-productAksaty.Domain.Models.Product›
-⁄
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs0F 0(V
-%18string")Aksaty.Domain.Models.Product.Category.get*)
-'
-productAksaty.Domain.Models.ProductÍ
-Á
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs1 1( 
-%19string"6Aksaty.Infra.CrossCutting.Util.BaseEntity.TanentId.get*)
-'
-productAksaty.Domain.Models.ProductÌ
-Í
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs1" 1(5
-%20string"9Aksaty.Infra.CrossCutting.Util.BaseEntity.CreatedById.get*)
-'
-productAksaty.Domain.Models.ProductÙ
-Ò
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs17 1(H
-%21System.DateTime"7Aksaty.Infra.CrossCutting.Util.BaseEntity.CreatedAt.get*)
-'
-productAksaty.Domain.Models.ProductÌ
-Í
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs1J 1(_
-%22bool";Aksaty.Infra.CrossCutting.Util.BaseEntity.ShowOnWebsite.get*)
-'
-productAksaty.Domain.Models.ProductÁ
-‰
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs2 2(
-%23bool"5Aksaty.Infra.CrossCutting.Util.BaseEntity.Deleted.get*)
-'
-productAksaty.Domain.Models.Product”–
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs.# 2( /
-%24(Aksaty.Domain.Events.ProductCreatedEvent"(Aksaty.Domain.Events.ProductCreatedEventô
-ñ
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs.' .(:
-%25void"ùAksaty.Domain.Events.ProductCreatedEvent.ProductCreatedEvent(System.Guid, System.Guid?, string, decimal, string, string, string, System.DateTime, bool, bool)*1
-/
-%24(Aksaty.Domain.Events.ProductCreatedEvent*
-
-%14System.Guid*
-
-%15System.Nullable<T>*
-
-%16string*
-
-%17decimal*
-
-%18string*
-
-%19string*
-
-%20string*
-
-%21System.DateTime*
-
-%22bool*
-
-%23bool®
-•
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs. 2(!
-%26void"CNetDevPack.Domain.Entity.AddDomainEvent(NetDevPack.Messaging.Event)*)
-'
-productAksaty.Domain.Models.Product*1
-/
-%24(Aksaty.Domain.Events.ProductCreatedEvent©
-¶
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs3 3(2
-%27+Aksaty.Domain.Interfaces.IProductRepository"__id*u*s.
-,Aksaty.Domain.Handlers.ProductCommandHandler"A
-_productRepository+Aksaty.Domain.Interfaces.IProductRepositoryÿ’
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs3 3(+
-%28void"MAksaty.Domain.Interfaces.IProductRepository.Add(Aksaty.Domain.Models.Product)*4
-2
-%27+Aksaty.Domain.Interfaces.IProductRepository*)
-'
-productAksaty.Domain.Models.Product2!Add(Aksaty.Domain.Models.Product)©
-¶
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs4  4(22
-%29+Aksaty.Domain.Interfaces.IProductRepository"__id*u*s.
-,Aksaty.Domain.Handlers.ProductCommandHandler"A
-_productRepository+Aksaty.Domain.Interfaces.IProductRepositoryëé
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs4  4(="
-%30NetDevPack.Data.IUnitOfWork"-NetDevPack.Data.IRepository<T>.UnitOfWork.get*4
-2
-%29+Aksaty.Domain.Interfaces.IProductRepository2UnitOfWork.getÕ
- 
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs4 4(>+
-%31$System.Threading.Tasks.Task<TResult>"ONetDevPack.Messaging.CommandHandler.Commit(NetDevPack.Data.IUnitOfWork, string)*'%
-#NetDevPack.Messaging.CommandHandler*$
-"
-%30NetDevPack.Data.IUnitOfWork*
-"""}
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs4 4(?
-""*Ö
-3s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs5	 5(	"ä
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\Product\ProductCommandHandler.cs5 5(	
-implicit return:3
-request(Aksaty.Domain.Commands.AddProductCommand:7
-cancellationToken"System.Threading.CancellationTokenB0.
-,Aksaty.Domain.Handlers.ProductCommandHandler

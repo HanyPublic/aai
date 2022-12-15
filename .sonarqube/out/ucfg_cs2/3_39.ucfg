@@ -1,80 +1,0 @@
-
-êAksaty.Domain.Attachments.Events.AttachmentRestoredEvent.AttachmentRestoredEvent(System.Guid, string, string, System.DateTime, bool, bool, bool)q
-gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRestoredEvent.cs (&"1*É
-1q
-gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRestoredEvent.cs	 (	Ö
-Ç
-
-%0void"@Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.BaseEntityEvent()*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-0*∆
-0q
-gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRestoredEvent.cs (ê
-ç
-q
-gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRestoredEvent.cs (
-%1System.Guid"?Aksaty.Domain.Attachments.Events.AttachmentRestoredEvent.Id.set*<:
-8Aksaty.Domain.Attachments.Events.AttachmentRestoredEvent*
-""·
-ﬁ
-q
-gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRestoredEvent.cs (
-%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
-NetDevPack.Messaging.Message*
-""ë
-é
-q
-gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRestoredEvent.cs (%
-%3string">Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.CreatedById.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-
-createdByIdstringã
-à
-q
-gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRestoredEvent.cs (
-%4string";Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.TanentId.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-
-tanentIdstringü
-ú
-q
-gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRestoredEvent.cs (!
-%5System.DateTime"<Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.CreatedAt.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-
-	createdAtSystem.DateTimeÄ
-˝
-q
-gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRestoredEvent.cs ()
-
-%6bool"@Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.ShowOnWebsite.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-""˙
-˜
-q
-gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRestoredEvent.cs (
-
-%7bool":Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.Deleted.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-""ç
-ä
-q
-gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRestoredEvent.cs (
-
-%8bool"CAksaty.Domain.Attachments.Events.AttachmentRestoredEvent.Delete.set*<:
-8Aksaty.Domain.Attachments.Events.AttachmentRestoredEvent*
-""*
-2*Å
-2q
-gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRestoredEvent.cs	 (	"à
-q
-gD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentRestoredEvent.cs (	
-implicit return:
-idSystem.Guid:
-createdByIdstring:
-tanentIdstring:
-	createdAtSystem.DateTime:
-showOnWebsitebool:
-deletedbool:
-deleteboolB<:
-8Aksaty.Domain.Attachments.Events.AttachmentRestoredEvent

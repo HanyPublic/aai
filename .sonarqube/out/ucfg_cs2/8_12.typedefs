@@ -1,21 +1,0 @@
-Ž
-'Aksaty.Infra.Data.Context.AksatyContextCMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContextWMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser, TRole, TKey>’Microsoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser, TRole, TKey, TUserClaim, TUserRole, TUserLogin, TRoleClaim, TUserToken>vMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityUserContext<TUser, TKey, TUserClaim, TUserLogin, TUserToken>'Microsoft.EntityFrameworkCore.DbContextobjectNetDevPack.Data.IUnitOfWorkÆ
-ŒAksatyContext(Microsoft.EntityFrameworkCore.DbContextOptions<Aksaty.Infra.Data.Context.AksatyContext>, NetDevPack.Mediator.IMediatorHandler)´Aksaty.Infra.Data.Context.AksatyContext.AksatyContext(Microsoft.EntityFrameworkCore.DbContextOptions<Aksaty.Infra.Data.Context.AksatyContext>, NetDevPack.Mediator.IMediatorHandler)¢
-;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)cAksaty.Infra.Data.Context.AksatyContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)<
-Commit()0Aksaty.Infra.Data.Context.AksatyContext.Commit()J
-Attachments.get7Aksaty.Infra.Data.Context.AksatyContext.Attachments.getJ
-Attachments.set7Aksaty.Infra.Data.Context.AksatyContext.Attachments.setF
-Customers.get5Aksaty.Infra.Data.Context.AksatyContext.Customers.getF
-Customers.set5Aksaty.Infra.Data.Context.AksatyContext.Customers.setZ
-CustomerAttachments.get?Aksaty.Infra.Data.Context.AksatyContext.CustomerAttachments.getZ
-CustomerAttachments.set?Aksaty.Infra.Data.Context.AksatyContext.CustomerAttachments.setB
-Tanents.get3Aksaty.Infra.Data.Context.AksatyContext.Tanents.getB
-Tanents.set3Aksaty.Infra.Data.Context.AksatyContext.Tanents.setD
-Products.get4Aksaty.Infra.Data.Context.AksatyContext.Products.getD
-Products.set4Aksaty.Infra.Data.Context.AksatyContext.Products.set>
-	Sales.get1Aksaty.Infra.Data.Context.AksatyContext.Sales.get>
-	Sales.set1Aksaty.Infra.Data.Context.AksatyContext.Sales.setN
-SalesProducts.get9Aksaty.Infra.Data.Context.AksatyContext.SalesProducts.getN
-SalesProducts.set9Aksaty.Infra.Data.Context.AksatyContext.SalesProducts.setT
-SaleInstallments.get<Aksaty.Infra.Data.Context.AksatyContext.SaleInstallments.getT
-SaleInstallments.set<Aksaty.Infra.Data.Context.AksatyContext.SaleInstallments.set

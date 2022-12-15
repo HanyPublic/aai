@@ -1,34 +1,0 @@
-
-‘Aksaty.Domain.Attachments.Commands.RemoveRestoreListAttachmentsCommand.RemoveRestoreListAttachmentsCommand(System.Collections.Generic.List<Aksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand>, bool)
-uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreListAttachmentsCommand.cs (2"1*ó
-1
-uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreListAttachmentsCommand.cs	 (	ã
-à
-
-%0void"DAksaty.Infra.CrossCutting.Util.BaseEntityCommand.BaseEntityCommand()*42
-0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
-0*Õ
-0
-uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreListAttachmentsCommand.cs (–
-Õ
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreListAttachmentsCommand.cs (6ëH
-FAksaty.Domain.Attachments.Commands.RemoveRestoreListAttachmentsCommand"E
-RemoveRestoreAttachmentCommands"System.Collections.Generic.List<T>"__id*0
-.
-commands"System.Collections.Generic.List<T>Ó
-Î
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreListAttachmentsCommand.cs (ZH
-FAksaty.Domain.Attachments.Commands.RemoveRestoreListAttachmentsCommand"
-Deletebool"__id*
-""*
-2*ù
-2
-uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreListAttachmentsCommand.cs	 (	"ñ
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreListAttachmentsCommand.cs (	
-implicit return:.
-commands"System.Collections.Generic.List<T>:
-deleteboolBJH
-FAksaty.Domain.Attachments.Commands.RemoveRestoreListAttachmentsCommand

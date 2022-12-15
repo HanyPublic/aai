@@ -1,39 +1,0 @@
-
-XAksaty.Domain.Commands.Validations.CustomerValidation<T>.HaveMinimumAge(System.DateTime)r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs$ $(,"0*ü
-0r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs& &(9º
-π
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs&  &(,
-%0System.DateTime"System.DateTime.Now.get*"
-System.DateTimeŒ
-À
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs&  &(:
-%1System.DateTime"System.DateTime.AddYears(int)*
-
-%0System.DateTime*
-""ê
-ç
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs& &(:
-
-%2bool"=System.DateTime.operator <=(System.DateTime, System.DateTime)*"
-System.DateTime*
-
-	birthDateSystem.DateTime*
-
-%1System.DateTime"Ç
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs& &(;
-
-
-%2bool*É
-1r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs'	 '(	"â
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs' '(	
-implicit return:
-	birthDateSystem.DateTimeB<":
-8Aksaty.Domain.Commands.Validations.CustomerValidation<T>

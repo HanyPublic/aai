@@ -1,21 +1,0 @@
-ï
-0Aksaty.Domain.Queries.GetAllSaleInstallmentQuery(Aksaty.Infra.CrossCutting.Util.BaseQuery.Aksaty.Infra.CrossCutting.Util.BaseEntityQueryobjectMediatR.IRequest<TResponse>‰
-©GetAllSaleInstallmentQuery(string, string, System.DateTime?, System.DateTime?, decimal?, decimal?, bool?, string, string, bool, bool, System.DateTime?, System.DateTime?)ÚAksaty.Domain.Queries.GetAllSaleInstallmentQuery.GetAllSaleInstallmentQuery(string, string, System.DateTime?, System.DateTime?, decimal?, decimal?, bool?, string, string, bool, bool, System.DateTime?, System.DateTime?)ƒ
-'GetAllSaleInstallmentQuery(System.Guid)XAksaty.Domain.Queries.GetAllSaleInstallmentQuery.GetAllSaleInstallmentQuery(System.Guid)³
-?GetAllSaleInstallmentQuery(System.Guid, string, string, string)pAksaty.Domain.Queries.GetAllSaleInstallmentQuery.GetAllSaleInstallmentQuery(System.Guid, string, string, string)I
-
-SaleId.get;Aksaty.Domain.Queries.GetAllSaleInstallmentQuery.SaleId.getI
-
-SaleId.set;Aksaty.Domain.Queries.GetAllSaleInstallmentQuery.SaleId.setQ
-CustomerId.get?Aksaty.Domain.Queries.GetAllSaleInstallmentQuery.CustomerId.getQ
-CustomerId.set?Aksaty.Domain.Queries.GetAllSaleInstallmentQuery.CustomerId.setQ
-MinDueDate.get?Aksaty.Domain.Queries.GetAllSaleInstallmentQuery.MinDueDate.getQ
-MinDueDate.set?Aksaty.Domain.Queries.GetAllSaleInstallmentQuery.MinDueDate.setQ
-MaxDueDate.get?Aksaty.Domain.Queries.GetAllSaleInstallmentQuery.MaxDueDate.getQ
-MaxDueDate.set?Aksaty.Domain.Queries.GetAllSaleInstallmentQuery.MaxDueDate.setO
-MinAmount.get>Aksaty.Domain.Queries.GetAllSaleInstallmentQuery.MinAmount.getO
-MinAmount.set>Aksaty.Domain.Queries.GetAllSaleInstallmentQuery.MinAmount.setO
-MaxAmount.get>Aksaty.Domain.Queries.GetAllSaleInstallmentQuery.MaxAmount.getO
-MaxAmount.set>Aksaty.Domain.Queries.GetAllSaleInstallmentQuery.MaxAmount.setS
-IncludeSale.get@Aksaty.Domain.Queries.GetAllSaleInstallmentQuery.IncludeSale.getS
-IncludeSale.set@Aksaty.Domain.Queries.GetAllSaleInstallmentQuery.IncludeSale.set

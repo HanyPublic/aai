@@ -1,78 +1,0 @@
-
-òAksaty.Domain.Commands.UpdateSaleInstallmentCommand.UpdateSaleInstallmentCommand(System.Guid, System.Guid, decimal, System.DateTime, string, bool, bool)Ç
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\UpdateSaleInstallmentCommand.cs (+"1*ö
-1Ç
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\UpdateSaleInstallmentCommand.cs	 (	ä
-á
-
-%0void"FAksaty.Domain.Commands.SaleInstallmentCommand.SaleInstallmentCommand()*1/
--Aksaty.Domain.Commands.SaleInstallmentCommand*
-0*®
-0Ç
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\UpdateSaleInstallmentCommand.cs (å
-â
-Ç
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\UpdateSaleInstallmentCommand.cs (
-%1System.Guid"4Aksaty.Domain.Commands.SaleInstallmentCommand.Id.set*1/
--Aksaty.Domain.Commands.SaleInstallmentCommand*
-""Û
-
-Ç
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\UpdateSaleInstallmentCommand.cs (
-%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
-NetDevPack.Messaging.Message*
-""ê
-ç
-Ç
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\UpdateSaleInstallmentCommand.cs (
-%3System.Guid"8Aksaty.Domain.Commands.SaleInstallmentCommand.SaleId.set*1/
--Aksaty.Domain.Commands.SaleInstallmentCommand*
-""å
-â
-Ç
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\UpdateSaleInstallmentCommand.cs (
-%4decimal"8Aksaty.Domain.Commands.SaleInstallmentCommand.Amount.set*1/
--Aksaty.Domain.Commands.SaleInstallmentCommand*
-""´
-®
-Ç
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\UpdateSaleInstallmentCommand.cs (
-%5System.DateTime"9Aksaty.Domain.Commands.SaleInstallmentCommand.DueDate.set*1/
--Aksaty.Domain.Commands.SaleInstallmentCommand*
-
-dueDateSystem.DateTimeó
-î
-Ç
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\UpdateSaleInstallmentCommand.cs (
-%6string"8Aksaty.Domain.Commands.SaleInstallmentCommand.Status.set*1/
--Aksaty.Domain.Commands.SaleInstallmentCommand*
-
-statusstringñ
-ì
-Ç
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\UpdateSaleInstallmentCommand.cs ()
-
-%7bool"BAksaty.Infra.CrossCutting.Util.BaseEntityCommand.ShowOnWebsite.set*42
-0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
-""ê
-ç
-Ç
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\UpdateSaleInstallmentCommand.cs (
-
-%8bool"<Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.Deleted.set*42
-0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
-""*
-2*•
-2Ç
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\UpdateSaleInstallmentCommand.cs	 (	"ö
-Ç
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\UpdateSaleInstallmentCommand.cs (	
-implicit return:
-idSystem.Guid:
-saleIdSystem.Guid:
-amountdecimal:
-dueDateSystem.DateTime:
-statusstring:
-showOnWebsitebool:
-deletedboolB75
-3Aksaty.Domain.Commands.UpdateSaleInstallmentCommand

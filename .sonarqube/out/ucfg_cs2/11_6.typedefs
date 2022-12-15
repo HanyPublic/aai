@@ -1,8 +1,0 @@
-‰
-(Aksaty.Api.Controllers.ProductController-Aksaty.Services.Api.Controllers.ApiController'Microsoft.AspNetCore.Mvc.ControllerBaseobject³
-CProductController(Aksaty.Application.Interfaces.IProductAppService)lAksaty.Api.Controllers.ProductController.ProductController(Aksaty.Application.Interfaces.IProductAppService)¡
-:Get(Aksaty.Application.ViewModels.GetAllProductsViewModel)cAksaty.Api.Controllers.ProductController.Get(Aksaty.Application.ViewModels.GetAllProductsViewModel)™
-6Get(Aksaty.Application.ViewModels.GetProductViewModel)_Aksaty.Api.Controllers.ProductController.Get(Aksaty.Application.ViewModels.GetProductViewModel)›
-7Post(Aksaty.Application.ViewModels.AddProductViewModel)`Aksaty.Api.Controllers.ProductController.Post(Aksaty.Application.ViewModels.AddProductViewModel)“
-3Put(Aksaty.Application.ViewModels.ProductViewModel)\Aksaty.Api.Controllers.ProductController.Put(Aksaty.Application.ViewModels.ProductViewModel)S
-Delete(System.Guid)<Aksaty.Api.Controllers.ProductController.Delete(System.Guid)

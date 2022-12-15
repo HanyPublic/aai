@@ -1,102 +1,0 @@
-
-¶Aksaty.Domain.Attachments.Commands.AddAttachmentCommand.AddAttachmentCommand(System.Guid, string, string, string, string, string, string, System.DateTime, bool, bool)p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs (#"1*ê
-1p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs"	 "(	ì
-ê
-
-%0void"HAksaty.Domain.Attachments.Commands.AttachmentCommand.AttachmentCommand()*86
-4Aksaty.Domain.Attachments.Commands.AttachmentCommand*
-0*»
-0p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs !(á
-Ñ
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs (
-%1System.Guid";Aksaty.Domain.Attachments.Commands.AttachmentCommand.Id.set*86
-4Aksaty.Domain.Attachments.Commands.AttachmentCommand*
-""‡
-›
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs (
-%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
-NetDevPack.Messaging.Message*
-""ú
-ô
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs (%
-%3string"DAksaty.Domain.Attachments.Commands.AttachmentCommand.Description.set*86
-4Aksaty.Domain.Attachments.Commands.AttachmentCommand*
-
-descriptionstring¢
-ü
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs (+
-%4string"GAksaty.Domain.Attachments.Commands.AttachmentCommand.SystemFileName.set*86
-4Aksaty.Domain.Attachments.Commands.AttachmentCommand*
-
-systemFileNamestring¢
-ü
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs (+
-%5string"GAksaty.Domain.Attachments.Commands.AttachmentCommand.SourceFileName.set*86
-4Aksaty.Domain.Attachments.Commands.AttachmentCommand*
-
-sourceFileNamestring†
-ù
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs ()
-%6string"FAksaty.Domain.Attachments.Commands.AttachmentCommand.FileExtension.set*86
-4Aksaty.Domain.Attachments.Commands.AttachmentCommand*
-
-fileExtensionstringî
-ë
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs (%
-%7string"@Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.CreatedById.set*42
-0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
-
-createdByIdstringé
-ã
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs (
-%8string"=Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.TanentId.set*42
-0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
-
-tanentIdstring¢
-ü
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs (!
-%9System.DateTime">Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.CreatedAt.set*42
-0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
-
-	createdAtSystem.DateTimeÑ
-Å
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs   ()
-%10bool"BAksaty.Infra.CrossCutting.Util.BaseEntityCommand.ShowOnWebsite.set*42
-0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
-""˛
-˚
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs! !(
-%11bool"<Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.Deleted.set*42
-0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
-""*
-2*ˇ
-2p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs"	 "(	"á
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs" "(	
-implicit return:
-idSystem.Guid:
-descriptionstring:
-systemFileNamestring:
-sourceFileNamestring:
-fileExtensionstring:
-createdByIdstring:
-tanentIdstring:
-	createdAtSystem.DateTime:
-showOnWebsitebool:
-deletedboolB;9
-7Aksaty.Domain.Attachments.Commands.AddAttachmentCommand

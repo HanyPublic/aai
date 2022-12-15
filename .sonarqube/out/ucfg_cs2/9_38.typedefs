@@ -1,7 +1,0 @@
-ò
-'Aksaty.Application.Services.UserServiceobject*Aksaty.Application.Interfaces.IUserService¸
-ÅUserService(Microsoft.AspNetCore.Identity.UserManager<Microsoft.AspNetCore.Identity.IdentityUser>, Microsoft.Extensions.Options.IOptions<NetDevPack.Identity.Jwt.AppJwtSettings>, AutoMapper.IMapper)íAksaty.Application.Services.UserService.UserService(Microsoft.AspNetCore.Identity.UserManager<Microsoft.AspNetCore.Identity.IdentityUser>, Microsoft.Extensions.Options.IOptions<NetDevPack.Identity.Jwt.AppJwtSettings>, AutoMapper.IMapper)>
-	Dispose()1Aksaty.Application.Services.UserService.Dispose()l
- GetUserByEmailOrUserName(string)HAksaty.Application.Services.UserService.GetUserByEmailOrUserName(string)˜
-6GetFullJwt(Microsoft.AspNetCore.Identity.IdentityUser)^Aksaty.Application.Services.UserService.GetFullJwt(Microsoft.AspNetCore.Identity.IdentityUser)Ž
-1BuildToken(System.Security.Claims.ClaimsIdentity)YAksaty.Application.Services.UserService.BuildToken(System.Security.Claims.ClaimsIdentity)

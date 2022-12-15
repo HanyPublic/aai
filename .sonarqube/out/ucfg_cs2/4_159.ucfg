@@ -1,41 +1,0 @@
-
-LAksaty.Domain.Commands.Validations.CustomerValidation<T>.ValidateBirthDate()r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs (("0*Ó
-0r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs (F›
-⁄
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs (%8
-%02FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*)'
-%FluentValidation.AbstractValidator<T>*
-""è
-å
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs (8
-%12FluentValidation.IRuleBuilderOptions<T, TProperty>"oFluentValidation.DefaultValidatorExtensions.NotEmpty<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>)*/"-
-+FluentValidation.DefaultValidatorExtensions*:
-8
-%02FluentValidation.IRuleBuilderInitial<T, TProperty>≤
-Ø
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs (%8
-%22FluentValidation.IRuleBuilderOptions<T, TProperty>"âFluentValidation.DefaultValidatorExtensions.Must<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>, System.Func<TProperty, bool>)*/"-
-+FluentValidation.DefaultValidatorExtensions*:
-8
-%12FluentValidation.IRuleBuilderOptions<T, TProperty>*
-""»
-≈
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs (G8
-%32FluentValidation.IRuleBuilderOptions<T, TProperty>"~FluentValidation.DefaultValidatorOptions.WithMessage<T, TProperty>(FluentValidation.IRuleBuilderOptions<T, TProperty>, string)*,"*
-(FluentValidation.DefaultValidatorOptions*:
-8
-%22FluentValidation.IRuleBuilderOptions<T, TProperty>*+)
-'The customer must have 18 years or more*
-1*É
-1r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs	 (	"â
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs (	
-implicit returnB<:
-8Aksaty.Domain.Commands.Validations.CustomerValidation<T>

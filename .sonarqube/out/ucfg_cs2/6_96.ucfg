@@ -1,62 +1,0 @@
-
-ÑAksaty.Domain.Events.SaleInstallmentAddedEvent.SaleInstallmentAddedEvent(System.Guid, System.Guid, decimal, System.DateTime, string)}
-sD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentAddedEvent.cs	 	(("1*à
-1}
-sD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentAddedEvent.cs	 (	
-}
-
-%0void"@Aksaty.Domain.Events.SaleInstallmentEvent.SaleInstallmentEvent()*-+
-)Aksaty.Domain.Events.SaleInstallmentEvent*
-0*™
-0}
-sD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentAddedEvent.cs (˛
-˚
-}
-sD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentAddedEvent.cs (
-%1System.Guid"0Aksaty.Domain.Events.SaleInstallmentEvent.Id.set*-+
-)Aksaty.Domain.Events.SaleInstallmentEvent*
-""Ì
-Í
-}
-sD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentAddedEvent.cs (
-%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
-NetDevPack.Messaging.Message*
-""Ç
-ˇ
-}
-sD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentAddedEvent.cs (
-%3System.Guid"4Aksaty.Domain.Events.SaleInstallmentEvent.SaleId.set*-+
-)Aksaty.Domain.Events.SaleInstallmentEvent*
-""˛
-˚
-}
-sD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentAddedEvent.cs (
-%4decimal"4Aksaty.Domain.Events.SaleInstallmentEvent.Amount.set*-+
-)Aksaty.Domain.Events.SaleInstallmentEvent*
-""ù
-ö
-}
-sD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentAddedEvent.cs (
-%5System.DateTime"5Aksaty.Domain.Events.SaleInstallmentEvent.DueDate.set*-+
-)Aksaty.Domain.Events.SaleInstallmentEvent*
-
-dueDateSystem.DateTimeâ
-Ü
-}
-sD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentAddedEvent.cs (
-%6string"4Aksaty.Domain.Events.SaleInstallmentEvent.Status.set*-+
-)Aksaty.Domain.Events.SaleInstallmentEvent*
-
-statusstring*
-2*ô
-2}
-sD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentAddedEvent.cs	 (	"î
-}
-sD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\SaleInstallment\SaleInstallmentAddedEvent.cs (	
-implicit return:
-idSystem.Guid:
-saleIdSystem.Guid:
-amountdecimal:
-dueDateSystem.DateTime:
-statusstringB20
-.Aksaty.Domain.Events.SaleInstallmentAddedEvent

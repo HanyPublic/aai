@@ -1,6 +1,0 @@
-Š
-9Aksaty.Infra.Data.Migrations.EventStoreSql.initEventStore2Microsoft.EntityFrameworkCore.Migrations.Migrationobject¸
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)wAksaty.Infra.Data.Migrations.EventStoreSql.initEventStore.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¼
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)yAksaty.Infra.Data.Migrations.EventStoreSql.initEventStore.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)¶
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)vAksaty.Infra.Data.Migrations.EventStoreSql.initEventStore.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)^
-initEventStore()JAksaty.Infra.Data.Migrations.EventStoreSql.initEventStore.initEventStore()

@@ -1,58 +1,0 @@
-
-MAksaty.Domain.Models.Customer.Customer(System.Guid, decimal, System.DateTime)Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs/ /("1*á
-1Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs8	 8(	­ª
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csZK Z(i(
-%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>Â
-¿
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csZO Z(g
-
-%1void")System.Collections.Generic.List<T>.List()**
-(
-%0"System.Collections.Generic.List<T>Ž
-‹
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csZ Z(j/
-%2)System.Collections.Generic.ICollection<T>"-Aksaty.Domain.Models.Customer.Attachments.set*!
-Aksaty.Domain.Models.Customer**
-(
-%0"System.Collections.Generic.List<T>u
-s
-
-%3void"6Aksaty.Infra.CrossCutting.Util.BaseEntity.BaseEntity()*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-0*Ü
-0Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs5 7(-¹
-¶
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs5 5(
-%4System.Guid"NetDevPack.Domain.Entity.Id.set*
-NetDevPack.Domain.Entity*
-""Ä
-Á
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs6 6(
-%5decimal")Aksaty.Domain.Models.Customer.Balance.set*!
-Aksaty.Domain.Models.Customer*
-""ò
-ï
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs7 7(-
-%6System.DateTime"1Aksaty.Domain.Models.Customer.NextInstallDate.set*!
-Aksaty.Domain.Models.Customer*$
-"
-nextInstallDateSystem.DateTime*
-2*Ò
-2Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs8	 8(	"q
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs8 8(	
-implicit return:
-idSystem.Guid:
-balancedecimal:"
-nextInstallDateSystem.DateTimeB!
-Aksaty.Domain.Models.Customer

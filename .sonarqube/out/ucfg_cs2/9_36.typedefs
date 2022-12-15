@@ -1,15 +1,0 @@
-
-3Aksaty.Application.ViewModels.SaleProductsViewModelobjectf
-SaleProductsViewModel()KAksaty.Application.ViewModels.SaleProductsViewModel.SaleProductsViewModel()R
-ProductId.getAAksaty.Application.ViewModels.SaleProductsViewModel.ProductId.getR
-ProductId.setAAksaty.Application.ViewModels.SaleProductsViewModel.ProductId.setL
-
-SaleId.get>Aksaty.Application.ViewModels.SaleProductsViewModel.SaleId.getL
-
-SaleId.set>Aksaty.Application.ViewModels.SaleProductsViewModel.SaleId.setL
-
-Amount.get>Aksaty.Application.ViewModels.SaleProductsViewModel.Amount.getL
-
-Amount.set>Aksaty.Application.ViewModels.SaleProductsViewModel.Amount.setJ
-	Notes.get=Aksaty.Application.ViewModels.SaleProductsViewModel.Notes.getJ
-	Notes.set=Aksaty.Application.ViewModels.SaleProductsViewModel.Notes.set

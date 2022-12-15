@@ -1,32 +1,0 @@
-
-HAksaty.Domain.Commands.Validations.CustomerValidation<T>.ValidateEmail()r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs ($"0*ˆ	
-0r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs ( ›
-⁄
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs (!8
-%02FluentValidation.IRuleBuilderInitial<T, TProperty>"wFluentValidation.AbstractValidator<T>.RuleFor<TProperty>(System.Linq.Expressions.Expression<System.Func<T, TProperty>>)*)'
-%FluentValidation.AbstractValidator<T>*
-""è
-å
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs (8
-%12FluentValidation.IRuleBuilderOptions<T, TProperty>"oFluentValidation.DefaultValidatorExtensions.NotEmpty<T, TProperty>(FluentValidation.IRuleBuilder<T, TProperty>)*/"-
-+FluentValidation.DefaultValidatorExtensions*:
-8
-%02FluentValidation.IRuleBuilderInitial<T, TProperty>Ö
-Ç
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs (8
-%22FluentValidation.IRuleBuilderOptions<T, TProperty>"eFluentValidation.DefaultValidatorExtensions.EmailAddress<T>(FluentValidation.IRuleBuilder<T, string>)*/"-
-+FluentValidation.DefaultValidatorExtensions*:
-8
-%12FluentValidation.IRuleBuilderOptions<T, TProperty>*
-1*É
-1r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs	 (	"â
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\CustomerValidation.cs (	
-implicit returnB<:
-8Aksaty.Domain.Commands.Validations.CustomerValidation<T>

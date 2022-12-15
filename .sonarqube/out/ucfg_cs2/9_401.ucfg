@@ -1,230 +1,0 @@
-
-•Aksaty.Application.EventSourcedNormalizers.CustomerHistory.CustomerHistoryDeserializer(System.Collections.Generic.IEnumerable<Aksaty.Domain.Core.Events.StoredEvent>)w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs1 1(7"0*Å
-0w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs3 3(**
-1*Ñ
-1w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csN	 N(	*
-2
-3*à
-2w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs5 8(%Ë
-Â
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs5R 5(X
-%0string".Aksaty.Domain.Core.Events.StoredEvent.Data.get*,
-*
-e%Aksaty.Domain.Core.Events.StoredEvent‰
-·
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs5" 5(YD
-%1>Aksaty.Application.EventSourcedNormalizers.CustomerHistoryData"cSystem.Text.Json.JsonSerializer.Deserialize<TValue>(string, System.Text.Json.JsonSerializerOptions)*#"!
-System.Text.Json.JsonSerializer*
-
-%0string*
-""ô
-ñ
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs5 5(YM
-historyData>Aksaty.Application.EventSourcedNormalizers.CustomerHistoryData"__id*F
-D
-%1>Aksaty.Application.EventSourcedNormalizers.CustomerHistoryData©
-¶
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs67 6(L
-%2string"LAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Timestamp.get*O
-M
-historyData>Aksaty.Application.EventSourcedNormalizers.CustomerHistoryData◊
-‘
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs6( 6(M
-%3System.DateTime"System.DateTime.Parse(string)*"
-System.DateTime*
-
-%2stringÎ
-Ë
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs6( 6(y
-%4string"!System.DateTime.ToString(string?)*
-
-%3System.DateTime*#!
-yyyy'-'MM'-'dd' - 'HH':'mm':'ssπ
-∂
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs6 6(y
-%5string"LAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Timestamp.set*O
-M
-historyData>Aksaty.Application.EventSourcedNormalizers.CustomerHistoryData*
-
-%4stringÊ
-„
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs8 8(%
-%6string",NetDevPack.Messaging.Message.MessageType.get*,
-*
-e%Aksaty.Domain.Core.Events.StoredEvent*
-4*Ñ
-4w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs8 8(%*
-5
-6*€
-5w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs; <(0∂
-≥
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs; ;(9
-%7string"IAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Action.set*O
-M
-historyData>Aksaty.Application.EventSourcedNormalizers.CustomerHistoryData*
-
-RegisteredË
-Â
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs<* <(0
-%8string".Aksaty.Domain.Core.Events.StoredEvent.User.get*,
-*
-e%Aksaty.Domain.Core.Events.StoredEvent≥
-∞
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs< <(0
-%9string"FAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Who.set*O
-M
-historyData>Aksaty.Application.EventSourcedNormalizers.CustomerHistoryData*
-
-%8string*
-7*Ñ
-6w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs8 8(%*
-8
-9*‹
-8w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs? @(0¥
-±
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs? ?(6
-%10string"IAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Action.set*O
-M
-historyData>Aksaty.Application.EventSourcedNormalizers.CustomerHistoryData*	
-UpdatedÈ
-Ê
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs@* @(0
-%11string".Aksaty.Domain.Core.Events.StoredEvent.User.get*,
-*
-e%Aksaty.Domain.Core.Events.StoredEventµ
-≤
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs@ @(0
-%12string"FAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Who.set*O
-M
-historyData>Aksaty.Application.EventSourcedNormalizers.CustomerHistoryData*
-
-%11string*
-7*Ü
-9w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.cs8 8(%*
-10
-11*›
-10w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csC D(0¥
-±
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csC C(6
-%13string"IAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Action.set*O
-M
-historyData>Aksaty.Application.EventSourcedNormalizers.CustomerHistoryData*	
-RemovedÈ
-Ê
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csD* D(0
-%14string".Aksaty.Domain.Core.Events.StoredEvent.User.get*,
-*
-e%Aksaty.Domain.Core.Events.StoredEventµ
-≤
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csD D(0
-%15string"FAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Who.set*O
-M
-historyData>Aksaty.Application.EventSourcedNormalizers.CustomerHistoryData*
-
-%14string*
-7*˘
-11w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csG H(0π
-∂
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csG G(;
-%19string"IAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Action.set*O
-M
-historyData>Aksaty.Application.EventSourcedNormalizers.CustomerHistoryData*
-UnrecognizedÈ
-Ê
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csH* H(0
-%20string".Aksaty.Domain.Core.Events.StoredEvent.User.get*,
-*
-e%Aksaty.Domain.Core.Events.StoredEvent¢
-ü
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csH* H(0
-%17string"__id*
-
-%20string¢
-ü
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csH* H(0
-%16string"__id*
-
-%17string*
-12
-13*À
-12w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csH4 H(?†
-ù
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csH4 H(?
-%18string"__id*
-	Anonymous¢
-ü
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csH4 H(?
-%16string"__id*
-
-%18string*
-13*∫
-13w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csH H(?µ
-≤
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csH H(?
-%21string"FAksaty.Application.EventSourcedNormalizers.CustomerHistoryData.Who.set*O
-M
-historyData>Aksaty.Application.EventSourcedNormalizers.CustomerHistoryData*
-
-%16string*
-7*”
-7w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csL L(+¥
-±
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csL L(*
-%22#System.Collections.Generic.IList<T>"JAksaty.Application.EventSourcedNormalizers.CustomerHistory.HistoryData.get*>"<
-:Aksaty.Application.EventSourcedNormalizers.CustomerHistoryò
-ï
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csL L(,
-%23void"
-__arrayAdd*,
-*
-%22#System.Collections.Generic.IList<T>*: *O
-M
-historyData>Aksaty.Application.EventSourcedNormalizers.CustomerHistoryData*
-1*ç
-3w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csN	 N(	"é
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\EventSourcedNormalizers\CustomerHistory.csN N(	
-implicit return:9
-storedEvents)System.Collections.Generic.IEnumerable<T>B>"<
-:Aksaty.Application.EventSourcedNormalizers.CustomerHistory

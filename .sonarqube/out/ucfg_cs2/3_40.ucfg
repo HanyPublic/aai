@@ -1,45 +1,0 @@
-
-AAksaty.Domain.Attachments.Commands.AddAttachmentCommand.IsValid()p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs# #($"0*ô
-0p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs% &(!™–
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs% %(CS
-%0MAksaty.Domain.Attachments.Commands.Validations.AddAttachmentCommandValidation"MAksaty.Domain.Attachments.Commands.Validations.AddAttachmentCommandValidationÈ
-Å
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs%# %(A
-
-%1void"nAksaty.Domain.Attachments.Commands.Validations.AddAttachmentCommandValidation.AddAttachmentCommandValidation()*U
-S
-%0MAksaty.Domain.Attachments.Commands.Validations.AddAttachmentCommandValidationí
-ê
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs% %(R/
-%2)FluentValidation.Results.ValidationResult"1FluentValidation.AbstractValidator<T>.Validate(T)*U
-S
-%0MAksaty.Domain.Attachments.Commands.Validations.AddAttachmentCommandValidation*;9
-7Aksaty.Domain.Attachments.Commands.AddAttachmentCommand®
-«
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs% %(R/
-%3)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.set* 
-NetDevPack.Messaging.Command*1
-/
-%2)FluentValidation.Results.ValidationResultñî
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs& &(!
-
-%4bool"&NetDevPack.Messaging.Command.IsValid()*;9
-7Aksaty.Domain.Attachments.Commands.AddAttachmentCommand2	IsValid()"€
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs& &("
-
-
-%4bool*ÿ
-1p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs'	 '(	"‡
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\AddAttachmentCommand.cs' '(	
-implicit returnB;9
-7Aksaty.Domain.Attachments.Commands.AddAttachmentCommand

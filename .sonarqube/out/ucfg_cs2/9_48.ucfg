@@ -1,59 +1,0 @@
-
-aAksaty.Application.ViewModels.UserViewModel.UserViewModel(string, string, string, string, string)w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\UserViewModels\UserViewModel.cs ("1*ç
-1w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\UserViewModels\UserViewModel.cs (â
-Ü
-
-%0void"CAksaty.Application.ViewModels.UserBaseViewModel.UserBaseViewModel()*31
-/Aksaty.Application.ViewModels.UserBaseViewModel*
-0*’
-0w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\UserViewModels\UserViewModel.cs (%ˇ
-¸
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\UserViewModels\UserViewModel.cs (
-%1string"2Aksaty.Application.ViewModels.UserViewModel.Id.set*/-
-+Aksaty.Application.ViewModels.UserViewModel*
-
-idstringç
-ä
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\UserViewModels\UserViewModel.cs (
-%2string"9Aksaty.Application.ViewModels.UserBaseViewModel.Email.set*31
-/Aksaty.Application.ViewModels.UserBaseViewModel*
-
-emailstringç
-ä
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\UserViewModels\UserViewModel.cs (
-%3string"9Aksaty.Application.ViewModels.UserBaseViewModel.Token.set*31
-/Aksaty.Application.ViewModels.UserBaseViewModel*
-
-tokenstringì
-ê
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\UserViewModels\UserViewModel.cs (
-%4string"<Aksaty.Application.ViewModels.UserBaseViewModel.UserName.set*31
-/Aksaty.Application.ViewModels.UserBaseViewModel*
-
-userNamestringô
-ñ
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\UserViewModels\UserViewModel.cs (%
-%5string"?Aksaty.Application.ViewModels.UserBaseViewModel.CompanyName.set*31
-/Aksaty.Application.ViewModels.UserBaseViewModel*
-
-companyNamestring*
-2*ç
-2w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\UserViewModels\UserViewModel.cs ("é
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\UserViewModels\UserViewModel.cs (
-implicit return:
-idstring:
-emailstring:
-userNamestring:
-tokenstring:
-companyNamestringB/-
-+Aksaty.Application.ViewModels.UserViewModel

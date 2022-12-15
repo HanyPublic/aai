@@ -1,59 +1,0 @@
-
-¥Aksaty.Infra.Data.Context.AksatyContext.AksatyContext(Microsoft.EntityFrameworkCore.DbContextOptions<Aksaty.Infra.Data.Context.AksatyContext>, NetDevPack.Mediator.IMediatorHandler)d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\AksatyContext.cs ("1*n
-1d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\AksatyContext.cs	 (	*
-0*Å
-0d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\AksatyContext.csh (:ç
-ä
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\AksatyContext.csh (w
-
-%0void"ÖMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext.IdentityDbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*GE
-CMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext*E
-C
-options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>ë
-é
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\AksatyContext.cs (.e)
-'Aksaty.Infra.Data.Context.AksatyContext"8
-_mediatorHandler$NetDevPack.Mediator.IMediatorHandler"__id*9
-7
-mediatorHandler$NetDevPack.Mediator.IMediatorHandler¶£
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\AksatyContext.cs (@
-%1:Microsoft.EntityFrameworkCore.ChangeTracking.ChangeTracker"9Microsoft.EntityFrameworkCore.DbContext.ChangeTracker.get*+)
-'Microsoft.EntityFrameworkCore.DbContext2ChangeTracker.get|
-z
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\AksatyContext.cs2 (R
-%2"__id*
-""·ﬁ
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\AksatyContext.cs (R9
-%33Microsoft.EntityFrameworkCore.QueryTrackingBehavior"TMicrosoft.EntityFrameworkCore.ChangeTracking.ChangeTracker.QueryTrackingBehavior.set*B
-@
-%1:Microsoft.EntityFrameworkCore.ChangeTracking.ChangeTracker*
-
-%22QueryTrackingBehavior.set¶£
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\AksatyContext.cs (@
-%4:Microsoft.EntityFrameworkCore.ChangeTracking.ChangeTracker"9Microsoft.EntityFrameworkCore.DbContext.ChangeTracker.get*+)
-'Microsoft.EntityFrameworkCore.DbContext2ChangeTracker.get∏µ
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\AksatyContext.cs (:
-
-%5bool"WMicrosoft.EntityFrameworkCore.ChangeTracking.ChangeTracker.AutoDetectChangesEnabled.set*B
-@
-%4:Microsoft.EntityFrameworkCore.ChangeTracking.ChangeTracker*
-""2AutoDetectChangesEnabled.set*
-2*Ê
-2d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\AksatyContext.cs	 (	"{
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Context\AksatyContext.cs (	
-implicit return:C
-options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>:7
-mediatorHandler$NetDevPack.Mediator.IMediatorHandlerB+)
-'Aksaty.Infra.Data.Context.AksatyContext

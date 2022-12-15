@@ -1,6 +1,0 @@
-¤
-*Aksaty.Domain.Handlers.ProductEventHandlerobject+MediatR.INotificationHandler<TNotification>+MediatR.INotificationHandler<TNotification>+MediatR.INotificationHandler<TNotification>×
-THandle(Aksaty.Domain.Events.ProductCreatedEvent, System.Threading.CancellationToken)Aksaty.Domain.Handlers.ProductEventHandler.Handle(Aksaty.Domain.Events.ProductCreatedEvent, System.Threading.CancellationToken)×
-THandle(Aksaty.Domain.Events.ProductUpdatedEvent, System.Threading.CancellationToken)Aksaty.Domain.Handlers.ProductEventHandler.Handle(Aksaty.Domain.Events.ProductUpdatedEvent, System.Threading.CancellationToken)×
-THandle(Aksaty.Domain.Events.ProductRemovedEvent, System.Threading.CancellationToken)Aksaty.Domain.Handlers.ProductEventHandler.Handle(Aksaty.Domain.Events.ProductRemovedEvent, System.Threading.CancellationToken)Y
-ProductEventHandler()@Aksaty.Domain.Handlers.ProductEventHandler.ProductEventHandler()

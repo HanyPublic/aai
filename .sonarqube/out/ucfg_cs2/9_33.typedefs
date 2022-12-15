@@ -1,13 +1,0 @@
-…
-2Aksaty.Application.ViewModels.ImageResizeViewModelobjectc
-ImageResizeViewModel()IAksaty.Application.ViewModels.ImageResizeViewModel.ImageResizeViewModel()I
-	Image.get<Aksaty.Application.ViewModels.ImageResizeViewModel.Image.getI
-	Image.set<Aksaty.Application.ViewModels.ImageResizeViewModel.Image.setI
-	Width.get<Aksaty.Application.ViewModels.ImageResizeViewModel.Width.getI
-	Width.set<Aksaty.Application.ViewModels.ImageResizeViewModel.Width.setK
-
-Height.get=Aksaty.Application.ViewModels.ImageResizeViewModel.Height.getK
-
-Height.set=Aksaty.Application.ViewModels.ImageResizeViewModel.Height.setM
-Quality.get>Aksaty.Application.ViewModels.ImageResizeViewModel.Quality.getM
-Quality.set>Aksaty.Application.ViewModels.ImageResizeViewModel.Quality.set

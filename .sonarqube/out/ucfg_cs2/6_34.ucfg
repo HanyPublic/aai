@@ -1,67 +1,0 @@
-
-NAksaty.Domain.Queries.GetSaleQuery.GetSaleQuery(System.Guid, bool, bool, bool)f
-\D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Sale\GetSaleQuery.cs ("1*Ÿ
-1f
-\D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Sale\GetSaleQuery.cs	 (	ç
-ä
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Sale\GetSaleQuery.cs (B
-
-%0bool">Aksaty.Domain.Queries.GetSaleQuery.IncludeSaleInstallments.set*&$
-"Aksaty.Domain.Queries.GetSaleQuery*
-""ß
-Ü
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Sale\GetSaleQuery.cs (:
-
-%1bool"6Aksaty.Domain.Queries.GetSaleQuery.IncludeProducts.set*&$
-"Aksaty.Domain.Queries.GetSaleQuery*
-""à
-Ý
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Sale\GetSaleQuery.cs (;
-
-%2bool"7Aksaty.Domain.Queries.GetSaleQuery.IncludeCustomers.set*&$
-"Aksaty.Domain.Queries.GetSaleQuery*
-""*
-0*û
-0f
-\D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Sale\GetSaleQuery.cs (/Ù
-Ö
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Sale\GetSaleQuery.cs (
-%3System.Guid")Aksaty.Domain.Queries.GetSaleQuery.Id.set*&$
-"Aksaty.Domain.Queries.GetSaleQuery*
-""ç
-ä
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Sale\GetSaleQuery.cs (=
-
-%4bool">Aksaty.Domain.Queries.GetSaleQuery.IncludeSaleInstallments.set*&$
-"Aksaty.Domain.Queries.GetSaleQuery*
-""ß
-Ü
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Sale\GetSaleQuery.cs (,
-
-%5bool"6Aksaty.Domain.Queries.GetSaleQuery.IncludeProducts.set*&$
-"Aksaty.Domain.Queries.GetSaleQuery*
-""à
-Ý
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Sale\GetSaleQuery.cs (/
-
-%6bool"7Aksaty.Domain.Queries.GetSaleQuery.IncludeCustomers.set*&$
-"Aksaty.Domain.Queries.GetSaleQuery*
-""*
-2*ê
-2f
-\D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Sale\GetSaleQuery.cs	 (	"}
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\Sale\GetSaleQuery.cs (	
-implicit return:
-idSystem.Guid:
-includeSaleInstallmentsbool:
-inclueProductsbool:
-includeCustomersboolB&$
-"Aksaty.Domain.Queries.GetSaleQuery

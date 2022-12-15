@@ -1,101 +1,0 @@
-
-’Aksaty.Domain.Models.Sale.UpdateSale(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, bool, bool)]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs8 8("0*•
-0]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs> I(¼
-¹
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs> >(
-%0System.Guid"NetDevPack.Domain.Entity.Id.set*
-NetDevPack.Domain.Entity*
-""Í
-Ê
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs? ?(#
-%1System.Nullable<T>"(Aksaty.Domain.Models.Sale.CustomerId.set*
-Aksaty.Domain.Models.Sale*
-""á
-Þ
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs@ @(!
-%2System.DateTime"'Aksaty.Domain.Models.Sale.StartDate.set*
-Aksaty.Domain.Models.Sale*
-
-	startDateSystem.DateTimeÉ
-Æ
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csA A(
-%3string"$Aksaty.Domain.Models.Sale.Status.set*
-Aksaty.Domain.Models.Sale*
-
-statusstring¾
-»
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csB B(
-%4decimal"$Aksaty.Domain.Models.Sale.Amount.set*
-Aksaty.Domain.Models.Sale*
-""Â
-¿
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csC C(#
-%5decimal"(Aksaty.Domain.Models.Sale.PaidAmount.set*
-Aksaty.Domain.Models.Sale*
-""Ç
-Ä
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csD D(-
-%6decimal"-Aksaty.Domain.Models.Sale.RemainingAmount.set*
-Aksaty.Domain.Models.Sale*
-""Ê
-Ç
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csE E(;	
-%7int"4Aksaty.Domain.Models.Sale.InstallmentMonthNumber.set*
-Aksaty.Domain.Models.Sale*
-""Ä
-Á
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csF F(/	
-%8int".Aksaty.Domain.Models.Sale.InstallmentValue.set*
-Aksaty.Domain.Models.Sale*
-""Â
-¿
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csG G(#
-%9decimal"(Aksaty.Domain.Models.Sale.Percentage.set*
-Aksaty.Domain.Models.Sale*
-""ã
-à
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csH H()
-%10bool";Aksaty.Infra.CrossCutting.Util.BaseEntity.ShowOnWebsite.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-""Ý
-Ú
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csI I(
-%11bool"5Aksaty.Infra.CrossCutting.Util.BaseEntity.Deleted.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-""*
-1*Ø
-1]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csJ	 J(	"t
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csJ J(	
-implicit return:
-idSystem.Guid: 
-
-customerIdSystem.Nullable<T>:
-	startDateSystem.DateTime:
-statusstring:
-amountdecimal:
-
-paidAmountdecimal:
-remainingAmountdecimal:
-installmentMonthNumberint:
-installmentValueint:
-
-percentagedecimal:
-showOnWebsitebool:
-deletedboolB
-Aksaty.Domain.Models.Sale

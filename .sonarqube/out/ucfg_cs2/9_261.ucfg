@@ -1,55 +1,0 @@
-
-bAksaty.Application.Services.SaleAppService.GetById(Aksaty.Application.ViewModels.GetSaleViewModel)g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csG) G(0"0*•
-0g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csI I(j›
-⁄
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csI I(
-%0AutoMapper.IMapper"__id*O*M,
-*Aksaty.Application.Services.SaleAppService"
-_mapperAutoMapper.IMapper›
-⁄
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csI4 I(=
-%1MediatR.IMediator"__id*P*N,
-*Aksaty.Application.Services.SaleAppService"
-	_mediatorMediatR.IMediator›
-⁄
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csIC I(J
-%2AutoMapper.IMapper"__id*O*M,
-*Aksaty.Application.Services.SaleAppService"
-_mapperAutoMapper.IMapper¬ø
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csIC I(k(
-%3"Aksaty.Domain.Queries.GetSaleQuery"0AutoMapper.IMapperBase.Map<TDestination>(object)*
-
-%2AutoMapper.IMapper*A
-?
-saleViewModel.Aksaty.Application.ViewModels.GetSaleViewModel2Map<TDestination>(object)ùö
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csI4 I(l*
-%4$System.Threading.Tasks.Task<TResult>"bMediatR.IMediator.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
-
-%1MediatR.IMediator**
-(
-%3"Aksaty.Domain.Queries.GetSaleQuery*
-""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)êç
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csI I(m1
-%5+Aksaty.Application.ViewModels.SaleViewModel"0AutoMapper.IMapperBase.Map<TDestination>(object)*
-
-%0AutoMapper.IMapper*
-""2Map<TDestination>(object)"û
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csI I(n3
-1
-%5+Aksaty.Application.ViewModels.SaleViewModel*Ï
-1g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csJ	 J(	"~
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.csJ J(	
-implicit return:?
-saleViewModel.Aksaty.Application.ViewModels.GetSaleViewModelB.,
-*Aksaty.Application.Services.SaleAppService

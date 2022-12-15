@@ -1,29 +1,0 @@
-
-;Aksaty.Infra.CrossCutting.Bus.InMemoryBus.SendCommand<T>(T)f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.CrossCutting.Bus\InMemoryBus.cs, (7"0*¾
-0f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.CrossCutting.Bus\InMemoryBus.cs (/Û
-Ø
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.CrossCutting.Bus\InMemoryBus.cs ("
-%0MediatR.IMediator"__id*O*M+
-)Aksaty.Infra.CrossCutting.Bus.InMemoryBus"
-	_mediatorMediatR.IMediator€ý
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.CrossCutting.Bus\InMemoryBus.cs (0*
-%1$System.Threading.Tasks.Task<TResult>"bMediatR.IMediator.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
-
-%0MediatR.IMediator*
-
-commandT*
-""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)"p
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.CrossCutting.Bus\InMemoryBus.cs (1
-""*ê
-1f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.CrossCutting.Bus\InMemoryBus.cs 	  (	"}
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.CrossCutting.Bus\InMemoryBus.cs   (	
-implicit return:
-commandTB-+
-)Aksaty.Infra.CrossCutting.Bus.InMemoryBus

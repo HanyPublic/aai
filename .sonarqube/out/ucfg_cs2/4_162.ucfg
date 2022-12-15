@@ -1,24 +1,0 @@
-
-7Aksaty.Domain.Commands.CustomerCommandHandler.Dispose()l
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs€ €("0*ý
-0l
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs‚ ‚()¥
-¢
-l
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs‚ ‚(2
-%0,Aksaty.Domain.Interfaces.ICustomerRepository"__id*x*v/
--Aksaty.Domain.Commands.CustomerCommandHandler"C
-_customerRepository,Aksaty.Domain.Interfaces.ICustomerRepositoryÜÙ
-l
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs‚ ‚()
-
-%1void"System.IDisposable.Dispose()*4
-2
-%0,Aksaty.Domain.Interfaces.ICustomerRepository2	Dispose()*
-1*÷
-1l
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csƒ	 ƒ(	"ƒ
-l
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csƒ ƒ(	
-implicit returnB1/
--Aksaty.Domain.Commands.CustomerCommandHandler

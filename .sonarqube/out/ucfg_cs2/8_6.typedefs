@@ -1,4 +1,0 @@
-¡
-"Aksaty.Infra.Data.Mappings.SaleMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>ö
-gConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Models.Sale>)ŠAksaty.Infra.Data.Mappings.SaleMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Models.Sale>)9
-	SaleMap(),Aksaty.Infra.Data.Mappings.SaleMap.SaleMap()

@@ -1,10 +1,0 @@
-ª
-%Aksaty.Domain.Core.Events.StoredEventNetDevPack.Messaging.EventNetDevPack.Messaging.Messageobject˜
-7StoredEvent(NetDevPack.Messaging.Event, string, string)]Aksaty.Domain.Core.Events.StoredEvent.StoredEvent(NetDevPack.Messaging.Event, string, string)D
-StoredEvent()3Aksaty.Domain.Core.Events.StoredEvent.StoredEvent()6
-Id.get,Aksaty.Domain.Core.Events.StoredEvent.Id.get6
-Id.set,Aksaty.Domain.Core.Events.StoredEvent.Id.set:
-Data.get.Aksaty.Domain.Core.Events.StoredEvent.Data.get:
-Data.set.Aksaty.Domain.Core.Events.StoredEvent.Data.set:
-User.get.Aksaty.Domain.Core.Events.StoredEvent.User.get:
-User.set.Aksaty.Domain.Core.Events.StoredEvent.User.set

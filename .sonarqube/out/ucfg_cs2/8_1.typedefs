@@ -1,4 +1,0 @@
-½
-&Aksaty.Infra.Data.Mappings.CustomerMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>‚
-kConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Models.Customer>)’Aksaty.Infra.Data.Mappings.CustomerMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Models.Customer>)E
-CustomerMap()4Aksaty.Infra.Data.Mappings.CustomerMap.CustomerMap()

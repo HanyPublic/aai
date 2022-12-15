@@ -1,35 +1,0 @@
-
-KAksaty.Domain.Events.CustomerRemovedEvent.CustomerRemovedEvent(System.Guid)f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRemovedEvent.cs (#"1*Ä
-1f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRemovedEvent.cs	 (	R
-P
-
-%0void""NetDevPack.Messaging.Event.Event()*
-NetDevPack.Messaging.Event*
-0*³
-0f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRemovedEvent.cs
- (ç
-ä
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRemovedEvent.cs
- 
-(
-%1System.Guid"0Aksaty.Domain.Events.CustomerRemovedEvent.Id.set*-+
-)Aksaty.Domain.Events.CustomerRemovedEvent*
-""Ö
-Ó
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRemovedEvent.cs (
-%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
-NetDevPack.Messaging.Message*
-""*
-2*ê
-2f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRemovedEvent.cs	 (	"}
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRemovedEvent.cs (	
-implicit return:
-idSystem.GuidB-+
-)Aksaty.Domain.Events.CustomerRemovedEvent

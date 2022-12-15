@@ -1,35 +1,0 @@
-
-Aksaty.Domain.Attachments.Handlers.AttachmentCommandsHandler.Handle(Aksaty.Domain.Attachments.Queries.GetAttachmentQuery, System.Threading.CancellationToken)u
-kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csF& F(,"0*Ê	
-0u
-kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csH H(7Ó
-Ð
-u
-kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csH H($@
-%0:Aksaty.Domain.Attachments.Interfaces.IAttachmentRepository"__id*Ž*‹>
-<Aksaty.Domain.Attachments.Handlers.AttachmentCommandsHandler"I
-_repository:Aksaty.Domain.Attachments.Interfaces.IAttachmentRepository
-Š
-u
-kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csH- H(7
-%1System.Guid";Aksaty.Domain.Attachments.Queries.GetAttachmentQuery.Id.get*A
-?
-request4Aksaty.Domain.Attachments.Queries.GetAttachmentQueryæã
-u
-kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csH H(8*
-%2$System.Threading.Tasks.Task<TResult>"OAksaty.Domain.Attachments.Interfaces.IAttachmentRepository.GetById(System.Guid)*B
-@
-%0:Aksaty.Domain.Attachments.Interfaces.IAttachmentRepository*
-
-%1System.Guid2GetById(System.Guid)"
-u
-kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csH H(9
-""*‰
-1u
-kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csI	 I(	"Œ
-u
-kD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Handlers\AttachmentCommandsHandler.csI I(	
-implicit return:?
-request4Aksaty.Domain.Attachments.Queries.GetAttachmentQuery:7
-cancellationToken"System.Threading.CancellationTokenB@>
-<Aksaty.Domain.Attachments.Handlers.AttachmentCommandsHandler

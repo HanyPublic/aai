@@ -1,35 +1,0 @@
-
-³Aksaty.Domain.Handlers.SaleInstallmentCommandsHandler.SaleInstallmentCommandsHandler(Aksaty.Domain.Interfaces.ISaleInstallmentRepository, Aksaty.Domain.Interfaces.ISaleRepository)„
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.cs (-"1*þ
-1„
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.cs 	  (	m
-k
-
-%0void"4NetDevPack.Messaging.CommandHandler.CommandHandler()*'%
-#NetDevPack.Messaging.CommandHandler*
-0*¾
-0„
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.cs (,ã
-à
-„
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.cs (3}7
-5Aksaty.Domain.Handlers.SaleInstallmentCommandsHandler"B
-_repository3Aksaty.Domain.Interfaces.ISaleInstallmentRepository"__id*R
-P
-saleInstallmentRepository3Aksaty.Domain.Interfaces.ISaleInstallmentRepositoryÆ
-Ã
-„
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.cs (,v7
-5Aksaty.Domain.Handlers.SaleInstallmentCommandsHandler";
-_saleRepository(Aksaty.Domain.Interfaces.ISaleRepository"__id*<
-:
-saleRepository(Aksaty.Domain.Interfaces.ISaleRepository*
-2*©
-2„
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.cs 	  (	"œ
-„
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.cs   (	
-implicit return:P
-saleInstallmentRepository3Aksaty.Domain.Interfaces.ISaleInstallmentRepository::
-saleRepository(Aksaty.Domain.Interfaces.ISaleRepositoryB97
-5Aksaty.Domain.Handlers.SaleInstallmentCommandsHandler

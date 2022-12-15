@@ -1,6 +1,0 @@
-î
-1Aksaty.Infra.Data.Migrations.customer_base_entity2Microsoft.EntityFrameworkCore.Migrations.Migrationobject°
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)oAksaty.Infra.Data.Migrations.customer_base_entity.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)´
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)qAksaty.Infra.Data.Migrations.customer_base_entity.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)®
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)nAksaty.Infra.Data.Migrations.customer_base_entity.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)b
-customer_base_entity()HAksaty.Infra.Data.Migrations.customer_base_entity.customer_base_entity()

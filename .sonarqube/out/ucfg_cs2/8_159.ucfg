@@ -1,33 +1,0 @@
-
-èAksaty.Infra.Data.Repository.CustomerRepository.AddAttachments(System.Collections.Generic.IEnumerable<Aksaty.Domain.Models.CustomerAttachment>)l
-bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.cse e()"0*¶	
-0l
-bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csg g(Aå
-â
-l
-bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csg g(-
-%0'Aksaty.Infra.Data.Context.AksatyContext"__id*d*b1
-/Aksaty.Infra.Data.Repository.CustomerRepository"-
-Db'Aksaty.Infra.Data.Context.AksatyContextó
-î
-l
-bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csg g('2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"?Aksaty.Infra.Data.Context.AksatyContext.CustomerAttachments.get*/
--
-%0'Aksaty.Infra.Data.Context.AksatyContextÑÅ
-l
-bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csg g(B!
-%2System.Threading.Tasks.Task"èMicrosoft.EntityFrameworkCore.DbSet<TEntity>.AddRangeAsync(System.Collections.Generic.IEnumerable<TEntity>, System.Threading.CancellationToken)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*:
-8
-attachments)System.Collections.Generic.IEnumerable<T>*
-""2bAddRangeAsync(System.Collections.Generic.IEnumerable<TEntity>, System.Threading.CancellationToken)*
-1*˜
-1l
-bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csh	 h(	"É
-l
-bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csh h(	
-implicit return:8
-attachments)System.Collections.Generic.IEnumerable<T>B31
-/Aksaty.Infra.Data.Repository.CustomerRepository

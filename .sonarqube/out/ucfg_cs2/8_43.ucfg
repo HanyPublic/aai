@@ -1,24 +1,0 @@
-
-gAksaty.Infra.Data.Migrations.percentage.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319230306_percentage.cs  ($"0*ó
-0s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319230306_percentage.cs (%óð
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319230306_percentage.cs (&_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"fMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.RenameColumn(string, string, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-Percentage*	
-Sales*
-
-Perecntage*
-""2,RenameColumn(string, string, string, string)*
-1*…
-1s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319230306_percentage.cs	 (	"Š
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210319230306_percentage.cs (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB+)
-'Aksaty.Infra.Data.Migrations.percentage

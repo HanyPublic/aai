@@ -1,28 +1,0 @@
-
-eAksaty.Infra.Data.Repository.AttachmentRepository.Remove(Aksaty.Domain.Attachments.Models.Attachment)n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csO O("0*š
-0n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csQ Q($ž
-›
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csQ Q(2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*o*m3
-1Aksaty.Infra.Data.Repository.AttachmentRepository"6
-_DbSet,Microsoft.EntityFrameworkCore.DbSet<TEntity>þû
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csQ Q(%G
-%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*;
-9
-
-attachment+Aksaty.Domain.Attachments.Models.Attachment2Remove(TEntity)*
-1*û
-1n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csR	 R(	"…
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\AttachmentRepository.csR R(	
-implicit return:9
-
-attachment+Aksaty.Domain.Attachments.Models.AttachmentB53
-1Aksaty.Infra.Data.Repository.AttachmentRepository

@@ -1,27 +1,0 @@
-
-†Aksaty.Infra.Data.Mappings.SaleInstallmentMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Models.SaleInstallment>)j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SaleInstallmentMap.cs	 	("0*Ω	
-0j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SaleInstallmentMap.cs (L¢ü
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SaleInstallmentMap.cs (-P
-%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*W
-U
-builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
-""2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)°
-û
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SaleInstallmentMap.cs (MP
-%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"ÆMicrosoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions.HasColumnType<TProperty>(Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>, string)*E"C
-AMicrosoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions*R
-P
-%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
-decimal(19, 4)*
-1*Û
-1j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SaleInstallmentMap.cs	 (	"Å
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\SaleInstallmentMap.cs (	
-implicit return:U
-builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>B1/
--Aksaty.Infra.Data.Mappings.SaleInstallmentMap

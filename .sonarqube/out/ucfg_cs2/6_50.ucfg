@@ -1,34 +1,0 @@
-
-CAksaty.Domain.Events.SaleRemovedEvent.SaleRemovedEvent(System.Guid)i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleRemovedEvent.cs
- 
-("1*Ç
-1i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleRemovedEvent.cs	 (	R
-P
-
-%0void""NetDevPack.Messaging.Event.Event()*
-NetDevPack.Messaging.Event*
-0*´
-0i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleRemovedEvent.cs (â
-ß
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleRemovedEvent.cs (
-%1System.Guid",Aksaty.Domain.Events.SaleRemovedEvent.Id.set*)'
-%Aksaty.Domain.Events.SaleRemovedEvent*
-""Ù
-Ö
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleRemovedEvent.cs (
-%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
-NetDevPack.Messaging.Message*
-""*
-2*ñ
-2i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleRemovedEvent.cs	 (	"€
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleRemovedEvent.cs (	
-implicit return:
-idSystem.GuidB)'
-%Aksaty.Domain.Events.SaleRemovedEvent

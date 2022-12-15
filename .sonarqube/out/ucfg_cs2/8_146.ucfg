@@ -1,22 +1,0 @@
-
-SAksaty.Infra.Data.Repository.EventSourcing.EventStoreSqlRepository.All(System.Guid)
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.cs. (1"0*∂
-0
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.cs (d£
-†
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.cs (s*
-%0$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
-@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*
-""*
-"""â
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.cs (t
-""*ù
-1
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.cs	 (	"ñ
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.cs (	
-implicit return:
-aggregateIdSystem.GuidBFD
-BAksaty.Infra.Data.Repository.EventSourcing.EventStoreSqlRepository

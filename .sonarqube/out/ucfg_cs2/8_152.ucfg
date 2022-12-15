@@ -1,26 +1,0 @@
-
-SAksaty.Infra.Data.Repository.ProductRepository.Update(Aksaty.Domain.Models.Product)k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.csP P("0*ü
-0k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.csR R(!˜
-•
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.csR R(2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*l*j0
-.Aksaty.Infra.Data.Repository.ProductRepository"6
-_dbSet,Microsoft.EntityFrameworkCore.DbSet<TEntity>éæ
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.csR R("G
-%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Update(TEntity)*4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*)
-'
-productAksaty.Domain.Models.Product2Update(TEntity)*
-1*õ
-1k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.csS	 S(	"‚
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\ProductRepository.csS S(	
-implicit return:'
-productAksaty.Domain.Models.ProductB20
-.Aksaty.Infra.Data.Repository.ProductRepository

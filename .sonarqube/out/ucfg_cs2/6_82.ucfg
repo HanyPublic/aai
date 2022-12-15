@@ -1,100 +1,0 @@
-
-ùAksaty.Domain.Events.ProductUpdatedEvent.ProductUpdatedEvent(System.Guid, System.Guid?, string, decimal, string, string, string, System.DateTime, bool, bool)o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Product\ProductUpdatedEvent.cs (""1*‚
-1o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Product\ProductUpdatedEvent.cs	 (	g
-e
-
-%0void"0Aksaty.Domain.Events.ProductEvent.ProductEvent()*%#
-!Aksaty.Domain.Events.ProductEvent*
-0*®
-0o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Product\ProductUpdatedEvent.cs (‡
-›
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Product\ProductUpdatedEvent.cs (
-%1System.Guid"(Aksaty.Domain.Events.ProductEvent.Id.set*%#
-!Aksaty.Domain.Events.ProductEvent*
-""ﬂ
-‹
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Product\ProductUpdatedEvent.cs (
-%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
-NetDevPack.Messaging.Message*
-""Ï
-È
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Product\ProductUpdatedEvent.cs (
-%3System.Nullable<T>"-Aksaty.Domain.Events.ProductEvent.ImageId.set*%#
-!Aksaty.Domain.Events.ProductEvent*
-""Á
-‰
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Product\ProductUpdatedEvent.cs (
-%4string"*Aksaty.Domain.Events.ProductEvent.Name.set*%#
-!Aksaty.Domain.Events.ProductEvent*
-
-namestring‡
-›
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Product\ProductUpdatedEvent.cs (
-%5decimal",Aksaty.Domain.Events.ProductEvent.Amount.set*%#
-!Aksaty.Domain.Events.ProductEvent*
-""Ô
-Ï
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Product\ProductUpdatedEvent.cs (
-%6string".Aksaty.Domain.Events.ProductEvent.Category.set*%#
-!Aksaty.Domain.Events.ProductEvent*
-
-categorystringè
-å
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Product\ProductUpdatedEvent.cs (%
-%7string">Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.CreatedById.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-
-createdByIdstringâ
-Ü
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Product\ProductUpdatedEvent.cs (
-%8string";Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.TanentId.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-
-tanentIdstringù
-ö
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Product\ProductUpdatedEvent.cs (!
-%9System.DateTime"<Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.CreatedAt.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-
-	createdAtSystem.DateTimeˇ
-¸
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Product\ProductUpdatedEvent.cs ()
-%10bool"@Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.ShowOnWebsite.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-""˘
-ˆ
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Product\ProductUpdatedEvent.cs (
-%11bool":Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.Deleted.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-""*
-2*˝
-2o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Product\ProductUpdatedEvent.cs	 (	"Ü
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Product\ProductUpdatedEvent.cs (	
-implicit return:
-idSystem.Guid:
-imageIdSystem.Nullable<T>:
-namestring:
-amountdecimal:
-categorystring:
-tanentIdstring:
-createdByIdstring:
-	createdAtSystem.DateTime:
-showOnWebsitebool:
-deletedboolB,*
-(Aksaty.Domain.Events.ProductUpdatedEvent

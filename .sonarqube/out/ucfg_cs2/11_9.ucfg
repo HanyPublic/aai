@@ -1,49 +1,0 @@
-
-ùAksaty.Services.Api.Configurations.DependencyInjectionConfig.AddDependencyInjectionConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection)y
-oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DependencyInjectionConfig.cs	 	(>"0*ñ
-0y
-oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DependencyInjectionConfig.cs ( ç
-ä
-y
-oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DependencyInjectionConfig.cs ( 
-
-%0bool""object.operator ==(object, object)*
-"
-object*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""*
-1
-2*æ
-1y
-oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DependencyInjectionConfig.cs( (R¿Ω
-y
-oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DependencyInjectionConfig.cs( (S"
-%1System.ArgumentNullException"System.ArgumentNullExceptionı
-Ú
-y
-oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DependencyInjectionConfig.cs, (A
-
-%2void";System.ArgumentNullException.ArgumentNullException(string?)*$
-"
-%1System.ArgumentNullException*
-""*
-3*¢
-2y
-oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DependencyInjectionConfig.cs (@ú
-ô
-y
-oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DependencyInjectionConfig.cs (A
-
-%3void"ÜAksaty.Infra.CrossCutting.IoC.NativeInjectorBootStrapper.RegisterServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)*<":
-8Aksaty.Infra.CrossCutting.IoC.NativeInjectorBootStrapper*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-3*ë
-3y
-oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DependencyInjectionConfig.cs	 (	"ê
-y
-oD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DependencyInjectionConfig.cs (	
-implicit return:G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB@">
-<Aksaty.Services.Api.Configurations.DependencyInjectionConfig

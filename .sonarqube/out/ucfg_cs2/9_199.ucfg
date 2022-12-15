@@ -1,42 +1,0 @@
-
-‰Aksaty.Application.Services.SaleAppService.SaleAppService(AutoMapper.IMapper, NetDevPack.Mediator.IMediatorHandler, MediatR.IMediator, Aksaty.Domain.Interfaces.ISaleRepository, Aksaty.Domain.Interfaces.IProductRepository, Aksaty.Domain.Interfaces.ITanentRepository)g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs ("1*q
-1g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs!	 !(	*
-0*Õ
-0g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs  ( á
-Þ
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs (M,
-*Aksaty.Application.Services.SaleAppService"
-_mapperAutoMapper.IMapper"__id*
-
-mapperAutoMapper.IMapper—
-”
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs (.h,
-*Aksaty.Application.Services.SaleAppService"8
-_mediatorHandler$NetDevPack.Mediator.IMediatorHandler"__id*9
-7
-mediatorHandler$NetDevPack.Mediator.IMediatorHandlerã
-à
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs   ( N,
-*Aksaty.Application.Services.SaleAppService"
-	_mediatorMediatR.IMediator"__id*
-
-mediatorMediatR.IMediator*
-2*ì
-2g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs!	 !(	"~
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs! !(	
-implicit return:
-mapperAutoMapper.IMapper:7
-mediatorHandler$NetDevPack.Mediator.IMediatorHandler:
-mediatorMediatR.IMediator::
-saleRepository(Aksaty.Domain.Interfaces.ISaleRepository:@
-productRepository+Aksaty.Domain.Interfaces.IProductRepository:>
-tanentRepository*Aksaty.Domain.Interfaces.ITanentRepositoryB.,
-*Aksaty.Application.Services.SaleAppService

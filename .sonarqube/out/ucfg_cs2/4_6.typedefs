@@ -1,35 +1,0 @@
-¯
-+Aksaty.Domain.Customer.Events.CustomerEvent.Aksaty.Infra.CrossCutting.Util.BaseEntityEventNetDevPack.Messaging.EventNetDevPack.Messaging.MessageobjectN
-CustomerEvent();Aksaty.Domain.Customer.Events.CustomerEvent.CustomerEvent()<
-Id.get2Aksaty.Domain.Customer.Events.CustomerEvent.Id.get<
-Id.set2Aksaty.Domain.Customer.Events.CustomerEvent.Id.setL
-NationalId.get:Aksaty.Domain.Customer.Events.CustomerEvent.NationalId.getL
-NationalId.set:Aksaty.Domain.Customer.Events.CustomerEvent.NationalId.setB
-	RefId.get5Aksaty.Domain.Customer.Events.CustomerEvent.RefId.getB
-	RefId.set5Aksaty.Domain.Customer.Events.CustomerEvent.RefId.setB
-	Notes.get5Aksaty.Domain.Customer.Events.CustomerEvent.Notes.getB
-	Notes.set5Aksaty.Domain.Customer.Events.CustomerEvent.Notes.setD
-
-Review.get6Aksaty.Domain.Customer.Events.CustomerEvent.Review.getD
-
-Review.set6Aksaty.Domain.Customer.Events.CustomerEvent.Review.setF
-ImageId.get7Aksaty.Domain.Customer.Events.CustomerEvent.ImageId.getF
-ImageId.set7Aksaty.Domain.Customer.Events.CustomerEvent.ImageId.set@
-Name.get4Aksaty.Domain.Customer.Events.CustomerEvent.Name.get@
-Name.set4Aksaty.Domain.Customer.Events.CustomerEvent.Name.setB
-	Email.get5Aksaty.Domain.Customer.Events.CustomerEvent.Email.getB
-	Email.set5Aksaty.Domain.Customer.Events.CustomerEvent.Email.setJ
-BirthDate.get9Aksaty.Domain.Customer.Events.CustomerEvent.BirthDate.getJ
-BirthDate.set9Aksaty.Domain.Customer.Events.CustomerEvent.BirthDate.setD
-
-Mobile.get6Aksaty.Domain.Customer.Events.CustomerEvent.Mobile.getD
-
-Mobile.set6Aksaty.Domain.Customer.Events.CustomerEvent.Mobile.setF
-Mobile2.get7Aksaty.Domain.Customer.Events.CustomerEvent.Mobile2.getF
-Mobile2.set7Aksaty.Domain.Customer.Events.CustomerEvent.Mobile2.setF
-Address.get7Aksaty.Domain.Customer.Events.CustomerEvent.Address.getF
-Address.set7Aksaty.Domain.Customer.Events.CustomerEvent.Address.set@
-Type.get4Aksaty.Domain.Customer.Events.CustomerEvent.Type.get@
-Type.set4Aksaty.Domain.Customer.Events.CustomerEvent.Type.setR
-AddRecription.get=Aksaty.Domain.Customer.Events.CustomerEvent.AddRecription.getR
-AddRecription.set=Aksaty.Domain.Customer.Events.CustomerEvent.AddRecription.set

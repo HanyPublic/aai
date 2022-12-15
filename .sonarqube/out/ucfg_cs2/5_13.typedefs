@@ -1,43 +1,0 @@
-Ú
-Aksaty.Domain.Models.TanentNetDevPack.Domain.Entityobject NetDevPack.Domain.IAggregateRoot°
-‡Tanent(System.Guid, System.Guid?, string, string, string, string, string, string, int, decimal, string, string, string, string, string)£Aksaty.Domain.Models.Tanent.Tanent(System.Guid, System.Guid?, string, string, string, string, string, string, int, decimal, string, string, string, string, string)0
-Tanent()$Aksaty.Domain.Models.Tanent.Tanent()…
-rUpdate(string, System.Guid?, string, string, string, string, int, decimal, string, string, string, string, string)ŽAksaty.Domain.Models.Tanent.Update(string, System.Guid?, string, string, string, string, int, decimal, string, string, string, string, string)6
-ImageId.get'Aksaty.Domain.Models.Tanent.ImageId.get6
-ImageId.set'Aksaty.Domain.Models.Tanent.ImageId.set2
-	Image.get%Aksaty.Domain.Models.Tanent.Image.get2
-	Image.set%Aksaty.Domain.Models.Tanent.Image.set0
-Name.get$Aksaty.Domain.Models.Tanent.Name.get0
-Name.set$Aksaty.Domain.Models.Tanent.Name.set2
-	Email.get%Aksaty.Domain.Models.Tanent.Email.get2
-	Email.set%Aksaty.Domain.Models.Tanent.Email.set4
-
-Mobile.get&Aksaty.Domain.Models.Tanent.Mobile.get4
-
-Mobile.set&Aksaty.Domain.Models.Tanent.Mobile.set6
-Address.get'Aksaty.Domain.Models.Tanent.Address.get6
-Address.set'Aksaty.Domain.Models.Tanent.Address.set8
-Currency.get(Aksaty.Domain.Models.Tanent.Currency.get8
-Currency.set(Aksaty.Domain.Models.Tanent.Currency.set<
-MonthCount.get*Aksaty.Domain.Models.Tanent.MonthCount.get<
-MonthCount.set*Aksaty.Domain.Models.Tanent.MonthCount.set<
-Perecntage.get*Aksaty.Domain.Models.Tanent.Perecntage.get<
-Perecntage.set*Aksaty.Domain.Models.Tanent.Perecntage.set0
-Logo.get$Aksaty.Domain.Models.Tanent.Logo.get0
-Logo.set$Aksaty.Domain.Models.Tanent.Logo.set4
-
-Colors.get&Aksaty.Domain.Models.Tanent.Colors.get4
-
-Colors.set&Aksaty.Domain.Models.Tanent.Colors.set0
-Note.get$Aksaty.Domain.Models.Tanent.Note.get0
-Note.set$Aksaty.Domain.Models.Tanent.Note.setD
-SignatureArray.get.Aksaty.Domain.Models.Tanent.SignatureArray.getD
-SignatureArray.set.Aksaty.Domain.Models.Tanent.SignatureArray.setF
-StampAttachment.get/Aksaty.Domain.Models.Tanent.StampAttachment.getF
-StampAttachment.set/Aksaty.Domain.Models.Tanent.StampAttachment.set0
-User.get$Aksaty.Domain.Models.Tanent.User.get0
-User.set$Aksaty.Domain.Models.Tanent.User.set4
-
-UserId.get&Aksaty.Domain.Models.Tanent.UserId.get4
-
-UserId.set&Aksaty.Domain.Models.Tanent.UserId.set

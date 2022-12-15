@@ -1,6 +1,0 @@
-¬	
-1Aksaty.Services.Api.Controllers.AccountController-Aksaty.Services.Api.Controllers.ApiController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectô
-žAccountController(Microsoft.AspNetCore.Identity.SignInManager<Microsoft.AspNetCore.Identity.IdentityUser>, Microsoft.AspNetCore.Identity.UserManager<Microsoft.AspNetCore.Identity.IdentityUser>, Aksaty.Application.Interfaces.IUserService, Aksaty.Application.Interfaces.ITanentAppService)ÐAksaty.Services.Api.Controllers.AccountController.AccountController(Microsoft.AspNetCore.Identity.SignInManager<Microsoft.AspNetCore.Identity.IdentityUser>, Microsoft.AspNetCore.Identity.UserManager<Microsoft.AspNetCore.Identity.IdentityUser>, Aksaty.Application.Interfaces.IUserService, Aksaty.Application.Interfaces.ITanentAppService)°
-=Register(Aksaty.Application.ViewModels.UserRegisterViewModel)oAksaty.Services.Api.Controllers.AccountController.Register(Aksaty.Application.ViewModels.UserRegisterViewModel)¤
-7Login(Aksaty.Application.ViewModels.UserLogInViewModel)iAksaty.Services.Api.Controllers.AccountController.Login(Aksaty.Application.ViewModels.UserLogInViewModel)F
-LogOut():Aksaty.Services.Api.Controllers.AccountController.LogOut()

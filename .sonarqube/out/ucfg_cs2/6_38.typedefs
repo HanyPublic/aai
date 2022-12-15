@@ -1,33 +1,0 @@
-ì
-Aksaty.Domain.Models.Sale)Aksaty.Infra.CrossCutting.Util.BaseEntityNetDevPack.Domain.Entityobject NetDevPack.Domain.IAggregateRoot‘
-⁄Sale(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, System.Collections.Generic.List<Aksaty.Domain.Models.SaleInstallment>, string, string, System.DateTime, bool, bool)ÙAksaty.Domain.Models.Sale.Sale(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, System.Collections.Generic.List<Aksaty.Domain.Models.SaleInstallment>, string, string, System.DateTime, bool, bool)*
-Sale() Aksaty.Domain.Models.Sale.Sale()è
-xUpdateSale(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, bool, bool)íAksaty.Domain.Models.Sale.UpdateSale(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, bool, bool):
-CustomerId.get(Aksaty.Domain.Models.Sale.CustomerId.get:
-CustomerId.set(Aksaty.Domain.Models.Sale.CustomerId.set6
-Customer.get&Aksaty.Domain.Models.Sale.Customer.get6
-Customer.set&Aksaty.Domain.Models.Sale.Customer.set8
-StartDate.get'Aksaty.Domain.Models.Sale.StartDate.get8
-StartDate.set'Aksaty.Domain.Models.Sale.StartDate.set2
-
-Status.get$Aksaty.Domain.Models.Sale.Status.get2
-
-Status.set$Aksaty.Domain.Models.Sale.Status.set2
-
-Amount.get$Aksaty.Domain.Models.Sale.Amount.get2
-
-Amount.set$Aksaty.Domain.Models.Sale.Amount.set:
-PaidAmount.get(Aksaty.Domain.Models.Sale.PaidAmount.get:
-PaidAmount.set(Aksaty.Domain.Models.Sale.PaidAmount.setD
-RemainingAmount.get-Aksaty.Domain.Models.Sale.RemainingAmount.getD
-RemainingAmount.set-Aksaty.Domain.Models.Sale.RemainingAmount.setR
-InstallmentMonthNumber.get4Aksaty.Domain.Models.Sale.InstallmentMonthNumber.getR
-InstallmentMonthNumber.set4Aksaty.Domain.Models.Sale.InstallmentMonthNumber.setF
-InstallmentValue.get.Aksaty.Domain.Models.Sale.InstallmentValue.getF
-InstallmentValue.set.Aksaty.Domain.Models.Sale.InstallmentValue.set:
-Percentage.get(Aksaty.Domain.Models.Sale.Percentage.get:
-Percentage.set(Aksaty.Domain.Models.Sale.Percentage.set@
-SalesProducts.get+Aksaty.Domain.Models.Sale.SalesProducts.get@
-SalesProducts.set+Aksaty.Domain.Models.Sale.SalesProducts.setF
-SaleInstallments.get.Aksaty.Domain.Models.Sale.SaleInstallments.getF
-SaleInstallments.set.Aksaty.Domain.Models.Sale.SaleInstallments.set

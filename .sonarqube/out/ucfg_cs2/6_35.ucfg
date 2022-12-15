@@ -1,115 +1,0 @@
-
-¢Aksaty.Domain.Events.SaleUpdateEvent.SaleUpdateEvent(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, bool, bool)h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs ("1*è
-1h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs 	  (	t
-r
-
-%0void"5Aksaty.Domain.Sales.Events.Sale.SaleEvent.SaleEvent()*-+
-)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
-0*×
-0h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs (é
-æ
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs (
-%1System.Guid"0Aksaty.Domain.Sales.Events.Sale.SaleEvent.Id.set*-+
-)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
-""Ø
-Õ
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs (
-%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
-NetDevPack.Messaging.Message*
-""ø
-õ
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs (#
-%3System.Nullable<T>"8Aksaty.Domain.Sales.Events.Sale.SaleEvent.CustomerId.set*-+
-)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
-""Œ
-‰
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs (!
-%4System.DateTime"7Aksaty.Domain.Sales.Events.Sale.SaleEvent.StartDate.set*-+
-)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
-
-	startDateSystem.DateTimeô
-ñ
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs (
-%5string"4Aksaty.Domain.Sales.Events.Sale.SaleEvent.Status.set*-+
-)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
-
-statusstringé
-æ
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs (
-%6decimal"4Aksaty.Domain.Sales.Events.Sale.SaleEvent.Amount.set*-+
-)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
-""í
-ê
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs (#
-%7decimal"8Aksaty.Domain.Sales.Events.Sale.SaleEvent.PaidAmount.set*-+
-)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
-""ò
-ï
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs (-
-%8decimal"=Aksaty.Domain.Sales.Events.Sale.SaleEvent.RemainingAmount.set*-+
-)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
-""õ
-ò
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs (;	
-%9int"DAksaty.Domain.Sales.Events.Sale.SaleEvent.InstallmentMonthNumber.set*-+
-)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
-""ð
-í
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs (/
-
-%10int">Aksaty.Domain.Sales.Events.Sale.SaleEvent.InstallmentValue.set*-+
-)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
-""î
-ë
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs (#
-%11decimal"8Aksaty.Domain.Sales.Events.Sale.SaleEvent.Percentage.set*-+
-)Aksaty.Domain.Sales.Events.Sale.SaleEvent*
-""ø
-õ
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs ()
-%12bool"@Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.ShowOnWebsite.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-""ò
-ï
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs (
-%13bool":Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.Deleted.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-""*
-2*î
-2h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs 	  (	"
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Events\Sale\SaleUpdateEvent.cs   (	
-implicit return:
-idSystem.Guid: 
-
-customerIdSystem.Nullable<T>:
-	startDateSystem.DateTime:
-statusstring:
-amountdecimal:
-
-paidAmountdecimal:
-remainingAmountdecimal:
-installmentMonthNumberint:
-installmentValueint:
-
-percentagedecimal:
-showOnWebsitebool:
-deletedboolB(&
-$Aksaty.Domain.Events.SaleUpdateEvent

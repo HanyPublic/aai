@@ -1,89 +1,0 @@
-
-jAksaty.Services.API.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs$ $(%"0*ö
-0X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs' <(:«
-ƒ
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs' '(%:
-%04Microsoft.Extensions.DependencyInjection.IMvcBuilder"ìMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
-GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionÊ
-„
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs*. *(;7
-%11Microsoft.Extensions.Configuration.IConfiguration"-Aksaty.Services.API.Startup.Configuration.get*
-Aksaty.Services.API.Startup„
-‡
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs* *(<
-
-%2void"∫Aksaty.Services.Api.Configurations.DatabaseConfig.AddDatabaseConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)*5"3
-1Aksaty.Services.Api.Configurations.DatabaseConfig*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*9
-7
-%11Microsoft.Extensions.Configuration.IConfigurationÊ
-„
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs-1 -(>7
-%31Microsoft.Extensions.Configuration.IConfiguration"-Aksaty.Services.API.Startup.Configuration.get*
-Aksaty.Services.API.StartupÏ
-È
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs- -(?
-
-%4void"¿Aksaty.Infra.CrossCutting.Identity.ApiIdentityConfig.AddApiIdentityConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)*8"6
-4Aksaty.Infra.CrossCutting.Identity.ApiIdentityConfig*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*9
-7
-%31Microsoft.Extensions.Configuration.IConfigurationï
-í
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs0 0(1A
-%5;Microsoft.Extensions.DependencyInjection.IServiceCollection"}NetDevPack.Identity.User.Abstractions.AddAspNetUserConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection)*)"'
-%NetDevPack.Identity.User.Abstractions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection˚
-¯
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs3 3(1
-
-%6void"ãAksaty.Services.Api.Configurations.AutoMapperConfig.AddAutoMapperConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection)*7"5
-3Aksaty.Services.Api.Configurations.AutoMapperConfig*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionÚ
-Ô
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs6 6(.
-
-%7void"ÖAksaty.Services.Api.Configurations.SwaggerConfig.AddSwaggerConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection)*4"2
-0Aksaty.Services.Api.Configurations.SwaggerConfig*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection†
-ù
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs9 9(0A
-%8;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÅMediatR.ServiceCollectionExtensions.AddMediatR(Microsoft.Extensions.DependencyInjection.IServiceCollection, params System.Type[])*'"%
-#MediatR.ServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""ñ
-ì
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs< <(:
-
-%9void"ùAksaty.Services.Api.Configurations.DependencyInjectionConfig.AddDependencyInjectionConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection)*@">
-<Aksaty.Services.Api.Configurations.DependencyInjectionConfig*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-1*Œ
-1X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs=	 =(	"o
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs= =(	
-implicit return:G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
-Aksaty.Services.API.Startup

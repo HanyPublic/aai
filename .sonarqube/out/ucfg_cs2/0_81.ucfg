@@ -1,42 +1,0 @@
-
-9Aksaty.Infra.CrossCutting.Util.PagedList<T>.GetMetaData()g
-]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs/ /(!"0*Þ
-
-0g
-]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs1 6('ä
-á
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs3 3('	
-%0int":Aksaty.Infra.CrossCutting.Util.PagedList<T>.TotalCount.get*/-
-+Aksaty.Infra.CrossCutting.Util.PagedList<T>â
-ß
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs4 4(#	
-%1int"8Aksaty.Infra.CrossCutting.Util.PagedList<T>.PageSize.get*/-
-+Aksaty.Infra.CrossCutting.Util.PagedList<T>å
-â
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs5 5()	
-%2int";Aksaty.Infra.CrossCutting.Util.PagedList<T>.CurrentPage.get*/-
-+Aksaty.Infra.CrossCutting.Util.PagedList<T>ä
-á
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs6 6('	
-%3int":Aksaty.Infra.CrossCutting.Util.PagedList<T>.TotalPages.get*/-
-+Aksaty.Infra.CrossCutting.Util.PagedList<T>Ù
-Ö
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs1 7(
-%4string"4Newtonsoft.Json.JsonConvert.SerializeObject(object?)*"
-Newtonsoft.Json.JsonConvert*
-"""y
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs1 7(
-
-%4string*ì
-1g
-]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs8	 8(	"~
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\PagedList.cs8 8(	
-implicit returnB/-
-+Aksaty.Infra.CrossCutting.Util.PagedList<T>

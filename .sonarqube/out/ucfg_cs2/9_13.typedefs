@@ -1,12 +1,0 @@
-·
-5Aksaty.Application.ViewModels.AttachmentViewModelBase1Aksaty.Application.ViewModels.BaseEntityViewModelobjectœ
-1GetAttachmentAbsolutePath(string, string, string)gAksaty.Application.ViewModels.AttachmentViewModelBase.GetAttachmentAbsolutePath(string, string, string)l
-AttachmentViewModelBase()OAksaty.Application.ViewModels.AttachmentViewModelBase.AttachmentViewModelBase()R
-FileName.getBAksaty.Application.ViewModels.AttachmentViewModelBase.FileName.getR
-FileName.setBAksaty.Application.ViewModels.AttachmentViewModelBase.FileName.set^
-SourceFileName.getHAksaty.Application.ViewModels.AttachmentViewModelBase.SourceFileName.get^
-SourceFileName.setHAksaty.Application.ViewModels.AttachmentViewModelBase.SourceFileName.set\
-FileExtension.getGAksaty.Application.ViewModels.AttachmentViewModelBase.FileExtension.get\
-FileExtension.setGAksaty.Application.ViewModels.AttachmentViewModelBase.FileExtension.setH
-Url.get=Aksaty.Application.ViewModels.AttachmentViewModelBase.Url.getH
-Url.set=Aksaty.Application.ViewModels.AttachmentViewModelBase.Url.set

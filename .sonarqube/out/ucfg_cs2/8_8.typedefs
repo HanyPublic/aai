@@ -1,4 +1,0 @@
-‹
-)Aksaty.Infra.Data.Mappings.StoredEventMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>ï
-sConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Core.Events.StoredEvent>)ùAksaty.Infra.Data.Mappings.StoredEventMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Core.Events.StoredEvent>)N
-StoredEventMap():Aksaty.Infra.Data.Mappings.StoredEventMap.StoredEventMap()

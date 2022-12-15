@@ -1,14 +1,0 @@
-™
-"Aksaty.Domain.Models.SalesProductsobject NetDevPack.Domain.IAggregateRootE
-SalesProducts()2Aksaty.Domain.Models.SalesProducts.SalesProducts()‘
-5SalesProducts(System.Guid, Aksaty.Domain.Models.Sale)XAksaty.Domain.Models.SalesProducts.SalesProducts(System.Guid, Aksaty.Domain.Models.Sale)A
-ProductId.get0Aksaty.Domain.Models.SalesProducts.ProductId.getA
-ProductId.set0Aksaty.Domain.Models.SalesProducts.ProductId.set;
-
-SaleId.get-Aksaty.Domain.Models.SalesProducts.SaleId.get;
-
-SaleId.set-Aksaty.Domain.Models.SalesProducts.SaleId.set7
-Sale.get+Aksaty.Domain.Models.SalesProducts.Sale.get7
-Sale.set+Aksaty.Domain.Models.SalesProducts.Sale.set=
-Product.get.Aksaty.Domain.Models.SalesProducts.Product.get=
-Product.set.Aksaty.Domain.Models.SalesProducts.Product.set

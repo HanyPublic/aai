@@ -1,29 +1,0 @@
-
-MAksaty.Infra.Data.Repository.SaleRepository.Create(Aksaty.Domain.Models.Sale)h
-^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.cs" "("0*
-0h
-^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.cs$ %(ë
-é
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.cs$ $(2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*h*f-
-+Aksaty.Infra.Data.Repository.SaleRepository"5
-DbSet,Microsoft.EntityFrameworkCore.DbSet<TEntity>⁄◊
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.cs$ $(G
-%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*#
-!
-saleAksaty.Domain.Models.Sale2Add(TEntity)"è
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.cs% %(#
-!
-saleAksaty.Domain.Models.Sale*Ó
-1h
-^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.cs&	 &(	"
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.cs& &(	
-implicit return:!
-saleAksaty.Domain.Models.SaleB/-
-+Aksaty.Infra.Data.Repository.SaleRepository

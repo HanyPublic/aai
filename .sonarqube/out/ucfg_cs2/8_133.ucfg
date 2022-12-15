@@ -1,623 +1,0 @@
-
-lAksaty.Infra.Data.Migrations.customer_fields.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csŒ  Œ($"0*£ß
-0z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs– é(!’“
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs– “(#_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
-Notes*
-	Customers*
-""2"DropColumn(string, string, string)’“
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs‘ ÷(#_
-%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
-RefId*
-	Customers*
-""2"DropColumn(string, string, string)÷”
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csÿ ⁄(#_
-%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-Review*
-	Customers*
-""2"DropColumn(string, string, string)„‡
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs‹ „("d
-%3^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-SignatureArray*	
-Tanents*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(1000)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)Ÿ÷
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csÂ Ï("d
-%4^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-Note*	
-Tanents*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(1000)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)ÿ’
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csÓ ı("d
-%5^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-Name*	
-Tanents*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(300)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)⁄◊
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs˜ ˛("d
-%6^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-Mobile*	
-Tanents*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(200)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)Ÿ÷
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csÄ á("d
-%7^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
-Email*	
-Tanents*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(500)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)€ÿ
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csâ ê("d
-%8^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-Currency*	
-Tanents*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(50)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)‹Ÿ
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csí ô("d
-%9^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
-Address*	
-Tanents*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(1000)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)⁄◊
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csõ ¢("e
-%10^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-Name*
-
-Products*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(500)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)ﬁ€
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs§ ´("e
-%11^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-Category*
-
-Products*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(500)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)·ﬁ
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs≠ ¥("e
-%12^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-NationalId*
-	Customers*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)Ÿ÷
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs∂ æ("e
-%13^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-Name*
-	Customers*
-varchar(100)*
-""*2d*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(200)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)ﬁ€
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs¿ «("e
-%14^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
-Mobile2*
-	Customers*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(200)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)›⁄
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs… –("e
-%15^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-Mobile*
-	Customers*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(200)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)⁄◊
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs“ ⁄("e
-%16^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
-Email*
-	Customers*
-varchar(100)*
-""*2d*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(300)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)ﬂ‹
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs‹ „("e
-%17^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
-Address*
-	Customers*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(1000)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)›⁄
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csÂ Ï("e
-%18^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-URL*
-Attachments*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(2000)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)ËÂ
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csÓ Ù(*e
-%19^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-SystemFileName*
-Attachments*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(1000)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)ËÂ
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csˆ ¸(*e
-%20^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-SourceFileName*
-Attachments*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(1000)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)Â‚
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.cs˛ Ö("e
-%21^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-SeoFileName*
-Attachments*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(1000)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)‰·
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csá é("e
-%22^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"˝Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-Description*
-Attachments*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(500)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2√AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*
-1*ì
-1z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csè	 è(	"ë
-z
-nD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210822180451_customer_fields.csè è(	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB0.
-,Aksaty.Infra.Data.Migrations.customer_fields

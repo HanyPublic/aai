@@ -1,140 +1,0 @@
-
-ôAksaty.Domain.Models.Sale.Sale(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, System.Collections.Generic.List<Aksaty.Domain.Models.SaleInstallment>, string, string, System.DateTime, bool, bool)]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs ("1*Þ
-1]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs$	 $(	u
-s
-
-%0void"6Aksaty.Infra.CrossCutting.Util.BaseEntity.BaseEntity()*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-0*œ
-0]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs #(¼
-¹
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs (
-%1System.Guid"NetDevPack.Domain.Entity.Id.set*
-NetDevPack.Domain.Entity*
-""Í
-Ê
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs (#
-%2System.Nullable<T>"(Aksaty.Domain.Models.Sale.CustomerId.set*
-Aksaty.Domain.Models.Sale*
-""á
-Þ
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs (!
-%3System.DateTime"'Aksaty.Domain.Models.Sale.StartDate.set*
-Aksaty.Domain.Models.Sale*
-
-	startDateSystem.DateTimeÉ
-Æ
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs (
-%4string"$Aksaty.Domain.Models.Sale.Status.set*
-Aksaty.Domain.Models.Sale*
-
-statusstring¾
-»
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs (
-%5decimal"$Aksaty.Domain.Models.Sale.Amount.set*
-Aksaty.Domain.Models.Sale*
-""Â
-¿
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs (#
-%6decimal"(Aksaty.Domain.Models.Sale.PaidAmount.set*
-Aksaty.Domain.Models.Sale*
-""Ç
-Ä
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs (-
-%7decimal"-Aksaty.Domain.Models.Sale.RemainingAmount.set*
-Aksaty.Domain.Models.Sale*
-""Ê
-Ç
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs (;	
-%8int"4Aksaty.Domain.Models.Sale.InstallmentMonthNumber.set*
-Aksaty.Domain.Models.Sale*
-""Ä
-Á
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs (/	
-%9int".Aksaty.Domain.Models.Sale.InstallmentValue.set*
-Aksaty.Domain.Models.Sale*
-""Ã
-À
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs (#
-%10decimal"(Aksaty.Domain.Models.Sale.Percentage.set*
-Aksaty.Domain.Models.Sale*
-""–
-“
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs (/)
-%11"System.Collections.Generic.List<T>".Aksaty.Domain.Models.Sale.SaleInstallments.set*
-Aksaty.Domain.Models.Sale*8
-6
-saleInstallments"System.Collections.Generic.List<T>ô
-ñ
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs (%
-%12string"9Aksaty.Infra.CrossCutting.Util.BaseEntity.CreatedById.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-
-createdByIdstringî
-ë
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs   (
-%13string"6Aksaty.Infra.CrossCutting.Util.BaseEntity.TanentId.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-
-tanentIdstring‚
-ÿ
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs! !(!
-%14System.DateTime"7Aksaty.Infra.CrossCutting.Util.BaseEntity.CreatedAt.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-
-	createdAtSystem.DateTimeã
-à
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs" "()
-%15bool";Aksaty.Infra.CrossCutting.Util.BaseEntity.ShowOnWebsite.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-""Ý
-Ú
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs# #(
-%16bool"5Aksaty.Infra.CrossCutting.Util.BaseEntity.Deleted.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-""*
-2*Ø
-2]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs$	 $(	"t
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.cs$ $(	
-implicit return:
-idSystem.Guid: 
-
-customerIdSystem.Nullable<T>:
-	startDateSystem.DateTime:
-statusstring:
-amountdecimal:
-
-paidAmountdecimal:
-remainingAmountdecimal:
-installmentMonthNumberint:
-installmentValueint:
-
-percentagedecimal:6
-saleInstallments"System.Collections.Generic.List<T>:
-createdByIdstring:
-tanentIdstring:
-	createdAtSystem.DateTime:
-showOnWebsitebool:
-deletedboolB
-Aksaty.Domain.Models.Sale

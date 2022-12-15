@@ -1,9 +1,0 @@
-ÿ
-%Aksaty.Api.Controllers.SaleController-Aksaty.Services.Api.Controllers.ApiController'Microsoft.AspNetCore.Mvc.ControllerBaseobject¤
-=SaleController(Aksaty.Application.Interfaces.ISaleAppService)cAksaty.Api.Controllers.SaleController.SaleController(Aksaty.Application.Interfaces.ISaleAppService)˜
-7Get(Aksaty.Application.ViewModels.GetAllSalesViewModel)]Aksaty.Api.Controllers.SaleController.Get(Aksaty.Application.ViewModels.GetAllSalesViewModel)
-3Get(Aksaty.Application.ViewModels.GetSaleViewModel)YAksaty.Api.Controllers.SaleController.Get(Aksaty.Application.ViewModels.GetSaleViewModel)¦
->CreateMockSale(Aksaty.Application.ViewModels.AddSaleViewModel)dAksaty.Api.Controllers.SaleController.CreateMockSale(Aksaty.Application.ViewModels.AddSaleViewModel)˜
-7CreateSale(Aksaty.Application.ViewModels.SaleViewModel)]Aksaty.Api.Controllers.SaleController.CreateSale(Aksaty.Application.ViewModels.SaleViewModel)Š
-0Put(Aksaty.Application.ViewModels.SaleViewModel)VAksaty.Api.Controllers.SaleController.Put(Aksaty.Application.ViewModels.SaleViewModel)P
-Delete(System.Guid)9Aksaty.Api.Controllers.SaleController.Delete(System.Guid)

@@ -1,43 +1,0 @@
-
-èAksaty.Domain.Handlers.SaleInstallmentCommandsHandler.Handle(Aksaty.Domain.Queries.GetSaleInstallmentQuery, System.Threading.CancellationToken)Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csº+ º(1"0*¿
-0Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csæ æ(LŒ
-À
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csæ æ($9
-%03Aksaty.Domain.Interfaces.ISaleInstallmentRepository"__id**}7
-5Aksaty.Domain.Handlers.SaleInstallmentCommandsHandler"B
-_repository3Aksaty.Domain.Interfaces.ISaleInstallmentRepositoryë
-é
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csæ- æ(7
-%1System.Guid"4Aksaty.Domain.Queries.GetSaleInstallmentQuery.Id.get*:
-8
-request-Aksaty.Domain.Queries.GetSaleInstallmentQuery°
-û
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csæ9 æ(L
-%2System.Nullable<T>"=Aksaty.Domain.Queries.GetSaleInstallmentQuery.IncludeSale.get*:
-8
-request-Aksaty.Domain.Queries.GetSaleInstallmentQueryîë
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csæ æ(M*
-%3$System.Threading.Tasks.Task<TResult>"OAksaty.Domain.Interfaces.ISaleInstallmentRepository.GetById(System.Guid, bool?)*;
-9
-%03Aksaty.Domain.Interfaces.ISaleInstallmentRepository*
-
-%1System.Guid*
-
-%2System.Nullable<T>2GetById(System.Guid, bool?)"ë
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csæ æ(N
-""*≠
-1Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csø	 ø(	"û
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csø ø(	
-implicit return:8
-request-Aksaty.Domain.Queries.GetSaleInstallmentQuery:7
-cancellationToken"System.Threading.CancellationTokenB97
-5Aksaty.Domain.Handlers.SaleInstallmentCommandsHandler

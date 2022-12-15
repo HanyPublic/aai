@@ -1,169 +1,0 @@
-
-ıAksaty.Domain.Events.CustomerRegisteredEvent.CustomerRegisteredEvent(System.Guid, System.Guid?, string, string, System.DateTime, string, string, string, string, string, string, string, System.DateTime, bool, string, string, string, string, bool)i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs	 	(&"1*Ò
-1i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs'	 '(	|
-z
-
-%0void";Aksaty.Domain.Customer.Events.CustomerEvent.CustomerEvent()*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-0*˚&
-0i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs &(Ó
-Î
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs (
-%1System.Guid"2Aksaty.Domain.Customer.Events.CustomerEvent.Id.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-""˙
-˜
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs (
-%2System.Nullable<T>"7Aksaty.Domain.Customer.Events.CustomerEvent.ImageId.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-""ı
-Ú
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs (
-%3string"4Aksaty.Domain.Customer.Events.CustomerEvent.Name.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-namestring˜
-Ù
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs (
-%4string"5Aksaty.Domain.Customer.Events.CustomerEvent.Email.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-emailstringë
-é
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs (!
-%5System.DateTime"9Aksaty.Domain.Customer.Events.CustomerEvent.BirthDate.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-	birthDateSystem.DateTime˘
-ˆ
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs (
-%6string"6Aksaty.Domain.Customer.Events.CustomerEvent.Mobile.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-mobilestring˚
-¯
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs (
-%7string"7Aksaty.Domain.Customer.Events.CustomerEvent.Mobile2.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-mobile2string˚
-¯
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs (
-%8string"7Aksaty.Domain.Customer.Events.CustomerEvent.Address.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-addressstringı
-Ú
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs (
-%9string"4Aksaty.Domain.Customer.Events.CustomerEvent.Type.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-typestringà
-Ö
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs ()
-%10string"=Aksaty.Domain.Customer.Events.CustomerEvent.AddRecription.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-addRecriptionstringä
-á
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs (%
-%11string">Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.CreatedById.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-
-createdByIdstringÑ
-Å
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs (
-%12string";Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.TanentId.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-
-tanentIdstringò
-ï
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs   (!
-%13System.DateTime"<Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.CreatedAt.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-
-	createdAtSystem.DateTime˘
-ˆ
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs! !()
-%14bool"@Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.ShowOnWebsite.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-""Ç
-ˇ
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs" "(#
-%15string":Aksaty.Domain.Customer.Events.CustomerEvent.NationalId.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-
-nationalIdstring¯
-ı
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs# #(
-%16string"5Aksaty.Domain.Customer.Events.CustomerEvent.RefId.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-refIdstring¯
-ı
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs$ $(
-%17string"5Aksaty.Domain.Customer.Events.CustomerEvent.Notes.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-notesstring˙
-˜
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs% %(
-%18string"6Aksaty.Domain.Customer.Events.CustomerEvent.Review.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-reviewstringÛ
-
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs& &(
-%19bool":Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.Deleted.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-""*
-2*Ò
-2i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs'	 '(	"Ä
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerRegisteredEvent.cs' '(	
-implicit return:
-idSystem.Guid:
-imageIdSystem.Nullable<T>:
-namestring:
-emailstring:
-	birthDateSystem.DateTime:
-mobilestring:
-mobile2string:
-addressstring:
-typestring:
-addRecriptionstring:
-createdByIdstring:
-tanentIdstring:
-	createdAtSystem.DateTime:
-showOnWebsitebool:
-
-nationalIdstring:
-refIdstring:
-notesstring:
-reviewstring:
-deletedboolB0.
-,Aksaty.Domain.Events.CustomerRegisteredEvent

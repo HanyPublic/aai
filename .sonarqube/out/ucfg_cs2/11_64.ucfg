@@ -1,290 +1,0 @@
-
-YAksaty.Api.Controllers.AttachmentController.SaveFile(Microsoft.AspNetCore.Http.IFormFile)s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csª6 ª(>"0*·I
-0s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csΩ& …(HÌ
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csΩ< «(=
-%07Aksaty.Application.ViewModels.AttachmentCreateViewModel"7Aksaty.Application.ViewModels.AttachmentCreateViewModelö
-ó
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csΩ@ Ω(Y
-
-%1void"SAksaty.Application.ViewModels.AttachmentCreateViewModel.AttachmentCreateViewModel()*?
-=
-%07Aksaty.Application.ViewModels.AttachmentCreateViewModelıÚ
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csø2 ø(?
-%2string"0Microsoft.AspNetCore.Http.IFormFile.FileName.get*-
-+
-file#Microsoft.AspNetCore.Http.IFormFile2FileName.get–
-Õ
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csø  ø(@
-%3string"$System.IO.Path.GetExtension(string?)*"
-System.IO.Path*
-
-%2string†
-ù
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csø ø(@
-%4string"GAksaty.Application.ViewModels.AttachmentViewModelBase.FileExtension.set*?
-=
-%07Aksaty.Application.ViewModels.AttachmentCreateViewModel*
-
-%3stringıÚ
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¿2 ¿(?
-%5string"0Microsoft.AspNetCore.Http.IFormFile.FileName.get*-
-+
-file#Microsoft.AspNetCore.Http.IFormFile2FileName.getœ
-Ã
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¿! ¿(@
-%6string"#System.IO.Path.GetFileName(string?)*"
-System.IO.Path*
-
-%5string°
-û
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¿ ¿(@
-%7string"HAksaty.Application.ViewModels.AttachmentViewModelBase.SourceFileName.set*?
-=
-%07Aksaty.Application.ViewModels.AttachmentCreateViewModel*
-
-%6stringıÚ
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¡? ¡(L
-%8string"0Microsoft.AspNetCore.Http.IFormFile.FileName.get*-
-+
-file#Microsoft.AspNetCore.Http.IFormFile2FileName.getﬂ
-‹
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¡ ¡(M
-%9string"3System.IO.Path.GetFileNameWithoutExtension(string?)*"
-System.IO.Path*
-
-%8string∆
-√
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¡ ¡(_
-%10string"string.Replace(string, string?)*
-
-%9string*
- *
-_¥
-±
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¡b ¡(p
-%11System.Guid"System.Guid.NewGuid()*"
-System.Guidæ
-ª
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¡s ¡(
-%12System.DateTime"System.DateTime.Now.get*"
-System.DateTimeŸ
-÷
-t
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¡s ¡(ö
-%13string"!System.DateTime.ToString(string?)*
-
-%12System.DateTime*
-yyyyMMDDHHmmss™
-ß
-t
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¡ ¡(ú
-%14string"__concat*
-
-%10string*
-_π
-∂
-t
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¡ ¡(ú
-%15string"__concat*
-
-%14string*
-
-%11System.Guid™
-ß
-t
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¡ ¡(ú
-%16string"__concat*
-
-%15string*
-_¥
-±
-t
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¡ ¡(ú
-%17string"__concat*
-
-%16string*
-
-%13stringû
-õ
-t
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¡ ¡(ú
-%18string"BAksaty.Application.ViewModels.AttachmentViewModelBase.FileName.set*?
-=
-%07Aksaty.Application.ViewModels.AttachmentCreateViewModel*
-
-%17stringÌ
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¬ ¬()
-%19long".Microsoft.AspNetCore.Http.IFormFile.Length.get*-
-+
-file#Microsoft.AspNetCore.Http.IFormFile2
-Length.getß
-§
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¬ ¬(4
-%20string"long.ToString()*
-
-%19long¢
-ü
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs¬ ¬(4
-%21string"GAksaty.Application.ViewModels.AttachmentCreateViewModel.Description.set*?
-=
-%07Aksaty.Application.ViewModels.AttachmentCreateViewModel*
-
-%20stringÚ
-Ô
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs√ √()
-%22string"8Aksaty.Services.Api.Controllers.ApiController.UserId.get*/-
-+Aksaty.Api.Controllers.AttachmentControllerú
-ô
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs√ √()
-%23string"AAksaty.Application.ViewModels.BaseEntityViewModel.CreatedById.set*?
-=
-%07Aksaty.Application.ViewModels.AttachmentCreateViewModel*
-
-%22stringÙ
-Ò
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csƒ ƒ((
-%24string":Aksaty.Services.Api.Controllers.ApiController.TanentId.get*/-
-+Aksaty.Api.Controllers.AttachmentControllerô
-ñ
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csƒ ƒ((
-%25string">Aksaty.Application.ViewModels.BaseEntityViewModel.TanentId.set*?
-=
-%07Aksaty.Application.ViewModels.AttachmentCreateViewModel*
-
-%24string°
-û
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs≈ ≈(#
-%26System.Nullable<T>"CAksaty.Application.ViewModels.BaseEntityViewModel.ShowOnWebsite.set*?
-=
-%07Aksaty.Application.ViewModels.AttachmentCreateViewModel*
-""õ
-ò
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs∆ ∆(
-%27System.Nullable<T>"=Aksaty.Application.ViewModels.BaseEntityViewModel.Deleted.set*?
-=
-%07Aksaty.Application.ViewModels.AttachmentCreateViewModel*
-""è
-å
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csΩ& «(N
-attachmentViewModel7Aksaty.Application.ViewModels.AttachmentCreateViewModel"__id*?
-=
-%07Aksaty.Application.ViewModels.AttachmentCreateViewModel´
-®
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs»V »(a7
-%280Microsoft.AspNetCore.Hosting.IWebHostEnvironment"__id*r*p-
-+Aksaty.Api.Controllers.AttachmentController"?
-_hostingEnv0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentïí
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs»V »(m
-%29string"@Microsoft.AspNetCore.Hosting.IWebHostEnvironment.WebRootPath.get*9
-7
-%280Microsoft.AspNetCore.Hosting.IWebHostEnvironment2WebRootPath.getı
-Ú
-t
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs»y »(Ü
-%30string":Aksaty.Services.Api.Controllers.ApiController.TanentId.get*/-
-+Aksaty.Api.Controllers.AttachmentControllerÙ
-Ò
-u
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs»ê »(õ
-%31string"8Aksaty.Services.Api.Controllers.ApiController.UserId.get*/-
-+Aksaty.Api.Controllers.AttachmentControllerˆ
-Û
-t
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs» »(ú
-%32string"gAksaty.Application.ViewModels.AttachmentViewModelBase.GetAttachmentAbsolutePath(string, string, string)*P
-N
-attachmentViewModel7Aksaty.Application.ViewModels.AttachmentCreateViewModel*
-
-%29string*
-
-%30string*
-
-%31string§
-°
-t
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs» »(ú
-filePathstring"__id*
-
-%32stringç
-ä
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs…9 …(H
-%33"__id*
-""´®
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs…  …(I
-%34System.IO.FileStream"System.IO.FileStreamÄ
-˝
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs…$ …(.
-%35void";System.IO.FileStream.FileStream(string, System.IO.FileMode)*
-
-%34System.IO.FileStream*
-
-filePathstring*
-
-%33Ω
-∫
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.cs… …(I
-streamSystem.IO.FileStream"__id*
-
-%34System.IO.FileStream*
-1*ˇ
-1s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÀ Ã()üú
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÀ À(."
-%36System.Threading.Tasks.Task"eMicrosoft.AspNetCore.Http.IFormFile.CopyToAsync(System.IO.Stream, System.Threading.CancellationToken)*-
-+
-file#Microsoft.AspNetCore.Http.IFormFile* 
-
-streamSystem.IO.FileStream*
-""2ACopyToAsync(System.IO.Stream, System.Threading.CancellationToken)›
-⁄
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csÃ Ã()"
-%37System.Threading.Tasks.Task"System.IO.Stream.FlushAsync()* 
-
-streamSystem.IO.FileStream*
-2*¬
-2s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csŒ Œ(&"«
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csŒ Œ('P
-N
-attachmentViewModel7Aksaty.Application.ViewModels.AttachmentCreateViewModel*Ö
-3s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csœ	 œ(	"ä
-s
-gD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\AttachmentController.csœ œ(	
-implicit return:+
-file#Microsoft.AspNetCore.Http.IFormFileB/-
-+Aksaty.Api.Controllers.AttachmentController

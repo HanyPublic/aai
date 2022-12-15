@@ -1,115 +1,0 @@
-
-8Aksaty.Infra.Data.EventSourcing.SqlEventStore.Save<T>(T)j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs ("0*ú
-
-0j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs (Â
-‚
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs! (F
-%3string"4Newtonsoft.Json.JsonConvert.SerializeObject(object?)*"
-Newtonsoft.Json.JsonConvert*
-
-theEventTü
-ú
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs (F
-serializedDatastring"__id*
-
-%3stringÖ
-Ç
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs (*
-%4$NetDevPack.Identity.User.IAspNetUser"__id*b*`/
--Aksaty.Infra.Data.EventSourcing.SqlEventStore"-
-_user$NetDevPack.Identity.User.IAspNetUser‰·
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs (
-%5string"-NetDevPack.Identity.User.IAspNetUser.Name.get*,
-*
-%4$NetDevPack.Identity.User.IAspNetUser2Name.getì
-ê
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs (
-%1string"__id*
-
-%5stringì
-ê
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs (
-%0string"__id*
-
-%1string*
-1
-2*õ
-1j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs (2Ö
-Ç
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs (#*
-%6$NetDevPack.Identity.User.IAspNetUser"__id*b*`/
--Aksaty.Infra.Data.EventSourcing.SqlEventStore"-
-_user$NetDevPack.Identity.User.IAspNetUserÌ
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs (2
-%7string"3NetDevPack.Identity.User.IAspNetUser.GetUserEmail()*,
-*
-%6$NetDevPack.Identity.User.IAspNetUser2GetUserEmail()ì
-ê
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs (2
-%2string"__id*
-
-%7stringì
-ê
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs (2
-%0string"__id*
-
-%2string*
-2*“
-2j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs  (3√¿
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs (3+
-%8%Aksaty.Domain.Core.Events.StoredEvent"%Aksaty.Domain.Core.Events.StoredEvent∆
-√
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs" (-
-
-%9void"]Aksaty.Domain.Core.Events.StoredEvent.StoredEvent(NetDevPack.Messaging.Event, string, string)*-
-+
-%8%Aksaty.Domain.Core.Events.StoredEvent*
-
-theEventT*
-
-serializedDatastring*
-
-%0string⁄
-◊
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs (34
-storedEvent%Aksaty.Domain.Core.Events.StoredEvent"__id*-
-+
-%8%Aksaty.Domain.Core.Events.StoredEvent–
-Õ
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs   (!G
-%10@Aksaty.Infra.Data.Repository.EventSourcing.IEventStoreRepository"__id*è*å/
--Aksaty.Infra.Data.EventSourcing.SqlEventStore"Y
-_eventStoreRepository@Aksaty.Infra.Data.Repository.EventSourcing.IEventStoreRepositoryúô
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs   (4
-%11void"mAksaty.Infra.Data.Repository.EventSourcing.IEventStoreRepository.Store(Aksaty.Domain.Core.Events.StoredEvent)*I
-G
-%10@Aksaty.Infra.Data.Repository.EventSourcing.IEventStoreRepository*6
-4
-storedEvent%Aksaty.Domain.Core.Events.StoredEvent2,Store(Aksaty.Domain.Core.Events.StoredEvent)*
-3*Û
-3j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs!	 !(	"Å
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\EventSourcing\SqlEventStore.cs! !(	
-implicit return:
-theEventTB1/
--Aksaty.Infra.Data.EventSourcing.SqlEventStore

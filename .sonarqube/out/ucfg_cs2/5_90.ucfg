@@ -1,22 +1,0 @@
-
-~Aksaty.Domain.Events.TanentEventHandler.Handle(Aksaty.Domain.Events.TanentRegisteredEvent, System.Threading.CancellationToken)i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentEventHandler.cs ("0*Â
-0i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentEventHandler.cs (%·
-ﬁ
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentEventHandler.cs (%!
-%0System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*"
-System.Threading.Tasks.Task"ê
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentEventHandler.cs (&#
-!
-%0System.Threading.Tasks.Task*Ò
-1i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentEventHandler.cs	 (	"Ä
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentEventHandler.cs (	
-implicit return:5
-message*Aksaty.Domain.Events.TanentRegisteredEvent:7
-cancellationToken"System.Threading.CancellationTokenB+)
-'Aksaty.Domain.Events.TanentEventHandler

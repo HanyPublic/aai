@@ -1,4 +1,0 @@
-∂
-%Aksaty.Infra.Data.Mappings.ProductMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>ˇ
-jConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Models.Product>)êAksaty.Infra.Data.Mappings.ProductMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Models.Product>)B
-ProductMap()2Aksaty.Infra.Data.Mappings.ProductMap.ProductMap()

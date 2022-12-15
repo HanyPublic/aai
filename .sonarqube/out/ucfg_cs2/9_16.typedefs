@@ -1,8 +1,0 @@
-Ï
--Aksaty.Application.Services.ProductAppServiceobject0Aksaty.Application.Interfaces.IProductAppServiceï
-^ProductAppService(AutoMapper.IMapper, NetDevPack.Mediator.IMediatorHandler, MediatR.IMediator)ŒAksaty.Application.Services.ProductAppService.ProductAppService(AutoMapper.IMapper, NetDevPack.Mediator.IMediatorHandler, MediatR.IMediator)ž
-6Add(Aksaty.Application.ViewModels.AddProductViewModel)dAksaty.Application.Services.ProductAppService.Add(Aksaty.Application.ViewModels.AddProductViewModel)¬
-=GetAll(Aksaty.Application.ViewModels.GetAllProductsViewModel)kAksaty.Application.Services.ProductAppService.GetAll(Aksaty.Application.ViewModels.GetAllProductsViewModel)¦
-:GetById(Aksaty.Application.ViewModels.GetProductViewModel)hAksaty.Application.Services.ProductAppService.GetById(Aksaty.Application.ViewModels.GetProductViewModel)X
-Remove(System.Guid)AAksaty.Application.Services.ProductAppService.Remove(System.Guid)ž
-6Update(Aksaty.Application.ViewModels.ProductViewModel)dAksaty.Application.Services.ProductAppService.Update(Aksaty.Application.ViewModels.ProductViewModel)

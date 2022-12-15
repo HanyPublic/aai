@@ -1,158 +1,0 @@
-
-ŸAksaty.Domain.Attachments.Events.AttachmentAddedEvent.AttachmentAddedEvent(System.Guid, string, string, string, string, string, string, string, string, int, string, string, string, string, System.DateTime, bool, bool)n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs (#"1*Ñ
-1n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs1	 1(	â
-Ü
-
-%0void"BAksaty.Domain.Attachments.Events.AttachmentEvent.AttachmentEvent()*42
-0Aksaty.Domain.Attachments.Events.AttachmentEvent*
-0*ƒ&
-0n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs 0(˝
-˙
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs (
-%1System.Guid"7Aksaty.Domain.Attachments.Events.AttachmentEvent.Id.set*42
-0Aksaty.Domain.Attachments.Events.AttachmentEvent*
-""ﬁ
-€
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs   (
-%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
-NetDevPack.Messaging.Message*
-""Ñ
-Å
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs! !(
-%3string"9Aksaty.Domain.Attachments.Events.AttachmentEvent.Type.set*42
-0Aksaty.Domain.Attachments.Events.AttachmentEvent*
-
-typestringí
-è
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs" "(%
-%4string"@Aksaty.Domain.Attachments.Events.AttachmentEvent.Description.set*42
-0Aksaty.Domain.Attachments.Events.AttachmentEvent*
-
-descriptionstringÇ
-ˇ
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs# #(
-%5string"8Aksaty.Domain.Attachments.Events.AttachmentEvent.URL.set*42
-0Aksaty.Domain.Attachments.Events.AttachmentEvent*
-
-urlstringò
-ï
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs$ $(+
-%6string"CAksaty.Domain.Attachments.Events.AttachmentEvent.SystemFileName.set*42
-0Aksaty.Domain.Attachments.Events.AttachmentEvent*
-
-systemFileNamestringò
-ï
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs% %(+
-%7string"CAksaty.Domain.Attachments.Events.AttachmentEvent.SourceFileName.set*42
-0Aksaty.Domain.Attachments.Events.AttachmentEvent*
-
-sourceFileNamestringí
-è
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs& &(%
-%8string"@Aksaty.Domain.Attachments.Events.AttachmentEvent.SeoFileName.set*42
-0Aksaty.Domain.Attachments.Events.AttachmentEvent*
-
-seoFileNamestringé
-ã
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs' '(!
-%9string">Aksaty.Domain.Attachments.Events.AttachmentEvent.SubFolder.set*42
-0Aksaty.Domain.Attachments.Events.AttachmentEvent*
-
-	subFolderstringó
-î
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs( (()
-%10string"BAksaty.Domain.Attachments.Events.AttachmentEvent.FileExtension.set*42
-0Aksaty.Domain.Attachments.Events.AttachmentEvent*
-
-fileExtensionstringˇ
-¸
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs) )(%
-
-%11int"@Aksaty.Domain.Attachments.Events.AttachmentEvent.MediaTypeId.set*42
-0Aksaty.Domain.Attachments.Events.AttachmentEvent*
-""ç
-ä
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs* *(
-%12string"=Aksaty.Domain.Attachments.Events.AttachmentEvent.ThumbURL.set*42
-0Aksaty.Domain.Attachments.Events.AttachmentEvent*
-
-thumbUrlstringÖ
-Ç
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs+ +(
-%13string"9Aksaty.Domain.Attachments.Events.AttachmentEvent.Tags.set*42
-0Aksaty.Domain.Attachments.Events.AttachmentEvent*
-
-tagsstringè
-å
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs, ,(%
-%14string">Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.CreatedById.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-
-createdByIdstringâ
-Ü
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs- -(
-%15string";Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.TanentId.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-
-tanentIdstringù
-ö
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs. .(!
-%16System.DateTime"<Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.CreatedAt.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-
-	createdAtSystem.DateTime˛
-˚
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs/ /()
-%17bool"@Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.ShowOnWebsite.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-""¯
-ı
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs0 0(
-%18bool":Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.Deleted.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-""*
-2*˚
-2n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs1	 1(	"Ö
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Events\AttachmentAddedEvent.cs1 1(	
-implicit return:
-idSystem.Guid:
-typestring:
-descriptionstring:
-urlstring:
-systemFileNamestring:
-sourceFileNamestring:
-seoFileNamestring:
-	subFolderstring:
-fileExtensionstring:
-mediaTypeIdint:
-thumbUrlstring:
-tagsstring:
-createdByIdstring:
-tanentIdstring:
-	createdAtSystem.DateTime:
-showOnWebsitebool:
-deletedboolB97
-5Aksaty.Domain.Attachments.Events.AttachmentAddedEvent

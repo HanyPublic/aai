@@ -1,4 +1,0 @@
-´
-(Aksaty.Domain.Commands.UpdateSaleCommand"Aksaty.Domain.Commands.SaleCommand0Aksaty.Infra.CrossCutting.Util.BaseEntityCommandNetDevPack.Messaging.CommandNetDevPack.Messaging.Messageobject¬
-UpdateSaleCommand(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, bool, bool)¨Aksaty.Domain.Commands.UpdateSaleCommand.UpdateSaleCommand(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, bool, bool)?
-	IsValid()2Aksaty.Domain.Commands.UpdateSaleCommand.IsValid()

@@ -1,135 +1,0 @@
-
-³Aksaty.Domain.Events.TanentUpdatedEvent.TanentUpdatedEvent(System.Guid, System.Guid?, string, string, string, string, string, int, decimal, string, string, string, string, string)i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs	 	(!"1*é
-1i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs	 (	t
-r
-
-%0void"6Aksaty.Domain.Tanents.Events.TanentEvent.TanentEvent()*,*
-(Aksaty.Domain.Tanents.Events.TanentEvent*
-0*Ç
-0i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (-è
-å
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (
-%1System.Guid"/Aksaty.Domain.Tanents.Events.TanentEvent.Id.set*,*
-(Aksaty.Domain.Tanents.Events.TanentEvent*
-""Ù
-Ö
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (
-%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
-NetDevPack.Messaging.Message*
-""ô
-ñ
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (
-%3System.Nullable<T>"4Aksaty.Domain.Tanents.Events.TanentEvent.ImageId.set*,*
-(Aksaty.Domain.Tanents.Events.TanentEvent*
-""ï
-ì
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (
-%4string"1Aksaty.Domain.Tanents.Events.TanentEvent.Name.set*,*
-(Aksaty.Domain.Tanents.Events.TanentEvent*
-
-namestringñ
-î
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (
-%5string"2Aksaty.Domain.Tanents.Events.TanentEvent.Email.set*,*
-(Aksaty.Domain.Tanents.Events.TanentEvent*
-
-emailstringó
-ğ
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (
-%6string"3Aksaty.Domain.Tanents.Events.TanentEvent.Mobile.set*,*
-(Aksaty.Domain.Tanents.Events.TanentEvent*
-
-mobilestringõ
-ò
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (
-%7string"4Aksaty.Domain.Tanents.Events.TanentEvent.Address.set*,*
-(Aksaty.Domain.Tanents.Events.TanentEvent*
-
-addressstring÷
-ô
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (
-%8string"5Aksaty.Domain.Tanents.Events.TanentEvent.Currency.set*,*
-(Aksaty.Domain.Tanents.Events.TanentEvent*
-
-currencystringè
-å
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (#	
-%9int"7Aksaty.Domain.Tanents.Events.TanentEvent.MonthCount.set*,*
-(Aksaty.Domain.Tanents.Events.TanentEvent*
-""í
-ê
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (#
-%10decimal"7Aksaty.Domain.Tanents.Events.TanentEvent.Perecntage.set*,*
-(Aksaty.Domain.Tanents.Events.TanentEvent*
-""ğ
-í
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (
-%11string"1Aksaty.Domain.Tanents.Events.TanentEvent.Logo.set*,*
-(Aksaty.Domain.Tanents.Events.TanentEvent*
-
-logostringô
-ñ
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (
-%12string"3Aksaty.Domain.Tanents.Events.TanentEvent.Colors.set*,*
-(Aksaty.Domain.Tanents.Events.TanentEvent*
-
-colorsstringğ
-í
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (
-%13string"1Aksaty.Domain.Tanents.Events.TanentEvent.Note.set*,*
-(Aksaty.Domain.Tanents.Events.TanentEvent*
-
-notestring„
-
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (+
-%14string";Aksaty.Domain.Tanents.Events.TanentEvent.SignatureArray.set*,*
-(Aksaty.Domain.Tanents.Events.TanentEvent*
-
-signatureArraystring†
-ƒ
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (-
-%15string"<Aksaty.Domain.Tanents.Events.TanentEvent.StampAttachment.set*,*
-(Aksaty.Domain.Tanents.Events.TanentEvent*
-
-stampAttachmentstring*
-2*ñ
-2i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs	 (	"€
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Events\TanentUpdatedEvent.cs (	
-implicit return:
-idSystem.Guid:
-imageIdSystem.Nullable<T>:
-namestring:
-emailstring:
-mobilestring:
-addressstring:
-currencystring:
-
-monthCountint:
-
-perecntagedecimal:
-logostring:
-colorsstring:
-notestring:
-signatureArraystring:
-stampAttachmentstringB+)
-'Aksaty.Domain.Events.TanentUpdatedEvent

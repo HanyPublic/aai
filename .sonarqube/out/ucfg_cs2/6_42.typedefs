@@ -1,6 +1,0 @@
-û
-'Aksaty.Domain.Handlers.SaleEventHandlerobject+MediatR.INotificationHandler<TNotification>+MediatR.INotificationHandler<TNotification>+MediatR.INotificationHandler<TNotification>Ì
-PHandle(Aksaty.Domain.Events.SaleUpdateEvent, System.Threading.CancellationToken)xAksaty.Domain.Handlers.SaleEventHandler.Handle(Aksaty.Domain.Events.SaleUpdateEvent, System.Threading.CancellationToken)Î
-QHandle(Aksaty.Domain.Events.SaleCreatedEvent, System.Threading.CancellationToken)yAksaty.Domain.Handlers.SaleEventHandler.Handle(Aksaty.Domain.Events.SaleCreatedEvent, System.Threading.CancellationToken)Î
-QHandle(Aksaty.Domain.Events.SaleRemovedEvent, System.Threading.CancellationToken)yAksaty.Domain.Handlers.SaleEventHandler.Handle(Aksaty.Domain.Events.SaleRemovedEvent, System.Threading.CancellationToken)P
-SaleEventHandler():Aksaty.Domain.Handlers.SaleEventHandler.SaleEventHandler()

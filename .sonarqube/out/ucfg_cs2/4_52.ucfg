@@ -1,46 +1,0 @@
-
-dAksaty.Domain.Commands.Validations.UpdateCustomerCommandValidation.UpdateCustomerCommandValidation()
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\UpdateCustomerCommandValidation.cs (."1*®
-1
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\UpdateCustomerCommandValidation.cs	 (	ú
-ô
-
-%0void"MAksaty.Domain.Commands.Validations.CustomerValidation<T>.CustomerValidation()*<:
-8Aksaty.Domain.Commands.Validations.CustomerValidation<T>*
-0*ı	
-0
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\UpdateCustomerCommandValidation.cs 
-(ï
-í
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\UpdateCustomerCommandValidation.cs (
-
-%1void"EAksaty.Domain.Commands.Validations.CustomerValidation<T>.ValidateId()*<:
-8Aksaty.Domain.Commands.Validations.CustomerValidation<T>ó
-î
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\UpdateCustomerCommandValidation.cs (
-
-%2void"GAksaty.Domain.Commands.Validations.CustomerValidation<T>.ValidateName()*<:
-8Aksaty.Domain.Commands.Validations.CustomerValidation<T>ú
-ô
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\UpdateCustomerCommandValidation.cs	 	(
-
-%3void"LAksaty.Domain.Commands.Validations.CustomerValidation<T>.ValidateBirthDate()*<:
-8Aksaty.Domain.Commands.Validations.CustomerValidation<T>ò
-ï
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\UpdateCustomerCommandValidation.cs
- 
-(
-
-%4void"HAksaty.Domain.Commands.Validations.CustomerValidation<T>.ValidateEmail()*<:
-8Aksaty.Domain.Commands.Validations.CustomerValidation<T>*
-2*ù
-2
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\UpdateCustomerCommandValidation.cs	 (	"ñ
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\UpdateCustomerCommandValidation.cs (	
-implicit returnBFD
-BAksaty.Domain.Commands.Validations.UpdateCustomerCommandValidation

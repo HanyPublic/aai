@@ -1,26 +1,0 @@
-
-cAksaty.Infra.Data.Repository.SaleInstallmentRepository.Remove(Aksaty.Domain.Models.SaleInstallment)s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csa a("0*¨
-0s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csc c()®
-•
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csc c(2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*t*r8
-6Aksaty.Infra.Data.Repository.SaleInstallmentRepository"6
-_dbSet,Microsoft.EntityFrameworkCore.DbSet<TEntity>Å˛
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csc c(*G
-%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*9
-7
-saleInstallment$Aksaty.Domain.Models.SaleInstallment2Remove(TEntity)*
-1*Ö
-1s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csd	 d(	"ä
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csd d(	
-implicit return:7
-saleInstallment$Aksaty.Domain.Models.SaleInstallmentB:8
-6Aksaty.Infra.Data.Repository.SaleInstallmentRepository

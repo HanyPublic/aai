@@ -1,4 +1,0 @@
-…
-,Aksaty.Domain.Commands.UpdateCustomerCommand&Aksaty.Domain.Commands.CustomerCommand0Aksaty.Infra.CrossCutting.Util.BaseEntityCommandNetDevPack.Messaging.CommandNetDevPack.Messaging.Messageobjectñ
-ŸUpdateCustomerCommand(System.Guid, string, string, string, System.DateTime, string, string, string, string, string, bool, string, string, string, string, bool)ÌAksaty.Domain.Commands.UpdateCustomerCommand.UpdateCustomerCommand(System.Guid, string, string, string, System.DateTime, string, string, string, string, string, bool, string, string, string, string, bool)C
-	IsValid()6Aksaty.Domain.Commands.UpdateCustomerCommand.IsValid()

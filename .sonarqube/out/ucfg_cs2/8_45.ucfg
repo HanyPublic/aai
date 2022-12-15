@@ -1,68 +1,0 @@
-
-iAksaty.Infra.Data.Migrations.tanentSettings.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210414195709_tanentSettings.cs  (""0*Â
-0w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210414195709_tanentSettings.cs	 (4¡æ
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210414195709_tanentSettings.cs	 (_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"¶Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-UserId*
-
-Settings*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2lAddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)®•
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210414195709_tanentSettings.cs (!_
-%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_Settings_UserId*
-
-Settings*
-
-UserId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)ê
-ç
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210414195709_tanentSettings.cs (4
-%2"__id*
-""ﬂ‹
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210414195709_tanentSettings.cs (5_
-%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"˜Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddForeignKey(string, string, string, string, string, string, string, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*" 
-FK_Settings_AspNetUsers_UserId*
-
-Settings*
-
-UserId*
-AspNetUsers*
-""*
-""*
-Id*
-""*
-
-%22ΩAddForeignKey(string, string, string, string, string, string, string, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction)*
-1*ç
-1w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210414195709_tanentSettings.cs	 (	"é
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210414195709_tanentSettings.cs (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB/-
-+Aksaty.Infra.Data.Migrations.tanentSettings

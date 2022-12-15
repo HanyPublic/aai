@@ -1,102 +1,0 @@
-
-xAksaty.Application.Helpers.NullableEmailAddress.IsValid(object, System.ComponentModel.DataAnnotations.ValidationContext)w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs	, 	(3"0*ç
-0w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs (+”
-–
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs (2
-%0string" System.Convert.ToString(object?)*"
-System.Convert*
-
-valueobject£
-†
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs (2
-inputstring"__id*
-
-%0string¸˘
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs( (CA
-%1;System.ComponentModel.DataAnnotations.EmailAddressAttribute";System.ComponentModel.DataAnnotations.EmailAddressAttribute¢
-ü
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs, (A
-
-%2void"SSystem.ComponentModel.DataAnnotations.EmailAddressAttribute.EmailAddressAttribute()*C
-A
-%1;System.ComponentModel.DataAnnotations.EmailAddressAttributeù
-ö
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs (CT
-emailAddressAttribute;System.ComponentModel.DataAnnotations.EmailAddressAttribute"__id*C
-A
-%1;System.ComponentModel.DataAnnotations.EmailAddressAttribute∆
-√
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs (,
-
-%3bool"string.IsNullOrEmpty(string?)*
-"
-string*
-
-inputstring*
-1
-2*«
-1w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs. (R¿
-Ω
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs/ (S
-
-%4bool"KSystem.ComponentModel.DataAnnotations.EmailAddressAttribute.IsValid(object)*V
-T
-emailAddressAttribute;System.ComponentModel.DataAnnotations.EmailAddressAttribute*
-
-inputstring*
-3
-2*é	
-3x
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs\ (ìØ
-¨
-x
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.csq (ì
-%5string"JSystem.ComponentModel.DataAnnotations.ValidationAttribute.ErrorMessage.get*V
-T
-emailAddressAttribute;System.ComponentModel.DataAnnotations.EmailAddressAttributeÛ
-x
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs\ (î<
-%66System.ComponentModel.DataAnnotations.ValidationResult"6System.ComponentModel.DataAnnotations.ValidationResult©
-¶
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs` (p
-
-%7void"OSystem.ComponentModel.DataAnnotations.ValidationResult.ValidationResult(string)*>
-<
-%66System.ComponentModel.DataAnnotations.ValidationResult*
-
-%5string"∫
-x
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.csU (ï>
-<
-%66System.ComponentModel.DataAnnotations.ValidationResult*¸
-2w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs (+¡
-æ
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs (+<
-%86System.ComponentModel.DataAnnotations.ValidationResult"__id**}8
-6System.ComponentModel.DataAnnotations.ValidationResult"A
-Success6System.ComponentModel.DataAnnotations.ValidationResult"π
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs (,>
-<
-%86System.ComponentModel.DataAnnotations.ValidationResult*ç
-4w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs	 (	"é
-w
-mD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\Attributes\NullableEmailAddress.cs (	
-implicit return:
-valueobject:L
-validationContext7System.ComponentModel.DataAnnotations.ValidationContextB31
-/Aksaty.Application.Helpers.NullableEmailAddress

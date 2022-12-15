@@ -1,27 +1,0 @@
-
-DAksaty.Infra.CrossCutting.Util.BaseEntityCommand.BaseEntityCommand()o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\BaseEntityCommand.cs (""0*Û
-0o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\BaseEntityCommand.cs (‚
-ÿ
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\BaseEntityCommand.cs (7
-
-%0bool"BAksaty.Infra.CrossCutting.Util.BaseEntityCommand.ShowOnWebsite.set*42
-0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
-""ü
-ù
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\BaseEntityCommand.cs (2
-
-%1bool"<Aksaty.Infra.CrossCutting.Util.BaseEntityCommand.Deleted.set*42
-0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand*
-""X
-V
-
-%2void"&NetDevPack.Messaging.Command.Command()* 
-NetDevPack.Messaging.Command"†
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Query\BaseEntityCommand.cs (
-implicit returnB42
-0Aksaty.Infra.CrossCutting.Util.BaseEntityCommand

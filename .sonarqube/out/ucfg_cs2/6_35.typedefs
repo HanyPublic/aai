@@ -1,6 +1,0 @@
-í
-3Aksaty.Domain.Handlers.SaleInstallmentEventsHandlerobject+MediatR.INotificationHandler<TNotification>+MediatR.INotificationHandler<TNotification>+MediatR.INotificationHandler<TNotification>Ò
-\Handle(Aksaty.Domain.Events.SaleInstallmentRemovedEvent, System.Threading.CancellationToken)êAksaty.Domain.Handlers.SaleInstallmentEventsHandler.Handle(Aksaty.Domain.Events.SaleInstallmentRemovedEvent, System.Threading.CancellationToken)Ò
-\Handle(Aksaty.Domain.Events.SaleInstallmentUpdatedEvent, System.Threading.CancellationToken)êAksaty.Domain.Handlers.SaleInstallmentEventsHandler.Handle(Aksaty.Domain.Events.SaleInstallmentUpdatedEvent, System.Threading.CancellationToken)Ì
-ZHandle(Aksaty.Domain.Events.SaleInstallmentAddedEvent, System.Threading.CancellationToken)éAksaty.Domain.Handlers.SaleInstallmentEventsHandler.Handle(Aksaty.Domain.Events.SaleInstallmentAddedEvent, System.Threading.CancellationToken)t
-SaleInstallmentEventsHandler()RAksaty.Domain.Handlers.SaleInstallmentEventsHandler.SaleInstallmentEventsHandler()

@@ -1,61 +1,0 @@
-
-^Aksaty.Application.ViewModels.GetSaleViewModel.GetSaleViewModel(System.Guid, bool, bool, bool)z
-pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetSaleViewModel.cs ("1*á
-1z
-pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetSaleViewModel.cs	 (	¡
-ž
-z
-pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetSaleViewModel.cs (C
-%0System.Nullable<T>"JAksaty.Application.ViewModels.GetSaleViewModel.IncludeSaleInstallments.set*20
-.Aksaty.Application.ViewModels.GetSaleViewModel*
-""š
-—
-z
-pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetSaleViewModel.cs (<
-%1System.Nullable<T>"CAksaty.Application.ViewModels.GetSaleViewModel.IncludeCustomers.set*20
-.Aksaty.Application.ViewModels.GetSaleViewModel*
-""™
-–
-z
-pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetSaleViewModel.cs (;
-%2System.Nullable<T>"BAksaty.Application.ViewModels.GetSaleViewModel.IncludeProducts.set*20
-.Aksaty.Application.ViewModels.GetSaleViewModel*
-""*
-0*é	
-0z
-pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetSaleViewModel.cs (/…
-‚
-z
-pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetSaleViewModel.cs (
-%3System.Guid"5Aksaty.Application.ViewModels.GetSaleViewModel.Id.set*20
-.Aksaty.Application.ViewModels.GetSaleViewModel*
-""™
-–
-z
-pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetSaleViewModel.cs (-
-%4System.Nullable<T>"BAksaty.Application.ViewModels.GetSaleViewModel.IncludeProducts.set*20
-.Aksaty.Application.ViewModels.GetSaleViewModel*
-""¡
-ž
-z
-pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetSaleViewModel.cs (=
-%5System.Nullable<T>"JAksaty.Application.ViewModels.GetSaleViewModel.IncludeSaleInstallments.set*20
-.Aksaty.Application.ViewModels.GetSaleViewModel*
-""š
-—
-z
-pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetSaleViewModel.cs (/
-%6System.Nullable<T>"CAksaty.Application.ViewModels.GetSaleViewModel.IncludeCustomers.set*20
-.Aksaty.Application.ViewModels.GetSaleViewModel*
-""*
-2*“
-2z
-pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetSaleViewModel.cs	 (	"‘
-z
-pD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleViewModels\GetSaleViewModel.cs (	
-implicit return:
-idSystem.Guid:
-includeProductsbool:
-includeSaleInstallmentsbool:
-includeCustomersboolB20
-.Aksaty.Application.ViewModels.GetSaleViewModel

@@ -1,153 +1,0 @@
-
-ÅAksaty.Domain.Attachments.Models.Attachment.Attachment(System.Guid, string, string, string, bool, string, string, string, string, string, int, string, string, string, string, System.DateTime, bool)d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs ("1*å
-1d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs5	 5(	u
-s
-
-%0void"6Aksaty.Infra.CrossCutting.Util.BaseEntity.BaseEntity()*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-0*Þ!
-0d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs$ 4()Ã
-À
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs$ $(
-%1System.Guid"NetDevPack.Domain.Entity.Id.set*
-NetDevPack.Domain.Entity*
-""ð
-í
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs% %(
-%2string"4Aksaty.Domain.Attachments.Models.Attachment.Type.set*/-
-+Aksaty.Domain.Attachments.Models.Attachment*
-
-typestringþ
-û
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs& &(%
-%3string";Aksaty.Domain.Attachments.Models.Attachment.Description.set*/-
-+Aksaty.Domain.Attachments.Models.Attachment*
-
-descriptionstringî
-ë
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs' '(
-%4string"3Aksaty.Domain.Attachments.Models.Attachment.URL.set*/-
-+Aksaty.Domain.Attachments.Models.Attachment*
-
-urlstringã
-à
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs( ((
-
-%5bool"5Aksaty.Infra.CrossCutting.Util.BaseEntity.Deleted.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-""„
-
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs) )(+
-%6string">Aksaty.Domain.Attachments.Models.Attachment.SystemFileName.set*/-
-+Aksaty.Domain.Attachments.Models.Attachment*
-
-systemFileNamestring„
-
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs* *(+
-%7string">Aksaty.Domain.Attachments.Models.Attachment.SourceFileName.set*/-
-+Aksaty.Domain.Attachments.Models.Attachment*
-
-sourceFileNamestringþ
-û
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs+ +(%
-%8string";Aksaty.Domain.Attachments.Models.Attachment.SeoFileName.set*/-
-+Aksaty.Domain.Attachments.Models.Attachment*
-
-seoFileNamestringú
-÷
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs, ,(!
-%9string"9Aksaty.Domain.Attachments.Models.Attachment.SubFolder.set*/-
-+Aksaty.Domain.Attachments.Models.Attachment*
-
-	subFolderstringƒ
-€
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs- -()
-%10string"=Aksaty.Domain.Attachments.Models.Attachment.FileExtension.set*/-
-+Aksaty.Domain.Attachments.Models.Attachment*
-
-fileExtensionstringë
-è
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs. .(%
-
-%11int";Aksaty.Domain.Attachments.Models.Attachment.MediaTypeId.set*/-
-+Aksaty.Domain.Attachments.Models.Attachment*
-""ù
-ö
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs/ /(
-%12string"8Aksaty.Domain.Attachments.Models.Attachment.ThumbURL.set*/-
-+Aksaty.Domain.Attachments.Models.Attachment*
-
-thumbUrlstringñ
-î
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs0 0(
-%13string"4Aksaty.Domain.Attachments.Models.Attachment.Tags.set*/-
-+Aksaty.Domain.Attachments.Models.Attachment*
-
-tagsstringû
-ø
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs1 1(%
-%14string"9Aksaty.Infra.CrossCutting.Util.BaseEntity.CreatedById.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-
-createdByIdstringõ
-ò
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs2 2(
-%15string"6Aksaty.Infra.CrossCutting.Util.BaseEntity.TanentId.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-
-tanentIdstring‰
-†
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs3 3(!
-%16System.DateTime"7Aksaty.Infra.CrossCutting.Util.BaseEntity.CreatedAt.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-
-	createdAtSystem.DateTimeê
-ç
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs4 4()
-%17bool";Aksaty.Infra.CrossCutting.Util.BaseEntity.ShowOnWebsite.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-""*
-2*æ
-2d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs5	 5(	"{
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Models\Attachment.cs5 5(	
-implicit return:
-idSystem.Guid:
-typestring:
-descriptionstring:
-urlstring:
-deletedbool:
-systemFileNamestring:
-sourceFileNamestring:
-seoFileNamestring:
-	subFolderstring:
-fileExtensionstring:
-mediaTypeIdint:
-thumbUrlstring:
-tagsstring:
-createdByIdstring:
-tanentIdstring:
-	createdAtSystem.DateTime:
-showOnWebsiteboolB/-
-+Aksaty.Domain.Attachments.Models.Attachment

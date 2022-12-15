@@ -1,27 +1,0 @@
-
-ŽAksaty.Infra.Data.Mappings.TanentMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Models.Tanent>)a
-WD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\TanentMap.cs ("0*¢	
-0a
-WD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\TanentMap.cs (N™–
-a
-WD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\TanentMap.cs (/P
-%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*W
-U
-builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
-""2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)˜
-•
-a
-WD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\TanentMap.cs (OP
-%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"®Microsoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions.HasColumnType<TProperty>(Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>, string)*E"C
-AMicrosoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions*R
-P
-%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
-decimal(11, 8)*
-1*à
-1a
-WD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\TanentMap.cs	 (	"x
-a
-WD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\TanentMap.cs (	
-implicit return:U
-builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>B(&
-$Aksaty.Infra.Data.Mappings.TanentMap

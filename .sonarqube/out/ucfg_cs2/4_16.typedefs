@@ -1,5 +1,0 @@
-Ó
-%Aksaty.Domain.Queries.GetByEmailQuery.Aksaty.Infra.CrossCutting.Util.BaseEntityQueryobjectê
-3GetByEmailQuery(string, string, string, bool, bool)YAksaty.Domain.Queries.GetByEmailQuery.GetByEmailQuery(string, string, string, bool, bool)<
-	Email.get/Aksaty.Domain.Queries.GetByEmailQuery.Email.get<
-	Email.set/Aksaty.Domain.Queries.GetByEmailQuery.Email.set

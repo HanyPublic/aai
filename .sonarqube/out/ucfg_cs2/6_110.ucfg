@@ -1,35 +1,0 @@
-
-]Aksaty.Domain.Commands.RemoveSaleInstallmentCommand.RemoveSaleInstallmentCommand(System.Guid)‚
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\RemoveSaleInstallmentCommand.cs (+"1*š
-1‚
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\RemoveSaleInstallmentCommand.cs	 (	Š
-‡
-
-%0void"FAksaty.Domain.Commands.SaleInstallmentCommand.SaleInstallmentCommand()*1/
--Aksaty.Domain.Commands.SaleInstallmentCommand*
-0*’
-0‚
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\RemoveSaleInstallmentCommand.cs	 
-(Œ
-‰
-‚
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\RemoveSaleInstallmentCommand.cs	 	(
-%1System.Guid"4Aksaty.Domain.Commands.SaleInstallmentCommand.Id.set*1/
--Aksaty.Domain.Commands.SaleInstallmentCommand*
-""ó
-ð
-‚
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\RemoveSaleInstallmentCommand.cs
- 
-(
-%2System.Guid",NetDevPack.Messaging.Message.AggregateId.set* 
-NetDevPack.Messaging.Message*
-""*
-2*¥
-2‚
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\RemoveSaleInstallmentCommand.cs	 (	"š
-‚
-xD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\SaleInstallment\RemoveSaleInstallmentCommand.cs (	
-implicit return:
-idSystem.GuidB75
-3Aksaty.Domain.Commands.RemoveSaleInstallmentCommand

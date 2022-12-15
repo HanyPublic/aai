@@ -1,71 +1,0 @@
-
-lAksaty.Infra.CrossCutting.Util.AttachmentUrlHelper.GetAttachmentRelativePath(string, string, string, string)s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (6"0*»
-0s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (sõ
-ò
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (/
-%0string";Aksaty.Infra.CrossCutting.Util.MyHttpContext.AppBaseUrl.get*0".
-,Aksaty.Infra.CrossCutting.Util.MyHttpContextÂ
-¿
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs2 (Y
-%1string"XAksaty.Infra.CrossCutting.Util.AttachmentUrlHelper.GetAttachmentRootPath(string, string)*6"4
-2Aksaty.Infra.CrossCutting.Util.AttachmentUrlHelper*
-
-tanentIdstring*
-
-userIdstring§
-¤
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (u
-%2string"__concat*
-
-%0string*
-\°
-­
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (u
-%3string"__concat*
-
-%2string*
-
-%1string§
-¤
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (u
-%4string"__concat*
-
-%3string*
-\¶
-³
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (u
-%5string"__concat*
-
-%4string*
-
-fileNamestring»
-¸
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (u
-%6string"__concat*
-
-%5string*
-
-fileExtensionstring"…
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (v
-
-%6string*…
-1s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs	 (	"Š
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Helpers\AttachmentUrlHelper.cs (	
-implicit return:
-tanentIdstring:
-userIdstring:
-fileNamestring:
-fileExtensionstringB6"4
-2Aksaty.Infra.CrossCutting.Util.AttachmentUrlHelper

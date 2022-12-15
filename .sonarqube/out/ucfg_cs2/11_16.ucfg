@@ -1,62 +1,0 @@
-
-∫Aksaty.Services.Api.Configurations.DatabaseConfig.AddDatabaseConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DatabaseConfig.cs (3"0*Ä
-0n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DatabaseConfig.cs ( Ç
-ˇ
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DatabaseConfig.cs ( 
-
-%0bool""object.operator ==(object, object)*
-"
-object*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""*
-1
-2*ù
-1n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DatabaseConfig.cs( (Rµ≤
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DatabaseConfig.cs( (S"
-%1System.ArgumentNullException"System.ArgumentNullExceptionÍ
-Á
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DatabaseConfig.cs, (A
-
-%2void";System.ArgumentNullException.ArgumentNullException(string?)*$
-"
-%1System.ArgumentNullException*
-""*
-3*™
-2n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DatabaseConfig.cs (\÷
-”
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DatabaseConfig.cs (]A
-%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"·Microsoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)*W"U
-SMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""*
-""*
-""÷
-”
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DatabaseConfig.cs (]A
-%4;Microsoft.Extensions.DependencyInjection.IServiceCollection"·Microsoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)*W"U
-SMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""*
-""*
-""*
-3*˚
-3n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DatabaseConfig.cs	 (	"Ö
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\DatabaseConfig.cs (	
-implicit return:G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection:B
-configuration1Microsoft.Extensions.Configuration.IConfigurationB5"3
-1Aksaty.Services.Api.Configurations.DatabaseConfig

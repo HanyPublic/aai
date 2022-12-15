@@ -1,150 +1,0 @@
-
-cAksaty.Api.Controllers.ProductController.Get(Aksaty.Application.ViewModels.GetAllProductsViewModel)n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs) (,"6*’
-0n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs (Mï
-í
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs* (M
-%0string">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedById.get*R
-P
-getAllProductsViewModel5Aksaty.Application.ViewModels.GetAllProductsViewModelø
-º
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs (N
-
-%1bool""string.IsNullOrWhiteSpace(string?)*
-"
-string*
-
-%0string*
-1
-2*è
-1o
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.csP (ÅÍ
-Á
-o
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.csv (Å
-%2string"8Aksaty.Services.Api.Controllers.ApiController.UserId.get*,*
-(Aksaty.Api.Controllers.ProductController¶
-£
-o
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.csP (Å
-%3string">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedById.set*R
-P
-getAllProductsViewModel5Aksaty.Application.ViewModels.GetAllProductsViewModel*
-
-%2string*
-2*“
-2n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs (Jí
-è
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs* (J
-%4string";Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.TanentId.get*R
-P
-getAllProductsViewModel5Aksaty.Application.ViewModels.GetAllProductsViewModelø
-º
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs (K
-
-%5bool""string.IsNullOrWhiteSpace(string?)*
-"
-string*
-
-%4string*
-3
-4*ã
-3n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.csM (}Î
-Ë
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.csp (}
-%6string":Aksaty.Services.Api.Controllers.ApiController.TanentId.get*,*
-(Aksaty.Api.Controllers.ProductController¢
-ü
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.csM (}
-%7string";Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.TanentId.set*R
-P
-getAllProductsViewModel5Aksaty.Application.ViewModels.GetAllProductsViewModel*
-
-%6string*
-4*≈
-4n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs (1ü
-ú
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs" (*6
-%80Aksaty.Application.Interfaces.IProductAppService"__id*l*j*
-(Aksaty.Api.Controllers.ProductController"<
-_service0Aksaty.Application.Interfaces.IProductAppService‹Ÿ
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs" (J*
-%9$System.Threading.Tasks.Task<TResult>"nAksaty.Application.Interfaces.IProductAppService.GetAll(Aksaty.Application.ViewModels.GetAllProductsViewModel)*8
-6
-%80Aksaty.Application.Interfaces.IProductAppService*R
-P
-getAllProductsViewModel5Aksaty.Application.ViewModels.GetAllProductsViewModel2=GetAll(Aksaty.Application.ViewModels.GetAllProductsViewModel)ª
-∏
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs (J8
-	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>"__id*
-""Ö
-Ç
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs (-
-%10&Microsoft.AspNetCore.Http.HttpResponse"4Microsoft.AspNetCore.Mvc.ControllerBase.Response.get*+)
-'Microsoft.AspNetCore.Mvc.ControllerBaseå
-â
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs (2
-%11+Microsoft.AspNetCore.Http.IHeaderDictionary"2Microsoft.AspNetCore.Http.HttpResponse.Headers.get*/
--
-%10&Microsoft.AspNetCore.Http.HttpResponse˘
-ˆ
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs+ (B
-%12string"9Aksaty.Infra.CrossCutting.Util.PagedList<T>.GetMetaData()*:
-8
-	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>Ó
-Î
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs (C
-%13void"qAksaty.Infra.CrossCutting.Util.ResponseHeaders.AddPagination(Microsoft.AspNetCore.Http.IHeaderDictionary, string)*2"0
-.Aksaty.Infra.CrossCutting.Util.ResponseHeaders*4
-2
-%11+Microsoft.AspNetCore.Http.IHeaderDictionary*
-
-%12stringò
-ï
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs" (10
-%14)System.Collections.Generic.IEnumerable<T>"5Aksaty.Infra.CrossCutting.Util.PagedList<T>.Items.get*:
-8
-	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>Œ
-À
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs (2,
-%15%Microsoft.AspNetCore.Mvc.ActionResult"DAksaty.Services.Api.Controllers.ApiController.CustomResponse(object)*1/
--Aksaty.Services.Api.Controllers.ApiController*2
-0
-%14)System.Collections.Generic.IEnumerable<T>"†
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs (3.
-,
-%15%Microsoft.AspNetCore.Mvc.ActionResult*˚
-5n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs	 (	"Ö
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs (	
-implicit return*É
-6n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.csi (ià
-Ö
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\ProductController.cs) (,
-%16"__entrypoint*
-0:P
-getAllProductsViewModel5Aksaty.Application.ViewModels.GetAllProductsViewModelB,*
-(Aksaty.Api.Controllers.ProductController

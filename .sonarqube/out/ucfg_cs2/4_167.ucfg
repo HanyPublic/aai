@@ -1,143 +1,0 @@
-
-ÜAksaty.Domain.Commands.CustomerCommandHandler.Handle(Aksaty.Domain.Commands.RemoveCustomerCommand, System.Threading.CancellationToken)j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csm, m(2"0*Û
-0j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cso o("˘ˆ
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cso o("
-
-%0bool"6Aksaty.Domain.Commands.RemoveCustomerCommand.IsValid()*9
-7
-message,Aksaty.Domain.Commands.RemoveCustomerCommand2	IsValid()*
-1
-2*¢
-1j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cso+ o(Cé
-ã
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cso+ o(C/
-%1)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.get*9
-7
-message,Aksaty.Domain.Commands.RemoveCustomerCommand"ü
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cso$ o(D1
-/
-%1)FluentValidation.Results.ValidationResult*˘
-2j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csq s( £
-†
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csq! q(42
-%2,Aksaty.Domain.Interfaces.ICustomerRepository"__id*x*v/
--Aksaty.Domain.Commands.CustomerCommandHandler"C
-_customerRepository,Aksaty.Domain.Interfaces.ICustomerRepositoryÏ
-È
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csq= q(G
-%3System.Guid"-Aksaty.Domain.Commands.CustomerCommand.Id.get*9
-7
-message,Aksaty.Domain.Commands.RemoveCustomerCommandøº
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csq! q(H*
-%4$System.Threading.Tasks.Task<TResult>"AAksaty.Domain.Interfaces.ICustomerRepository.GetById(System.Guid)*4
-2
-%2,Aksaty.Domain.Interfaces.ICustomerRepository*
-
-%3System.Guid2GetById(System.Guid)®
-•
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csq q(H)
-customerAksaty.Domain.Models.Customer"__id*
-""*
-3
-4*£
-3j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csu v('¸
-˘
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csu u(8
-
-%5void"4NetDevPack.Messaging.CommandHandler.AddError(string)*'%
-#NetDevPack.Messaging.CommandHandler* 
-The customer doesn't exists.ê
-ç
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csv v('/
-%6)FluentValidation.Results.ValidationResult"__id*h*f%
-#NetDevPack.Messaging.CommandHandler"=
-ValidationResult)FluentValidation.Results.ValidationResult"ü
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csv v((1
-/
-%6)FluentValidation.Results.ValidationResult*ÿ
-4j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csy }(>Ï
-È
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csy= y(G
-%7System.Guid"-Aksaty.Domain.Commands.CustomerCommand.Id.get*9
-7
-message,Aksaty.Domain.Commands.RemoveCustomerCommandÀ»
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csy$ y(H/
-%8)Aksaty.Domain.Events.CustomerRemovedEvent")Aksaty.Domain.Events.CustomerRemovedEventê
-ç
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csy( y(<
-
-%9void"KAksaty.Domain.Events.CustomerRemovedEvent.CustomerRemovedEvent(System.Guid)*1
-/
-%8)Aksaty.Domain.Events.CustomerRemovedEvent*
-
-%7System.Guid°
-û
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.csy y(I
-%10void"CNetDevPack.Domain.Entity.AddDomainEvent(NetDevPack.Messaging.Event)*+
-)
-customerAksaty.Domain.Models.Customer*1
-/
-%8)Aksaty.Domain.Events.CustomerRemovedEvent§
-°
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs{ {(3
-%11,Aksaty.Domain.Interfaces.ICustomerRepository"__id*x*v/
--Aksaty.Domain.Commands.CustomerCommandHandler"C
-_customerRepository,Aksaty.Domain.Interfaces.ICustomerRepository€ÿ
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs{ {(0
-%12void"RAksaty.Domain.Interfaces.ICustomerRepository.Remove(Aksaty.Domain.Models.Customer)*5
-3
-%11,Aksaty.Domain.Interfaces.ICustomerRepository*+
-)
-customerAksaty.Domain.Models.Customer2%Remove(Aksaty.Domain.Models.Customer)§
-°
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs}  }(33
-%13,Aksaty.Domain.Interfaces.ICustomerRepository"__id*x*v/
--Aksaty.Domain.Commands.CustomerCommandHandler"C
-_customerRepository,Aksaty.Domain.Interfaces.ICustomerRepositoryâÜ
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs}  }(>"
-%14NetDevPack.Data.IUnitOfWork"-NetDevPack.Data.IRepository<T>.UnitOfWork.get*5
-3
-%13,Aksaty.Domain.Interfaces.ICustomerRepository2UnitOfWork.getƒ
-¡
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs} }(?+
-%15$System.Threading.Tasks.Task<TResult>"ONetDevPack.Messaging.CommandHandler.Commit(NetDevPack.Data.IUnitOfWork, string)*'%
-#NetDevPack.Messaging.CommandHandler*$
-"
-%14NetDevPack.Data.IUnitOfWork*
-"""t
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs} }(@
-""*Û
-5j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs~	 ~(	"Å
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\CustomerCommandHandler.cs~ ~(	
-implicit return:7
-message,Aksaty.Domain.Commands.RemoveCustomerCommand:7
-cancellationToken"System.Threading.CancellationTokenB1/
--Aksaty.Domain.Commands.CustomerCommandHandler

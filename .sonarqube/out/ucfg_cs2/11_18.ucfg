@@ -1,126 +1,0 @@
-
-RAksaty.Services.API.Startup.Startup(Microsoft.Extensions.Hosting.IHostEnvironment)X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs ("1*b
-1X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs"	 "(	*
-0*©
-0X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs (#’“
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs (4=
-%07Microsoft.Extensions.Configuration.ConfigurationBuilder"7Microsoft.Extensions.Configuration.ConfigurationBuilder˙
-˜
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs (2
-
-%1void"NMicrosoft.Extensions.Configuration.ConfigurationBuilder.ConfigurationBuilder()*?
-=
-%07Microsoft.Extensions.Configuration.ConfigurationBuilder˚¯
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs (0
-%2string"AMicrosoft.Extensions.Hosting.IHostEnvironment.ContentRootPath.get*6
-4
-env-Microsoft.Extensions.Hosting.IHostEnvironment2ContentRootPath.get¡
-æ
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs (1>
-%38Microsoft.Extensions.Configuration.IConfigurationBuilder"åMicrosoft.Extensions.Configuration.FileConfigurationExtensions.SetBasePath(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*B"@
->Microsoft.Extensions.Configuration.FileConfigurationExtensions*?
-=
-%07Microsoft.Extensions.Configuration.ConfigurationBuilder*
-
-%2string‰
-·
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs (<>
-%48Microsoft.Extensions.Configuration.IConfigurationBuilder"òMicrosoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder, string, bool, bool)*B"@
->Microsoft.Extensions.Configuration.JsonConfigurationExtensions*@
->
-%38Microsoft.Extensions.Configuration.IConfigurationBuilder*
-appsettings.json*
-""*
-""˚¯
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs, (?
-%5string"AMicrosoft.Extensions.Hosting.IHostEnvironment.EnvironmentName.get*6
-4
-env-Microsoft.Extensions.Hosting.IHostEnvironment2EnvironmentName.getó
-î
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs (F
-%6string"__concat*
-appsettings.*
-
-%5stringê
-ç
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs (F
-%7string"__concat*
-
-%6string*	
-.json–
-Õ
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs (M>
-%88Microsoft.Extensions.Configuration.IConfigurationBuilder"íMicrosoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder, string, bool)*B"@
->Microsoft.Extensions.Configuration.JsonConfigurationExtensions*@
->
-%48Microsoft.Extensions.Configuration.IConfigurationBuilder*
-
-%7string*
-""Í
-Á
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs (MC
-builder8Microsoft.Extensions.Configuration.IConfigurationBuilder"__id*@
->
-%88Microsoft.Extensions.Configuration.IConfigurationBuilderÿ
-’
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs (#
-
-%9bool"vMicrosoft.Extensions.Hosting.HostEnvironmentEnvExtensions.IsDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment)*=";
-9Microsoft.Extensions.Hosting.HostEnvironmentEnvExtensions*6
-4
-env-Microsoft.Extensions.Hosting.IHostEnvironment*
-2
-3*©
-2X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs (1ƒ
-¡
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs (1?
-%108Microsoft.Extensions.Configuration.IConfigurationBuilder"ëMicrosoft.Extensions.Configuration.UserSecretsConfigurationExtensions.AddUserSecrets<T>(Microsoft.Extensions.Configuration.IConfigurationBuilder)*I"G
-EMicrosoft.Extensions.Configuration.UserSecretsConfigurationExtensions*E
-C
-builder8Microsoft.Extensions.Configuration.IConfigurationBuilder*
-3*Å	
-3X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs  !(+¬
-ø
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs   (-?
-%118Microsoft.Extensions.Configuration.IConfigurationBuilder"ìMicrosoft.Extensions.Configuration.EnvironmentVariablesExtensions.AddEnvironmentVariables(Microsoft.Extensions.Configuration.IConfigurationBuilder)*E"C
-AMicrosoft.Extensions.Configuration.EnvironmentVariablesExtensions*E
-C
-builder8Microsoft.Extensions.Configuration.IConfigurationBuilder≠™
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs! !(+<
-%125Microsoft.Extensions.Configuration.IConfigurationRoot"@Microsoft.Extensions.Configuration.IConfigurationBuilder.Build()*E
-C
-builder8Microsoft.Extensions.Configuration.IConfigurationBuilder2Build()ß
-§
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs! !(+8
-%131Microsoft.Extensions.Configuration.IConfiguration"-Aksaty.Services.API.Startup.Configuration.set*
-Aksaty.Services.API.Startup*>
-<
-%125Microsoft.Extensions.Configuration.IConfigurationRoot*
-4*Œ
-4X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs"	 "(	"o
-X
-ND:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Startup.cs" "(	
-implicit return:4
-env-Microsoft.Extensions.Hosting.IHostEnvironmentB
-Aksaty.Services.API.Startup

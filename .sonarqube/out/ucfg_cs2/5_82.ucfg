@@ -1,25 +1,0 @@
-
-fAksaty.Domain.Commands.Validations.AddUpdateTanentCommandValidation.AddUpdateTanentCommandValidation()Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\Validations\AddUpdateTanentCommandValidation.cs (/"1*©
-1Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\Validations\AddUpdateTanentCommandValidation.cs	 (	ñ
-ì
-
-%0void"IAksaty.Domain.Commands.Validations.TanentValidation<T>.TanentValidation()*:8
-6Aksaty.Domain.Commands.Validations.TanentValidation<T>*
-0*≠
-0Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\Validations\AddUpdateTanentCommandValidation.cs (ö
-ó
-Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\Validations\AddUpdateTanentCommandValidation.cs (
-
-%1void"EAksaty.Domain.Commands.Validations.TanentValidation<T>.ValidateName()*:8
-6Aksaty.Domain.Commands.Validations.TanentValidation<T>*
-2*´
-2Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\Validations\AddUpdateTanentCommandValidation.cs	 (	"ù
-Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\Validations\AddUpdateTanentCommandValidation.cs (	
-implicit returnBGE
-CAksaty.Domain.Commands.Validations.AddUpdateTanentCommandValidation

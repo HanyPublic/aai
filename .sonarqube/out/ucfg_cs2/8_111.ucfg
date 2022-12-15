@@ -1,26 +1,0 @@
-
-MAksaty.Infra.Data.Repository.SaleRepository.Remove(Aksaty.Domain.Models.Sale)h
-^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.csp p("0*é
-0h
-^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.csr r(‘
-Ž
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.csr r(2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*h*f-
-+Aksaty.Infra.Data.Repository.SaleRepository"5
-DbSet,Microsoft.EntityFrameworkCore.DbSet<TEntity>àÝ
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.csr r(G
-%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*#
-!
-SaleAksaty.Domain.Models.Sale2Remove(TEntity)*
-1*î
-1h
-^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.css	 s(	"
-h
-^D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleRepository.css s(	
-implicit return:!
-SaleAksaty.Domain.Models.SaleB/-
-+Aksaty.Infra.Data.Repository.SaleRepository

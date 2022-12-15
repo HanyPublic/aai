@@ -1,115 +1,0 @@
-
-uAksaty.Infra.Data.Migrations.customer_attachments_image.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)É
-yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602003216_customer_attachments_image.cs  (""0*”+
-0É
-yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602003216_customer_attachments_image.cs
- E(6‰·
-É
-yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602003216_customer_attachments_image.cs
- (%_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-EntityId*
-Attachments*
-""2"DropColumn(string, string, string)Ê„
-É
-yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602003216_customer_attachments_image.cs (%_
-%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-EntityType*
-Attachments*
-""2"DropColumn(string, string, string)∆√
-É
-yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602003216_customer_attachments_image.cs (_
-%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"¶Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
-ImageId*
-	Customers*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2lAddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)™ß
-É
-yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602003216_customer_attachments_image.cs .(_
-%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-CustomerAttachments*
-""*
-""*
-""*
-""2˚CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)π∂
-É
-yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602003216_customer_attachments_image.cs0 3("_
-%4YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_Customers_ImageId*
-	Customers*	
-ImageId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)◊‘
-É
-yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602003216_customer_attachments_image.cs5 8('_
-%5YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*'%
-#IX_CustomerAttachments_AttachmentId*
-CustomerAttachments*
-AttachmentId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)”–
-É
-yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602003216_customer_attachments_image.cs: =(%_
-%6YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*%#
-!IX_CustomerAttachments_CustomerId*
-CustomerAttachments*
-
-CustomerId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)ù
-ö
-É
-yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602003216_customer_attachments_image.csE E(6
-%7"__id*
-""Ì
-É
-yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602003216_customer_attachments_image.cs? E(7_
-%8YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"˜Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddForeignKey(string, string, string, string, string, string, string, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*$"
- FK_Customers_Attachments_ImageId*
-	Customers*	
-ImageId*
-Attachments*
-""*
-""*
-Id*
-""*
-
-%72ΩAddForeignKey(string, string, string, string, string, string, string, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction)*
-1*ß
-1É
-yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602003216_customer_attachments_image.csF	 F(	"õ
-É
-yD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602003216_customer_attachments_image.csF F(	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB;9
-7Aksaty.Infra.Data.Migrations.customer_attachments_image

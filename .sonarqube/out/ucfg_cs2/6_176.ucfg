@@ -1,31 +1,0 @@
-
-bAksaty.Domain.Commands.Validations.CreateNewSaleCommandValidation.CreateNewSaleCommandValidation()Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\CreateNewSaleCommandValidation.cs	 	(-"1*£
-1Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\CreateNewSaleCommandValidation.cs	 (	ê
-ç
-
-%0void"EAksaty.Domain.Commands.Validations.SaleValidation<T>.SaleValidation()*86
-4Aksaty.Domain.Commands.Validations.SaleValidation<T>*
-0* 
-0Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\CreateNewSaleCommandValidation.cs ( ò
-ï
-Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\CreateNewSaleCommandValidation.cs (
-
-%1void"EAksaty.Domain.Commands.Validations.SaleValidation<T>.ValidateAmount()*86
-4Aksaty.Domain.Commands.Validations.SaleValidation<T>ú
-ô
-Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\CreateNewSaleCommandValidation.cs ( 
-
-%2void"IAksaty.Domain.Commands.Validations.SaleValidation<T>.ValidatePaidAmount()*86
-4Aksaty.Domain.Commands.Validations.SaleValidation<T>*
-2*´
-2Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\CreateNewSaleCommandValidation.cs	 (	"ù
-Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Validations\Sale\CreateNewSaleCommandValidation.cs (	
-implicit returnBEC
-AAksaty.Domain.Commands.Validations.CreateNewSaleCommandValidation

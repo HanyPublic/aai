@@ -1,75 +1,0 @@
-
-kAksaty.Domain.Handlers.SaleInstallmentCommandsHandler.UpdateSaleInstallmentValue(Aksaty.Domain.Models.Sale)†
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csæ æ(/"0*œ
-0†
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csè é(4ï
-ì
-†
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csèC è(W
-%0decimal"-Aksaty.Domain.Models.Sale.RemainingAmount.get*#
-!
-saleAksaty.Domain.Models.Saleò
-ï
-†
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csèY è(t	
-%1int"4Aksaty.Domain.Models.Sale.InstallmentMonthNumber.get*#
-!
-saleAksaty.Domain.Models.Sale—
-”
-†
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csè$ è(u	
-%2int"AAksaty.Domain.Models.Sale.CalculateInstallmentValue(decimal, int)*"
-Aksaty.Domain.Models.Sale*
-
-%0decimal*
-	
-%1intù
-ö
-†
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csè è(u	
-%3int".Aksaty.Domain.Models.Sale.InstallmentValue.set*#
-!
-saleAksaty.Domain.Models.Sale*
-	
-%2int‹
-ˆ
-†
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csé é(4(
-%4"System.Collections.Generic.List<T>".Aksaty.Domain.Models.Sale.SaleInstallments.get*#
-!
-saleAksaty.Domain.Models.Sale*
-1*”
-1†
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csî	 î(	*
-2
-3*Š
-2†
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csë ë(1ì
-é
-†
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csë ë(1	
-%5int".Aksaty.Domain.Models.Sale.InstallmentValue.get*#
-!
-saleAksaty.Domain.Models.Sale‡
-„
-†
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csë ë(1
-%6decimal"/Aksaty.Domain.Models.SaleInstallment.Amount.set*,
-*
-si$Aksaty.Domain.Models.SaleInstallment*
-	
-%5int*
-1*½
-3†
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csí í("®
-†
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csí í(#
-!
-saleAksaty.Domain.Models.Sale*­
-4†
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csî	 î(	"ž
-†
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csî î(	
-implicit return:!
-saleAksaty.Domain.Models.SaleB97
-5Aksaty.Domain.Handlers.SaleInstallmentCommandsHandler

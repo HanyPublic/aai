@@ -1,22 +1,0 @@
-
-Aksaty.Domain.Events.CustomerEventHandler.Handle(Aksaty.Domain.Events.CustomerRemovedEvent, System.Threading.CancellationToken)f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerEventHandler.cs ("0*‹
-0f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerEventHandler.cs (%ﬁ
-€
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerEventHandler.cs (%!
-%0System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*"
-System.Threading.Tasks.Task"ç
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerEventHandler.cs (&#
-!
-%0System.Threading.Tasks.Task*Í
-1f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerEventHandler.cs	 (	"}
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerEventHandler.cs (	
-implicit return:4
-message)Aksaty.Domain.Events.CustomerRemovedEvent:7
-cancellationToken"System.Threading.CancellationTokenB-+
-)Aksaty.Domain.Events.CustomerEventHandler

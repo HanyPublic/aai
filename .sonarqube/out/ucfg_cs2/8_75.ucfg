@@ -1,26 +1,0 @@
-
-NAksaty.Infra.Data.Repository.TanentRepository.Add(Aksaty.Domain.Models.Tanent)j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.csT T("0*
-0j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.csV V(ñ
-ì
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.csV V(2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*k*i/
--Aksaty.Infra.Data.Repository.TanentRepository"6
-_dbset,Microsoft.EntityFrameworkCore.DbSet<TEntity>‡›
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.csV V(G
-%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*'
-%
-TanentAksaty.Domain.Models.Tanent2Add(TEntity)*
-1*Û
-1j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.csW	 W(	"Å
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.csW W(	
-implicit return:%
-TanentAksaty.Domain.Models.TanentB1/
--Aksaty.Infra.Data.Repository.TanentRepository

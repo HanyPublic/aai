@@ -1,20 +1,0 @@
-Ö
-+Aksaty.Infra.CrossCutting.Util.PagedList<T>objectF
-PagedList()7Aksaty.Infra.CrossCutting.Util.PagedList<T>.PagedList()`
-PagedList(int, int, int)DAksaty.Infra.CrossCutting.Util.PagedList<T>.PagedList(int, int, int)„
-*CreateListAsync(System.Linq.IQueryable<T>)VAksaty.Infra.CrossCutting.Util.PagedList<T>.CreateListAsync(System.Linq.IQueryable<T>)J
-GetMetaData()9Aksaty.Infra.CrossCutting.Util.PagedList<T>.GetMetaData()B
-	Items.get5Aksaty.Infra.CrossCutting.Util.PagedList<T>.Items.getB
-	Items.set5Aksaty.Infra.CrossCutting.Util.PagedList<T>.Items.setN
-CurrentPage.get;Aksaty.Infra.CrossCutting.Util.PagedList<T>.CurrentPage.getN
-CurrentPage.set;Aksaty.Infra.CrossCutting.Util.PagedList<T>.CurrentPage.setL
-TotalPages.get:Aksaty.Infra.CrossCutting.Util.PagedList<T>.TotalPages.getL
-TotalPages.set:Aksaty.Infra.CrossCutting.Util.PagedList<T>.TotalPages.setH
-PageSize.get8Aksaty.Infra.CrossCutting.Util.PagedList<T>.PageSize.getH
-PageSize.set8Aksaty.Infra.CrossCutting.Util.PagedList<T>.PageSize.setL
-TotalCount.get:Aksaty.Infra.CrossCutting.Util.PagedList<T>.TotalCount.getL
-TotalCount.set:Aksaty.Infra.CrossCutting.Util.PagedList<T>.TotalCount.setN
-HasPrevious.get;Aksaty.Infra.CrossCutting.Util.PagedList<T>.HasPrevious.getN
-HasPrevious.set;Aksaty.Infra.CrossCutting.Util.PagedList<T>.HasPrevious.setF
-HasNext.get7Aksaty.Infra.CrossCutting.Util.PagedList<T>.HasNext.getF
-HasNext.set7Aksaty.Infra.CrossCutting.Util.PagedList<T>.HasNext.set

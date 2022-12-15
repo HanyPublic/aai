@@ -1,43 +1,0 @@
-
-nAksaty.Domain.Commands.Validations.RegisterNewCustomerCommandValidation.RegisterNewCustomerCommandValidation()Ñ
-zD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\RegisterNewCustomerCommandValidation.cs (3"1*Æ
-1Ñ
-zD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\RegisterNewCustomerCommandValidation.cs
-	 
-(	ú
-ô
-
-%0void"MAksaty.Domain.Commands.Validations.CustomerValidation<T>.CustomerValidation()*<:
-8Aksaty.Domain.Commands.Validations.CustomerValidation<T>*
-0*ı
-0Ñ
-zD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\RegisterNewCustomerCommandValidation.cs 	(ù
-ö
-Ñ
-zD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\RegisterNewCustomerCommandValidation.cs (
-
-%1void"GAksaty.Domain.Commands.Validations.CustomerValidation<T>.ValidateName()*<:
-8Aksaty.Domain.Commands.Validations.CustomerValidation<T>¢
-ü
-Ñ
-zD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\RegisterNewCustomerCommandValidation.cs (
-
-%2void"LAksaty.Domain.Commands.Validations.CustomerValidation<T>.ValidateBirthDate()*<:
-8Aksaty.Domain.Commands.Validations.CustomerValidation<T>û
-õ
-Ñ
-zD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\RegisterNewCustomerCommandValidation.cs	 	(
-
-%3void"HAksaty.Domain.Commands.Validations.CustomerValidation<T>.ValidateEmail()*<:
-8Aksaty.Domain.Commands.Validations.CustomerValidation<T>*
-2*©
-2Ñ
-zD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\RegisterNewCustomerCommandValidation.cs
-	 
-(	"ú
-Ñ
-zD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Commands\Validations\RegisterNewCustomerCommandValidation.cs
- 
-(	
-implicit returnBKI
-GAksaty.Domain.Commands.Validations.RegisterNewCustomerCommandValidation

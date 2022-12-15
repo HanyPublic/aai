@@ -1,45 +1,0 @@
-
-KAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand.IsValid()z
-pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs ($"0*‹
-0z
-pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs (!·´
-z
-pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs (M]
-%0WAksaty.Domain.Attachments.Commands.Validations.RemoveRestoreAttachmentCommandValidation"WAksaty.Domain.Attachments.Commands.Validations.RemoveRestoreAttachmentCommandValidationñ
-î
-z
-pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs# (K
-
-%1void"‚Aksaty.Domain.Attachments.Commands.Validations.RemoveRestoreAttachmentCommandValidation.RemoveRestoreAttachmentCommandValidation()*_
-]
-%0WAksaty.Domain.Attachments.Commands.Validations.RemoveRestoreAttachmentCommandValidation‹
-ˆ
-z
-pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs (\/
-%2)FluentValidation.Results.ValidationResult"1FluentValidation.AbstractValidator<T>.Validate(T)*_
-]
-%0WAksaty.Domain.Attachments.Commands.Validations.RemoveRestoreAttachmentCommandValidation*EC
-AAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand¸
-µ
-z
-pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs (\/
-%3)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.set* 
-NetDevPack.Messaging.Command*1
-/
-%2)FluentValidation.Results.ValidationResult…‚
-z
-pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs (!
-
-%4bool"&NetDevPack.Messaging.Command.IsValid()*EC
-AAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand2	IsValid()"Š
-z
-pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs ("
-
-
-%4bool*“
-1z
-pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs	 (	"‘
-z
-pD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Attachments\Commands\RemoveRestoreAttachmentCommand.cs (	
-implicit returnBEC
-AAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand

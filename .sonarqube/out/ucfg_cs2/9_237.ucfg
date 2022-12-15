@@ -1,50 +1,0 @@
-
-µAksaty.Application.ViewModels.SaleInstallmentViewModel.createSaleInstallment(System.Guid, decimal, System.Guid, string, System.DateTime, string, string, System.DateTime, bool, bool)Ž
-ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs"/ "(D"0*¼	
-0Ž
-ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs* .(0Š‡
-Ž
-ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs* .(1<
-%06Aksaty.Application.ViewModels.SaleInstallmentViewModel"6Aksaty.Application.ViewModels.SaleInstallmentViewModelÄ
-Á
-Ž
-ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs* *(/
-
-%1void"¸Aksaty.Application.ViewModels.SaleInstallmentViewModel.SaleInstallmentViewModel(System.Guid, decimal, System.Guid, string, System.DateTime, string, string, System.DateTime, bool, bool)*>
-<
-%06Aksaty.Application.ViewModels.SaleInstallmentViewModel*
-""*
-""*
-""*
-
-statusstring*
-
-dueDateSystem.DateTime*
-
-tanentIdstring*
-
-createdByIdstring*
-
-	createdAtSystem.DateTime*
-""*
-"""Ñ
-Ž
-ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs* .(2>
-<
-%06Aksaty.Application.ViewModels.SaleInstallmentViewModel*½
-1Ž
-ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs/	 /(	"¦
-Ž
-ƒD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\SaleInstallmentViewModel.cs/ /(	
-implicit return:
-idSystem.Guid:
-amountdecimal:
-saleIdSystem.Guid:
-statusstring:
-dueDateSystem.DateTime:
-tanentIdstring:
-createdByIdstring:
-	createdAtSystem.DateTime:
-showOnWebsitebool:
-deletedboolB:"8
-6Aksaty.Application.ViewModels.SaleInstallmentViewModel

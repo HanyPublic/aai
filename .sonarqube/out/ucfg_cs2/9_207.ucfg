@@ -1,42 +1,0 @@
-
-^Aksaty.Application.Services.SaleAppService.Create(Aksaty.Application.ViewModels.SaleViewModel)g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs", "(2"0*à
-
-0g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs$ $(eŠ
-‡
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs$ $()*
-%0$NetDevPack.Mediator.IMediatorHandler"__id*j*h,
-*Aksaty.Application.Services.SaleAppService"8
-_mediatorHandler$NetDevPack.Mediator.IMediatorHandlerÝ
-Ú
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs$6 $(=
-%1AutoMapper.IMapper"__id*O*M,
-*Aksaty.Application.Services.SaleAppService"
-_mapperAutoMapper.IMapperÈÅ
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs$6 $(f1
-%2+Aksaty.Domain.Commands.CreateNewSaleCommand"0AutoMapper.IMapperBase.Map<TDestination>(object)*
-
-%1AutoMapper.IMapper*>
-<
-saleViewModel+Aksaty.Application.ViewModels.SaleViewModel2Map<TDestination>(object)ÆÃ
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs$ $(g*
-%3$System.Threading.Tasks.Task<TResult>"6NetDevPack.Mediator.IMediatorHandler.SendCommand<T>(T)*,
-*
-%0$NetDevPack.Mediator.IMediatorHandler*3
-1
-%2+Aksaty.Domain.Commands.CreateNewSaleCommand2SendCommand<T>(T)"q
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs$ $(h
-""*ì
-1g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs%	 %(	"~
-g
-]D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleAppService.cs% %(	
-implicit return:<
-saleViewModel+Aksaty.Application.ViewModels.SaleViewModelB.,
-*Aksaty.Application.Services.SaleAppService

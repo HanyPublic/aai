@@ -1,8 +1,0 @@
-¬
-AAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand4Aksaty.Domain.Attachments.Commands.AttachmentCommand0Aksaty.Infra.CrossCutting.Util.BaseEntityCommandNetDevPack.Messaging.CommandNetDevPack.Messaging.Messageobject¨
-1RemoveRestoreAttachmentCommand(System.Guid, bool)sAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand.RemoveRestoreAttachmentCommand(System.Guid, bool)X
-	IsValid()KAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand.IsValid()Z
-
-Delete.getLAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand.Delete.getZ
-
-Delete.setLAksaty.Domain.Attachments.Commands.RemoveRestoreAttachmentCommand.Delete.set

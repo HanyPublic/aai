@@ -1,61 +1,0 @@
-
-xAksaty.Application.Services.SaleInstallmentAppService.GetById(Aksaty.Application.ViewModels.GetSaleInstallmentViewModel)r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs4 (;"0*×
-0r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs  (Hó
-ð
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs( (1
-%0MediatR.IMediator"__id*[*Y7
-5Aksaty.Application.Services.SaleInstallmentAppService"
-	_mediatorMediatR.IMediatoró
-ð
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs7 (>
-%1AutoMapper.IMapper"__id*Z*X7
-5Aksaty.Application.Services.SaleInstallmentAppService"
-_mapperAutoMapper.IMapperñî
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs7 (x3
-%2-Aksaty.Domain.Queries.GetSaleInstallmentQuery"0AutoMapper.IMapperBase.Map<TDestination>(object)*
-
-%1AutoMapper.IMapper*Z
-X
-getSaleInstallmentViewModel9Aksaty.Application.ViewModels.GetSaleInstallmentViewModel2Map<TDestination>(object)³°
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs( (y*
-%3$System.Threading.Tasks.Task<TResult>"bMediatR.IMediator.Send<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)*
-
-%0MediatR.IMediator*5
-3
-%2-Aksaty.Domain.Queries.GetSaleInstallmentQuery*
-""2PSend<TResponse>(MediatR.IRequest<TResponse>, System.Threading.CancellationToken)¾
-»
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs (y7
-saleInstallment$Aksaty.Domain.Models.SaleInstallment"__id*
-""ó
-ð
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs   (
-%4AutoMapper.IMapper"__id*Z*X7
-5Aksaty.Application.Services.SaleInstallmentAppService"
-_mapperAutoMapper.IMapperÙÖ
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs   (I<
-%56Aksaty.Application.ViewModels.SaleInstallmentViewModel"0AutoMapper.IMapperBase.Map<TDestination>(object)*
-
-%4AutoMapper.IMapper*9
-7
-saleInstallment$Aksaty.Domain.Models.SaleInstallment2Map<TDestination>(object)"´
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs   (J>
-<
-%56Aksaty.Application.ViewModels.SaleInstallmentViewModel*ƒ
-1r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs!	 !(	"‰
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\SaleInstallmentAppService.cs! !(	
-implicit return:X
-getSaleInstallmentViewModel9Aksaty.Application.ViewModels.GetSaleInstallmentViewModelB97
-5Aksaty.Application.Services.SaleInstallmentAppService

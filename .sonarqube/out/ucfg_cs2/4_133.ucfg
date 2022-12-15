@@ -1,201 +1,0 @@
-
-¡Aksaty.Domain.Models.Customer.Customer(System.Guid, System.Guid?, string, string, System.DateTime, string, string, string, string, string, string, string, System.DateTime, bool, bool, string, string, string, string, System.Collections.Generic.List<Aksaty.Domain.Models.CustomerAttachment>)Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs ("1*á
-1Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs.	 .(	­ª
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csZK Z(i(
-%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>Â
-¿
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csZO Z(g
-
-%1void")System.Collections.Generic.List<T>.List()**
-(
-%0"System.Collections.Generic.List<T>Ž
-‹
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csZ Z(j/
-%2)System.Collections.Generic.ICollection<T>"-Aksaty.Domain.Models.Customer.Attachments.set*!
-Aksaty.Domain.Models.Customer**
-(
-%0"System.Collections.Generic.List<T>u
-s
-
-%3void"6Aksaty.Infra.CrossCutting.Util.BaseEntity.BaseEntity()*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-0*“%
-0Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs -(%Ï
-Ì
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs (
-%4System.Nullable<T>")Aksaty.Domain.Models.Customer.ImageId.set*!
-Aksaty.Domain.Models.Customer*
-""¹
-¶
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs (
-%5System.Guid"NetDevPack.Domain.Entity.Id.set*
-NetDevPack.Domain.Entity*
-""Ê
-Ç
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs (
-%6string"&Aksaty.Domain.Models.Customer.Name.set*!
-Aksaty.Domain.Models.Customer*
-
-namestringÌ
-É
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs (
-%7string"'Aksaty.Domain.Models.Customer.Email.set*!
-Aksaty.Domain.Models.Customer*
-
-emailstringæ
-ã
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs (!
-%8System.DateTime"+Aksaty.Domain.Models.Customer.BirthDate.set*!
-Aksaty.Domain.Models.Customer*
-
-	birthDateSystem.DateTimeÎ
-Ë
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs (
-%9string"(Aksaty.Domain.Models.Customer.Mobile.set*!
-Aksaty.Domain.Models.Customer*
-
-mobilestringÑ
-Î
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs (
-%10string")Aksaty.Domain.Models.Customer.Mobile2.set*!
-Aksaty.Domain.Models.Customer*
-
-mobile2stringÑ
-Î
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs   (
-%11string")Aksaty.Domain.Models.Customer.Address.set*!
-Aksaty.Domain.Models.Customer*
-
-addressstringË
-È
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs! !(
-%12string"&Aksaty.Domain.Models.Customer.Type.set*!
-Aksaty.Domain.Models.Customer*
-
-typestringÝ
-Ú
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs" "()
-%13string"/Aksaty.Domain.Models.Customer.AddRecription.set*!
-Aksaty.Domain.Models.Customer*
-
-addRecriptionstringñ
-î
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs# #(%
-%14string"9Aksaty.Infra.CrossCutting.Util.BaseEntity.CreatedById.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-
-createdByIdstringë
-è
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs$ $(
-%15string"6Aksaty.Infra.CrossCutting.Util.BaseEntity.TanentId.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-
-tanentIdstringÿ
-ü
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs% %(!
-%16System.DateTime"7Aksaty.Infra.CrossCutting.Util.BaseEntity.CreatedAt.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-
-	createdAtSystem.DateTimeà
-Ý
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs& &()
-%17bool";Aksaty.Infra.CrossCutting.Util.BaseEntity.ShowOnWebsite.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-""Ú
-×
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs' '(
-%18bool"5Aksaty.Infra.CrossCutting.Util.BaseEntity.Deleted.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-""×
-Ô
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs( ((#
-%19string",Aksaty.Domain.Models.Customer.NationalId.set*!
-Aksaty.Domain.Models.Customer*
-
-
-nationalIdstringÍ
-Ê
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs) )(
-%20string"'Aksaty.Domain.Models.Customer.RefId.set*!
-Aksaty.Domain.Models.Customer*
-
-refIdstringÍ
-Ê
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs* *(
-%21string"'Aksaty.Domain.Models.Customer.Notes.set*!
-Aksaty.Domain.Models.Customer*
-
-notesstringÏ
-Ì
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs+ +(
-%22string"(Aksaty.Domain.Models.Customer.Review.set*!
-Aksaty.Domain.Models.Customer*
-
-reviewstringç
-ä
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs, ,(<
-%23void"<System.Collections.Generic.List<T>.ForEach(System.Action<T>)*3
-1
-attachments"System.Collections.Generic.List<T>*
-""˜
-•
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs- -(%0
-%24)System.Collections.Generic.ICollection<T>"-Aksaty.Domain.Models.Customer.Attachments.set*!
-Aksaty.Domain.Models.Customer*3
-1
-attachments"System.Collections.Generic.List<T>*
-2*Ò
-2Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs.	 .(	"q
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs. .(	
-implicit return:
-idSystem.Guid:
-imageIdSystem.Nullable<T>:
-namestring:
-emailstring:
-	birthDateSystem.DateTime:
-mobilestring:
-mobile2string:
-addressstring:
-typestring:
-addRecriptionstring:
-createdByIdstring:
-tanentIdstring:
-	createdAtSystem.DateTime:
-showOnWebsitebool:
-deletedbool:
-
-nationalIdstring:
-refIdstring:
-notesstring:
-reviewstring:1
-attachments"System.Collections.Generic.List<T>B!
-Aksaty.Domain.Models.Customer

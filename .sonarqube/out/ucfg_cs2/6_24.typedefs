@@ -1,21 +1,0 @@
-«	
-$Aksaty.Domain.Models.SaleInstallment)Aksaty.Infra.CrossCutting.Util.BaseEntityNetDevPack.Domain.Entityobject NetDevPack.Domain.IAggregateRoot«
-€SaleInstallment(System.Guid, System.Guid, decimal, System.DateTime, string, string, string, System.DateTime, bool, bool, string)¥Aksaty.Domain.Models.SaleInstallment.SaleInstallment(System.Guid, System.Guid, decimal, System.DateTime, string, string, string, System.DateTime, bool, bool, string)=
-
-SaleId.get/Aksaty.Domain.Models.SaleInstallment.SaleId.get=
-
-SaleId.set/Aksaty.Domain.Models.SaleInstallment.SaleId.set9
-Sale.get-Aksaty.Domain.Models.SaleInstallment.Sale.get9
-Sale.set-Aksaty.Domain.Models.SaleInstallment.Sale.set=
-
-Amount.get/Aksaty.Domain.Models.SaleInstallment.Amount.get=
-
-Amount.set/Aksaty.Domain.Models.SaleInstallment.Amount.set?
-DueDate.get0Aksaty.Domain.Models.SaleInstallment.DueDate.get?
-DueDate.set0Aksaty.Domain.Models.SaleInstallment.DueDate.set=
-
-Status.get/Aksaty.Domain.Models.SaleInstallment.Status.get=
-
-Status.set/Aksaty.Domain.Models.SaleInstallment.Status.set9
-Type.get-Aksaty.Domain.Models.SaleInstallment.Type.get9
-Type.set-Aksaty.Domain.Models.SaleInstallment.Type.set

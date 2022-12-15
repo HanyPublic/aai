@@ -1,64 +1,0 @@
-
-ZAksaty.Application.Helpers.MediaHelper.getMediaURL(string, string, string, string, string)c
-YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs ()"0*è
-0c
-YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (ç
-ä
-c
-YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (
-%1string"__id*
-
-urlstringå
-â
-c
-YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (
-%0string"__id*
-
-%1string*
-1
-2*Ö
-1c
-YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (r˜
-Ù
-c
-YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (s
-%3string"lAksaty.Infra.CrossCutting.Util.AttachmentUrlHelper.GetAttachmentRelativePath(string, string, string, string)*6"4
-2Aksaty.Infra.CrossCutting.Util.AttachmentUrlHelper*
-
-tanentIdstring*
-
-userIdstring*
-
-fileNamestring*
-
-fileExtensionstringå
-â
-c
-YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (s
-%2string"__id*
-
-%3stringå
-â
-c
-YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (s
-%0string"__id*
-
-%2string*
-2*ﬂ
-2c
-YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs 	  (	"u
-c
-YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs (u
-
-%0string*‰
-3c
-YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs 	  (	"z
-c
-YD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Helpers\MediaHelper.cs   (	
-implicit return:
-urlstring:
-tanentIdstring:
-userIdstring:
-fileNamestring:
-fileExtensionstringB*"(
-&Aksaty.Application.Helpers.MediaHelper

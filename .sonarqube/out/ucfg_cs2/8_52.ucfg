@@ -1,25 +1,0 @@
-
-wAksaty.Infra.Data.Migrations.EventStoreSql.initEventStore.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\EventStoreSQL\20210319174947_initEventStore.cs  (""0*∑
-0Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\EventStoreSQL\20210319174947_initEventStore.cs
- (§°
-Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\EventStoreSQL\20210319174947_initEventStore.cs
- (_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-StoredEvent*
-""*
-""*
-""*
-""2˚CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*
-1*´
-1Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\EventStoreSQL\20210319174947_initEventStore.cs	 (	"ù
-Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\EventStoreSQL\20210319174947_initEventStore.cs (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB=;
-9Aksaty.Infra.Data.Migrations.EventStoreSql.initEventStore

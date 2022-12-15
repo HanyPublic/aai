@@ -1,53 +1,0 @@
-
-´Aksaty.Domain.Models.SaleInstallment.CreateSaleInstallment(System.Guid, System.Guid, decimal, System.DateTime, string, string, string, System.DateTime, bool, bool, string)s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\SaleInstallment\SaleInstallment.cs&& &(;"0*Ü
-0t
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\SaleInstallment\SaleInstallment.cs+ +(ÅÀ»
-t
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\SaleInstallment\SaleInstallment.cs+ +(Ç*
-%0$Aksaty.Domain.Models.SaleInstallment"$Aksaty.Domain.Models.SaleInstallmentï
-í
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\SaleInstallment\SaleInstallment.cs+ +(&
-
-%1void"•Aksaty.Domain.Models.SaleInstallment.SaleInstallment(System.Guid, System.Guid, decimal, System.DateTime, string, string, string, System.DateTime, bool, bool, string)*,
-*
-%0$Aksaty.Domain.Models.SaleInstallment*
-""*
-""*
-""*
-
-dueDateSystem.DateTime*
-
-statusstring*
-
-tanentIdstring*
-
-createdByIdstring*
-
-	createdAtSystem.DateTime*
-""*
-""*
-
-typestring"§
-t
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\SaleInstallment\SaleInstallment.cs+ +(É,
-*
-%0$Aksaty.Domain.Models.SaleInstallment*Ö
-1s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\SaleInstallment\SaleInstallment.cs,	 ,(	"ä
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\SaleInstallment\SaleInstallment.cs, ,(	
-implicit return:
-idSystem.Guid:
-saleIdSystem.Guid:
-amountdecimal:
-dueDateSystem.DateTime:
-statusstring:
-tanentIdstring:
-createdByIdstring:
-	createdAtSystem.DateTime:
-showOnWebsitebool:
-deletedbool:
-typestringB("&
-$Aksaty.Domain.Models.SaleInstallment

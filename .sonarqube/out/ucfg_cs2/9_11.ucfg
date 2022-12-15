@@ -1,33 +1,0 @@
-
-GAksaty.Application.ViewModels.BaseEntityViewModel.BaseEntityViewModel()n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\BaseEntityViewModel.cs ($"0*ù	
-0n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\BaseEntityViewModel.cs (¸
-µ
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\BaseEntityViewModel.cs3 (?
-%0System.DateTime"System.DateTime.Now.get*"
-System.DateTimež
-›
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\BaseEntityViewModel.cs (@
-%1System.Nullable<T>"?Aksaty.Application.ViewModels.BaseEntityViewModel.CreatedAt.set*53
-1Aksaty.Application.ViewModels.BaseEntityViewModel*
-
-%0System.DateTime‘
-Ž
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\BaseEntityViewModel.cs (8
-%2System.Nullable<T>"CAksaty.Application.ViewModels.BaseEntityViewModel.ShowOnWebsite.set*53
-1Aksaty.Application.ViewModels.BaseEntityViewModel*
-""‹
-ˆ
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\BaseEntityViewModel.cs (3
-%3System.Nullable<T>"=Aksaty.Application.ViewModels.BaseEntityViewModel.Deleted.set*53
-1Aksaty.Application.ViewModels.BaseEntityViewModel*
-"""…
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\BaseEntityViewModel.cs (
-implicit returnB53
-1Aksaty.Application.ViewModels.BaseEntityViewModel

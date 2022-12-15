@@ -1,4 +1,0 @@
-Æ
-1Aksaty.Domain.Commands.RegisterNewCustomerCommand&Aksaty.Domain.Commands.CustomerCommand0Aksaty.Infra.CrossCutting.Util.BaseEntityCommandNetDevPack.Messaging.CommandNetDevPack.Messaging.Messageobject¨
-¸RegisterNewCustomerCommand(string, string, string, System.DateTime, string, string, string, string, string, string, string, System.DateTime, bool, string, string, string, string, bool)êAksaty.Domain.Commands.RegisterNewCustomerCommand.RegisterNewCustomerCommand(string, string, string, System.DateTime, string, string, string, string, string, string, string, System.DateTime, bool, string, string, string, string, bool)H
-	IsValid();Aksaty.Domain.Commands.RegisterNewCustomerCommand.IsValid()

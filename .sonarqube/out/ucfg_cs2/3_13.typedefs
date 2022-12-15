@@ -1,9 +1,0 @@
-◊
-8Aksaty.Domain.Attachments.Events.AttachmentRestoredEvent.Aksaty.Infra.CrossCutting.Util.BaseEntityEventNetDevPack.Messaging.EventNetDevPack.Messaging.MessageobjectÏ
-WAttachmentRestoredEvent(System.Guid, string, string, System.DateTime, bool, bool, bool)êAksaty.Domain.Attachments.Events.AttachmentRestoredEvent.AttachmentRestoredEvent(System.Guid, string, string, System.DateTime, bool, bool, bool)I
-Id.get?Aksaty.Domain.Attachments.Events.AttachmentRestoredEvent.Id.getI
-Id.set?Aksaty.Domain.Attachments.Events.AttachmentRestoredEvent.Id.setQ
-
-Delete.getCAksaty.Domain.Attachments.Events.AttachmentRestoredEvent.Delete.getQ
-
-Delete.setCAksaty.Domain.Attachments.Events.AttachmentRestoredEvent.Delete.set

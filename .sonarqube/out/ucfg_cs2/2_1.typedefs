@@ -1,5 +1,0 @@
-º
-)Aksaty.Infra.CrossCutting.Bus.InMemoryBusobject$NetDevPack.Mediator.IMediatorHandler¸
-EInMemoryBus(Aksaty.Domain.Core.Events.IEventStore, MediatR.IMediator)oAksaty.Infra.CrossCutting.Bus.InMemoryBus.InMemoryBus(Aksaty.Domain.Core.Events.IEventStore, MediatR.IMediator)R
-PublishEvent<T>(T)<Aksaty.Infra.CrossCutting.Bus.InMemoryBus.PublishEvent<T>(T)P
-SendCommand<T>(T);Aksaty.Infra.CrossCutting.Bus.InMemoryBus.SendCommand<T>(T)

@@ -1,175 +1,0 @@
-
-]Aksaty.Api.Controllers.SaleController.Get(Aksaty.Application.ViewModels.GetAllSalesViewModel)k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs) (,"6*¡
-0k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs (Då
-â
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs$ (D
-%0string">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedById.get*L
-J
-getAllSalesViewModel2Aksaty.Application.ViewModels.GetAllSalesViewModel∑
-¥
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs (E
-
-%1bool"string.IsNullOrEmpty(string?)*
-"
-string*
-
-%0string*
-1
-2*˙
-1k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.csF (t„
-‡
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.csi (t
-%2string"8Aksaty.Services.Api.Controllers.ApiController.UserId.get*)'
-%Aksaty.Api.Controllers.SaleControllerú
-ô
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.csF (t
-%3string">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedById.set*L
-J
-getAllSalesViewModel2Aksaty.Application.ViewModels.GetAllSalesViewModel*
-
-%2string*
-2*æ
-2k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs (Bâ
-Ü
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs% (B
-%4string";Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.TanentId.get*L
-J
-getAllSalesViewModel2Aksaty.Application.ViewModels.GetAllSalesViewModel∑
-¥
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs (C
-
-%5bool"string.IsNullOrEmpty(string?)*
-"
-string*
-
-%4string*
-3
-4*˘
-3k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.csE (rÂ
-‚
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cse (r
-%6string":Aksaty.Services.Api.Controllers.ApiController.TanentId.get*)'
-%Aksaty.Api.Controllers.SaleControllerô
-ñ
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.csE (r
-%7string";Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.TanentId.set*L
-J
-getAllSalesViewModel2Aksaty.Application.ViewModels.GetAllSalesViewModel*
-
-%6string*
-4*ê
-4k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs !(1ö
-ó
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs" (13
-%8-Aksaty.Application.Interfaces.ISaleAppService"__id*m*k'
-%Aksaty.Api.Controllers.SaleController"@
-_saleAppService-Aksaty.Application.Interfaces.ISaleAppService«ƒ
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs" (N*
-%9$System.Threading.Tasks.Task<TResult>"hAksaty.Application.Interfaces.ISaleAppService.GetAll(Aksaty.Application.ViewModels.GetAllSalesViewModel)*5
-3
-%8-Aksaty.Application.Interfaces.ISaleAppService*L
-J
-getAllSalesViewModel2Aksaty.Application.ViewModels.GetAllSalesViewModel2:GetAll(Aksaty.Application.ViewModels.GetAllSalesViewModel)∏
-µ
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs (N8
-	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>"__id*
-""Ç
-ˇ
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs   (-
-%10&Microsoft.AspNetCore.Http.HttpResponse"4Microsoft.AspNetCore.Mvc.ControllerBase.Response.get*+)
-'Microsoft.AspNetCore.Mvc.ControllerBaseâ
-Ü
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs   (2
-%11+Microsoft.AspNetCore.Http.IHeaderDictionary"2Microsoft.AspNetCore.Http.HttpResponse.Headers.get*/
--
-%10&Microsoft.AspNetCore.Http.HttpResponseˆ
-Û
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs +  (B
-%12string"9Aksaty.Infra.CrossCutting.Util.PagedList<T>.GetMetaData()*:
-8
-	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>Î
-Ë
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs   (C
-%13void"qAksaty.Infra.CrossCutting.Util.ResponseHeaders.AddPagination(Microsoft.AspNetCore.Http.IHeaderDictionary, string)*2"0
-.Aksaty.Infra.CrossCutting.Util.ResponseHeaders*4
-2
-%11+Microsoft.AspNetCore.Http.IHeaderDictionary*
-
-%12stringï
-í
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs!" !(10
-%14)System.Collections.Generic.IEnumerable<T>"5Aksaty.Infra.CrossCutting.Util.PagedList<T>.Items.get*:
-8
-	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>À
-»
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs! !(2,
-%15%Microsoft.AspNetCore.Mvc.ActionResult"DAksaty.Services.Api.Controllers.ApiController.CustomResponse(object)*1/
--Aksaty.Services.Api.Controllers.ApiController*2
-0
-%14)System.Collections.Generic.IEnumerable<T>"ù
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs! !(3.
-,
-%15%Microsoft.AspNetCore.Mvc.ActionResult*ı
-5k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs"	 "(	"Ç
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs" "(	
-implicit return*©	
-6k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.csc (c‚
-ﬂ
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs) (,b
-J
-getAllSalesViewModel2Aksaty.Application.ViewModels.GetAllSalesViewModel"
-
-CustomerIdstring"__entrypointﬁ
-€
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs) (,^
-J
-getAllSalesViewModel2Aksaty.Application.ViewModels.GetAllSalesViewModel"
-Statusstring"__entrypoint
-Ì
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs) (,p
-J
-getAllSalesViewModel2Aksaty.Application.ViewModels.GetAllSalesViewModel""
-MinStartDateSystem.Nullable<T>"__entrypoint
-Ì
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs) (,p
-J
-getAllSalesViewModel2Aksaty.Application.ViewModels.GetAllSalesViewModel""
-MaxStartDateSystem.Nullable<T>"__entrypointÖ
-Ç
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs) (,
-%16"__entrypoint*
-0:J
-getAllSalesViewModel2Aksaty.Application.ViewModels.GetAllSalesViewModelB)'
-%Aksaty.Api.Controllers.SaleController

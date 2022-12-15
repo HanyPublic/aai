@@ -1,41 +1,0 @@
-
-xAksaty.Domain.Customer.Events.CustomerSalesUpdatedEvent.CustomerSalesUpdatedEvent(System.Guid, decimal, System.DateTime)k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerSalesUpdatedEvent.cs (("1*É
-1k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerSalesUpdatedEvent.cs	 (	R
-P
-
-%0void""NetDevPack.Messaging.Event.Event()*
-NetDevPack.Messaging.Event*
-0*Æ
-0k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerSalesUpdatedEvent.cs (-ˆ
-…
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerSalesUpdatedEvent.cs (
-%1System.Guid">Aksaty.Domain.Customer.Events.CustomerSalesUpdatedEvent.Id.set*;9
-7Aksaty.Domain.Customer.Events.CustomerSalesUpdatedEvent*
-""‰
-†
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerSalesUpdatedEvent.cs (
-%2decimal"CAksaty.Domain.Customer.Events.CustomerSalesUpdatedEvent.Balance.set*;9
-7Aksaty.Domain.Customer.Events.CustomerSalesUpdatedEvent*
-""·
-´
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerSalesUpdatedEvent.cs (-
-%3System.DateTime"KAksaty.Domain.Customer.Events.CustomerSalesUpdatedEvent.NextInstallDate.set*;9
-7Aksaty.Domain.Customer.Events.CustomerSalesUpdatedEvent*$
-"
-nextInstallDateSystem.DateTime*
-2*õ
-2k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerSalesUpdatedEvent.cs	 (	"‚
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerSalesUpdatedEvent.cs (	
-implicit return:
-idSystem.Guid:
-balancedecimal:"
-nextInstallDateSystem.DateTimeB;9
-7Aksaty.Domain.Customer.Events.CustomerSalesUpdatedEvent

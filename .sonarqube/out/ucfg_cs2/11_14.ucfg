@@ -1,52 +1,0 @@
-
-ãAksaty.Services.Api.Configurations.AutoMapperConfig.AddAutoMapperConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection)p
-fD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\AutoMapperConfig.cs
- 
-(5"0*Ñ
-0p
-fD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\AutoMapperConfig.cs ( Ñ
-Å
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\AutoMapperConfig.cs ( 
-
-%0bool""object.operator ==(object, object)*
-"
-object*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""*
-1
-2*£
-1p
-fD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\AutoMapperConfig.cs( (R∑¥
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\AutoMapperConfig.cs( (S"
-%1System.ArgumentNullException"System.ArgumentNullExceptionÏ
-È
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\AutoMapperConfig.cs, (A
-
-%2void";System.ArgumentNullException.ArgumentNullException(string?)*$
-"
-%1System.ArgumentNullException*
-""*
-3*∆
-2p
-fD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\AutoMapperConfig.cs (s…
-∆
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\AutoMapperConfig.cs (tA
-%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"áAutoMapper.ServiceCollectionExtensions.AddAutoMapper(Microsoft.Extensions.DependencyInjection.IServiceCollection, params System.Type[])**"(
-&AutoMapper.ServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""*
-""*
-3*ˇ
-3p
-fD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\AutoMapperConfig.cs	 (	"á
-p
-fD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Configurations\AutoMapperConfig.cs (	
-implicit return:G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB7"5
-3Aksaty.Services.Api.Configurations.AutoMapperConfig

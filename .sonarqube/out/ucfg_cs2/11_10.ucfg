@@ -1,124 +1,0 @@
-
-nAksaty.Services.Api.Controllers.CustomerController.Get(Aksaty.Application.ViewModels.GetAllCustomersViewModel)o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs: (="2*°
-0o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs ("ô
-ñ
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs$ (/
-%0string"8Aksaty.Services.Api.Controllers.ApiController.UserId.get*64
-2Aksaty.Services.Api.Controllers.CustomerController™
-–
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs (/
-%1string">Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.CreatedById.set*E
-C
-	viewModel6Aksaty.Application.ViewModels.GetAllCustomersViewModel*
-
-%0stringö
-ó
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs! (.
-%2string":Aksaty.Services.Api.Controllers.ApiController.TanentId.get*64
-2Aksaty.Services.Api.Controllers.CustomerController–
-“
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs (.
-%3string";Aksaty.Infra.CrossCutting.Util.BaseEntityQuery.TanentId.set*E
-C
-	viewModel6Aksaty.Application.ViewModels.GetAllCustomersViewModel*
-
-%2string¹
-¶
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs" (57
-%41Aksaty.Application.Interfaces.ICustomerAppService"__id*ƒ*€4
-2Aksaty.Services.Api.Controllers.CustomerController"H
-_customerAppService1Aksaty.Application.Interfaces.ICustomerAppServiceÔÑ
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs" (G*
-%5$System.Threading.Tasks.Task<TResult>"pAksaty.Application.Interfaces.ICustomerAppService.GetAll(Aksaty.Application.ViewModels.GetAllCustomersViewModel)*9
-7
-%41Aksaty.Application.Interfaces.ICustomerAppService*E
-C
-	viewModel6Aksaty.Application.ViewModels.GetAllCustomersViewModel2>GetAll(Aksaty.Application.ViewModels.GetAllCustomersViewModel)¼
-¹
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs (G8
-	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>"__id*
-""…
-‚
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs (,
-%6&Microsoft.AspNetCore.Http.HttpResponse"4Microsoft.AspNetCore.Mvc.ControllerBase.Response.get*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase‹
-ˆ
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs (1
-%7+Microsoft.AspNetCore.Http.IHeaderDictionary"2Microsoft.AspNetCore.Http.HttpResponse.Headers.get*.
-,
-%6&Microsoft.AspNetCore.Http.HttpResponseù
-ö
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs+ (B
-%8string"9Aksaty.Infra.CrossCutting.Util.PagedList<T>.GetMetaData()*:
-8
-	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>ì
-é
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs (C
-
-%9void"qAksaty.Infra.CrossCutting.Util.ResponseHeaders.AddPagination(Microsoft.AspNetCore.Http.IHeaderDictionary, string)*2"0
-.Aksaty.Infra.CrossCutting.Util.ResponseHeaders*3
-1
-%7+Microsoft.AspNetCore.Http.IHeaderDictionary*
-
-%8string™
-–
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs ("0
-%10)System.Collections.Generic.IEnumerable<T>"5Aksaty.Infra.CrossCutting.Util.PagedList<T>.Items.get*:
-8
-	pagedList+Aksaty.Infra.CrossCutting.Util.PagedList<T>"¥
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs (#2
-0
-%10)System.Collections.Generic.IEnumerable<T>*ý
-1o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs	 (	"†
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs (	
-implicit return*Ñ	
-2o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.csl (lí
-ê
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs: (=i
-C
-	viewModel6Aksaty.Application.ViewModels.GetAllCustomersViewModel""
-MinBirthDateSystem.Nullable<T>"__entrypointí
-ê
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs: (=i
-C
-	viewModel6Aksaty.Application.ViewModels.GetAllCustomersViewModel""
-MaxBirthDateSystem.Nullable<T>"__entrypointó
-ð
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs: (=o
-C
-	viewModel6Aksaty.Application.ViewModels.GetAllCustomersViewModel"(
-MinNextInstallDateSystem.Nullable<T>"__entrypointó
-ð
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs: (=o
-C
-	viewModel6Aksaty.Application.ViewModels.GetAllCustomersViewModel"(
-MaxNextInstallDateSystem.Nullable<T>"__entrypoint‰
-†
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\CustomerController.cs: (=
-%11"__entrypoint*
-0:C
-	viewModel6Aksaty.Application.ViewModels.GetAllCustomersViewModelB64
-2Aksaty.Services.Api.Controllers.CustomerController

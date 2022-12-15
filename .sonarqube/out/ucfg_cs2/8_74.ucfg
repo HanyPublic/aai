@@ -1,27 +1,0 @@
-
-êAksaty.Infra.Data.Mappings.ProductMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Models.Product>)b
-XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\ProductMap.cs ("0*§	
-0b
-XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\ProductMap.cs (Iöó
-b
-XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\ProductMap.cs (+P
-%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*W
-U
-builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
-""2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)ò
-ï
-b
-XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\ProductMap.cs (JP
-%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"ÆMicrosoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions.HasColumnType<TProperty>(Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>, string)*E"C
-AMicrosoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions*R
-P
-%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
-decimal(19,4)*
-1*‚
-1b
-XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\ProductMap.cs	 (	"y
-b
-XD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Mappings\ProductMap.cs (	
-implicit return:U
-builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>B)'
-%Aksaty.Infra.Data.Mappings.ProductMap

@@ -1,20 +1,0 @@
-
-yAksaty.Infra.Data.Migrations.EventStoreSql.initEventStore.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\EventStoreSQL\20210319174947_initEventStore.cs  ($"0*Ÿ
-0Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\EventStoreSQL\20210319174947_initEventStore.cs (#∆√
-Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\EventStoreSQL\20210319174947_initEventStore.cs ($_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"SMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-StoredEvent*
-""2DropTable(string, string)*
-1*´
-1Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\EventStoreSQL\20210319174947_initEventStore.cs	 (	"ù
-Ö
-{D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\EventStoreSQL\20210319174947_initEventStore.cs (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB=;
-9Aksaty.Infra.Data.Migrations.EventStoreSql.initEventStore

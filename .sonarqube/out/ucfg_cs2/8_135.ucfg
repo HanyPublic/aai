@@ -1,39 +1,0 @@
-
-iAksaty.Infra.Data.Repository.SaleInstallmentRepository.DetachEntity(Aksaty.Domain.Models.SaleInstallment)s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csX X( "0*‚
-
-0s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csZ Z(C›
-˜
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csZ Z(-
-%0'Aksaty.Infra.Data.Context.AksatyContext"__id*l*j8
-6Aksaty.Infra.Data.Repository.SaleInstallmentRepository".
-_db'Aksaty.Infra.Data.Context.AksatyContext‡„
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csZ Z(&G
-%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"?Microsoft.EntityFrameworkCore.DbContext.Entry<TEntity>(TEntity)*/
--
-%0'Aksaty.Infra.Data.Context.AksatyContext*9
-7
-saleInstallment$Aksaty.Domain.Models.SaleInstallment2Entry<TEntity>(TEntity)Œ
-‰
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csZ/ Z(C
-%2"__id*
-""ËÈ
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.csZ Z(C/
-%3)Microsoft.EntityFrameworkCore.EntityState"BMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.State.set*I
-G
-%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*
-
-%22	State.set*
-1*…
-1s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs[	 [(	"Š
-s
-iD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\SaleInstallmentRepository.cs[ [(	
-implicit return:7
-saleInstallment$Aksaty.Domain.Models.SaleInstallmentB:8
-6Aksaty.Infra.Data.Repository.SaleInstallmentRepository

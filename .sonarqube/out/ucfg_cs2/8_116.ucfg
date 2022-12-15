@@ -1,64 +1,0 @@
-
-gAksaty.Infra.Data.Migrations.tanent_image.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)u
-kD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602041857_tanent_image.cs  (""0*Ñ
-0u
-kD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602041857_tanent_image.cs
- (4µ²
-u
-kD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602041857_tanent_image.cs
- (_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"¦Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
-ImageId*	
-Tanents*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2lAddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)¦£
-u
-kD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602041857_tanent_image.cs ("_
-%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_Tanents_ImageId*	
-Tanents*	
-ImageId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)Ž
-‹
-u
-kD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602041857_tanent_image.cs (4
-%2"__id*
-""ÝÚ
-u
-kD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602041857_tanent_image.cs (5_
-%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"÷Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddForeignKey(string, string, string, string, string, string, string, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*" 
-FK_Tanents_Attachments_ImageId*	
-Tanents*	
-ImageId*
-Attachments*
-""*
-""*
-Id*
-""*
-
-%22½AddForeignKey(string, string, string, string, string, string, string, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction, Microsoft.EntityFrameworkCore.Migrations.ReferentialAction)*
-1*‰
-1u
-kD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602041857_tanent_image.cs	 (	"Œ
-u
-kD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602041857_tanent_image.cs (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB-+
-)Aksaty.Infra.Data.Migrations.tanent_image

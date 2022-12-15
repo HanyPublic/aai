@@ -1,26 +1,0 @@
-
-QAksaty.Infra.Data.Repository.TanentRepository.Update(Aksaty.Domain.Models.Tanent)j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.cs\ \("0*ˆ
-0j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.cs^ ^( ñ
-ì
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.cs^ ^(2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*k*i/
--Aksaty.Infra.Data.Repository.TanentRepository"6
-_dbset,Microsoft.EntityFrameworkCore.DbSet<TEntity>Ê„
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.cs^ ^(!G
-%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Update(TEntity)*4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*'
-%
-TanentAksaty.Domain.Models.Tanent2Update(TEntity)*
-1*Û
-1j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.cs_	 _(	"Å
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.cs_ _(	
-implicit return:%
-TanentAksaty.Domain.Models.TanentB1/
--Aksaty.Infra.Data.Repository.TanentRepository

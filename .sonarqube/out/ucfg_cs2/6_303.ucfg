@@ -1,126 +1,0 @@
-
-gAksaty.Domain.Handlers.SaleInstallmentCommandsHandler.UpdateSaleDomainEvents(Aksaty.Domain.Models.Sale)Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.cs (+"0*∫ 
-0Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csÚ ˆ(GÂ
-‚
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csÛ Û(
-%0System.Guid"NetDevPack.Domain.Entity.Id.get*#
-!
-saleAksaty.Domain.Models.Saleı
-Ú
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csÛ$ Û(3
-%1System.Nullable<T>"(Aksaty.Domain.Models.Sale.CustomerId.get*#
-!
-saleAksaty.Domain.Models.SaleÒ
-Ó
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csÛ@ Û(N
-%2System.DateTime"'Aksaty.Domain.Models.Sale.StartDate.get*#
-!
-saleAksaty.Domain.Models.SaleÂ
-‚
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csÙ Ù(
-%3string"$Aksaty.Domain.Models.Sale.Status.get*#
-!
-saleAksaty.Domain.Models.SaleÊ
-„
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csÙ' Ù(2
-%4decimal"$Aksaty.Domain.Models.Sale.Amount.get*#
-!
-saleAksaty.Domain.Models.SaleÍ
-Á
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csÙ@ Ù(O
-%5decimal"(Aksaty.Domain.Models.Sale.PaidAmount.get*#
-!
-saleAksaty.Domain.Models.SaleÔ
-Ï
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csı ı(/
-%6decimal"-Aksaty.Domain.Models.Sale.RemainingAmount.get*#
-!
-saleAksaty.Domain.Models.SaleÚ
-Ô
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csıI ı(d	
-%7int"4Aksaty.Domain.Models.Sale.InstallmentMonthNumber.get*#
-!
-saleAksaty.Domain.Models.SaleÌ
-Í
-á
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csıx ı(ç	
-%8int".Aksaty.Domain.Models.Sale.InstallmentValue.get*#
-!
-saleAksaty.Domain.Models.SaleÍ
-Á
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csˆ ˆ(%
-%9decimal"(Aksaty.Domain.Models.Sale.Percentage.get*#
-!
-saleAksaty.Domain.Models.Sale˚
-¯
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csˆ' ˆ(9
-%10bool";Aksaty.Infra.CrossCutting.Util.BaseEntity.ShowOnWebsite.get*#
-!
-saleAksaty.Domain.Models.Saleı
-Ú
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csˆ; ˆ(G
-%11bool"5Aksaty.Infra.CrossCutting.Util.BaseEntity.Deleted.get*#
-!
-saleAksaty.Domain.Models.Saleﬂ‹
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csÚ  ˜(+
-%12$Aksaty.Domain.Events.SaleUpdateEvent"$Aksaty.Domain.Events.SaleUpdateEvent√
-¿
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csÚ$ Ú(3
-%13void"¢Aksaty.Domain.Events.SaleUpdateEvent.SaleUpdateEvent(System.Guid, System.Guid?, System.DateTime, string, decimal, decimal, decimal, int, int, decimal, bool, bool)*-
-+
-%12$Aksaty.Domain.Events.SaleUpdateEvent*
-
-%0System.Guid*
-
-%1System.Nullable<T>*
-
-%2System.DateTime*
-
-%3string*
-
-%4decimal*
-
-%5decimal*
-
-%6decimal*
-	
-%7int*
-	
-%8int*
-
-%9decimal*
-
-%10bool*
-
-%11bool≤
-Ø
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.csÚ ˜(
-%14void"CNetDevPack.Domain.Entity.AddDomainEvent(NetDevPack.Messaging.Event)*#
-!
-saleAksaty.Domain.Models.Sale*-
-+
-%12$Aksaty.Domain.Events.SaleUpdateEvent*
-1*≠
-1Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.cs¯	 ¯(	"û
-Ü
-zD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Handlers\SaleInstallment\SaleInstallmentCommandsHandler.cs¯ ¯(	
-implicit return:!
-saleAksaty.Domain.Models.SaleB97
-5Aksaty.Domain.Handlers.SaleInstallmentCommandsHandler

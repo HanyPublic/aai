@@ -1,35 +1,0 @@
-
-YAksaty.Domain.Queries.GetSaleInstallmentQuery.GetSaleInstallmentQuery(System.Guid, bool?)|
-rD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetSaleInstallmentQuery.cs (&"1*ž
-1|
-rD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetSaleInstallmentQuery.cs	 (	•
-’
-|
-rD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetSaleInstallmentQuery.cs (7
-%0System.Nullable<T>"=Aksaty.Domain.Queries.GetSaleInstallmentQuery.IncludeSale.set*1/
--Aksaty.Domain.Queries.GetSaleInstallmentQuery*
-""*
-0*¦
-0|
-rD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetSaleInstallmentQuery.cs (%…
-‚
-|
-rD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetSaleInstallmentQuery.cs (
-%1System.Guid"4Aksaty.Domain.Queries.GetSaleInstallmentQuery.Id.set*1/
--Aksaty.Domain.Queries.GetSaleInstallmentQuery*
-""•
-’
-|
-rD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetSaleInstallmentQuery.cs (%
-%2System.Nullable<T>"=Aksaty.Domain.Queries.GetSaleInstallmentQuery.IncludeSale.set*1/
--Aksaty.Domain.Queries.GetSaleInstallmentQuery*
-""*
-2*—
-2|
-rD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetSaleInstallmentQuery.cs	 (	"“
-|
-rD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Queries\SaleInstallment\GetSaleInstallmentQuery.cs (	
-implicit return:
-idSystem.Guid:!
-includeSaleSystem.Nullable<T>B1/
--Aksaty.Domain.Queries.GetSaleInstallmentQuery

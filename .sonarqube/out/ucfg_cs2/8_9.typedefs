@@ -1,4 +1,0 @@
-¯
-$Aksaty.Infra.Data.Mappings.TanentMapobject?Microsoft.EntityFrameworkCore.IEntityTypeConfiguration<TEntity>ü
-iConfigure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Models.Tanent>)ŽAksaty.Infra.Data.Mappings.TanentMap.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Aksaty.Domain.Models.Tanent>)?
-TanentMap()0Aksaty.Infra.Data.Mappings.TanentMap.TanentMap()

@@ -1,31 +1,0 @@
-
-pAksaty.Infra.Data.Migrations.remainder_installment.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)~
-tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210816122311_remainder_installment.cs  (""0*Ù
-0~
-tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210816122311_remainder_installment.cs	 (ÎË
-~
-tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210816122311_remainder_installment.cs	 (_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"¦Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-Type*
-SaleInstallments*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2lAddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)*
-1*›
-1~
-tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210816122311_remainder_installment.cs	 (	"•
-~
-tD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210816122311_remainder_installment.cs (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB64
-2Aksaty.Infra.Data.Migrations.remainder_installment

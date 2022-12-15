@@ -1,11 +1,0 @@
-Ë
-.Aksaty.Application.Services.CustomerAppServiceobject1Aksaty.Application.Interfaces.ICustomerAppService­
-¼CustomerAppService(AutoMapper.IMapper, Aksaty.Domain.Interfaces.ICustomerRepository, NetDevPack.Mediator.IMediatorHandler, Aksaty.Infra.Data.Repository.EventSourcing.IEventStoreRepository)ëAksaty.Application.Services.CustomerAppService.CustomerAppService(AutoMapper.IMapper, Aksaty.Domain.Interfaces.ICustomerRepository, NetDevPack.Mediator.IMediatorHandler, Aksaty.Infra.Data.Repository.EventSourcing.IEventStoreRepository)¯
->GetAll(Aksaty.Application.ViewModels.GetAllCustomersViewModel)mAksaty.Application.Services.CustomerAppService.GetAll(Aksaty.Application.ViewModels.GetAllCustomersViewModel)[
-GetById(System.Guid)CAksaty.Application.Services.CustomerAppService.GetById(System.Guid)µ
-ARegister(Aksaty.Application.ViewModels.CustomerRegisterViewModel)pAksaty.Application.Services.CustomerAppService.Register(Aksaty.Application.ViewModels.CustomerRegisterViewModel)¡
-7Update(Aksaty.Application.ViewModels.CustomerViewModel)fAksaty.Application.Services.CustomerAppService.Update(Aksaty.Application.ViewModels.CustomerViewModel)·
-BUpdate(Aksaty.Application.ViewModels.CustomerSalesUpdateViewModel)qAksaty.Application.Services.CustomerAppService.Update(Aksaty.Application.ViewModels.CustomerSalesUpdateViewModel)Y
-Remove(System.Guid)BAksaty.Application.Services.CustomerAppService.Remove(System.Guid)g
-GetAllHistory(System.Guid)IAksaty.Application.Services.CustomerAppService.GetAllHistory(System.Guid)E
-	Dispose()8Aksaty.Application.Services.CustomerAppService.Dispose()

@@ -1,35 +1,0 @@
-
-‘Aksaty.Domain.Tanents.Handlers.TanentCommandsHandler.Handle(Aksaty.Domain.Tanents.Queries.GetTanentByIdQuery, System.Threading.CancellationToken)n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Handlers\TanentCommandsHandler.cs%" %(("0*Ó
-0n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Handlers\TanentCommandsHandler.cs' '(E¨
-¥
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Handlers\TanentCommandsHandler.cs' '(*0
-%0*Aksaty.Domain.Interfaces.ITanentRepository"__id*{*y6
-4Aksaty.Domain.Tanents.Handlers.TanentCommandsHandler"?
-_TanentRepository*Aksaty.Domain.Interfaces.ITanentRepositoryý
-ú
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Handlers\TanentCommandsHandler.cs'7 '(E
-%1string";Aksaty.Domain.Tanents.Queries.GetTanentByIdQuery.UserId.get*=
-;
-request0Aksaty.Domain.Tanents.Queries.GetTanentByIdQuery¸µ
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Handlers\TanentCommandsHandler.cs' '(F*
-%2$System.Threading.Tasks.Task<TResult>">Aksaty.Domain.Interfaces.ITanentRepository.GetByUserId(string)*2
-0
-%0*Aksaty.Domain.Interfaces.ITanentRepository*
-
-%1string2GetByUserId(string)"x
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Handlers\TanentCommandsHandler.cs' '(G
-""*û
-1n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Handlers\TanentCommandsHandler.cs(	 ((	"…
-n
-dD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Handlers\TanentCommandsHandler.cs( ((	
-implicit return:;
-request0Aksaty.Domain.Tanents.Queries.GetTanentByIdQuery:7
-cancellationToken"System.Threading.CancellationTokenB86
-4Aksaty.Domain.Tanents.Handlers.TanentCommandsHandler

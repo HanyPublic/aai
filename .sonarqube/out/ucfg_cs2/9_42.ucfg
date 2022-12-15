@@ -1,44 +1,0 @@
-
-íAksaty.Application.Services.UserService.UserService(Microsoft.AspNetCore.Identity.UserManager<Microsoft.AspNetCore.Identity.IdentityUser>, Microsoft.Extensions.Options.IOptions<NetDevPack.Identity.Jwt.AppJwtSettings>, AutoMapper.IMapper)d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs ("1*n
-1d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs!	 !(	*
-0*Ÿ	
-0d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs  (2¡
-ž
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs (&m)
-'Aksaty.Application.Services.UserService"@
-_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*A
-?
-userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>Û
-Ø
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs (J)
-'Aksaty.Application.Services.UserService"
-_mapperAutoMapper.IMapper"__id*
-
-mapperAutoMapper.IMapper¢Ÿ
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs   (2,
-%0&NetDevPack.Identity.Jwt.AppJwtSettings"9Microsoft.Extensions.Options.IOptions<TOptions>.Value.get*C
-A
-appJwtSettings/Microsoft.Extensions.Options.IOptions<TOptions>2	Value.get‡
-„
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs   (2f)
-'Aksaty.Application.Services.UserService"9
-_appJwtSettings&NetDevPack.Identity.Jwt.AppJwtSettings"__id*.
-,
-%0&NetDevPack.Identity.Jwt.AppJwtSettings*
-2*æ
-2d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs!	 !(	"{
-d
-ZD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\UserService.cs! !(	
-implicit return:?
-userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>:A
-appJwtSettings/Microsoft.Extensions.Options.IOptions<TOptions>:
-mapperAutoMapper.IMapperB+)
-'Aksaty.Application.Services.UserService

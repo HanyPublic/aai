@@ -1,26 +1,0 @@
-
-UAksaty.Infra.Data.Repository.CustomerRepository.Remove(Aksaty.Domain.Models.Customer)l
-bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csi i("0*Å
-0l
-bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csk k(!ô
-ñ
-l
-bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csk k(2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*l*j1
-/Aksaty.Infra.Data.Repository.CustomerRepository"5
-DbSet,Microsoft.EntityFrameworkCore.DbSet<TEntity>ÏÈ
-l
-bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csk k("G
-%1AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*4
-2
-%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*+
-)
-customerAksaty.Domain.Models.Customer2Remove(TEntity)*
-1*˜
-1l
-bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csl	 l(	"É
-l
-bD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\CustomerRepository.csl l(	
-implicit return:)
-customerAksaty.Domain.Models.CustomerB31
-/Aksaty.Infra.Data.Repository.CustomerRepository

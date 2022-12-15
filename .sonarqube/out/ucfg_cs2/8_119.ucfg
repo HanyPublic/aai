@@ -1,32 +1,0 @@
-
-fAksaty.Infra.Data.Migrations.national_id.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)t
-jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602044711_national_id.cs  (""0*Ä
-0t
-jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602044711_national_id.cs	 (ÃÀ
-t
-jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602044711_national_id.cs	 (_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"¦Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-NationalId*
-	Customers*
-varchar(100)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2lAddColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, bool?, string)*
-1*‡
-1t
-jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602044711_national_id.cs	 (	"‹
-t
-jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210602044711_national_id.cs (	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB,*
-(Aksaty.Infra.Data.Migrations.national_id

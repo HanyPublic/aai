@@ -1,24 +1,0 @@
-
-7Aksaty.Infra.Data.Repository.TanentRepository.Dispose()j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.csc c("0*Ì
-0j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.cse e(â
-Ü
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.cse e(-
-%0'Aksaty.Infra.Data.Context.AksatyContext"__id*c*a/
--Aksaty.Infra.Data.Repository.TanentRepository".
-_db'Aksaty.Infra.Data.Context.AksatyContextÍÁ
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.cse e(
-
-%1void"1Microsoft.EntityFrameworkCore.DbContext.Dispose()*/
--
-%0'Aksaty.Infra.Data.Context.AksatyContext2	Dispose()*
-1*Û
-1j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.csf	 f(	"Å
-j
-`D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\TanentRepository.csf f(	
-implicit returnB1/
--Aksaty.Infra.Data.Repository.TanentRepository

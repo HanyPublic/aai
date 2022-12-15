@@ -1,137 +1,0 @@
-
-§Aksaty.Domain.Models.Customer.Update(System.Guid?, string, string, System.DateTime, string, string, string, string, string, string, string, string, string, bool, bool)Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csf f("0*Ó
-0Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csm |(Ï
-Ì
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csm m(
-%0System.Nullable<T>")Aksaty.Domain.Models.Customer.ImageId.set*!
-Aksaty.Domain.Models.Customer*
-""æ
-ã
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csn n(1
-%1+Aksaty.Domain.Attachments.Models.Attachment"'Aksaty.Domain.Models.Customer.Image.set*!
-Aksaty.Domain.Models.Customer*
-""Ê
-Ç
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cso o(
-%2string"&Aksaty.Domain.Models.Customer.Name.set*!
-Aksaty.Domain.Models.Customer*
-
-namestringÌ
-É
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csp p(
-%3string"'Aksaty.Domain.Models.Customer.Email.set*!
-Aksaty.Domain.Models.Customer*
-
-emailstringæ
-ã
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csq q(!
-%4System.DateTime"+Aksaty.Domain.Models.Customer.BirthDate.set*!
-Aksaty.Domain.Models.Customer*
-
-	birthDateSystem.DateTimeÎ
-Ë
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csr r(
-%5string"(Aksaty.Domain.Models.Customer.Mobile.set*!
-Aksaty.Domain.Models.Customer*
-
-mobilestringÐ
-Í
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.css s(
-%6string")Aksaty.Domain.Models.Customer.Mobile2.set*!
-Aksaty.Domain.Models.Customer*
-
-mobile2stringÐ
-Í
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cst t(
-%7string")Aksaty.Domain.Models.Customer.Address.set*!
-Aksaty.Domain.Models.Customer*
-
-addressstringÊ
-Ç
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csu u(
-%8string"&Aksaty.Domain.Models.Customer.Type.set*!
-Aksaty.Domain.Models.Customer*
-
-typestringÜ
-Ù
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csv v()
-%9string"/Aksaty.Domain.Models.Customer.AddRecription.set*!
-Aksaty.Domain.Models.Customer*
-
-addRecriptionstringà
-Ý
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csw w()
-%10bool";Aksaty.Infra.CrossCutting.Util.BaseEntity.ShowOnWebsite.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-""×
-Ô
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csx x(#
-%11string",Aksaty.Domain.Models.Customer.NationalId.set*!
-Aksaty.Domain.Models.Customer*
-
-
-nationalIdstringÍ
-Ê
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csy y(
-%12string"'Aksaty.Domain.Models.Customer.RefId.set*!
-Aksaty.Domain.Models.Customer*
-
-refIdstringÍ
-Ê
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.csz z(
-%13string"'Aksaty.Domain.Models.Customer.Notes.set*!
-Aksaty.Domain.Models.Customer*
-
-notesstringÏ
-Ì
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs{ {(
-%14string"(Aksaty.Domain.Models.Customer.Review.set*!
-Aksaty.Domain.Models.Customer*
-
-reviewstringÚ
-×
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs| |(
-%15bool"5Aksaty.Infra.CrossCutting.Util.BaseEntity.Deleted.set*-+
-)Aksaty.Infra.CrossCutting.Util.BaseEntity*
-""*
-1*Ò
-1Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs}	 }(	"q
-Z
-PD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Models\Customer.cs} }(	
-implicit return:
-imageIdSystem.Nullable<T>:
-namestring:
-emailstring:
-	birthDateSystem.DateTime:
-mobilestring:
-mobile2string:
-addressstring:
-typestring:
-addRecriptionstring:
-
-nationalIdstring:
-refIdstring:
-notesstring:
-reviewstring:
-showOnWebsitebool:
-deletedboolB!
-Aksaty.Domain.Models.Customer

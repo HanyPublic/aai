@@ -1,43 +1,0 @@
-
-oAksaty.Infra.Data.Repository.EventSourcing.EventStoreSqlRepository.Store(Aksaty.Domain.Core.Events.StoredEvent)
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.cs ("0*Ê
-0
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.cs ("»
-≈
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.cs (4
-%0.Aksaty.Infra.Data.Context.EventStoreSqlContext"__id*Ö*ÇD
-BAksaty.Infra.Data.Repository.EventSourcing.EventStoreSqlRepository":
-_context.Aksaty.Infra.Data.Context.EventStoreSqlContext∞
-≠
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.cs ( 2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>">Aksaty.Infra.Data.Context.EventStoreSqlContext.StoredEvent.get*6
-4
-%0.Aksaty.Infra.Data.Context.EventStoreSqlContextÅ˛
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.cs (.G
-%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*3
-1
-theEvent%Aksaty.Domain.Core.Events.StoredEvent2Add(TEntity)»
-≈
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.cs (4
-%3.Aksaty.Infra.Data.Context.EventStoreSqlContext"__id*Ö*ÇD
-BAksaty.Infra.Data.Repository.EventSourcing.EventStoreSqlRepository":
-_context.Aksaty.Infra.Data.Context.EventStoreSqlContextçä
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.cs ("	
-%4int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*6
-4
-%3.Aksaty.Infra.Data.Context.EventStoreSqlContext2SaveChanges()*
-1*ù
-1
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.cs	 (	"ñ
-
-uD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.cs (	
-implicit return:1
-theEvent%Aksaty.Domain.Core.Events.StoredEventBFD
-BAksaty.Infra.Data.Repository.EventSourcing.EventStoreSqlRepository

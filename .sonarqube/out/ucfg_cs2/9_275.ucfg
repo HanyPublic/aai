@@ -1,26 +1,0 @@
-
-EAksaty.Application.ViewModels.AddSaleInstallmentViewModel.DueDate.set‘
-†D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\AddSaleInstallmentViewModel.cs ("0*Ù
-0‘
-†D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\AddSaleInstallmentViewModel.cs (3é
-æ
-‘
-†D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\AddSaleInstallmentViewModel.cs  (3
-%0System.DateTime"System.DateTime.ToLocalTime()*
-
-valueSystem.DateTimeÎ
-Ë
-‘
-†D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\AddSaleInstallmentViewModel.cs (3
-%1System.DateTime"FAksaty.Application.ViewModels.AddSaleInstallmentViewModel._DueDate.set*=;
-9Aksaty.Application.ViewModels.AddSaleInstallmentViewModel*
-
-%0System.DateTime*
-1*Ã
-1‘
-†D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\AddSaleInstallmentViewModel.cs ("©
-‘
-†D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\ViewModels\SaleInstallmentViewModels\AddSaleInstallmentViewModel.cs (
-implicit return:
-valueSystem.DateTimeB=;
-9Aksaty.Application.ViewModels.AddSaleInstallmentViewModel

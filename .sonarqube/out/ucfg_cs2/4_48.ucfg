@@ -1,145 +1,0 @@
-
-ÎAksaty.Domain.Events.CustomerUpdatedEvent.CustomerUpdatedEvent(System.Guid, System.Guid?, string, string, System.DateTime, string, string, string, string, string, bool, string, string, string, string, bool)f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs	 	(#"1*î
-1f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs$	 $(	|
-z
-
-%0void";Aksaty.Domain.Customer.Events.CustomerEvent.CustomerEvent()*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-0*™ 
-0f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs #(ë
-è
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs (
-%1System.Guid"2Aksaty.Domain.Customer.Events.CustomerEvent.Id.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-""÷
-ô
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs (
-%2System.Nullable<T>"7Aksaty.Domain.Customer.Events.CustomerEvent.ImageId.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-""ò
-ï
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs (
-%3string"4Aksaty.Domain.Customer.Events.CustomerEvent.Name.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-namestringô
-ñ
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs (
-%4string"5Aksaty.Domain.Customer.Events.CustomerEvent.Email.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-emailstringŽ
-‹
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs (!
-%5System.DateTime"9Aksaty.Domain.Customer.Events.CustomerEvent.BirthDate.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-	birthDateSystem.DateTimeö
-ó
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs (
-%6string"6Aksaty.Domain.Customer.Events.CustomerEvent.Mobile.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-mobilestringø
-õ
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs (
-%7string"7Aksaty.Domain.Customer.Events.CustomerEvent.Mobile2.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-mobile2stringø
-õ
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs (
-%8string"7Aksaty.Domain.Customer.Events.CustomerEvent.Address.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-addressstringò
-ï
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs (
-%9string"4Aksaty.Domain.Customer.Events.CustomerEvent.Type.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-typestring…
-‚
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs ()
-%10string"=Aksaty.Domain.Customer.Events.CustomerEvent.AddRecription.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-addRecriptionstringö
-ó
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs ()
-%11bool"@Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.ShowOnWebsite.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-""ÿ
-ü
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs (#
-%12string":Aksaty.Domain.Customer.Events.CustomerEvent.NationalId.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-
-nationalIdstringõ
-ò
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs   (
-%13string"5Aksaty.Domain.Customer.Events.CustomerEvent.RefId.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-refIdstringõ
-ò
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs! !(
-%14string"5Aksaty.Domain.Customer.Events.CustomerEvent.Notes.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-notesstring÷
-ô
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs" "(
-%15string"6Aksaty.Domain.Customer.Events.CustomerEvent.Review.set*/-
-+Aksaty.Domain.Customer.Events.CustomerEvent*
-
-reviewstringð
-í
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs# #(
-%16bool":Aksaty.Infra.CrossCutting.Util.BaseEntityEvent.Deleted.set*20
-.Aksaty.Infra.CrossCutting.Util.BaseEntityEvent*
-""*
-2*ê
-2f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs$	 $(	"}
-f
-\D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Domain\Events\CustomerUpdatedEvent.cs$ $(	
-implicit return:
-idSystem.Guid:
-imageIdSystem.Nullable<T>:
-namestring:
-emailstring:
-	birthDateSystem.DateTime:
-mobilestring:
-mobile2string:
-addressstring:
-typestring:
-addRecriptionstring:
-showOnWebsitebool:
-
-nationalIdstring:
-refIdstring:
-notesstring:
-reviewstring:
-deletedboolB-+
-)Aksaty.Domain.Events.CustomerUpdatedEvent

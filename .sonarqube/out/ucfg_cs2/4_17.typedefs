@@ -1,11 +1,0 @@
-“
-'Aksaty.Domain.Models.CustomerAttachmentNetDevPack.Domain.Entityobject NetDevPack.Domain.IAggregateRootT
-CustomerAttachment()<Aksaty.Domain.Models.CustomerAttachment.CustomerAttachment()L
-AttachmentId.get8Aksaty.Domain.Models.CustomerAttachment.AttachmentId.getL
-AttachmentId.set8Aksaty.Domain.Models.CustomerAttachment.AttachmentId.setH
-Attachment.get6Aksaty.Domain.Models.CustomerAttachment.Attachment.getH
-Attachment.set6Aksaty.Domain.Models.CustomerAttachment.Attachment.setH
-CustomerId.get6Aksaty.Domain.Models.CustomerAttachment.CustomerId.getH
-CustomerId.set6Aksaty.Domain.Models.CustomerAttachment.CustomerId.setD
-Customer.get4Aksaty.Domain.Models.CustomerAttachment.Customer.getD
-Customer.set4Aksaty.Domain.Models.CustomerAttachment.Customer.set

@@ -1,9 +1,0 @@
-¾
-7Aksaty.Domain.Customer.Events.CustomerSalesUpdatedEventNetDevPack.Messaging.EventNetDevPack.Messaging.Messageobject¼
-@CustomerSalesUpdatedEvent(System.Guid, decimal, System.DateTime)xAksaty.Domain.Customer.Events.CustomerSalesUpdatedEvent.CustomerSalesUpdatedEvent(System.Guid, decimal, System.DateTime)H
-Id.get>Aksaty.Domain.Customer.Events.CustomerSalesUpdatedEvent.Id.getH
-Id.set>Aksaty.Domain.Customer.Events.CustomerSalesUpdatedEvent.Id.setR
-Balance.getCAksaty.Domain.Customer.Events.CustomerSalesUpdatedEvent.Balance.getR
-Balance.setCAksaty.Domain.Customer.Events.CustomerSalesUpdatedEvent.Balance.setb
-NextInstallDate.getKAksaty.Domain.Customer.Events.CustomerSalesUpdatedEvent.NextInstallDate.getb
-NextInstallDate.setKAksaty.Domain.Customer.Events.CustomerSalesUpdatedEvent.NextInstallDate.set

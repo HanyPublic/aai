@@ -1,138 +1,0 @@
-
-]Aksaty.Api.Controllers.SaleController.CreateSale(Aksaty.Application.ViewModels.SaleViewModel)k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs:) :(3"5*ê
-0k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs< >(&„
-‡
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs<( <(3
-%0string"8Aksaty.Services.Api.Controllers.ApiController.UserId.get*)'
-%Aksaty.Api.Controllers.SaleControllerë
-é
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs< <(3
-%1string"AAksaty.Application.ViewModels.BaseEntityViewModel.CreatedById.set*>
-<
-SaleViewModel+Aksaty.Application.ViewModels.SaleViewModel*
-
-%0stringÂ
-‚
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs=% =(2
-%2string":Aksaty.Services.Api.Controllers.ApiController.TanentId.get*)'
-%Aksaty.Api.Controllers.SaleControlleré
-ã
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs= =(2
-%3string">Aksaty.Application.ViewModels.BaseEntityViewModel.TanentId.set*>
-<
-SaleViewModel+Aksaty.Application.ViewModels.SaleViewModel*
-
-%2stringó
-î
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs> >(@
-%4:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary"6Microsoft.AspNetCore.Mvc.ControllerBase.ModelState.get*+)
-'Microsoft.AspNetCore.Mvc.ControllerBaseà
-Ö
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs> >(&
-
-%5bool"FMicrosoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary.IsValid.get*B
-@
-%4:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary*
-1
-2*Õ	
-1k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs>) >(Bó
-î
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs>8 >(B@
-%9:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary"6Microsoft.AspNetCore.Mvc.ControllerBase.ModelState.get*+)
-'Microsoft.AspNetCore.Mvc.ControllerBaseè
-å
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs>) >(C,
-%10%Microsoft.AspNetCore.Mvc.ActionResult"xAksaty.Services.Api.Controllers.ApiController.CustomResponse(Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary)*1/
--Aksaty.Services.Api.Controllers.ApiController*B
-@
-%9:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary”
-–
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs>) >(C+
-%7%Microsoft.AspNetCore.Mvc.ActionResult"__id*.
-,
-%10%Microsoft.AspNetCore.Mvc.ActionResult”
-–
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs>) >(C,
-%6&Microsoft.AspNetCore.Mvc.IActionResult"__id*-
-+
-%7%Microsoft.AspNetCore.Mvc.ActionResult*
-3*∏
-2k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs>F >(õ
-ò
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs>[ >(j4
-%11-Aksaty.Application.Interfaces.ISaleAppService"__id*m*k'
-%Aksaty.Api.Controllers.SaleController"@
-_saleAppService-Aksaty.Application.Interfaces.ISaleAppServiceÆ´
-l
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs>[ >(Ä+
-%12$System.Threading.Tasks.Task<TResult>"aAksaty.Application.Interfaces.ISaleAppService.Create(Aksaty.Application.ViewModels.SaleViewModel)*6
-4
-%11-Aksaty.Application.Interfaces.ISaleAppService*>
-<
-SaleViewModel+Aksaty.Application.ViewModels.SaleViewModel23Create(Aksaty.Application.ViewModels.SaleViewModel)√
-¿
-l
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs>F >(Å,
-%13%Microsoft.AspNetCore.Mvc.ActionResult"gAksaty.Services.Api.Controllers.ApiController.CustomResponse(FluentValidation.Results.ValidationResult)*1/
--Aksaty.Services.Api.Controllers.ApiController*
-""‘
-—
-l
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs>F >(Å+
-%8%Microsoft.AspNetCore.Mvc.ActionResult"__id*.
-,
-%13%Microsoft.AspNetCore.Mvc.ActionResult‘
-—
-l
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs>F >(Å,
-%6&Microsoft.AspNetCore.Mvc.IActionResult"__id*-
-+
-%8%Microsoft.AspNetCore.Mvc.ActionResult*
-3*ë
-3k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs?	 ?(	"û
-l
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs> >(Ç.
-,
-%6&Microsoft.AspNetCore.Mvc.IActionResult*ı
-4k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs?	 ?(	"Ç
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs? ?(	
-implicit return*Ù
-5k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs:[ :([ˆ
-Û
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs:) :(3v
-<
-SaleViewModel+Aksaty.Application.ViewModels.SaleViewModel"6
-SaleInstallments"System.Collections.Generic.List<T>"__entrypoint˚
-¯
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs:) :(3{
-<
-SaleViewModel+Aksaty.Application.ViewModels.SaleViewModel";
-Customer/Aksaty.Application.ViewModels.CustomerViewModel"__entrypointÖ
-Ç
-k
-aD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Services.Api\Controllers\SaleController.cs:) :(3
-%14"__entrypoint*
-0:<
-SaleViewModel+Aksaty.Application.ViewModels.SaleViewModelB)'
-%Aksaty.Api.Controllers.SaleController

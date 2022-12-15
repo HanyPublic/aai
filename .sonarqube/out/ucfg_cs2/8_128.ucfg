@@ -1,69 +1,0 @@
-
-hAksaty.Infra.Data.Migrations.nvaarchar_3.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)t
-jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210816120747_nvaarchar_3.cs  ($"0*©
-0t
-jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210816120747_nvaarchar_3.cs 0(!ÒÏ
-t
-jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210816120747_nvaarchar_3.cs &("d
-%0^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"ýMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-Name*
-	Customers*
-varchar(100)*
-""*2d*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(200)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2ÃAlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)ÓÐ
-t
-jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210816120747_nvaarchar_3.cs( 0("d
-%1^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"ýMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*	
-Email*
-	Customers*
-varchar(100)*
-""*2d*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-nvarchar(300)*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""*
-""2ÃAlterColumn<T>(string, string, string, bool?, int?, bool, string, bool, object, string, string, System.Type, string, bool?, int?, bool, bool, object, string, string, bool?, bool?, string, string)*
-1*‡
-1t
-jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210816120747_nvaarchar_3.cs1	 1(	"‹
-t
-jD:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Infra.Data\Migrations\20210816120747_nvaarchar_3.cs1 1(	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB,*
-(Aksaty.Infra.Data.Migrations.nvaarchar_3

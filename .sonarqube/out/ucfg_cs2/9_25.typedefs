@@ -1,9 +1,0 @@
-Î
-*Aksaty.Application.Services.SaleAppServiceobject-Aksaty.Application.Interfaces.ISaleAppServiceí
-ÞSaleAppService(AutoMapper.IMapper, NetDevPack.Mediator.IMediatorHandler, MediatR.IMediator, Aksaty.Domain.Interfaces.ISaleRepository, Aksaty.Domain.Interfaces.IProductRepository, Aksaty.Domain.Interfaces.ITanentRepository)‰Aksaty.Application.Services.SaleAppService.SaleAppService(AutoMapper.IMapper, NetDevPack.Mediator.IMediatorHandler, MediatR.IMediator, Aksaty.Domain.Interfaces.ISaleRepository, Aksaty.Domain.Interfaces.IProductRepository, Aksaty.Domain.Interfaces.ITanentRepository)•
-3Create(Aksaty.Application.ViewModels.SaleViewModel)^Aksaty.Application.Services.SaleAppService.Create(Aksaty.Application.ViewModels.SaleViewModel)«
->CreateMockSale(Aksaty.Application.ViewModels.AddSaleViewModel)iAksaty.Application.Services.SaleAppService.CreateMockSale(Aksaty.Application.ViewModels.AddSaleViewModel)£
-:GetAll(Aksaty.Application.ViewModels.GetAllSalesViewModel)eAksaty.Application.Services.SaleAppService.GetAll(Aksaty.Application.ViewModels.GetAllSalesViewModel)
-7GetById(Aksaty.Application.ViewModels.GetSaleViewModel)bAksaty.Application.Services.SaleAppService.GetById(Aksaty.Application.ViewModels.GetSaleViewModel)U
-Remove(System.Guid)>Aksaty.Application.Services.SaleAppService.Remove(System.Guid)•
-3Update(Aksaty.Application.ViewModels.SaleViewModel)^Aksaty.Application.Services.SaleAppService.Update(Aksaty.Application.ViewModels.SaleViewModel)

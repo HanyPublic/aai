@@ -1,5 +1,0 @@
-×
-)Aksaty.Domain.Events.CustomerRemovedEventNetDevPack.Messaging.EventNetDevPack.Messaging.Messageobjectp
-!CustomerRemovedEvent(System.Guid)KAksaty.Domain.Events.CustomerRemovedEvent.CustomerRemovedEvent(System.Guid):
-Id.get0Aksaty.Domain.Events.CustomerRemovedEvent.Id.get:
-Id.set0Aksaty.Domain.Events.CustomerRemovedEvent.Id.set

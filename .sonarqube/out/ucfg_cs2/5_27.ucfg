@@ -1,134 +1,0 @@
-
-≤Aksaty.Domain.Commands.AddUpdateTanentCommand.AddUpdateTanentCommand(string, string, string, string, string, string, string, int, decimal, string, string, string, string, string)o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (%"1*È
-1o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs	 (	n
-l
-
-%0void"4Aksaty.Domain.Commands.TanentCommand.TanentCommand()*(&
-$Aksaty.Domain.Commands.TanentCommand*
-0*‡
-0o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs
- (-Û
-
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs
- 
-(
-%1string"0Aksaty.Domain.Commands.TanentCommand.ImageId.set*(&
-$Aksaty.Domain.Commands.TanentCommand*
-
-imageIdstringÒ
-Ó
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (
-%2string"/Aksaty.Domain.Commands.TanentCommand.UserId.set*(&
-$Aksaty.Domain.Commands.TanentCommand*
-
-userIdstringÌ
-Í
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (
-%3string"-Aksaty.Domain.Commands.TanentCommand.Name.set*(&
-$Aksaty.Domain.Commands.TanentCommand*
-
-namestringÔ
-Ï
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (
-%4string".Aksaty.Domain.Commands.TanentCommand.Email.set*(&
-$Aksaty.Domain.Commands.TanentCommand*
-
-emailstringÒ
-Ó
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (
-%5string"/Aksaty.Domain.Commands.TanentCommand.Mobile.set*(&
-$Aksaty.Domain.Commands.TanentCommand*
-
-mobilestringÛ
-
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (
-%6string"0Aksaty.Domain.Commands.TanentCommand.Address.set*(&
-$Aksaty.Domain.Commands.TanentCommand*
-
-addressstringı
-Ú
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (
-%7string"1Aksaty.Domain.Commands.TanentCommand.Currency.set*(&
-$Aksaty.Domain.Commands.TanentCommand*
-
-currencystringÊ
-„
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (#	
-%8int"3Aksaty.Domain.Commands.TanentCommand.MonthCount.set*(&
-$Aksaty.Domain.Commands.TanentCommand*
-""Í
-Á
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (#
-%9decimal"3Aksaty.Domain.Commands.TanentCommand.Perecntage.set*(&
-$Aksaty.Domain.Commands.TanentCommand*
-""Ó
-Î
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (
-%10string"-Aksaty.Domain.Commands.TanentCommand.Logo.set*(&
-$Aksaty.Domain.Commands.TanentCommand*
-
-logostringÚ
-Ô
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (
-%11string"/Aksaty.Domain.Commands.TanentCommand.Colors.set*(&
-$Aksaty.Domain.Commands.TanentCommand*
-
-colorsstringÓ
-Î
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (
-%12string"-Aksaty.Domain.Commands.TanentCommand.Note.set*(&
-$Aksaty.Domain.Commands.TanentCommand*
-
-notestringÇ
-ˇ
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (+
-%13string"7Aksaty.Domain.Commands.TanentCommand.SignatureArray.set*(&
-$Aksaty.Domain.Commands.TanentCommand*
-
-signatureArraystringÑ
-Å
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (-
-%14string"8Aksaty.Domain.Commands.TanentCommand.StampAttachment.set*(&
-$Aksaty.Domain.Commands.TanentCommand*
-
-stampAttachmentstring*
-2*˝
-2o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs	 (	"Ü
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Settings\Commands\AddUpdateTanentCommand.cs (	
-implicit return:
-userIdstring:
-imageIdstring:
-namestring:
-emailstring:
-mobilestring:
-addressstring:
-currencystring:
-
-monthCountint:
-
-perecntagedecimal:
-logostring:
-colorsstring:
-notestring:
-signatureArraystring:
-stampAttachmentstringB1/
--Aksaty.Domain.Commands.AddUpdateTanentCommand

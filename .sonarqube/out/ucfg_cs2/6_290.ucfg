@@ -1,30 +1,0 @@
-
-AAksaty.Domain.Models.Sale.CalculateInstallmentValue(decimal, int)]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csS S(3"0*±
-0]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csU U(H¨
-¥
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csU$ U(I
-%0decimal"System.Math.Ceiling(decimal)*"
-System.Math*
-""³
-°
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csU U(K	
-%1int"System.Convert.ToInt32(decimal)*"
-System.Convert*
-
-%0decimal"l
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csU U(L
-	
-%1int*Ø
-1]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csV	 V(	"t
-]
-SD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Models\Sale\Sale.csV V(	
-implicit return:
-	remainingdecimal:
-monthNumberintB"
-Aksaty.Domain.Models.Sale

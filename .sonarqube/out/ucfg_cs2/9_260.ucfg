@@ -1,39 +1,0 @@
-
-ŠAksaty.Application.Services.TanentAppService.TanentAppService(NetDevPack.Mediator.IMediatorHandler, MediatR.IMediator, AutoMapper.IMapper)i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs ("1*s
-1i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs!	 !(	*
-0*ã
-0i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs  (›
-˜
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs (.j.
-,Aksaty.Application.Services.TanentAppService"8
-_mediatorHandler$NetDevPack.Mediator.IMediatorHandler"__id*9
-7
-mediatorHandler$NetDevPack.Mediator.IMediatorHandlerç
-ä
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs ( P.
-,Aksaty.Application.Services.TanentAppService"
-	_mediatorMediatR.IMediator"__id*
-
-mediatorMediatR.IMediatorå
-â
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs   (O.
-,Aksaty.Application.Services.TanentAppService"
-_mapperAutoMapper.IMapper"__id*
-
-mapperAutoMapper.IMapper*
-2*ñ
-2i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs!	 !(	"€
-i
-_D:\Projects\aksaty-api-main\aksaty-api-main\src\Aksaty.Application\Services\TanentAppService.cs! !(	
-implicit return:7
-mediatorHandler$NetDevPack.Mediator.IMediatorHandler:
-mediatorMediatR.IMediator:
-mapperAutoMapper.IMapperB0.
-,Aksaty.Application.Services.TanentAppService

@@ -1,51 +1,0 @@
-
-2Aksaty.Domain.Commands.RemoveSaleCommand.IsValid()l
-bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\RemoveSaleCommand.cs ($"0*û
-0l
-bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\RemoveSaleCommand.cs (+÷ô
-l
-bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\RemoveSaleCommand.cs (@D
-%0>Aksaty.Domain.Commands.Validations.RemoveSaleCommandValidation">Aksaty.Domain.Commands.Validations.RemoveSaleCommandValidation£
- 
-l
-bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\RemoveSaleCommand.cs# (>
-
-%1void"\Aksaty.Domain.Commands.Validations.RemoveSaleCommandValidation.RemoveSaleCommandValidation()*F
-D
-%0>Aksaty.Domain.Commands.Validations.RemoveSaleCommandValidationË
-È
-l
-bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\RemoveSaleCommand.cs (O/
-%2)FluentValidation.Results.ValidationResult"1FluentValidation.AbstractValidator<T>.Validate(T)*F
-D
-%0>Aksaty.Domain.Commands.Validations.RemoveSaleCommandValidation*,*
-(Aksaty.Domain.Commands.RemoveSaleCommandª
-§
-l
-bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\RemoveSaleCommand.cs (O/
-%3)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.set* 
-NetDevPack.Messaging.Command*1
-/
-%2)FluentValidation.Results.ValidationResult÷
-ô
-l
-bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\RemoveSaleCommand.cs (#/
-%4)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.get* 
-NetDevPack.Messaging.Commandôñ
-l
-bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\RemoveSaleCommand.cs (+
-
-%5bool"5FluentValidation.Results.ValidationResult.IsValid.get*1
-/
-%4)FluentValidation.Results.ValidationResult2IsValid.get"|
-l
-bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\RemoveSaleCommand.cs (,
-
-
-%5bool*÷
-1l
-bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\RemoveSaleCommand.cs	 (	"ƒ
-l
-bD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\RemoveSaleCommand.cs (	
-implicit returnB,*
-(Aksaty.Domain.Commands.RemoveSaleCommand

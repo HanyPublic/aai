@@ -1,51 +1,0 @@
-
-5Aksaty.Domain.Commands.CreateNewSaleCommand.IsValid()o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\CreateNewSaleCommand.cs# #( "0*¨
-0o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\CreateNewSaleCommand.cs% &('€ý
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\CreateNewSaleCommand.cs% %(?G
-%0AAksaty.Domain.Commands.Validations.CreateNewSaleCommandValidation"AAksaty.Domain.Commands.Validations.CreateNewSaleCommandValidation¯
-¬
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\CreateNewSaleCommand.cs% %(=
-
-%1void"bAksaty.Domain.Commands.Validations.CreateNewSaleCommandValidation.CreateNewSaleCommandValidation()*I
-G
-%0AAksaty.Domain.Commands.Validations.CreateNewSaleCommandValidationÔ
-Ñ
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\CreateNewSaleCommand.cs% %(N/
-%2)FluentValidation.Results.ValidationResult"1FluentValidation.AbstractValidator<T>.Validate(T)*I
-G
-%0AAksaty.Domain.Commands.Validations.CreateNewSaleCommandValidation*/-
-+Aksaty.Domain.Commands.CreateNewSaleCommand­
-ª
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\CreateNewSaleCommand.cs% %(N/
-%3)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.set* 
-NetDevPack.Messaging.Command*1
-/
-%2)FluentValidation.Results.ValidationResultú
-÷
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\CreateNewSaleCommand.cs& &(/
-%4)FluentValidation.Results.ValidationResult"1NetDevPack.Messaging.Command.ValidationResult.get* 
-NetDevPack.Messaging.Command÷ô
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\CreateNewSaleCommand.cs& &('
-
-%5bool"5FluentValidation.Results.ValidationResult.IsValid.get*1
-/
-%4)FluentValidation.Results.ValidationResult2IsValid.get"
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\CreateNewSaleCommand.cs& &((
-
-
-%5bool*ý
-1o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\CreateNewSaleCommand.cs' '("†
-o
-eD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Domain.Sales\Commands\Sale\CreateNewSaleCommand.cs' '(
-implicit returnB/-
-+Aksaty.Domain.Commands.CreateNewSaleCommand

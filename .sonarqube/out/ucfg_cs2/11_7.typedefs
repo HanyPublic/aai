@@ -1,8 +1,0 @@
-¿
-0Aksaty.Api.Controllers.SaleInstallmentController-Aksaty.Services.Api.Controllers.ApiController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectÜ
-SSaleInstallmentController(Aksaty.Application.Interfaces.ISaleInstallmentAppService)„Aksaty.Api.Controllers.SaleInstallmentController.SaleInstallmentController(Aksaty.Application.Interfaces.ISaleInstallmentAppService)·
-AGet(Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel)rAksaty.Api.Controllers.SaleInstallmentController.Get(Aksaty.Application.ViewModels.GetAllSaleInstallmentViewModel)±
->Get(Aksaty.Application.ViewModels.GetSaleInstallmentViewModel)oAksaty.Api.Controllers.SaleInstallmentController.Get(Aksaty.Application.ViewModels.GetSaleInstallmentViewModel)S
-GetStatusEnum()@Aksaty.Api.Controllers.SaleInstallmentController.GetStatusEnum()«
-;Put(Aksaty.Application.ViewModels.SaleInstallmentViewModel)lAksaty.Api.Controllers.SaleInstallmentController.Put(Aksaty.Application.ViewModels.SaleInstallmentViewModel)[
-Delete(System.Guid)DAksaty.Api.Controllers.SaleInstallmentController.Delete(System.Guid)

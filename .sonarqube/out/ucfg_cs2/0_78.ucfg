@@ -1,24 +1,0 @@
-
-qAksaty.Infra.CrossCutting.Util.ResponseHeaders.AddPagination(Microsoft.AspNetCore.Http.IHeaderDictionary, string)r
-hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Extensions\ResponseHeaders.cs (("0*ý
-0r
-hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Extensions\ResponseHeaders.cs (-þ
-û
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Extensions\ResponseHeaders.cs (.
-
-%0void"__mapSet_IHeaderDictionary*8
-6
-headers+Microsoft.AspNetCore.Http.IHeaderDictionary*
-X-Pagination*
-
-valuestring*
-1*ƒ
-1r
-hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Extensions\ResponseHeaders.cs	 (	"‰
-r
-hD:\Projects\aksaty-api-main\aksaty-api-main\Aksaty.Infra.CrossCutting.Util\Extensions\ResponseHeaders.cs (	
-implicit return:6
-headers+Microsoft.AspNetCore.Http.IHeaderDictionary:
-valuestringB2"0
-.Aksaty.Infra.CrossCutting.Util.ResponseHeaders

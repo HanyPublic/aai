@@ -1,7 +1,0 @@
-Ê
-,Aksaty.Application.Services.TanentAppServiceobject/Aksaty.Application.Interfaces.ITanentAppServiceì
-]TanentAppService(NetDevPack.Mediator.IMediatorHandler, MediatR.IMediator, AutoMapper.IMapper)ŠAksaty.Application.Services.TanentAppService.TanentAppService(NetDevPack.Mediator.IMediatorHandler, MediatR.IMediator, AutoMapper.IMapper)©
-<GetAll(Aksaty.Application.ViewModels.GetAllTanentsViewModel)iAksaty.Application.Services.TanentAppService.GetAll(Aksaty.Application.ViewModels.GetAllTanentsViewModel)W
-GetByUserId(string)@Aksaty.Application.Services.TanentAppService.GetByUserId(string)§
-;AddUpdate(Aksaty.Application.ViewModels.AddTanentViewModel)hAksaty.Application.Services.TanentAppService.AddUpdate(Aksaty.Application.ViewModels.AddTanentViewModel)C
-	Dispose()6Aksaty.Application.Services.TanentAppService.Dispose()
